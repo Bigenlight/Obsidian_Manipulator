@@ -1,5 +1,5 @@
 ## 윈도우에서도 시작하자마자 pull하기
-메조장에서
+메모장에서
 @echo off
 cd C:\MSI\Obsidian\Manipulator\
 git pull origin main
@@ -9,7 +9,9 @@ git pull origin main
 
 ![[update_git.bat]]
 
-shell:startup에 들가서 이 파일을 넣으면 된다.
+Win + R
+shell:startup에 들어가서 이 파일을 넣으면 된다.
+![[Pasted image 20240704053433.png]]
 
 ## 이거는 윈도우에서 자동으로 푸쉬 해주는 코드
 cd C:\MSI\Obsidian\Manipulator\
