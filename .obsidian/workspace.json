@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Daily notes template.md",
+                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Daily notes template.md",
+                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Daily notes template.md",
+                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Daily notes template.md"
+                "file": "Daily Notes/2024-07-03 옵시디언 환경.md"
               }
             }
           }
@@ -278,6 +278,8 @@
   },
   "active": "072f3db5bf679dce",
   "lastOpenFiles": [
+    "개인공부/우분투 지식.md",
+    "Template/Daily notes template.md",
     "Template/attachments/Git_pull_window.bat",
     "Template/attachments/Obsidian_push_window 1.bat",
     "Template/attachments/Obsidian_push_window.bat",
@@ -292,13 +294,10 @@
     "옵시디언공부/옵시디언 공부.md",
     "개인공부/attachments/Pasted image 20240703214926.png",
     "개인공부/attachments",
-    "개인공부/우분투 지식.md",
     "개인공부",
     "Daily Notes/예시 캠퍼스.canvas",
     "ROKEY bootcamp/교육 및 학사 관리.md",
     "ROKEY bootcamp/리눅스 환경.md",
-    "Template/Daily notes template.md",
-    "ROKEY bootcamp",
     "Daily Notes/2024-07-02.md",
     "옵시디언공부/마크다운.md",
     "옵시디언공부/단축키.md",
