@@ -1,2 +1,3 @@
-﻿# Opsidian_Manipulator
+# Opsidian_Manipulator
 My obsidian backup.
+add
