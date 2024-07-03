@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "Template/Daily notes template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "Template/Daily notes template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "Template/Daily notes template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md"
+                "file": "Template/Daily notes template.md"
               }
             }
           }
@@ -278,13 +278,18 @@
   },
   "active": "072f3db5bf679dce",
   "lastOpenFiles": [
+    "Template/attachments/Git_pull_window.bat",
+    "Template/attachments/Obsidian_push_window 1.bat",
+    "Template/attachments/Obsidian_push_window.bat",
+    "Template/attachments/Git_pull.bat",
+    "Template/attachments",
+    "Daily Notes/2024-07-03 옵시디언 환경.md",
     "Daily Notes/attachments/Obsidian_push_window.bat",
     "Daily Notes/attachments/update_git.bat",
     "Daily Notes/attachments",
     "옵시디언공부/우분투 환경에서 옵시디언.md",
     "옵시디언공부/옵시디언 캔버스.canvas",
     "옵시디언공부/옵시디언 공부.md",
-    "Daily Notes/2024-07-03 옵시디언 환경.md",
     "개인공부/attachments/Pasted image 20240703214926.png",
     "개인공부/attachments",
     "개인공부/우분투 지식.md",
@@ -303,19 +308,14 @@
     "옵시디언공부/마크다운^englishmanletter^.md",
     "옵시디언공부/마크.md",
     "옵시디언공부/attachments/Pasted image 20240702174309.png",
-    "옵시디언공부/attachments",
     "옵시디언공부/attachments/Pasted image 20240701222017.png",
     "옵시디언공부/attachments/Pasted image 20240702165808.png",
     "옵시디언공부/attachments/Pasted image 20240702165851.png",
     "Pasted image 20240702174156.png",
-    "Template",
     "create a link.md",
     "Daily Notes/무제 파일 1.md",
     "Daily Notes/무제 파일.md",
-    "Daily Notes",
-    "무제 폴더",
     "Welcome.md",
-    "폴더1/옵시디언 공부.md",
-    "옵시디언공부"
+    "폴더1/옵시디언 공부.md"
   ]
 }
