@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md"
+                "file": "README.md"
               }
             }
           }
@@ -278,10 +278,10 @@
   },
   "active": "072f3db5bf679dce",
   "lastOpenFiles": [
+    "Daily Notes/2024-07-04.md",
     "Daily Notes/예시 캠퍼스.canvas",
     "ROKEY bootcamp/리눅스 환경.md",
     "Daily Notes/2024-07-03 옵시디언 환경.md",
-    "Daily Notes/2024-07-04.md",
     "README.md",
     "Daily Notes/attachments/Pasted image 20240704010527.png",
     "Template/Daily notes template.md",
