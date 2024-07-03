@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "Template/Daily notes template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "Template/Daily notes template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md",
+                "file": "Template/Daily notes template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-03 옵시디언 환경.md"
+                "file": "Template/Daily notes template.md"
               }
             }
           }
@@ -278,6 +278,7 @@
   },
   "active": "072f3db5bf679dce",
   "lastOpenFiles": [
+    "Daily Notes/2024-07-03 옵시디언 환경.md",
     "개인공부/우분투 지식.md",
     "Template/Daily notes template.md",
     "Template/attachments/Git_pull_window.bat",
@@ -285,7 +286,6 @@
     "Template/attachments/Obsidian_push_window.bat",
     "Template/attachments/Git_pull.bat",
     "Template/attachments",
-    "Daily Notes/2024-07-03 옵시디언 환경.md",
     "Daily Notes/attachments/Obsidian_push_window.bat",
     "Daily Notes/attachments/update_git.bat",
     "Daily Notes/attachments",
