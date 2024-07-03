@@ -276,8 +276,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a40a8a7d2f361178",
+  "active": "072f3db5bf679dce",
   "lastOpenFiles": [
+    "Daily Notes/attachments/Obsidian_push_window.bat",
     "Daily Notes/attachments/update_git.bat",
     "Daily Notes/attachments",
     "옵시디언공부/우분투 환경에서 옵시디언.md",
@@ -315,7 +316,6 @@
     "무제 폴더",
     "Welcome.md",
     "폴더1/옵시디언 공부.md",
-    "옵시디언공부",
-    "폴더1"
+    "옵시디언공부"
   ]
 }
