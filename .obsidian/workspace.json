@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "61c513335d5068d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e99647f482e59dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cdf3dde9697ef25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/옵시디언 공부.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5a3d465a753c107",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "옵시디언공부/옵시디언 캔버스.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "59b404e446ae35e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/단축키.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29c40794f3271e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/단축키.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a92730f0eb2dbd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Daily notes template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30243b72d8126f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/리눅스 환경.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9035138fdd1cded4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "옵시디언공부/옵시디언 캔버스.canvas",
+                "viewState": {
+                  "x": -340,
+                  "y": 255.5,
+                  "zoom": -0.1146394153981981
+                }
+              }
+            }
+          },
+          {
+            "id": "84bb2256e19d66bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/환경 설정.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e36d275d047fc66",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d00c201ff09ea48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b985f6053575557",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab8787976ee4b902",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c7141aa65a452a50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8240560ff4819332",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#2024년",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "96e7323af4b030eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "423371373750ed29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7943f96d9b43c630",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "옵시디언공부/옵시디언 캔버스.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfc124cd57a028a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "옵시디언공부/옵시디언 캔버스.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a40a8a7d2f361178",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "옵시디언공부/옵시디언 캔버스.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "11319723fbc18574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fcaefa7a3dc94cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9035138fdd1cded4",
+  "lastOpenFiles": [
+    "Daily Notes/예시 캠퍼스.canvas",
+    "Daily Notes/2024-07-03.md",
+    "ROKEY bootcamp/교육 및 학사 관리.md",
+    "ROKEY bootcamp/리눅스 환경.md",
+    "Template/Daily notes template.md",
+    "ROKEY bootcamp",
+    "옵시디언공부/옵시디언 공부.md",
+    "Daily Notes/2024-07-02.md",
+    "옵시디언공부/마크다운.md",
+    "옵시디언공부/단축키.md",
+    "옵시디언공부/옵시디언 캔버스.canvas",
+    "옵시디언공부/환경 설정.md",
+    "Daily Notes/2024-07-01.md",
+    "옵시디언공부/프론트메타.md",
+    "옵시디언공부/마크다운^englishmanletter^.md",
+    "옵시디언공부/마크.md",
+    "옵시디언공부/attachments/Pasted image 20240702174309.png",
+    "옵시디언공부/attachments",
+    "옵시디언공부/attachments/Pasted image 20240701222017.png",
+    "옵시디언공부/attachments/Pasted image 20240702165808.png",
+    "옵시디언공부/attachments/Pasted image 20240702165851.png",
+    "Pasted image 20240702174156.png",
+    "Template",
+    "create a link.md",
+    "Daily Notes/무제 파일 1.md",
+    "Daily Notes/무제 파일.md",
+    "Daily Notes",
+    "무제 폴더",
+    "Welcome.md",
+    "폴더1/옵시디언 공부.md",
+    "옵시디언공부",
+    "폴더1",
+    "새 폴더"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"035690208dce81e7","type":"file","file":"옵시디언공부/단축키.md","x":-120,"y":-214,"width":400,"height":432},
+		{"id":"cc696169c2152173","type":"file","file":"옵시디언공부/환경 설정.md","x":-486,"y":325,"width":400,"height":400},
+		{"id":"0f8822e9d89862b2","type":"file","file":"옵시디언공부/옵시디언 공부.md","x":-600,"y":-214,"width":400,"height":400},
+		{"id":"d642ffdbcde8b5a5","x":-960,"y":260,"width":400,"height":400,"type":"file","file":"옵시디언공부/마크다운.md"}
+	],
+	"edges":[]
+}
