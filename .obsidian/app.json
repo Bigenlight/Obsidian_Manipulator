@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "newFileLocation": "current",
   "attachmentFolderPath": ".//attachments",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true
 }
