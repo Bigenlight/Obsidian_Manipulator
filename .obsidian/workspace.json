@@ -91,14 +91,6 @@
             "id": "9035138fdd1cded4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "306969047516b29b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily Notes/2024-07-04.md",
@@ -148,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -287,20 +279,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "306969047516b29b",
+  "active": "9035138fdd1cded4",
   "lastOpenFiles": [
     "ROKEY bootcamp/교육 및 학사 관리.md",
     "ROKEY bootcamp/리눅스 환경.md",
+    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+    "옵시디언공부/Window에서 옵시디언 설정.md",
+    "Daily Notes/2024-07-04.md",
     "옵시디언공부/옵시디언 캔버스.canvas",
     "옵시디언공부/단축키.md",
     "옵시디언공부/마크다운.md",
     "옵시디언공부/환경 설정.md",
     "옵시디언공부/프론트메타.md",
     "옵시디언공부/옵시디언 공부.md",
-    "Daily Notes/2024-07-04.md",
-    "옵시디언공부/Window에서 옵시디언 설정.md",
     "옵시디언공부/attachments/Pasted image 20240704053433.png",
-    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
     "Daily Notes/2024-07-03.md",
     "옵시디언공부/옵시디언 환경 조성.md",
     "Daily Notes/2024-07-02.md",
