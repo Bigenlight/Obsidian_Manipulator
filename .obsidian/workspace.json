@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-04.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-04.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-04.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-04.md"
+                "file": "README.md"
               }
             }
           }
@@ -289,13 +289,13 @@
   },
   "active": "306969047516b29b",
   "lastOpenFiles": [
+    "Daily Notes/2024-07-04.md",
     "옵시디언공부/프론트메타.md",
     "옵시디언공부/옵시디언 공부.md",
     "옵시디언공부/환경 설정.md",
     "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
     "옵시디언공부/Window에서 옵시디언 설정.md",
     "Daily Notes/2024-07-03.md",
-    "Daily Notes/2024-07-04.md",
     "옵시디언공부/옵시디언 환경 조성.md",
     "옵시디언공부/옵시디언 캔버스.canvas",
     "Daily Notes/2024-07-02.md",
