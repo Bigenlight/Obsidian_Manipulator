@@ -99,24 +99,35 @@
             "id": "306969047516b29b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "옵시디언공부/옵시디언 캔버스.canvas",
-                "viewState": {
-                  "x": -340,
-                  "y": 255.5,
-                  "zoom": 0
-                }
+                "file": "Daily Notes/2024-07-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "072f3db5bf679dce",
+            "id": "707a449a85ecb7d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Daily notes template.md",
+                "file": "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fff57072257c4ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-07-03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -180,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024년",
+                "query": "tag:#태그1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Daily notes template.md",
+                "file": "Daily Notes/2024-07-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Daily notes template.md",
+                "file": "Daily Notes/2024-07-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Daily notes template.md"
+                "file": "Daily Notes/2024-07-04.md"
               }
             }
           }
@@ -276,15 +287,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "072f3db5bf679dce",
+  "active": "306969047516b29b",
   "lastOpenFiles": [
-    "create a link.md",
-    "Daily Notes/2024-07-04.md",
-    "Daily Notes/2024-07-03 옵시디언 환경.md",
+    "옵시디언공부/프론트메타.md",
+    "옵시디언공부/옵시디언 공부.md",
+    "옵시디언공부/환경 설정.md",
+    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+    "옵시디언공부/Window에서 옵시디언 설정.md",
     "Daily Notes/2024-07-03.md",
-    "Template/Daily notes template.md",
-    "README.md",
+    "Daily Notes/2024-07-04.md",
+    "옵시디언공부/옵시디언 환경 조성.md",
+    "옵시디언공부/옵시디언 캔버스.canvas",
     "Daily Notes/2024-07-02.md",
+    "Template/Daily notes template.md",
+    "create a link.md",
+    "README.md",
     "Daily Notes/예시 캠퍼스.canvas",
     "ROKEY bootcamp/리눅스 환경.md",
     "Daily Notes/attachments/Pasted image 20240704010527.png",
@@ -297,18 +314,13 @@
     "Daily Notes/attachments/Obsidian_push_window.bat",
     "Daily Notes/attachments/update_git.bat",
     "Daily Notes/attachments",
-    "옵시디언공부/우분투 환경에서 옵시디언.md",
-    "옵시디언공부/옵시디언 캔버스.canvas",
-    "옵시디언공부/옵시디언 공부.md",
     "개인공부/attachments/Pasted image 20240703214926.png",
     "개인공부/attachments",
     "개인공부",
     "ROKEY bootcamp/교육 및 학사 관리.md",
     "옵시디언공부/마크다운.md",
     "옵시디언공부/단축키.md",
-    "옵시디언공부/환경 설정.md",
     "Daily Notes/2024-07-01.md",
-    "옵시디언공부/프론트메타.md",
     "옵시디언공부/마크다운^englishmanletter^.md",
     "옵시디언공부/마크.md",
     "옵시디언공부/attachments/Pasted image 20240702174309.png",
