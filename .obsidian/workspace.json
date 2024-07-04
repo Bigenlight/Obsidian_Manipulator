@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-04.md",
+                "file": "Daily Notes/2024-07-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-04.md",
+                "file": "Daily Notes/2024-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-04.md",
+                "file": "Daily Notes/2024-07-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-04.md"
+                "file": "Daily Notes/2024-07-05.md"
               }
             }
           }
@@ -315,28 +315,30 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
   "active": "e194dab31f4e4162",
   "lastOpenFiles": [
+    "Daily Notes/2024-07-04.md",
+    "Daily Notes/2024-07-05.md",
+    "Daily Notes/2024-07-03.md",
+    "Template/Daily notes template.md",
+    "README.md",
     "할일 모음.md",
     "옵시디언공부/Tasks 플러그인.md",
     "옵시디언공부/attachments/Pasted image 20240704234024.png",
-    "Template/Daily notes template.md",
-    "README.md",
     "Welcome.md",
     "create a link.md",
     "옵시디언공부/옵시디언 공부.md",
     "옵시디언공부/플러그인.md",
     "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
     "옵시디언공부/환경 설정.md",
-    "Daily Notes/2024-07-04.md",
     "옵시디언공부/Window에서 옵시디언 설정.md",
     "옵시디언공부/옵시디언 캔버스.canvas",
     "옵시디언공부/프론트메타.md",
     "옵시디언공부/마크다운.md",
-    "Daily Notes/2024-07-03.md",
     "ROKEY bootcamp/교육 및 학사 관리.md",
     "ROKEY bootcamp/리눅스 환경.md",
     "옵시디언공부/단축키.md",
