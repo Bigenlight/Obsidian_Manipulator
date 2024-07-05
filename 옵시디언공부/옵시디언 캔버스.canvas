@@ -3,7 +3,11 @@
 		{"id":"035690208dce81e7","type":"file","file":"옵시디언공부/단축키.md","x":-120,"y":-214,"width":400,"height":432},
 		{"id":"cc696169c2152173","type":"file","file":"옵시디언공부/환경 설정.md","x":-486,"y":325,"width":400,"height":400},
 		{"id":"0f8822e9d89862b2","type":"file","file":"옵시디언공부/옵시디언 공부.md","x":-600,"y":-214,"width":400,"height":400},
-		{"id":"d642ffdbcde8b5a5","x":-960,"y":260,"width":400,"height":400,"type":"file","file":"옵시디언공부/마크다운.md"}
+		{"id":"d642ffdbcde8b5a5","type":"file","file":"옵시디언공부/마크다운.md","x":-960,"y":260,"width":400,"height":400},
+		{"id":"d35c5a2158f7ccdb","type":"file","file":"옵시디언공부/attachments/Pasted image 20240705175433.png","x":-1100,"y":-280,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0afb8788e80fa033","fromNode":"035690208dce81e7","fromSide":"bottom","toNode":"cc696169c2152173","toSide":"top"},
+		{"id":"e7cd03b1e8066577","fromNode":"cc696169c2152173","fromSide":"top","toNode":"d642ffdbcde8b5a5","toSide":"top"}
+	]
 }
