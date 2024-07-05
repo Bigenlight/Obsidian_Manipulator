@@ -11,27 +11,34 @@
       "query": "file:옵시디언 공부",
       "color": {
         "a": 1,
-        "rgb": 10067199
+        "rgb": 14048348
       }
     },
     {
-      "query": "tag:할일",
+      "query": "file:두산 로보틱스 ROKEY",
       "color": {
         "a": 1,
-        "rgb": 10876302
+        "rgb": 22015
+      }
+    },
+    {
+      "query": "tag:#2024년  ",
+      "color": {
+        "a": 1,
+        "rgb": 8838020
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 0.648074074074074,
-  "lineSizeMultiplier": 2.46288888888889,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.07633333333333,
   "collapse-forces": false,
-  "centerStrength": 0.393333333333333,
-  "repelStrength": 3.95555555555556,
-  "linkStrength": 0.274814814814815,
-  "linkDistance": 140,
-  "scale": 2.462146594062866,
-  "close": true
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0000000147307286,
+  "close": false
 }

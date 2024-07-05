@@ -74,3 +74,5 @@ C:\MSI\Obsidian\Manipulator/옵시디언공부/Templater.md
 Templates 폴더 안에 템플릿을 만들어서 넣으면.
 이제부터 alt + e로 적용 가능.
 Templater로 특정 템플릿에 대한 단축키도 설정 가능.
+
+[[Movie_Template(test)]]

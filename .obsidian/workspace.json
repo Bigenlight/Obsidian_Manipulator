@@ -41,7 +41,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-05.md",
+                "file": "ROKEY bootcamp/정보.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91f66233b0191c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/교육 및 학사 관리.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40498a72b94053df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/옵시디언 공부.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1b8cd8cbc8185ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily notes template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-05.md",
+                "file": "Templates/Daily notes template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-05.md",
+                "file": "Templates/Daily notes template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-05.md"
+                "file": "Templates/Daily notes template.md"
               }
             }
           }
@@ -290,39 +329,40 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "59b404e446ae35e6",
+  "active": "d1b8cd8cbc8185ba",
   "lastOpenFiles": [
+    "옵시디언공부/프론트메타.md",
+    "옵시디언공부/Templater.md",
+    "Templates/Movie_Template(test).md",
+    "옵시디언공부/플러그인.md",
+    "옵시디언공부/Importer.md",
     "옵시디언공부/옵시디언 공부.md",
-    "옵시디언공부/옵시디언 캔버스.canvas",
-    "Daily Notes/2024-07-05.md",
-    "옵시디언공부/단축키.md",
+    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+    "개인공부/우분투 지식.md",
+    "ROKEY bootcamp/참고자료.md",
     "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/리눅스 환경.md",
+    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
+    "ROKEY bootcamp/교육 및 학사 관리.md",
+    "Daily Notes/2024-07-05.md",
+    "옵시디언공부/옵시디언 캔버스.canvas",
+    "옵시디언공부/단축키.md",
     "Daily Notes/2024-07-06.md",
     "할일 모음.md",
-    "Templates/Movie_Template(test).md",
     "Templates/Daily notes template.md",
     "ROKEY bootcamp/영화_인사이드아웃2.md",
-    "옵시디언공부/Templater.md",
-    "옵시디언공부/무제 파일.md",
     "옵시디언공부/Tasks 플러그인.md",
-    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
-    "ROKEY bootcamp/리눅스 환경.md",
     "옵시디언공부/마크다운.md",
-    "ROKEY bootcamp/교육 및 학사 관리.md",
     "옵시디언공부/Window에서 옵시디언 설정.md",
-    "옵시디언공부/플러그인.md",
     "README.md",
     "Daily Notes/2024-07-04.md",
     "Daily Notes/2024-07-03.md",
     "옵시디언공부/attachments/Pasted image 20240704234024.png",
     "Welcome.md",
-    "create a link.md",
-    "옵시디언공부/환경 설정.md",
-    "옵시디언공부/프론트메타.md",
     "옵시디언공부/attachments/Pasted image 20240704053433.png",
     "Daily Notes/예시 캠퍼스.canvas",
     "Daily Notes/attachments/Pasted image 20240704010527.png",
