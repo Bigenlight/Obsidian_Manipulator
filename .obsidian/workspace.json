@@ -119,6 +119,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ROKEY bootcamp/교육 및 학사 관리.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca35a0f4cda9203c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Daily Notes/2024-07-05.md",
                 "mode": "source",
                 "backlinks": true,
@@ -179,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -319,10 +332,13 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "e194dab31f4e4162",
+  "active": "ca35a0f4cda9203c",
   "lastOpenFiles": [
-    "Daily Notes/2024-07-04.md",
+    "ROKEY bootcamp/교육 및 학사 관리.md",
     "Daily Notes/2024-07-05.md",
+    "ROKEY bootcamp/리눅스 환경.md",
+    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-07-04.md",
     "Daily Notes/2024-07-03.md",
     "Template/Daily notes template.md",
     "README.md",
@@ -339,8 +355,6 @@
     "옵시디언공부/옵시디언 캔버스.canvas",
     "옵시디언공부/프론트메타.md",
     "옵시디언공부/마크다운.md",
-    "ROKEY bootcamp/교육 및 학사 관리.md",
-    "ROKEY bootcamp/리눅스 환경.md",
     "옵시디언공부/단축키.md",
     "옵시디언공부/attachments/Pasted image 20240704053433.png",
     "옵시디언공부/옵시디언 환경 조성.md",
@@ -366,7 +380,6 @@
     "옵시디언공부/attachments/Pasted image 20240701222017.png",
     "옵시디언공부/attachments/Pasted image 20240702165808.png",
     "옵시디언공부/attachments/Pasted image 20240702165851.png",
-    "Pasted image 20240702174156.png",
-    "Daily Notes/무제 파일 1.md"
+    "Pasted image 20240702174156.png"
   ]
 }
