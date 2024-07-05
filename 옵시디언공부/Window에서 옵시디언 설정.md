@@ -22,4 +22,4 @@ cd C:\MSI\Obsidian\Manipulator\
 git add . && git commit -m "window commit" && git push -u origin main
 그냥 이걸 bat 프로그램으로 작성하고 여기에 둬서 버튼처럼 쓰자.
 
-![[Obsidian_push_window.bat]]
+![[Templates/attachments/Obsidian_push_window.bat]]
