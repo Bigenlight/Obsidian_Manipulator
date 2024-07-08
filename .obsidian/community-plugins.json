@@ -2,5 +2,8 @@
   "obsidian-tasks-plugin",
   "obsidian-tomorrows-daily-note",
   "obsidian-auto-link-title",
-  "templater-obsidian"
+  "templater-obsidian",
+  "code-styler",
+  "execute-code",
+  "vscode-editor"
 ]
