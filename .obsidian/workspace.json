@@ -4,74 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e99647f482e59dc2",
+        "id": "a53b9c8d78567f70",
         "type": "tabs",
         "children": [
           {
-            "id": "59676fe0f984d070",
+            "id": "a1c7d9b2301bb08f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언공부/Window에서 옵시디언 설정.md",
+                "file": "Templates/Daily notes template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "6a078436692dcaf5"
+            }
           },
           {
-            "id": "d0fecb327e329170",
+            "id": "b6a1b9c763f00754",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-07-10(수).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
-      },
-      {
-        "id": "e4f052d4fb931fbc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "edde1e730ee97b6b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "옵시디언공부/Window에서 옵시디언 설정.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.9999999999999996,
-                  "close": false
-                }
-              }
-            },
-            "group": "6a078436692dcaf5"
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#문제1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,52 +99,24 @@
       {
         "id": "423371373750ed29",
         "type": "tabs",
+        "dimension": 25.188916876574314,
         "children": [
-          {
-            "id": "7943f96d9b43c630",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "옵시디언공부/Window에서 옵시디언 설정.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bfc124cd57a028a4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "옵시디언공부/Window에서 옵시디언 설정.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "a40a8a7d2f361178",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언공부/Window에서 옵시디언 설정.md"
+                "file": "Daily Notes/2024-07-10(수).md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "11319723fbc18574",
         "type": "tabs",
+        "dimension": 37.40554156171285,
         "children": [
           {
             "id": "8fcaefa7a3dc94cc",
@@ -190,16 +125,30 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6996a7a82da09a1e",
+        "type": "tabs",
+        "dimension": 37.40554156171285,
+        "children": [
+          {
+            "id": "82052715db986f96",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,50 +160,54 @@
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
+      "3d-graph:3D Graph": false,
+      "juggl:Juggl global graph": false,
+      "periodic-notes:Open today": false,
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "59676fe0f984d070",
+  "active": "b6a1b9c763f00754",
   "lastOpenFiles": [
-    "Daily Notes/2024-07-09.md",
-    "옵시디언공부/Window에서 옵시디언 설정.md",
-    "ROKEY bootcamp/Python 강의/Python 수업/test.py",
-    "ROKEY bootcamp/Python 강의/Python 수업/First_python_script.py",
-    "ROKEY bootcamp/Python 강의/Python 수업/2강..py",
-    "ROKEY bootcamp/Python 강의/Python 수업",
-    "옵시디언공부/환경 설정.md",
-    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
-    "ROKEY bootcamp/리눅스 환경.md",
-    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "ROKEY bootcamp/Python 강의/Python 1강.md",
-    "ROKEY bootcamp/Python 강의/Python 2강.md",
+    "Daily Notes/2024-07-09(화).md",
+    "Daily Notes/2024-07-10(수).md",
+    "Templates/Daily notes template.md",
+    "옵시디언공부/플러그인.md",
+    "옵시디언공부/옵시디언 공부.md",
+    "Daily Notes/2024-07-11(목).md",
+    "옵시디언공부/단축키.md",
+    "옵시디언공부/데일리 노트 강의.md",
+    "Daily Notes/2024-07-10.md",
+    "Daily Notes/2024-07-08.md",
+    "Daily Notes/2024-07-07.md",
+    "ROKEY bootcamp/Python_Exercise/1기_01343_최태오_파이썬_1차시_연습.pdf.md",
     "ROKEY bootcamp/Python 강의/Python 강의.md",
-    "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[1차]_[심화]_환경및기본.py",
+    "ROKEY bootcamp/Python 강의/파이썬 실습.md",
     "ROKEY bootcamp/Python_Exercise/2회차 실습.md",
-    "ROKEY bootcamp/강의자료.md",
-    "ROKEY bootcamp/Python_Exercise/2강..py",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/2강..py",
+    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/First_python_script.py",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/test.py",
+    "ROKEY bootcamp/Python 강의/Python 2강.md",
+    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+    "옵시디언공부/Tasks 플러그인.md",
     "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/강의자료.md",
+    "Daily Notes/2024-07-04.md",
+    "Daily Notes/2024-07-03.md",
+    "옵시디언공부/Window에서 옵시디언 설정.md",
+    "옵시디언공부/attachments/Force_pull.bat",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드",
+    "옵시디언공부/환경 설정.md",
+    "ROKEY bootcamp/리눅스 환경.md",
+    "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[1차]_[심화]_환경및기본.py",
+    "ROKEY bootcamp/Python_Exercise/2강..py",
     "ROKEY bootcamp/Python_Exercise/tempCodeRunnerFile.py",
     "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[1차]_[심화]_환경및기본 copy.py",
     "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[2차]_[심화]_자료형.py",
-    "ROKEY bootcamp/Python_Exercise/파이썬 프로그래밍 문제1 도전.pdf",
-    "ROKEY bootcamp/Python_Exercise/1기_01343_최태오_파이썬_1차시_연습.pdf.md",
-    "옵시디언공부/플러그인.md",
-    "Daily Notes/2024-07-08.md",
-    "옵시디언공부/마크다운.md",
-    "옵시디언공부/옵시디언 공부.md",
     "ROKEY bootcamp/attachments/attachments/Pasted image 20240708115834.png",
-    "ROKEY bootcamp/교육 및 학사 관리.md",
-    "ROKEY bootcamp/참고자료.md",
     "옵시디언공부/옵시디언 캔버스.canvas",
     "ROKEY bootcamp/attachments/Pasted image 20240708100017.png",
-    "Daily Notes/2024-07-07.md",
-    "Daily Notes/2024-07-06.md",
-    "할일 모음.md",
-    "옵시디언공부/Templater.md",
-    "Daily Notes/2024-07-03.md",
     "Daily Notes/attachments/Pasted image 20240706151920.png",
-    "Daily Notes/2024-07-05.md",
     "옵시디언공부/attachments/Pasted image 20240705175433.png",
     "옵시디언공부/attachments/Pasted image 20240704234024.png",
     "옵시디언공부/attachments/Pasted image 20240704053433.png",

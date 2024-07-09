@@ -5,5 +5,7 @@
   "templater-obsidian",
   "code-styler",
   "execute-code",
-  "vscode-editor"
+  "vscode-editor",
+  "calendar",
+  "periodic-notes"
 ]

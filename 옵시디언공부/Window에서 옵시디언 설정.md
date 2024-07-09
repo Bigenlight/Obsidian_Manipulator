@@ -21,6 +21,14 @@ shell:startup에 들어가서 이 파일을 넣으면 된다.
 cd C:\MSI\Obsidian\Manipulator\
 git add . && git commit -m "window commit" && git push -u origin main
 그냥 이걸 bat 프로그램으로 작성하고 여기에 둬서 버튼처럼 쓰자.
-
 ![[Templates/attachments/Obsidian_push_window.bat]]
+```
+cd C:\MSI\Obsidian\Manipulator\
+git add . && git commit -m "window commit" && git push -u origin main
+```
 
+### 무식한 충돌 해결 코드
+![[Force_pull.bat]]
+이 두 명령어를 적으면 현재 충돌하는 변화가 싹 사라지고 깔끔해지니 이렇게 하자.
+git fetch origin
+git reset --hard origin/main

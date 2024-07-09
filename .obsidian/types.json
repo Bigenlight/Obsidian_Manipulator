@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "watch_date": "date"
+    "watch_date": "date",
+    "important_date": "checkbox"
   }
 }
