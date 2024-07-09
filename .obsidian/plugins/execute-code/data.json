@@ -27,7 +27,7 @@
   "csArgs": "",
   "csFileExtension": "csx",
   "csInject": "",
-  "pythonPath": "C:/Users/window/AppData/Local/Programs/Python/Python312/python.exe",
+  "pythonPath": "/usr/bin/python3",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
   "pythonFileExtension": "py",

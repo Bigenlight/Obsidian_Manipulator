@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-import sys
-import io
-sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
-
-print("✳✳✳✳✳✳✳✳✳✳✳✳")
-print("✳✳✳✳✳✳✳✳✳✳✳✳")
-print("✳✳✳✳✳✳✳✳✳✳✳✳")
-print("✳✳   ✳✳✳✳   ✳✳")
-print("✳✳✳   ✳✳✳   ✳✳✳")
-print("✳✳✳✳   ✳   ✳✳✳✳")
-print("✳✳✳✳✳   ✳✳✳✳✳")
-print("✳✳✳✳✳   ✳✳✳✳✳")
-print("✳✳✳✳✳   ✳✳✳✳✳")
-print("✳✳✳✳✳✳✳✳✳✳✳✳")
-print("✳✳✳✳✳✳✳✳✳✳✳✳")
+a = "디비딥 "
+print( (a * 2 + a[2] + a +"\n"
+       + a[:2] * 2 + a[2:] + a[2] + a + "\n"
+       + a * 2 + a[2] + a + "\n" * 2) * 3 )
