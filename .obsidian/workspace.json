@@ -6,10 +6,32 @@
       {
         "id": "e99647f482e59dc2",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "59676fe0f984d070",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[1차]_[심화]_환경및기본.py"
+              }
+            }
+          },
+          {
+            "id": "c301b6fc183b50db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Python_Exercise/2회차 실습.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "589941ec3052a839",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,7 +51,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\tag:#print",
+                "query": "tag:#문제1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,29 +195,32 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "59676fe0f984d070",
+  "active": "589941ec3052a839",
   "lastOpenFiles": [
-    "Daily Notes/2024-07-08.md",
-    "Daily Notes/2024-07-09.md",
+    "ROKEY bootcamp/강의자료.md",
+    "ROKEY bootcamp/Python_Exercise/2회차 실습.md",
+    "ROKEY bootcamp/Python_Exercise/2강..py",
     "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[1차]_[심화]_환경및기본.py",
+    "ROKEY bootcamp/Python_Exercise/tempCodeRunnerFile.py",
+    "Daily Notes/2024-07-09.md",
+    "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[1차]_[심화]_환경및기본 copy.py",
+    "ROKEY bootcamp/Python 강의/Python 1강.md",
+    "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[2차]_[심화]_자료형.py",
+    "ROKEY bootcamp/Python_Exercise/파이썬 프로그래밍 문제1 도전.pdf",
     "ROKEY bootcamp/Python_Exercise/1기_01343_최태오_파이썬_1차시_연습.pdf.md",
+    "ROKEY bootcamp/Python_Exercise/test.py",
+    "ROKEY bootcamp/Python_Exercise/First_python_script.py",
+    "ROKEY bootcamp/Python 강의/Python 2강.md",
+    "ROKEY bootcamp/Python_Exercise/2r강",
+    "ROKEY bootcamp/Python 강의/Python 강의.md",
+    "ROKEY bootcamp/Python_Exercise/1주차 문제",
+    "ROKEY bootcamp/리눅스 환경.md",
+    "옵시디언공부/플러그인.md",
+    "Daily Notes/2024-07-08.md",
     "옵시디언공부/마크다운.md",
     "옵시디언공부/옵시디언 공부.md",
-    "ROKEY bootcamp/Python_Exercise/[파이썬]_[1차]_[심화]_환경및기본 copy.py",
-    "ROKEY bootcamp/Python_Exercise/[파이썬]_[1차]_[심화]_환경및기본.py",
-    "ROKEY bootcamp/Python_Exercise/[파이썬]_[1차]_[심화]_환경및기본.pdf",
-    "ROKEY bootcamp/attachments/Python-01-1.pdf",
-    "ROKEY bootcamp/Python_Exercise/test.py",
-    "ROKEY bootcamp/Python_Exercise/a.py",
-    "ROKEY bootcamp/Python_Exercise/파이썬 프로그래밍 문제1 도전.pdf",
-    "ROKEY bootcamp/Python 강의/Python 1강.md",
-    "ROKEY bootcamp/Python_Exercise/파이썬 프로그래밍 문제1 도전.pdf.zmdownload",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "ROKEY bootcamp/Python_Exercise/[파이썬]_[1차]_[심화]_환경및기본.txt",
-    "ROKEY bootcamp/Python_Exercise/[파이썬]_[2차]_[심화]_자료형.py",
-    "ROKEY bootcamp/강의자료.md",
-    "ROKEY bootcamp/Python 강의/Python 강의.md",
-    "옵시디언공부/플러그인.md",
     "ROKEY bootcamp/attachments/attachments/Pasted image 20240708115834.png",
     "ROKEY bootcamp/교육 및 학사 관리.md",
     "ROKEY bootcamp/참고자료.md",
@@ -211,10 +237,6 @@
     "옵시디언공부/attachments/Pasted image 20240705175433.png",
     "Templates/Daily notes template.md",
     "옵시디언공부/프론트메타.md",
-    "Templates/Movie_Template(test).md",
-    "옵시디언공부/Importer.md",
-    "개인공부/우분투 지식.md",
-    "ROKEY bootcamp/리눅스 환경.md",
     "옵시디언공부/attachments/Pasted image 20240704234024.png",
     "옵시디언공부/attachments/Pasted image 20240704053433.png",
     "Daily Notes/예시 캠퍼스.canvas",
