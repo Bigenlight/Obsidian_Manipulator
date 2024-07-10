@@ -1,3 +1,4 @@
-[[Python 1강]]
-[[Python 2강]]
-[[Python 3강]]
+```dataview
+list
+from "ROKEY bootcamp/Python 강의/파이썬 이론 강의"
+```

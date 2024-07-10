@@ -1,4 +1,5 @@
 ---
+title: 
 date_daily: <% tp.file.title.slice(0,10) %>
 important_date: 
 tags:
@@ -10,7 +11,7 @@ related notes:
 ---
 ##### 오늘 노트 및 할 일 
 <%* 
-let yesterday = "Daily Notes/" + tp.date.now("YYYY-MM-DD(ddd)", -1, tp.file.title, "YYYY-MM-DD(ddd)"); 
+let yesterday = "Daily Notes/" + tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD"); 
 let section = "###### 내일 노트 및 할 일"; 
 let should_include = false; 
 let sectionContent = ""; 
