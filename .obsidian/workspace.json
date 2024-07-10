@@ -8,12 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1c7d9b2301bb08f",
+            "id": "b6a1b9c763f00754",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "34cad8671d52a2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily notes template.md",
+                "file": "ROKEY bootcamp/Python_Exercise/2회차 실습.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +31,12 @@
             }
           },
           {
-            "id": "b6a1b9c763f00754",
+            "id": "58fbcd3db155d14a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-10(수).md",
+                "file": "Daily Notes/2024-07-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +109,7 @@
       {
         "id": "423371373750ed29",
         "type": "tabs",
-        "dimension": 25.188916876574314,
+        "dimension": 25.188916876574307,
         "children": [
           {
             "id": "a40a8a7d2f361178",
@@ -107,7 +117,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-10(수).md"
+                "file": "Daily Notes/2024-07-10.md"
+              }
+            }
+          },
+          {
+            "id": "990e2c555c10154a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2024-07-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d23db3451438fad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2024-07-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -116,7 +155,7 @@
       {
         "id": "11319723fbc18574",
         "type": "tabs",
-        "dimension": 37.40554156171285,
+        "dimension": 37.405541561712845,
         "children": [
           {
             "id": "8fcaefa7a3dc94cc",
@@ -134,7 +173,7 @@
       {
         "id": "6996a7a82da09a1e",
         "type": "tabs",
-        "dimension": 37.40554156171285,
+        "dimension": 37.405541561712845,
         "children": [
           {
             "id": "82052715db986f96",
@@ -148,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,14 +200,21 @@
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "3d-graph:3D Graph": false,
-      "juggl:Juggl global graph": false,
-      "periodic-notes:Open today": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "b6a1b9c763f00754",
+  "active": "58fbcd3db155d14a",
   "lastOpenFiles": [
+    "ROKEY bootcamp/강의자료.md",
+    "ROKEY bootcamp/attachments/Python-03.pdf",
+    "ROKEY bootcamp/Python_Exercise/3회차 실습.md",
+    "ROKEY bootcamp/Python_Exercise/1주차 문제 가풀이/[파이썬]_[3차]_[심화]_변수입력.py",
+    "ROKEY bootcamp/Python_Exercise/2회차 실습.md",
+    "ROKEY bootcamp/Python_Exercise/1주차 문제 가풀이/[파이썬]_[2차]_[심화]_자료형.py",
+    "ROKEY bootcamp/Python_Exercise/1기_01343_최태오_파이썬_1차시_연습.pdf.md",
+    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-07-10.md",
     "Daily Notes/2024-07-09(화).md",
     "Daily Notes/2024-07-10(수).md",
     "Templates/Daily notes template.md",
@@ -176,13 +223,10 @@
     "Daily Notes/2024-07-11(목).md",
     "옵시디언공부/단축키.md",
     "옵시디언공부/데일리 노트 강의.md",
-    "Daily Notes/2024-07-10.md",
     "Daily Notes/2024-07-08.md",
     "Daily Notes/2024-07-07.md",
-    "ROKEY bootcamp/Python_Exercise/1기_01343_최태오_파이썬_1차시_연습.pdf.md",
     "ROKEY bootcamp/Python 강의/Python 강의.md",
     "ROKEY bootcamp/Python 강의/파이썬 실습.md",
-    "ROKEY bootcamp/Python_Exercise/2회차 실습.md",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/2강..py",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/First_python_script.py",
@@ -190,20 +234,13 @@
     "ROKEY bootcamp/Python 강의/Python 2강.md",
     "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
     "옵시디언공부/Tasks 플러그인.md",
-    "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/강의자료.md",
     "Daily Notes/2024-07-04.md",
     "Daily Notes/2024-07-03.md",
     "옵시디언공부/Window에서 옵시디언 설정.md",
     "옵시디언공부/attachments/Force_pull.bat",
     "ROKEY bootcamp/Python 강의/Python 수업 코드",
-    "옵시디언공부/환경 설정.md",
-    "ROKEY bootcamp/리눅스 환경.md",
-    "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[1차]_[심화]_환경및기본.py",
+    "ROKEY bootcamp/Python_Exercise/1주차 문제 가풀이/[파이썬]_[1차]_[심화]_환경및기본.py",
     "ROKEY bootcamp/Python_Exercise/2강..py",
-    "ROKEY bootcamp/Python_Exercise/tempCodeRunnerFile.py",
-    "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[1차]_[심화]_환경및기본 copy.py",
-    "ROKEY bootcamp/Python_Exercise/1주차 문제/[파이썬]_[2차]_[심화]_자료형.py",
     "ROKEY bootcamp/attachments/attachments/Pasted image 20240708115834.png",
     "옵시디언공부/옵시디언 캔버스.canvas",
     "ROKEY bootcamp/attachments/Pasted image 20240708100017.png",
