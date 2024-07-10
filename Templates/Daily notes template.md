@@ -7,7 +7,7 @@ tags:
   - 7월
   - 할일
   - "#daily"
-related notes:
+related notes: "[[Daily Notes Dataview]]"
 ---
 ##### 오늘 노트 및 할 일 
 <%* 
