@@ -43,3 +43,6 @@ where date_daily > date(2023-06-07) 이런 식으로 일정 날짜 가져오기�
 ##### Calendar
 
 
+[[Daily Notes Dataview]]
+
+
