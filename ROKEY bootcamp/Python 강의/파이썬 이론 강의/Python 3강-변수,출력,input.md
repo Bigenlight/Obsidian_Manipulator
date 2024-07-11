@@ -1,6 +1,9 @@
 ---
+Title: Python 3강-변수,출력,input
 tags: 
-title:
+NeedCheck: 
+Review: 
+비고:
 ---
 [[Python 이론]]
 [[3회차 실습]]

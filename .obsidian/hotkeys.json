@@ -30,5 +30,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "templater-obsidian:Templates/Python 강의 템플릿.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }
