@@ -65,3 +65,12 @@ if True:
     pass
     print('good') # 여전히 출력됨
 ```
+
+#### 참고
+.upper() 함수는 소문자를 대문자로 만들어줌.
+```python
+letter = 'a'
+print(letter.upper())
+
+print(input('알파벳 입력: ').upper())
+```
