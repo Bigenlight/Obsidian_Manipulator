@@ -77,3 +77,5 @@ Templater로 특정 템플릿에 대한 단축키도 설정 가능.
 
 [[Movie_Template(test)]]
 [[Daily notes template]]
+
+![[Pasted image 20240712031258.png]]

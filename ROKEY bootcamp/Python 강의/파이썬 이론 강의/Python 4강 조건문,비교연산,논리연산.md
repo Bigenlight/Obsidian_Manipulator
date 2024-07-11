@@ -1,3 +1,10 @@
+---
+Title: Python 4강 조건문,비교연산,논리연산
+tags: 
+NeedCheck: 
+Review: 
+비고:
+---
 [[Python 이론]]
 [[4회차 실습]]
 ![[Python-04.pdf]]

@@ -4,6 +4,10 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "watch_date": "date",
-    "important_date": "checkbox"
+    "important_date": "checkbox",
+    "복습 횟수": "number",
+    "재확인 필요": "checkbox",
+    "재확인필요": "checkbox",
+    "NeedCheck": "checkbox"
   }
 }
