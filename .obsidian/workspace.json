@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-11.md",
+                "file": "Daily Notes/2024-07-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-11.md"
+                "file": "Daily Notes/2024-07-12.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-11.md",
+                "file": "Daily Notes/2024-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-11.md",
+                "file": "Daily Notes/2024-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,21 @@
   },
   "active": "bb48d7ffd3b57cf7",
   "lastOpenFiles": [
-    "옵시디언공부/Dataview.md",
+    "Capstone/무제 파일.canvas",
+    "Daily Notes/2024-07-12.md",
+    "Capstone/attachments/Pasted image 20240711141627.png",
     "ROKEY bootcamp/정보.md",
+    "Capstone/attachments/Pasted image 20240711141232.png",
+    "Capstone/attachments/Pasted image 20240711141154.png",
+    "Capstone/attachments/Pasted image 20240711140813.png",
+    "Capstone/attachments/Pasted image 20240711140754.png",
+    "Capstone/attachments/Pasted image 20240711140731.png",
+    "Capstone/attachments",
+    "attachments/Pasted image 20240711140629.png",
+    "Capstone",
+    "attachments",
+    "Daily Notes/2024-07-11.md",
+    "옵시디언공부/Dataview.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 1강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 2강.md",
     "ROKEY bootcamp/강의자료.md",
@@ -217,7 +230,6 @@
     "ROKEY bootcamp/Python 강의/Python 강의.md",
     "Daily Notes/Daily Notes Dataview.md",
     "Templates/Daily notes template.md",
-    "Daily Notes/2024-07-11.md",
     "Daily Notes/attachments/Pasted image 20240711161839.png",
     "ROKEY bootcamp/Python 강의/Python_Exercise/4회차 실습.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/attachments/~$이썬]_[4차]_[심화]_조건비교 (1).docx",
@@ -243,17 +255,6 @@
     "Daily Notes/2024-07-09.md",
     "Daily Notes/2024-07-10(수).md",
     "옵시디언공부/attachments/Pasted image 20240710153933.png",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/attachments/Pasted image 20240710153003.png",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/attachments",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/1회차 실습.md",
-    "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240710101313.png",
-    "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240710101029.png",
-    "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240710100956.png",
-    "ROKEY bootcamp/Python 강의/attachments",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/3강.py",
-    "ROKEY bootcamp/attachments/attachments/Pasted image 20240708115834.png",
-    "옵시디언공부/옵시디언 캔버스.canvas",
-    "ROKEY bootcamp/attachments/Pasted image 20240708100017.png",
-    "Daily Notes/attachments/Pasted image 20240706151920.png"
+    "옵시디언공부/옵시디언 캔버스.canvas"
   ]
 }
