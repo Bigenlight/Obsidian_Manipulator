@@ -6,7 +6,11 @@ table without id
 	file.mday as "수정일"
 
 from "Daily Notes" and #할일
+sort file.name desc
+
 ```
+
+
 ```dataview
 list
 	tags
