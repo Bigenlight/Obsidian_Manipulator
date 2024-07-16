@@ -32,3 +32,8 @@ git add . && git commit -m "window commit" && git push -u origin main
 이 두 명령어를 적으면 현재 충돌하는 변화가 싹 사라지고 깔끔해지니 이렇게 하자.
 git fetch origin
 git reset --hard origin/main
+
+
+### 윈도우 접속 후 분명 pull은 했는데 변화가 안보인다면
+새로고침 or 껐다 켜라
+반응이 느릴 때가 있는 것 같음
