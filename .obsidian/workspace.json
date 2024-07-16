@@ -33,12 +33,51 @@
             }
           },
           {
+            "id": "89741be246ca1623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 7강-반복문.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a08d7196b283359a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7회차 실습.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6744e5a682fb75b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-15.md",
+                "file": "Daily Notes/2024-07-16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bc4e1a149370136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Python 강의/Python_Exercise/6회차 실습.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-15.md"
+                "file": "Daily Notes/2024-07-16.md"
               }
             }
           },
@@ -129,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-15.md",
+                "file": "Daily Notes/2024-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-15.md",
+                "file": "Daily Notes/2024-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,22 +247,26 @@
   },
   "active": "6744e5a682fb75b6",
   "lastOpenFiles": [
-    "Daily Notes/Daily Notes Dataview.md",
-    "Daily Notes/2024-07-15.md",
-    "Daily Notes/2024-07-13.md",
     "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-07-16.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 7강-반복문.md",
+    "7회차 실습.md",
+    "ROKEY bootcamp/Python 강의/Python_Exercise/6회차 실습.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 6강-함수.md",
+    "Daily Notes/2024-07-15.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240716104952.png",
+    "ROKEY bootcamp/attachments/Python-07.pdf.zmdownload",
+    "desktop.ini",
+    "Daily Notes/Daily Notes Dataview.md",
+    "Daily Notes/2024-07-13.md",
     "Capstone/무제 파일.canvas",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 7강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 5강 문자열, 인코디코.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 6강.md",
-    "7회차 실습.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 8강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 9강.md",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/6회차 실습.md",
     "ROKEY bootcamp/attachments/Python-13.pdf",
     "ROKEY bootcamp/강의자료.md",
     "ROKEY bootcamp/attachments/Python-08.pdf",
@@ -244,16 +287,12 @@
     "ROKEY bootcamp/attachments/Python-06.pdf",
     "ROKEY bootcamp/리눅스 환경.md",
     "Daily Notes/2024-07-11.md",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/무제 파일.md",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240712031712.png",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240712031650.png",
     "옵시디언공부/attachments/Pasted image 20240712031258.png",
     "옵시디언공부/attachments/Pasted image 20240712031253.png",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/1주차 문제 가풀이/[파이썬]_[5차]_[심화]_문자열.py",
     "ROKEY bootcamp/Python 강의/Python_Exercise/attachments/Pasted image 20240712021420.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240712020223.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240712020157.png",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/4강.py",
     "Daily Notes/예시 캠퍼스.canvas",
     "옵시디언공부/옵시디언 캔버스.canvas"
   ]
