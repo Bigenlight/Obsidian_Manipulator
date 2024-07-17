@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-17.md",
+                "file": "Daily Notes/2024-07-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-17.md"
+                "file": "Daily Notes/2024-07-18.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-17.md",
+                "file": "Daily Notes/2024-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-17.md",
+                "file": "Daily Notes/2024-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,6 +258,8 @@
   },
   "active": "89d71b5beacbb3c4",
   "lastOpenFiles": [
+    "Daily Notes/2024-07-17.md",
+    "Daily Notes/2024-07-18.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 09강.md",
     "Daily Notes/Daily Notes Dataview.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 08강-리스트,튜플.md",
@@ -279,7 +281,6 @@
     "옵시디언공부/attachments/Pasted image 20240717203642.png",
     "옵시디언공부/attachments/Pasted image 20240717203433.jpg",
     "옵시디언공부/attachments/Pasted image 20240717203413.jpg",
-    "Daily Notes/2024-07-17.md",
     "옵시디언공부/옵시디언 공부.md",
     "옵시디언공부/Tasks 플러그인.md",
     "옵시디언공부/기타 플러그인.md",
@@ -293,7 +294,6 @@
     "옵시디언공부/옵시디언 꿀팀 모음.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/8회차 실습.md",
     "Daily Notes/2024-07-16.md",
-    "ROKEY bootcamp/강의자료.md",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/tempCodeRunnerFile.py",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/8강.py",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/8강.ㅔㅛ",
