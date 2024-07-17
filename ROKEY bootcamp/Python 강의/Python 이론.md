@@ -11,4 +11,5 @@ table without id
 	Review,
 	비고
 from "ROKEY bootcamp/Python 강의/파이썬 이론 강의"
+sort file.name desc
 ```

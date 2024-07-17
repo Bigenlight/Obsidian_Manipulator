@@ -1,5 +1,5 @@
 ---
-Title: Python 8강
+Title: Python 8강-리스트,튜플
 tags: 
 NeedCheck: 
 Review: 
