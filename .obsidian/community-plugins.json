@@ -8,5 +8,13 @@
   "vscode-editor",
   "calendar",
   "periodic-notes",
-  "dataview"
+  "dataview",
+  "obsidian-timestamp-notes",
+  "editing-toolbar",
+  "obsidian-outliner",
+  "emoji-shortcodes",
+  "obsidian-plugin-update-tracker",
+  "recent-files-obsidian",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings"
 ]

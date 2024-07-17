@@ -1,5 +1,5 @@
 ---
-Title: Python 9강
+Title: Python 09강
 tags: 
 NeedCheck: 
 Review: 

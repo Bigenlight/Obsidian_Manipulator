@@ -1,0 +1,14 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":desktop_computer:",
+    ":scientist:",
+    ":robot:",
+    ":black_cat:",
+    ":smile:",
+    ":evergreen_tree:"
+  ]
+}

@@ -1,4 +1,10 @@
+---
+cssclasses:
+  - cards
+---
+
 ![데이터뷰 플러그인 사용법 쉬운 설명, 옵시디언 Dataview - YouTube](https://www.youtube.com/watch?v=Iv7wCJArqPI&list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl&index=11)
+
 [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
 
 옵션 설정
@@ -42,6 +48,9 @@ where date_daily > date(2023-06-07) 이런 식으로 일정 날짜 가져오기�
 ##### Task
 ##### Calendar
 
+#### 데이터뷰에서 정렬하는 법(dataview sort)
+from "Daily Notes" and #할일
+sort file.name desc
 
 [[Daily Notes Dataview]]
 

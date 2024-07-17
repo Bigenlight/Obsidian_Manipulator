@@ -4,6 +4,74 @@
       "type": "file",
       "ctime": 1720531211188,
       "path": "Templates/Daily notes template.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1721213186564,
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "type": "graph",
+      "ctime": 1721213206800,
+      "title": "All graph",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "file:옵시디언 공부",
+            "color": {
+              "a": 1,
+              "rgb": 8213471
+            }
+          },
+          {
+            "query": "file:두산 로보틱스 ROKEY",
+            "color": {
+              "a": 1,
+              "rgb": 22015
+            }
+          },
+          {
+            "query": "tag:#2024년  ",
+            "color": {
+              "a": 1,
+              "rgb": 10866266
+            }
+          },
+          {
+            "query": "file:Python",
+            "color": {
+              "a": 1,
+              "rgb": 4305985
+            }
+          },
+          {
+            "query": "section:(옵시디언 공부)",
+            "color": {
+              "a": 1,
+              "rgb": 6835889
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 2.07633333333333,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.6372987158193518,
+        "close": false
+      }
     }
   ]
 }
