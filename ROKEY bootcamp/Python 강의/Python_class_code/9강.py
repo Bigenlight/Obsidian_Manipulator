@@ -72,14 +72,12 @@ def circle_area(radius):
     return math.pi * (radius ** 2)
 
 with open("shapes.txt", "r") as f:
-    l = f.readline()
-    list = []
-    while l :
-        list.append(l.strip())
-        l = f.readline()
-    
-for i in range(len(list)):
-    l = list
+    l = f.readlines()
+
+for i in range(len(l)):
+    l[i] = l[i].strip()
+
+for i in range(len(l)):
     coords = []
     if l[i] == "사각형":
         for j in range(1,5):

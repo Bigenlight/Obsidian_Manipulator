@@ -4,6 +4,9 @@ cssclasses:
 ---
 위에 처럼 해주면 데이터뷰가 카드 처럼 보임
 
+![미니멀 테마 100% 활용하기, 옵시디언 커스텀 - YouTube](https://www.youtube.com/watch?v=zvbETkRpmcc&list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl&index=15)
+
+추가 플러그인
 **Minimal Theme setting**
 **Style setting**
 
