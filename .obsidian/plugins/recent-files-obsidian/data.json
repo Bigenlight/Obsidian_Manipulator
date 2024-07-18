@@ -1,68 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
+      "basename": "2024-07-18",
+      "path": "Daily Notes/2024-07-18.md"
     },
     {
-      "basename": "9회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/9회차 실습.md"
-    },
-    {
-      "basename": "Python 09강-파일",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 09강-파일.md"
+      "basename": "Daily Notes Dataview",
+      "path": "Daily Notes/Daily Notes Dataview.md"
     },
     {
       "basename": "Python 08강-리스트,튜플",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 08강-리스트,튜플.md"
     },
     {
-      "basename": "플러그인",
-      "path": "옵시디언공부/플러그인.md"
+      "basename": "2024-07-17",
+      "path": "Daily Notes/2024-07-17.md"
     },
     {
-      "basename": "옵시디언 공부",
-      "path": "옵시디언공부/옵시디언 공부.md"
+      "basename": "Python 09강",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 09강.md"
     },
     {
-      "basename": "7회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/7회차 실습.md"
-    },
-    {
-      "basename": "Python 07강-반복문",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 07강-반복문.md"
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "Python 이론",
       "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     },
     {
-      "basename": "8회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/8회차 실습.md"
-    },
-    {
-      "basename": "우분투 지식",
-      "path": "개인공부/우분투 지식.md"
-    },
-    {
-      "basename": "2024-07-18",
-      "path": "Daily Notes/2024-07-18.md"
-    },
-    {
-      "basename": "기타 플러그인",
-      "path": "옵시디언공부/기타 플러그인.md"
-    },
-    {
-      "basename": "Minimal Theme",
-      "path": "옵시디언공부/Minimal Theme.md"
-    },
-    {
-      "basename": "2024-07-17",
-      "path": "Daily Notes/2024-07-17.md"
-    },
-    {
-      "basename": "Daily Notes Dataview",
-      "path": "Daily Notes/Daily Notes Dataview.md"
+      "basename": "Python 07강-반복문",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 07강-반복문.md"
     },
     {
       "basename": "Python 06강-함수",
@@ -93,6 +61,10 @@
       "path": "옵시디언공부/Dataview.md"
     },
     {
+      "basename": "Minimal Theme",
+      "path": "옵시디언공부/Minimal Theme.md"
+    },
+    {
       "basename": "단축키",
       "path": "옵시디언공부/단축키.md"
     },
@@ -101,8 +73,20 @@
       "path": "옵시디언공부/유튜브 플러그인.md"
     },
     {
+      "basename": "플러그인",
+      "path": "옵시디언공부/플러그인.md"
+    },
+    {
+      "basename": "옵시디언 공부",
+      "path": "옵시디언공부/옵시디언 공부.md"
+    },
+    {
       "basename": "Tasks 플러그인",
       "path": "옵시디언공부/Tasks 플러그인.md"
+    },
+    {
+      "basename": "기타 플러그인",
+      "path": "옵시디언공부/기타 플러그인.md"
     }
   ],
   "omittedPaths": []
