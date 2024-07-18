@@ -184,7 +184,7 @@ else: result = "저체중"
 print(f"키: {height:.1f}(cm), 몸무게: {weight:.1f}(kg)")
 print(f"BMI: {bmi:.1f} {result}")
 '''
-
+'''
 # 19
 interest = input("관심도(없음, 조금, 보통, 많음, 매우 많음)를 선택하세요): ")
 efforts = input("노력도(상, 중, 하)를 선택하세요): ")
@@ -200,5 +200,5 @@ elif interest in ["없음", "조금"]:
     
 else:
     print(f"죄송합니다, {interest}(은)는 가능한 노력도 척도가 아닙니다.")
-
+'''
 
