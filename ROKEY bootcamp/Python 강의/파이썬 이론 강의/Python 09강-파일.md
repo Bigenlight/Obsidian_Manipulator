@@ -50,6 +50,7 @@ with open("t.txt", "r") as f:
 		print(line, end = "") # 문서에 이미 \n이 포함 됐다면 이걸 해야 두칸씩 안뜀
 		line = f.readline()
 ```
+list_ = f.readlines()를 쓰면 각 줄이 리스트의 원소로 들어감
 
 ### ==With 문==
 원래 f = open() 후 f.close()는 필수지만
