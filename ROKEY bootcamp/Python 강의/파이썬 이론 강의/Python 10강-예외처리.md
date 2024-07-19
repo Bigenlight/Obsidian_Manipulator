@@ -76,3 +76,17 @@ except 속에서 raise를 하면 그 오류가 밖에서도 재발생.
 ### finally:
 ![[Pasted image 20240719030238.png|500]]
 정상적이든, 오류가 발생하든 결국 블록 마지막에 실행이 되는 코드
+
+### else:
+`else` 블록은 `try` 블록에서 예외가 발생하지 않을 때 실행됩니다. 이렇게 하면 예외가 발생하지 않을 경우에만 실행하고 싶은 코드가 있을 때 유용합니다.
+```python
+try:
+    result = 10 / 0
+except ZeroDivisionError as e:
+    print("Cannot divide by zero:", e)
+#print("hey")
+else:
+    print("Division successful, result is:", result)
+
+```
+else와 except 사이에 아무것도 못 쓴다. 순서도 중요하다. else가 except 보다 먼저 오면 안된다.
