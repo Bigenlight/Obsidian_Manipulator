@@ -8,4 +8,4 @@ Review:
 [[Python 이론]]
 [[12회차 실습]]
 
-![[Python-12.pdf]]
+![[Python-12 (1).pdf]]
