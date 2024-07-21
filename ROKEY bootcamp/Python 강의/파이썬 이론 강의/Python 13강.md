@@ -7,5 +7,4 @@ Review:
 ---
 [[Python 이론]]
 [[13회차 실습]]
-
-![[Python-13.pdf]]
+![[Python-13 (1).pdf]]

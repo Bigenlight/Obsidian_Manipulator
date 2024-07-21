@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-07-22",
+      "path": "Daily Notes/2024-07-22.md"
+    },
+    {
+      "basename": "Python 이론",
+      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
+    },
+    {
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
+    },
+    {
+      "basename": "Daily Notes Dataview",
+      "path": "Daily Notes/Daily Notes Dataview.md"
+    },
+    {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
     },
     {
-      "basename": "2024-07-22",
-      "path": "Daily Notes/2024-07-22.md"
+      "basename": "11회차 실습",
+      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md"
+    },
+    {
+      "basename": "Python 11강",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강.md"
+    },
+    {
+      "basename": "4회차 실습",
+      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/4회차 실습.md"
+    },
+    {
+      "basename": "9회차 실습",
+      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/9회차 실습.md"
+    },
+    {
+      "basename": "Python 12강",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Untitled.md"
+    },
+    {
+      "basename": "Python 13강",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강.md"
     },
     {
       "basename": "2024-07-19",
@@ -18,23 +58,11 @@
     },
     {
       "basename": "10회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/10회차 실습.md"
-    },
-    {
-      "basename": "[",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/[.md"
+      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/10회차 실습.md"
     },
     {
       "basename": "Python 10강-예외처리",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md"
-    },
-    {
-      "basename": "9회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/9회차 실습.md"
-    },
-    {
-      "basename": "Python 이론",
-      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     },
     {
       "basename": "Python 09강-파일",
@@ -51,10 +79,6 @@
     {
       "basename": "Python 강의",
       "path": "ROKEY bootcamp/Python 강의/Python 강의.md"
-    },
-    {
-      "basename": "Daily Notes Dataview",
-      "path": "Daily Notes/Daily Notes Dataview.md"
     },
     {
       "basename": "Python 08강-리스트,튜플",
