@@ -83,9 +83,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8345f604e88b0208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/우분투 지식.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d2ac842c8a93740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/Ubuntu 22.04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "개인공부/Ubuntu 22.04.md"
+              }
             }
           },
           {
@@ -174,6 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "개인공부/Ubuntu 22.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "개인공부/Ubuntu 22.04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,16 +296,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d6865c997e452f3",
+  "active": "7d2ac842c8a93740",
   "lastOpenFiles": [
+    "개인공부/우분투 지식.md",
+    "개인공부/Ubuntu 22.04.md",
+    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Python 강의/Python 이론.md",
+    "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강.md",
     "Daily Notes/2024-07-22.md",
     "Daily Notes/2024-07-23.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240722140424.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240722140254.png",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md",
-    "ROKEY bootcamp/Python 강의/Python 이론.md",
-    "ROKEY bootcamp/정보.md",
     "Templates/Daily notes template.md",
     "Daily Notes/Daily Notes Dataview.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/4회차 실습.md",
@@ -312,8 +344,6 @@
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 08강-리스트,튜플.md",
     "t.txt",
     "Daily Notes/2024-07-17.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 09강.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 07강-반복문.md",
     "Capstone/무제 파일.canvas",
     "Daily Notes/예시 캠퍼스.canvas",
     "옵시디언공부/옵시디언 캔버스.canvas"
