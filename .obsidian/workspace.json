@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2024-07-22.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,10 +266,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b47024baef68e556",
+  "active": "3d6865c997e452f3",
   "lastOpenFiles": [
-    "Daily Notes/2024-07-23.md",
     "Daily Notes/2024-07-22.md",
+    "Daily Notes/2024-07-23.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240722140424.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240722140254.png",
