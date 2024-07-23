@@ -5,48 +5,36 @@
       "path": "Daily Notes/2024-07-23.md"
     },
     {
-      "basename": "Python 12강-클래스",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "12회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/12회차 실습.md"
-    },
-    {
-      "basename": "Python 이론",
-      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
-    },
-    {
-      "basename": "Python 11강-딕셔너리,집합",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강-딕셔너리,집합.md"
-    },
-    {
-      "basename": "Daily notes template",
-      "path": "Templates/Daily notes template.md"
-    },
-    {
-      "basename": "2024-07-22",
-      "path": "Daily Notes/2024-07-22.md"
-    },
-    {
-      "basename": "Ubuntu 22.04",
-      "path": "개인공부/Ubuntu 22.04.md"
+      "basename": "11회차 실습",
+      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md"
     },
     {
       "basename": "우분투 지식",
       "path": "개인공부/우분투 지식.md"
     },
     {
-      "basename": "11회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md"
+      "basename": "Window에서 옵시디언 설정",
+      "path": "옵시디언공부/Window에서 옵시디언 설정.md"
+    },
+    {
+      "basename": "2024-07-18",
+      "path": "Daily Notes/2024-07-18.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "Python 이론",
+      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
+    },
+    {
+      "basename": "2024-07-22",
+      "path": "Daily Notes/2024-07-22.md"
+    },
+    {
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
     },
     {
       "basename": "Daily Notes Dataview",
@@ -69,10 +57,6 @@
       "path": "Daily Notes/2024-07-19.md"
     },
     {
-      "basename": "2024-07-18",
-      "path": "Daily Notes/2024-07-18.md"
-    },
-    {
       "basename": "10회차 실습",
       "path": "ROKEY bootcamp/Python 강의/Python_Exercise/10회차 실습.md"
     },
@@ -87,10 +71,6 @@
     {
       "basename": "강의자료",
       "path": "ROKEY bootcamp/강의자료.md"
-    },
-    {
-      "basename": "Window에서 옵시디언 설정",
-      "path": "옵시디언공부/Window에서 옵시디언 설정.md"
     },
     {
       "basename": "Python 강의",
