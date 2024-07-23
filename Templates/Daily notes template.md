@@ -10,8 +10,6 @@ tags:
 related notes: "[[Daily Notes Dataview]]"
 ---
 ##### 오늘 노트 및 할 일 
-- 
-- [ ]  
 <%* 
 let yesterday = "Daily Notes/" + tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD"); 
 let section = "###### 내일 노트 및 할 일"; 
@@ -29,7 +27,8 @@ if(yfile) {
 } 
 
 tR += should_include ? sectionContent : "없습니다😀"; %>
-
+- 
+- [ ]  
 
 
 

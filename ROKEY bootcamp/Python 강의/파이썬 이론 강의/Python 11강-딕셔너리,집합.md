@@ -1,5 +1,5 @@
 ---
-Title: Python 11강
+Title: Python 11강-딕셔너리,집합
 tags: 
 NeedCheck: 
 Review: 
