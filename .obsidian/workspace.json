@@ -33,33 +33,7 @@
             }
           },
           {
-            "id": "3bbe2403598d09ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc9377bcc7b9408e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/확률과 통계 계획.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23d8384208db5297",
+            "id": "0cfc363be7d91de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +44,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fadd01ab8f043faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/Window에서 옵시디언 설정.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROKEY bootcamp/정보.md"
+                "file": "Daily Notes/2024-07-24.md"
               }
             }
           },
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROKEY bootcamp/정보.md",
+                "file": "Daily Notes/2024-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROKEY bootcamp/정보.md",
+                "file": "Daily Notes/2024-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,33 +244,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d59c76a03c495cb6",
+  "active": "0cfc363be7d91de3",
   "lastOpenFiles": [
+    "desktop.ini",
+    "옵시디언공부/Window에서 옵시디언 설정.md",
+    "Templates/Daily notes template.md",
     "Daily Notes/2024-07-24.md",
-    "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__/Triangle.cpython-310.pyc",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/TestTriangle.py",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/Triangle.py",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__/time_utils.cpython-310.pyc",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/test_time.py",
     "개인공부/확률과 통계 계획.md",
-    "ROKEY bootcamp/Python 강의/Python 이론.md",
-    "개인공부/우분투 지식.md",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/time_utils.py",
-    "Daily Notes/2024-07-23.md",
-    "Daily Notes/2024-07-22.md",
-    "ROKEY bootcamp/강의자료.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강.md",
-    "ROKEY bootcamp/attachments/Python-15.pdf",
-    "ROKEY bootcamp/attachments/Python-16.pdf",
+    "ROKEY bootcamp/attachments/Python-18.pdf",
     "ROKEY bootcamp/attachments/Python-17.pdf",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
+    "ROKEY bootcamp/attachments/Python-16.pdf",
+    "ROKEY bootcamp/attachments/Python-15.pdf",
+    "ROKEY bootcamp/attachments/Python-14.pdf",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240724112530.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240724112417.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240724103218.png",
@@ -292,17 +265,33 @@
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240724100128.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240724095857.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240724095745.png",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/time_utils.py",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/test_time.py",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__/time_utils.cpython-310.pyc",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__/Triangle.cpython-310.pyc",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__",
+    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Python 강의/Python 이론.md",
+    "Daily Notes/2024-07-23.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md",
-    "옵시디언공부/Window에서 옵시디언 설정.md",
+    "개인공부/우분투 지식.md",
     "Daily Notes/2024-07-18.md",
     "개인공부/Ubuntu 22.04.md",
     "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
     "ROKEY bootcamp/attachments/Pasted image 20240723154909.png",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강-딕셔너리,집합.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/12회차 실습.md",
+    "Daily Notes/2024-07-22.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강.md",
-    "Templates/Daily notes template.md",
     "Daily Notes/Daily Notes Dataview.md",
+    "ROKEY bootcamp/Python 강의/Python_Exercise/4회차 실습.md",
     "Capstone/무제 파일.canvas",
     "Daily Notes/예시 캠퍼스.canvas",
     "옵시디언공부/옵시디언 캔버스.canvas"

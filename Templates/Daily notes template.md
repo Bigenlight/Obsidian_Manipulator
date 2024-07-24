@@ -42,3 +42,7 @@ tR += should_include ? sectionContent : "없습니다😀"; %>
 ![[Git_pull_window.bat]]
 ![[Obsidian_push_window 1.bat]]
 
+
+
+###### 강제 풀
+![[Force_pull.bat]]
