@@ -1,80 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
       "basename": "2024-07-24",
       "path": "Daily Notes/2024-07-24.md"
-    },
-    {
-      "basename": "Python 13강-모듈",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md"
-    },
-    {
-      "basename": "확률과 통계 계획",
-      "path": "개인공부/확률과 통계 계획.md"
-    },
-    {
-      "basename": "Python 이론",
-      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
-    },
-    {
-      "basename": "우분투 지식",
-      "path": "개인공부/우분투 지식.md"
-    },
-    {
-      "basename": "2024-07-23",
-      "path": "Daily Notes/2024-07-23.md"
-    },
-    {
-      "basename": "2024-07-22",
-      "path": "Daily Notes/2024-07-22.md"
-    },
-    {
-      "basename": "강의자료",
-      "path": "ROKEY bootcamp/강의자료.md"
-    },
-    {
-      "basename": "Python 14강",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강.md"
-    },
-    {
-      "basename": "Python 18강",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강.md"
-    },
-    {
-      "basename": "Python 17강",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강.md"
-    },
-    {
-      "basename": "Python 16강",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강.md"
-    },
-    {
-      "basename": "Python 15강",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강.md"
-    },
-    {
-      "basename": "Python 12강-클래스",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md"
-    },
-    {
-      "basename": "11회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md"
     },
     {
       "basename": "Window에서 옵시디언 설정",
       "path": "옵시디언공부/Window에서 옵시디언 설정.md"
     },
     {
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "Python 이론",
+      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
+    },
+    {
+      "basename": "2024-07-23",
+      "path": "Daily Notes/2024-07-23.md"
+    },
+    {
+      "basename": "11회차 실습",
+      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md"
+    },
+    {
+      "basename": "우분투 지식",
+      "path": "개인공부/우분투 지식.md"
+    },
+    {
       "basename": "2024-07-18",
       "path": "Daily Notes/2024-07-18.md"
     },
     {
-      "basename": "Daily notes template",
-      "path": "Templates/Daily notes template.md"
+      "basename": "2024-07-22",
+      "path": "Daily Notes/2024-07-22.md"
     },
     {
       "basename": "Daily Notes Dataview",
@@ -103,6 +67,10 @@
     {
       "basename": "Python 09강-파일",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 09강-파일.md"
+    },
+    {
+      "basename": "강의자료",
+      "path": "ROKEY bootcamp/강의자료.md"
     },
     {
       "basename": "Python 강의",
