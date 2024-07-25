@@ -253,14 +253,15 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2c877061ed275bee",
   "lastOpenFiles": [
-    "옵시디언공부/Google Tasks.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강.md",
     "Daily Notes/2024-07-26.md",
+    "옵시디언공부/Google Tasks.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240726122125.png",
     "ROKEY bootcamp/Python 강의/Python_class_code/15강.py",
     "ROKEY bootcamp/Python 강의/Python_class_code/15강.ㅔㅛ",

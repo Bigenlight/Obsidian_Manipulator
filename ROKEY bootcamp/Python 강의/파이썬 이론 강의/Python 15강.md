@@ -13,6 +13,7 @@ Review:
 ## 터틀
 터틀봇으로 그림 그리기
 
+
 ## PyQt
 
 ![[Pasted image 20240726122125.png]]
