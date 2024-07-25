@@ -201,17 +201,9 @@
               "type": "video-view",
               "state": {}
             }
-          },
-          {
-            "id": "0e8cf8d99b7457e2",
-            "type": "leaf",
-            "state": {
-              "type": "googleTaskView",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "dd297df3d10d0b28",
@@ -262,23 +254,24 @@
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
       "obsidian-google-tasks:Google Tasks": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2c877061ed275bee",
   "lastOpenFiles": [
+    "옵시디언공부/Google Tasks.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강.md",
+    "Daily Notes/2024-07-26.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240726122125.png",
     "ROKEY bootcamp/Python 강의/Python_class_code/15강.py",
     "ROKEY bootcamp/Python 강의/Python_class_code/15강.ㅔㅛ",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/1",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Python-15.pdf",
     "ROKEY bootcamp/Python 강의/Python 이론.md",
-    "Daily Notes/2024-07-26.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md",
     "옵시디언공부/마크다운.md",
-    "옵시디언공부/Google Tasks.md",
     "옵시디언공부/옵시디언 공부.md",
     "Daily Notes/2024-07-25.md",
     "옵시디언공부/Templater.md",
