@@ -33,12 +33,51 @@
             }
           },
           {
+            "id": "5fec5c459805df20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/플러그인.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c222dc9a63d3134f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/Tasks 플러그인.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30ddf59d2d63e043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/옵시디언 공부.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "19c122e0fa0d5374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
+                "file": "Daily Notes/2024-07-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,9 +109,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b93f56eaf7b33dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언공부/옵시디언 공부.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287cb8c6f6f2dc4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-07-26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5df100b1d7e11023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -154,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
+                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
+                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md"
+                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md"
               }
             }
           }
@@ -219,14 +297,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "19c122e0fa0d5374",
+  "active": "5df100b1d7e11023",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Python 강의/Python 이론.md",
+    "Daily Notes/2024-07-26.md",
+    "Daily Notes/2024-07-24.md",
+    "Daily Notes/2024-07-25.md",
+    "Daily Notes/2024-07-23.md",
+    "Daily Notes/2024-07-15.md",
+    "Daily Notes/2024-07-16.md",
+    "옵시디언공부/플러그인.md",
+    "옵시디언공부/Tasks 플러그인.md",
+    "옵시디언공부/옵시디언 공부.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강-딕셔너리,집합.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md",
-    "Daily Notes/2024-07-26.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강.md",
-    "ROKEY bootcamp/Python 강의/Python 이론.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강.md",
     "ROKEY bootcamp/attachments/Python-14.pdf",
     "ROKEY bootcamp/정보.md",
