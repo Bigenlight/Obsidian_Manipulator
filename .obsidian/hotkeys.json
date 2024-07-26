@@ -89,5 +89,13 @@
       ],
       "key": " "
     }
+  ],
+  "templater-obsidian:Templates/knowledge template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
   ]
 }
