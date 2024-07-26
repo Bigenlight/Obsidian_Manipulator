@@ -33,19 +33,6 @@
             }
           },
           {
-            "id": "0cfc363be7d91de3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-07-24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fadd01ab8f043faf",
             "type": "leaf",
             "state": {
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-24.md"
+                "file": "옵시디언공부/Window에서 옵시디언 설정.md"
               }
             }
           },
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-24.md",
+                "file": "옵시디언공부/Window에서 옵시디언 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-24.md",
+                "file": "옵시디언공부/Window에서 옵시디언 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,12 +231,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0cfc363be7d91de3",
+  "active": "fadd01ab8f043faf",
   "lastOpenFiles": [
+    "Daily Notes/2024-07-26.md",
+    "Daily Notes/2024-07-24.md",
+    "ROKEY bootcamp/정보.md",
     "desktop.ini",
     "옵시디언공부/Window에서 옵시디언 설정.md",
     "Templates/Daily notes template.md",
-    "Daily Notes/2024-07-24.md",
     "개인공부/확률과 통계 계획.md",
     "ROKEY bootcamp/attachments/Python-18.pdf",
     "ROKEY bootcamp/attachments/Python-17.pdf",
@@ -275,8 +264,6 @@
     "ROKEY bootcamp/Python 강의/Python 수업 코드/test_time.py",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__/time_utils.cpython-310.pyc",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__/Triangle.cpython-310.pyc",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/__pycache__",
-    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Python 강의/Python 이론.md",
     "Daily Notes/2024-07-23.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/11회차 실습.md",
