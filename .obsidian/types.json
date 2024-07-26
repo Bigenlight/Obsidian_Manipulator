@@ -8,6 +8,11 @@
     "복습 횟수": "number",
     "재확인 필요": "checkbox",
     "재확인필요": "checkbox",
+<<<<<<< HEAD
     "NeedCheck": "checkbox"
+=======
+    "NeedCheck": "checkbox",
+    "date": "text"
+>>>>>>> e2deeb9d33184862460dc0ea2e3c9e7ed59a66a7
   }
 }

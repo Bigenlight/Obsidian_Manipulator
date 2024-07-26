@@ -1,16 +1,8 @@
 {
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Delete"
-    }
-  ],
   "daily-notes": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "="
     }
@@ -18,7 +10,7 @@
   "daily-notes:goto-prev": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "-"
     }
@@ -26,68 +18,9 @@
   "daily-notes:goto-next": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "\\"
-    }
-  ],
-  "templater-obsidian:Templates/Python 강의 템플릿.md": [
-    {
-      "modifiers": [
         "Alt"
       ],
-      "key": "P"
-    }
-  ],
-  "execute-code:code-execute-open-manage-executors": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Enter"
-    }
-  ],
-  "obsidian-timestamp-notes:timestamp-insert": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
-  "obsidian-timestamp-notes:trigger-player": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "obsidian-timestamp-notes:seek-backward": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
-  "obsidian-timestamp-notes:seek-forward": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "obsidian-timestamp-notes:pause-player": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": " "
+      "key": "\\"
     }
   ]
 }
