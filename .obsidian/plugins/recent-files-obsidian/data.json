@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Python 이론",
+      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
+    },
+    {
+      "basename": "Python 15강",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강.md"
+    },
+    {
+      "basename": "Tasks 플러그인",
+      "path": "옵시디언공부/Tasks 플러그인.md"
+    },
+    {
+      "basename": "Importer",
+      "path": "옵시디언공부/Importer.md"
+    },
+    {
+      "basename": "Minimal Theme",
+      "path": "옵시디언공부/Minimal Theme.md"
+    },
+    {
+      "basename": "환경 설정",
+      "path": "옵시디언공부/환경 설정.md"
+    },
+    {
+      "basename": "프론트메타",
+      "path": "옵시디언공부/프론트메타.md"
+    },
+    {
+      "basename": "유튜브 플러그인",
+      "path": "옵시디언공부/유튜브 플러그인.md"
+    },
+    {
+      "basename": "옵시디언 캔버스",
+      "path": "옵시디언공부/옵시디언 캔버스.canvas"
+    },
+    {
       "basename": "Window에서 옵시디언 설정",
       "path": "옵시디언공부/Window에서 옵시디언 설정.md"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "Daily notes template",
       "path": "Templates/Daily notes template.md"
-    },
-    {
-      "basename": "Python 이론",
-      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     },
     {
       "basename": "2024-07-23",
@@ -125,16 +157,8 @@
       "path": "옵시디언공부/Dataview.md"
     },
     {
-      "basename": "Minimal Theme",
-      "path": "옵시디언공부/Minimal Theme.md"
-    },
-    {
       "basename": "단축키",
       "path": "옵시디언공부/단축키.md"
-    },
-    {
-      "basename": "유튜브 플러그인",
-      "path": "옵시디언공부/유튜브 플러그인.md"
     },
     {
       "basename": "플러그인",
@@ -143,10 +167,6 @@
     {
       "basename": "옵시디언 공부",
       "path": "옵시디언공부/옵시디언 공부.md"
-    },
-    {
-      "basename": "Tasks 플러그인",
-      "path": "옵시디언공부/Tasks 플러그인.md"
     },
     {
       "basename": "기타 플러그인",
