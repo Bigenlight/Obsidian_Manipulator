@@ -1,26 +1,26 @@
 {
-  "daily-notes": [
+  "periodic-notes:open-daily-note": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "="
+      "key": "Key23"
     }
   ],
-  "daily-notes:goto-prev": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "-"
-    }
-  ],
-  "daily-notes:goto-next": [
+  "periodic-notes:next-daily-note": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "\\"
+    }
+  ],
+  "periodic-notes:prev-daily-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
     }
   ]
 }
