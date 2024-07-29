@@ -5,8 +5,28 @@
       "path": "Daily Notes/2024-07-29.md"
     },
     {
+      "basename": "Python 이론",
+      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
+    },
+    {
+      "basename": "Python 평가 문제 대비",
+      "path": "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md"
+    },
+    {
+      "basename": "Python 16강-람다",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md"
+    },
+    {
+      "basename": "Python 평가 안내",
+      "path": "ROKEY bootcamp/Python 강의/Python 평가 안내.md"
+    },
+    {
       "basename": "2024-07-26",
       "path": "Daily Notes/2024-07-26.md"
+    },
+    {
+      "basename": "2024-07-25",
+      "path": "Daily Notes/2024-07-25.md"
     },
     {
       "basename": "프론트메타",
@@ -17,24 +37,12 @@
       "path": "옵시디언공부/플러그인.md"
     },
     {
-      "basename": "Python 평가 안내",
-      "path": "ROKEY bootcamp/Python 강의/Python 평가 안내.md"
-    },
-    {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
     },
     {
-      "basename": "Python 16강-람다",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md"
-    },
-    {
       "basename": "강의자료",
       "path": "ROKEY bootcamp/강의자료.md"
-    },
-    {
-      "basename": "Python 이론",
-      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     },
     {
       "basename": "Show Current File Path",
@@ -63,10 +71,6 @@
     {
       "basename": "옵시디언 공부",
       "path": "옵시디언공부/옵시디언 공부.md"
-    },
-    {
-      "basename": "2024-07-25",
-      "path": "Daily Notes/2024-07-25.md"
     },
     {
       "basename": "Templater",
@@ -195,10 +199,6 @@
     {
       "basename": "Minimal Theme",
       "path": "옵시디언공부/Minimal Theme.md"
-    },
-    {
-      "basename": "단축키",
-      "path": "옵시디언공부/단축키.md"
     }
   ],
   "omittedPaths": []

@@ -33,19 +33,6 @@
             }
           },
           {
-            "id": "97115a4e955c6598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "087cf6b9b40e12a0",
             "type": "leaf",
             "state": {
@@ -96,9 +83,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a5c4c4aec2c9294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Python 강의/Python 이론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f87161f9f5be1b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -285,15 +298,18 @@
   },
   "active": "fb1cc369482f4647",
   "lastOpenFiles": [
-    "Daily Notes/2024-07-26.md",
+    "ROKEY bootcamp/Python 강의/Python 이론.md",
+    "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md",
     "Daily Notes/2024-07-29.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md",
+    "Daily Notes/attachments/Pasted image 20240729171706.png",
+    "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
+    "Daily Notes/2024-07-26.md",
+    "Daily Notes/2024-07-25.md",
     "옵시디언공부/프론트메타.md",
     "옵시디언공부/플러그인.md",
-    "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
     "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md",
     "ROKEY bootcamp/강의자료.md",
-    "ROKEY bootcamp/Python 강의/Python 이론.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240729141424.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240729141228.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240729140516.png",
@@ -312,7 +328,6 @@
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/desktop.ini",
     "desktop.ini",
     "옵시디언공부/Google Tasks.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240726122125.png",
     "ROKEY bootcamp/Python 강의/Python_class_code/15강.py",
     "ROKEY bootcamp/Python 강의/Python_class_code/15강.ㅔㅛ",
     "ROKEY bootcamp/Python 강의/Python 수업 코드/1",
@@ -320,7 +335,6 @@
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md",
     "옵시디언공부/마크다운.md",
     "옵시디언공부/옵시디언 공부.md",
-    "Daily Notes/2024-07-25.md",
     "옵시디언공부/Templater.md",
     "Templates/Daily notes template.md",
     "개인공부/우분투 지식.md",
