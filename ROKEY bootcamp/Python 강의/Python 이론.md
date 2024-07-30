@@ -1,3 +1,5 @@
+
+[[강의자료]]
 ![[Pasted image 20240712031712.png]]
 ```dataview
 list

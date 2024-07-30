@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-07-29",
-      "path": "Daily Notes/2024-07-29.md"
+      "basename": "2024-07-30",
+      "path": "Daily Notes/2024-07-30.md"
     },
     {
       "basename": "Python 이론",
       "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     },
     {
-      "basename": "Python 평가 문제 대비",
-      "path": "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md"
+      "basename": "Python 15강-그래픽스",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md"
+    },
+    {
+      "basename": "Python 17강",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강.md"
     },
     {
       "basename": "Python 16강-람다",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md"
+    },
+    {
+      "basename": "강의자료",
+      "path": "ROKEY bootcamp/강의자료.md"
+    },
+    {
+      "basename": "9강",
+      "path": "ROKEY bootcamp/Python 강의/Python 수업 코드/9강.py"
+    },
+    {
+      "basename": "기타 플러그인",
+      "path": "옵시디언공부/기타 플러그인.md"
+    },
+    {
+      "basename": "플러그인",
+      "path": "옵시디언공부/플러그인.md"
+    },
+    {
+      "basename": "2024-07-29",
+      "path": "Daily Notes/2024-07-29.md"
+    },
+    {
+      "basename": "Python 평가 문제 대비",
+      "path": "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md"
     },
     {
       "basename": "Python 평가 안내",
@@ -33,16 +61,8 @@
       "path": "옵시디언공부/프론트메타.md"
     },
     {
-      "basename": "플러그인",
-      "path": "옵시디언공부/플러그인.md"
-    },
-    {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "강의자료",
-      "path": "ROKEY bootcamp/강의자료.md"
     },
     {
       "basename": "Show Current File Path",
@@ -175,30 +195,6 @@
     {
       "basename": "Python 05강 문자열, 인코디코",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 05강 문자열, 인코디코.md"
-    },
-    {
-      "basename": "Python 04강 조건문,비교연산,논리연산",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 04강 조건문,비교연산,논리연산.md"
-    },
-    {
-      "basename": "Python 03강-변수,출력,input",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 03강-변수,출력,input.md"
-    },
-    {
-      "basename": "Python 02강",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 02강.md"
-    },
-    {
-      "basename": "Python 01강",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 01강.md"
-    },
-    {
-      "basename": "Dataview",
-      "path": "옵시디언공부/Dataview.md"
-    },
-    {
-      "basename": "Minimal Theme",
-      "path": "옵시디언공부/Minimal Theme.md"
     }
   ],
   "omittedPaths": []

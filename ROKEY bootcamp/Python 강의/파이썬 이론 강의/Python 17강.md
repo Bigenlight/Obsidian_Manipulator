@@ -6,6 +6,4 @@ Review:
 비고:
 ---
 [[Python 이론]]
-[[17회차 실습]]
-
-![[Python-17.pdf]]
+![[Python-17 1.pdf]]

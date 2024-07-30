@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -22,12 +22,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-<<<<<<< HEAD
-    "Templates/Python 강의 템플릿.md"
-=======
-    "Templates/Python 강의 템플릿.md",
-    "Templates/knowledge template.md"
->>>>>>> e2deeb9d33184862460dc0ea2e3c9e7ed59a66a7
+    ""
   ],
   "startup_templates": [
     ""
