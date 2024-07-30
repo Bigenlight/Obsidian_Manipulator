@@ -5,24 +5,48 @@
       "path": "Daily Notes/2024-07-30.md"
     },
     {
+      "basename": "Python 17강-이터&제네리터, 코루틴",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강-이터&제네리터, 코루틴.md"
+    },
+    {
       "basename": "Python 이론",
       "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
+    },
+    {
+      "basename": "Python 강의 템플릿",
+      "path": "Templates/Python 강의 템플릿.md"
+    },
+    {
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
+    },
+    {
+      "basename": "Daily Notes Dataview",
+      "path": "Daily Notes/Daily Notes Dataview.md"
+    },
+    {
+      "basename": "Python 평가 문제 대비",
+      "path": "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md"
+    },
+    {
+      "basename": "강의자료",
+      "path": "ROKEY bootcamp/강의자료.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "2024-07-29",
+      "path": "Daily Notes/2024-07-29.md"
     },
     {
       "basename": "Python 15강-그래픽스",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md"
     },
     {
-      "basename": "Python 17강",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강.md"
-    },
-    {
       "basename": "Python 16강-람다",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md"
-    },
-    {
-      "basename": "강의자료",
-      "path": "ROKEY bootcamp/강의자료.md"
     },
     {
       "basename": "9강",
@@ -35,14 +59,6 @@
     {
       "basename": "플러그인",
       "path": "옵시디언공부/플러그인.md"
-    },
-    {
-      "basename": "2024-07-29",
-      "path": "Daily Notes/2024-07-29.md"
-    },
-    {
-      "basename": "Python 평가 문제 대비",
-      "path": "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md"
     },
     {
       "basename": "Python 평가 안내",
@@ -61,20 +77,12 @@
       "path": "옵시디언공부/프론트메타.md"
     },
     {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
       "basename": "Show Current File Path",
       "path": "옵시디언공부/Show Current File Path.md"
     },
     {
       "basename": "Python 강의",
       "path": "ROKEY bootcamp/Python 강의/Python 강의.md"
-    },
-    {
-      "basename": "Daily Notes Dataview",
-      "path": "Daily Notes/Daily Notes Dataview.md"
     },
     {
       "basename": "Google Tasks",
@@ -97,10 +105,6 @@
       "path": "옵시디언공부/Templater.md"
     },
     {
-      "basename": "Daily notes template",
-      "path": "Templates/Daily notes template.md"
-    },
-    {
       "basename": "우분투 지식",
       "path": "개인공부/우분투 지식.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "API이란",
       "path": "개인공부/API이란.md"
-    },
-    {
-      "basename": "Python 강의 템플릿",
-      "path": "Templates/Python 강의 템플릿.md"
     },
     {
       "basename": "Movie_Template(test)",
