@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-07-30",
-      "path": "Daily Notes/2024-07-30.md"
+      "basename": "Python 18강-정규표현식",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식.md"
+    },
+    {
+      "basename": "2024-07-31",
+      "path": "Daily Notes/2024-07-31.md"
+    },
+    {
+      "basename": "Python 이론",
+      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     },
     {
       "basename": "Python 17강-이터&제네리터, 코루틴",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강-이터&제네리터, 코루틴.md"
     },
     {
-      "basename": "Python 이론",
-      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
+      "basename": "Python 평가 안내",
+      "path": "ROKEY bootcamp/Python 강의/Python 평가 안내.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "Daily Notes Dataview",
+      "path": "Daily Notes/Daily Notes Dataview.md"
+    },
+    {
+      "basename": "2024-07-30",
+      "path": "Daily Notes/2024-07-30.md"
     },
     {
       "basename": "Python 강의 템플릿",
@@ -21,20 +41,12 @@
       "path": "Templates/Daily notes template.md"
     },
     {
-      "basename": "Daily Notes Dataview",
-      "path": "Daily Notes/Daily Notes Dataview.md"
-    },
-    {
       "basename": "Python 평가 문제 대비",
       "path": "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md"
     },
     {
       "basename": "강의자료",
       "path": "ROKEY bootcamp/강의자료.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "2024-07-29",
@@ -59,10 +71,6 @@
     {
       "basename": "플러그인",
       "path": "옵시디언공부/플러그인.md"
-    },
-    {
-      "basename": "Python 평가 안내",
-      "path": "ROKEY bootcamp/Python 강의/Python 평가 안내.md"
     },
     {
       "basename": "2024-07-26",
@@ -191,10 +199,6 @@
     {
       "basename": "Python 06강-함수",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 06강-함수.md"
-    },
-    {
-      "basename": "Python 05강 문자열, 인코디코",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 05강 문자열, 인코디코.md"
     }
   ],
   "omittedPaths": []
