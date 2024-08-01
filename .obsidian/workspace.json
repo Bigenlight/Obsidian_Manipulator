@@ -38,19 +38,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46578e807285f038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Daily Notes/2024-08-01.md",
                 "mode": "source",
                 "backlinks": true,
@@ -85,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,8 +257,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "46578e807285f038",
+  "active": "27d380391e5e9b9b",
   "lastOpenFiles": [
+    "ROKEY bootcamp/C class/C 01강.md",
+    "ROKEY bootcamp/C class/codes/Project1/Project1/c01",
+    "ROKEY bootcamp/C class/C 이론.md",
+    "ROKEY bootcamp/C class/C 강의.md",
+    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식.md",
+    "Daily Notes/2024-08-01.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.exe.recipe",
     "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.command.1.tlog",
@@ -282,16 +276,9 @@
     "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link-cvtres.read.1.tlog",
     "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link-rc.write.1.tlog",
     "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link-rc.read.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/x64/Debug/Project1.pdb",
-    "ROKEY bootcamp/C class/C 이론.md",
     "ROKEY bootcamp/C class/C 02강.md",
-    "ROKEY bootcamp/C class/C 강의.md",
-    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식.md",
     "Templates/C 강의 템플릿.md",
-    "ROKEY bootcamp/C class/C 01강.md",
     "ROKEY bootcamp/C class/C 01강 실습.md",
-    "Daily Notes/2024-08-01.md",
     "Templates/Daily notes template.md",
     "Daily Notes/2024-07-31.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731224023.png",
