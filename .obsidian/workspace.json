@@ -1,65 +1,14 @@
 {
   "main": {
-    "id": "61c513335d5068d2",
+    "id": "7da3c5be28a46b45",
     "type": "split",
     "children": [
       {
-        "id": "a53b9c8d78567f70",
+        "id": "ef263ed8a2baf6fe",
         "type": "tabs",
         "children": [
           {
-            "id": "bea5553bbbc6d0f9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3d6865c997e452f3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "27d380391e5e9b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1d6905523dd8836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f4170bdee311cb6",
+            "id": "5b00350c185b2efb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,22 +20,21 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4e36d275d047fc66",
+    "id": "0c259f0b59c8d8ee",
     "type": "split",
     "children": [
       {
-        "id": "2d00c201ff09ea48",
+        "id": "54eaefc36c4a6c7c",
         "type": "tabs",
         "children": [
           {
-            "id": "7b985f6053575557",
+            "id": "b9ff6fa8bd09460a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -96,34 +44,12 @@
             }
           },
           {
-            "id": "ab8787976ee4b902",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "3cd2ef89f5fefedf",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "c7141aa65a452a50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8240560ff4819332",
+            "id": "38867223f6f4f68c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "llm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,34 +57,47 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0185950e296b1bab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0915076afeabb621",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "96e7323af4b030eb",
+    "id": "ed06cea5a27a30bc",
     "type": "split",
     "children": [
       {
-        "id": "423371373750ed29",
+        "id": "048be79779ecb9af",
         "type": "tabs",
-        "dimension": 41.4983164983165,
         "children": [
           {
-            "id": "a40a8a7d2f361178",
+            "id": "63e5cb10d8fd784e",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily Notes/2024-08-01.md"
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "990e2c555c10154a",
+            "id": "2e3117bd65894693",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -175,7 +114,7 @@
             }
           },
           {
-            "id": "6d23db3451438fad",
+            "id": "3c513c37efbbaf47",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -187,125 +126,49 @@
             }
           },
           {
-            "id": "a815cb4b3093c379",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
-          },
-          {
-            "id": "ef0b42eddf7bfd28",
-            "type": "leaf",
-            "state": {
-              "type": "video-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "dd297df3d10d0b28",
-        "type": "tabs",
-        "dimension": 16.835016835016837,
-        "children": [
-          {
-            "id": "8fcaefa7a3dc94cc",
+            "id": "21065817b29d1cf8",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "6996a7a82da09a1e",
-        "type": "tabs",
-        "dimension": 41.66666666666667,
-        "children": [
+          },
           {
-            "id": "82052715db986f96",
+            "id": "d0fa671597500623",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2024-08-01.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "vscode-editor:Create Code File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "vscode-editor:Create Code File": false,
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "27d380391e5e9b9b",
+  "active": "5b00350c185b2efb",
   "lastOpenFiles": [
-    "ROKEY bootcamp/C class/C 01강.md",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/c01",
-    "ROKEY bootcamp/C class/C 이론.md",
-    "ROKEY bootcamp/C class/C 강의.md",
-    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식.md",
-    "Daily Notes/2024-08-01.md",
-    "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.exe.recipe",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.command.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.write.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.read.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.read.2.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link-cvtres.write.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link-cvtres.read.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link-rc.write.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link-rc.read.1.tlog",
-    "ROKEY bootcamp/C class/C 02강.md",
-    "Templates/C 강의 템플릿.md",
-    "ROKEY bootcamp/C class/C 01강 실습.md",
-    "Templates/Daily notes template.md",
-    "Daily Notes/2024-07-31.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731224023.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731223910.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731223851.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731223553.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731223517.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731223001.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731222842.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731222434.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240731222419.png",
-    "ROKEY bootcamp/Python 강의/Python 이론.md",
-    "Daily Notes/Daily Notes Dataview.md",
-    "Git_pull_window.bat.md",
-    "옵시디언공부/Window에서 옵시디언 설정.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강-이터&제네리터, 코루틴.md",
-    "Daily Notes/2024-07-30.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20240730205242.png",
-    "ROKEY bootcamp/Python 강의/Python 평가 문제 대비.md",
-    "ROKEY bootcamp/강의자료.md",
-    "Daily Notes/2024-07-29.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md",
-    "Capstone/무제 파일.canvas",
-    "Daily Notes/예시 캠퍼스.canvas",
-    "옵시디언공부/옵시디언 캔버스.canvas"
+    "Daily Notes/2024-08-02.md"
   ]
 }
