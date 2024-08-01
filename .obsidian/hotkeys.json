@@ -22,5 +22,13 @@
       ],
       "key": "-"
     }
+  ],
+  "templater-obsidian:Templates/C 강의 템플릿.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }

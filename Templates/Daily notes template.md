@@ -4,9 +4,9 @@ date_daily: <% tp.file.title.slice(0,10) %>
 important_date: 
 tags:
   - 2024년
-  - 7월
   - 할일
   - "#daily"
+  - "#8월"
 related notes: "[[Daily Notes Dataview]]"
 ---
 ##### 오늘 노트 및 할 일 
