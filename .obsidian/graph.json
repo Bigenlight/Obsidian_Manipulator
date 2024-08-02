@@ -46,7 +46,7 @@
       "query": "file:C",
       "color": {
         "a": 1,
-        "rgb": 15493507
+        "rgb": 14048454
       }
     }
   ],
@@ -55,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 2.07633333333333,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3659703696330225,
+  "scale": 0.740563088233979,
   "close": false
 }
