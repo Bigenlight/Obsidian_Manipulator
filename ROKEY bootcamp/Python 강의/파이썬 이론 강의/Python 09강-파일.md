@@ -3,7 +3,7 @@ Title: Python 09강-파일
 tags: 
 NeedCheck: 
 Review: 
-비고:
+비고: 실습 보다는 이론 문제로 나올 듯
 ---
 [[Python 이론]]
 [[9회차 실습]]

@@ -24,5 +24,5 @@ for i in range(3) # i -> 0,1,2
 #### break, continue
 for/while 둘다 사용 가능
 
-==for 변수에 관심 없고 반복 횟수에만 관심이 있을 때 변수로 \_를 쓴다==
+==for 변수에 관심 없고 반복 횟수에만 관심이 있을 때 변수로 '\_'를 쓴다==
 for _ in range(5)

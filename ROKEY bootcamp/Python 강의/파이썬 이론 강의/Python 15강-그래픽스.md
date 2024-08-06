@@ -3,7 +3,7 @@ Title: Python 15강
 tags: 
 NeedCheck: 
 Review: 
-비고:
+비고: 여기는 안 나올 것 같긴 함
 ---
 [[Python 이론]]
 [[15회차 실습]]
