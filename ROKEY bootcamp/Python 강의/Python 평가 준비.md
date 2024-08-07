@@ -1,4 +1,8 @@
+
+[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://teamsparkx.notion.site/5-64568dcda1c24a5ea4e108f795a054e7)
+
 [[Python 이론]]
+
 # 파이썬 추가 문제 복습 및 풀이 목록
 ## 추가 문제, 여기 없으면 추가 문제가 없음
 2차 패스
@@ -22,7 +26,7 @@ date 사용법 복습
 일단 행렬 쪽으로 문제 나올 가능성 높음
 
 #### 2-1 하노이 
--  [ ] 다시 
+- [x] 다시 ✅ 2024-08-07
 ```python
 def solution(n):
     def hanoi(n, source, target, auxiliary, moves):
@@ -93,7 +97,20 @@ super().\_\_init__() 안에 self 넣으면 안됨\
 4 3분
 5
 6  최대공약수
+```python
+def common(m, n):
+    while n != 0:
+        if m > n:
+            m = m - n
+        else:
+            n = n - m
+    return m
+num = input("두 개의 숫자를 입력해주세요: ").split()
+num = [int(i) for i in num]
+print(common(num[0],num[1]))
+```
 7 8분 공약수
+![[Pasted image 20240807101455.png|400]]
 9
 10 5분 try except else finally
 11 함수 복습
@@ -101,8 +118,51 @@ super().\_\_init__() 안에 self 넣으면 안됨\
 13 time, datetime,, if \_\_name__ = '\_\_main__'
 
 16 소수
+![[Pasted image 20240807101642.png|500]]
 17 이론
 18 \\b
 
 ## 옵시디언 복습
+1
+2 insert
+3 
+10 raise
 
+## 알고리즘 문제 예상
+###### 행렬 곱
+![[Pasted image 20240807102230.png]]
+![BOJ 11049번 <행렬 곱셈 순서> 문제 이해하기](https://velog.velcdn.com/images%2Ftreejy%2Fpost%2F5af553c0-06c0-4a4f-9895-b15f883e04d0%2Fimage.png)
+```python
+def solution(arr1, arr2):
+    answer = [[0 for _ in range(len(arr2[0]))] for _ in range(len(arr1))]
+    for i in range(len(arr1)):
+        for j in range(len(arr2[0])):
+            for k in range(len(arr1[0])):
+                answer[i][j] += (arr1[i][k] * arr2[k][j])
+    return answer
+```
+
+###### 디터미넌트
+```python
+def get_minor(matrix, j):
+    return [col[:j] + col[j+1:] for col in (matrix[1:])]
+
+def determinant(matrix):
+    # Base case for 2x2 matrix
+    if len(matrix) == 2:
+        return matrix[0][0] * matrix[1][1] - matrix[0][1] * matrix[1][0]
+
+    det = 0
+    for c in range(len(matrix)):
+        det += ((-1)**c) * matrix[0][c] * determinant(get_minor(matrix, c))
+    return det
+
+# Example usage for a 2x2 matrix
+matrix_2x2 = [[1, 2], [3, 4]]
+print(f"The determinant of the 2x2 matrix is: {determinant(matrix_2x2)}")
+
+# Example usage for a 3x3 matrix
+matrix_3x3 = [[6, 1, 1], [4, -2, 5], [2, 8, 7]]
+print(f"The determinant of the 3x3 matrix is: {determinant(matrix_3x3)}")
+
+```
