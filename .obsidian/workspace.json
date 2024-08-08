@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "52131d8c38f042fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/공부 & 정보 템플릿.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "84ef2b3a38591259",
             "type": "leaf",
             "state": {
@@ -51,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
+                "file": "Daily Notes/2024-08-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,9 +96,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44c21b668c19bc49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/서울대 카이스트 로봇 랩실 조사.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8084c97b95a90ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily notes template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dda0741d857871f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/유용한 정보.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08b4f4068a37de96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-08-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -167,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
+                "file": "Daily Notes/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
+                "file": "Daily Notes/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
+                "file": "Daily Notes/2024-08-09.md"
               }
             }
           }
@@ -232,19 +297,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7997144f426a05d4",
+  "active": "08b4f4068a37de96",
   "lastOpenFiles": [
+    "Templates/공부 & 정보 템플릿.md",
+    "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
+    "ROKEY bootcamp/DevOps/2차-SQL고급.md",
+    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
+    "개인공부/서울대 카이스트 로봇 랩실 조사.md",
+    "Templates/Daily notes template.md",
+    "개인공부/유용한 정보.md",
+    "Daily Notes/2024-08-09.md",
+    "개인공부/한화 비전 채용 정보.md",
+    "copy.jpg",
+    "Templates/C 강의 템플릿.md",
+    "Templates/knowledge template.md",
+    "개인공부/확률과 통계 계획.md",
+    "개인공부/이진수 쉽게 읽는 법.md",
+    "개인공부/우분투 지식.md",
+    "개인공부/Untitled.md",
+    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Python 강의/Python 평가 준비.md",
+    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
     "Daily Notes/attachments/lu224782nj72.tmp",
     "Daily Notes/attachments/lu224782nj6x.tmp",
     "Daily Notes/attachments/lu224782nj6s.tmp",
     "Daily Notes/attachments/lu224782nj5t.tmp",
-    "Daily Notes/2024-08-09.md",
-    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
-    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
     "Daily Notes/attachments/lu224782nidx.tmp",
     "Daily Notes/attachments/_DevOps___1차___공통__DBMS_문제.docx",
     "Daily Notes/attachments/Pasted image 20240809103416.png",
-    "ROKEY bootcamp/DevOps/2차-SQL고급.md",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809102512.png",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809102134.png",
     "ROKEY bootcamp/DevOps/DevOps 강의.md",
@@ -261,24 +341,8 @@
     "ROKEY bootcamp/DevOps/attachments/데브옵스_2_2_웹서버.pdf",
     "Daily Notes/2024-08-08.md",
     "Daily Notes/attachments/~$__3차_과제.docx",
-    "Daily Notes/2024-08-07.md",
-    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-2.pdf",
-    "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-1.pdf",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162737.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162544.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162517.png",
-    "Daily Notes/2024-07-03.md",
-    "DevOps/1차 DBMS 이해.md",
-    "DevOps/DevOps 강의.md",
-    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
-    "Daily Notes/2024-08-06.md",
-    "Daily Notes/2024-08-05.md",
-    "Daily Notes/2024-08-04.md",
-    "Daily Notes/2024-08-03.md",
-    "Daily Notes/2024-08-02.md",
-    "Daily Notes/2024-08-01.md",
-    "Daily Notes/2024-07-30.md"
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162544.png"
   ]
 }
