@@ -4,7 +4,7 @@ date: 2024-07-25
 tags:
   - "#잡지식"
   - "#개발"
-related notes:
+related notes: "[[개인 공부]]"
 ---
 
 

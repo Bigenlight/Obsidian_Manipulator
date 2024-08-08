@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/공부 & 정보 템플릿.md",
+                "file": "Templates/정보 템플릿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,19 +47,6 @@
           },
           {
             "id": "84ef2b3a38591259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7997144f426a05d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,48 +83,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "44c21b668c19bc49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/서울대 카이스트 로봇 랩실 조사.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8084c97b95a90ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily notes template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda0741d857871f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/한화 비전 채용 정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bas",
+                "query": "tag:#정보  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily notes template.md",
+                "file": "Daily Notes/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily notes template.md",
+                "file": "Daily Notes/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily notes template.md"
+                "file": "Daily Notes/2024-08-09.md"
               }
             }
           }
@@ -284,25 +232,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8084c97b95a90ce3",
+  "active": "84ef2b3a38591259",
   "lastOpenFiles": [
-    "개인공부/한화 비전 채용 정보.md",
-    "개인공부/유용한 정보.md",
-    "개인공부/확률과 통계 계획.md",
-    "Templates/Daily notes template.md",
-    "Daily Notes/2024-08-09.md",
-    "Templates/공부 & 정보 템플릿.md",
-    "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
     "ROKEY bootcamp/DevOps/2차-SQL고급.md",
-    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
-    "개인공부/서울대 카이스트 로봇 랩실 조사.md",
-    "copy.jpg",
-    "Templates/C 강의 템플릿.md",
+    "개인공부/개인 공부.md",
+    "개인공부/한화 비전 채용 정보.md",
+    "ROKEY bootcamp/Python 강의/Python 이론.md",
     "Templates/knowledge template.md",
-    "개인공부/이진수 쉽게 읽는 법.md",
+    "개인공부/서울대 카이스트 로봇 랩실 조사.md",
     "개인공부/우분투 지식.md",
-    "개인공부/Untitled.md",
+    "개인공부/유용한 정보.md",
+    "개인공부/이진수 쉽게 읽는 법.md",
+    "개인공부/확률과 통계 계획.md",
+    "개인공부/API이란.md",
+    "개인공부/Ubuntu 22.04.md",
+    "Templates/개인 공부 템플릿.md",
+    "Templates/정보 템플릿.md",
+    "Templates/C 강의 템플릿.md",
     "ROKEY bootcamp/정보.md",
+    "옵시디언공부/옵시디언 꿀팀 모음.md",
+    "Daily Notes/2024-08-09.md",
+    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
+    "Templates/Daily notes template.md",
+    "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
+    "copy.jpg",
+    "개인공부/Untitled.md",
     "ROKEY bootcamp/Python 강의/Python 평가 준비.md",
     "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
     "Daily Notes/attachments/lu224782nj72.tmp",
@@ -321,12 +275,7 @@
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809095537.png",
     "ROKEY bootcamp/DevOps/attachments/데브옵스_2차-1.pdf",
     "ROKEY bootcamp/리눅스 환경.md",
-    "ROKEY bootcamp/참고자료.md",
-    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
-    "ROKEY bootcamp/C class/C 이론.md",
-    "ROKEY bootcamp/DevOps/2차-웹서버.md",
     "ROKEY bootcamp/DevOps/attachments/데브옵스_2_2_웹서버.pdf",
-    "Daily Notes/2024-08-08.md",
     "Daily Notes/attachments/~$__3차_과제.docx",
     "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-2.pdf",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162737.png",

@@ -30,5 +30,29 @@
       ],
       "key": "="
     }
+  ],
+  "templater-obsidian:Templates/공부 & 정보 템플릿.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "templater-obsidian:Templates/정보 템플릿.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "templater-obsidian:Templates/개인 공부 템플릿.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }
