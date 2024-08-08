@@ -40,18 +40,42 @@ select * from employees where first_name='Jiyoung' and last_name='Peir';
 ![[Pasted image 20240808150811.png]]
 
 ###### between - and - 
+값의 범위로 검색, < 랑 같은 듯. 데이터가 숫자일 때만 사용 가능.
 select * from employees where emp_no between 495498 and 495599;
 ![[Pasted image 20240808151613.png]]
-
 
 select * from employees where emp_no between 495498 and 495599 order by birth_rate;
 
 select * from salaries  where salary between 60000 and 61000 order by salary desk;
 
 ###### in()
+데이터가 숫자가 아닐 때 여러개 검색.
+![[Pasted image 20240808162242.png]]
+select * from employees where first_name in ('Jiyoung', 'Zito');
 ###### like
+저번에 파이썬에서 배운 정규표현식과 비슷
+![[Pasted image 20240808162517.png]]
+![[Pasted image 20240808162439.png]]
+select * from employees where first_name like ('Z%');
+![[Pasted image 20240808162544.png|400]]
 
-###### 서브쿼ㅇ
+
+###### 서브쿼리
+###### order by - 정렬
 
 ###### group by
+
+select max(emp_no), avg(salary) from salaries group by salary;
+
+###### 집계용 함수
+![[Pasted image 20240808161204.png|500]]
+
+### 데이터 수정
+###### insert
+###### update
+###### delete
+
+
+MySQL 데이터 형식 종류 정리
+![[Pasted image 20240808162737.png]]
 
