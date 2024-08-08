@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-09",
+      "path": "Daily Notes/2024-08-09.md"
+    },
+    {
+      "basename": "2024-08-08",
+      "path": "Daily Notes/2024-08-08.md"
+    },
+    {
       "basename": "2024-08-07",
       "path": "Daily Notes/2024-08-07.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2024-07-03",
       "path": "Daily Notes/2024-07-03.md"
-    },
-    {
-      "basename": "2024-08-08",
-      "path": "Daily Notes/2024-08-08.md"
     },
     {
       "basename": "1차 DBMS 이해",
@@ -195,10 +199,6 @@
     {
       "basename": "C 02장-자료형,변수,상수,printf()",
       "path": "ROKEY bootcamp/C class/C 02장-자료형,변수,상수,printf().md"
-    },
-    {
-      "basename": "C 03장-전처리,연산자,입출력",
-      "path": "ROKEY bootcamp/C class/C 03장-전처리,연산자,입출력.md"
     }
   ],
   "omittedPaths": []

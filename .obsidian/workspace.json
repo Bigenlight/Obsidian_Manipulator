@@ -124,7 +124,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-07.md",
+                "file": "Daily Notes/2024-08-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-07.md",
+                "file": "Daily Notes/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-07.md",
+                "file": "Daily Notes/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-07.md"
+                "file": "Daily Notes/2024-08-09.md"
               }
             }
           }
@@ -282,13 +282,16 @@
   },
   "active": "84ef2b3a38591259",
   "lastOpenFiles": [
+    "Daily Notes/2024-08-08.md",
+    "Daily Notes/2024-08-09.md",
+    "Daily Notes/attachments/~$__3차_과제.docx",
+    "Daily Notes/2024-08-07.md",
     "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/리눅스 환경.md",
     "ROKEY bootcamp/참고자료.md",
     "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
     "ROKEY bootcamp/C class/C 이론.md",
-    "Daily Notes/2024-08-07.md",
     "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-2.pdf",
     "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-1.pdf",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162737.png",
@@ -306,7 +309,6 @@
     "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
     "ROKEY bootcamp/DevOps",
     "Daily Notes/2024-07-03.md",
-    "Daily Notes/2024-08-08.md",
     "Daily Notes/attachments/employees.zip",
     "DevOps/1차 DBMS 이해.md",
     "DevOps/attachments/데브옵스_1차-2.pdf",
@@ -325,8 +327,6 @@
     "Daily Notes/2024-07-30.md",
     "Daily Notes/2024-07-29.md",
     "Daily Notes/2024-07-26.md",
-    "Daily Notes/2024-07-25.md",
-    "Daily Notes/2024-07-24.md",
-    "Daily Notes/attachments/_C__3차_과제.docx"
+    "Daily Notes/2024-07-25.md"
   ]
 }
