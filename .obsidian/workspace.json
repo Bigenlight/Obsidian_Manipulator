@@ -129,20 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/유용한 정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08b4f4068a37de96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "개인공부/한화 비전 채용 정보.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -232,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "Templates/Daily notes template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "Templates/Daily notes template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-09.md"
+                "file": "Templates/Daily notes template.md"
               }
             }
           }
@@ -297,21 +284,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "08b4f4068a37de96",
+  "active": "8084c97b95a90ce3",
   "lastOpenFiles": [
+    "개인공부/한화 비전 채용 정보.md",
+    "개인공부/유용한 정보.md",
+    "개인공부/확률과 통계 계획.md",
+    "Templates/Daily notes template.md",
+    "Daily Notes/2024-08-09.md",
     "Templates/공부 & 정보 템플릿.md",
     "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
     "ROKEY bootcamp/DevOps/2차-SQL고급.md",
     "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
     "개인공부/서울대 카이스트 로봇 랩실 조사.md",
-    "Templates/Daily notes template.md",
-    "개인공부/유용한 정보.md",
-    "Daily Notes/2024-08-09.md",
-    "개인공부/한화 비전 채용 정보.md",
     "copy.jpg",
     "Templates/C 강의 템플릿.md",
     "Templates/knowledge template.md",
-    "개인공부/확률과 통계 계획.md",
     "개인공부/이진수 쉽게 읽는 법.md",
     "개인공부/우분투 지식.md",
     "개인공부/Untitled.md",

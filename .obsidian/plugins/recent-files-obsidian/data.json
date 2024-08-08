@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
+    },
+    {
+      "basename": "한화 비전 채용 정보",
+      "path": "개인공부/한화 비전 채용 정보.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "확률과 통계 계획",
+      "path": "개인공부/확률과 통계 계획.md"
+    },
+    {
       "basename": "2024-08-09",
       "path": "Daily Notes/2024-08-09.md"
     },
@@ -25,28 +41,12 @@
       "path": "개인공부/서울대 카이스트 로봇 랩실 조사.md"
     },
     {
-      "basename": "Daily notes template",
-      "path": "Templates/Daily notes template.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
-    },
-    {
-      "basename": "한화 비전 채용 정보",
-      "path": "개인공부/한화 비전 채용 정보.md"
-    },
-    {
       "basename": "C 강의 템플릿",
       "path": "Templates/C 강의 템플릿.md"
     },
     {
       "basename": "knowledge template",
       "path": "Templates/knowledge template.md"
-    },
-    {
-      "basename": "확률과 통계 계획",
-      "path": "개인공부/확률과 통계 계획.md"
     },
     {
       "basename": "이진수 쉽게 읽는 법",
