@@ -1,12 +1,4 @@
 {
-  "periodic-notes:open-daily-note": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Key23"
-    }
-  ],
   "periodic-notes:next-daily-note": [
     {
       "modifiers": [
@@ -29,6 +21,14 @@
         "Alt"
       ],
       "key": "P"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
     }
   ]
 }

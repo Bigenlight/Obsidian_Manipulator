@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "1차 DBMS 이해-MySQL",
+      "path": "ROKEY bootcamp/DevOps/1차 DBMS 이해-MySQL.md"
+    },
+    {
+      "basename": "데브옵스_1차-1",
+      "path": "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-1.pdf"
+    },
+    {
       "basename": "2024-08-08",
       "path": "Daily Notes/2024-08-08.md"
     },
     {
-      "basename": "1차 DBMS 이해",
-      "path": "DevOps/1차 DBMS 이해.md"
+      "basename": "copy",
+      "path": "copy.jpg"
     },
     {
-      "basename": "DevOps 강의",
-      "path": "DevOps/DevOps 강의.md"
+      "basename": "교육(커리큘럼) 및 학사 관리",
+      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
     },
     {
-      "basename": "두산 로보틱스 ROKEY bootcamp",
-      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+      "basename": "C 이론",
+      "path": "ROKEY bootcamp/C class/C 이론.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "2024-08-07",
@@ -23,6 +35,18 @@
     {
       "basename": "Python 평가 안내",
       "path": "ROKEY bootcamp/Python 강의/Python 평가 안내.md"
+    },
+    {
+      "basename": "참고자료",
+      "path": "ROKEY bootcamp/참고자료.md"
+    },
+    {
+      "basename": "DevOps 강의",
+      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
+    },
+    {
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
     },
     {
       "basename": "2024-08-06",
@@ -157,22 +181,6 @@
       "path": "Daily Notes/2024-07-01.md"
     },
     {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "참고자료",
-      "path": "ROKEY bootcamp/참고자료.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
-    },
-    {
-      "basename": "C 이론",
-      "path": "ROKEY bootcamp/C class/C 이론.md"
-    },
-    {
       "basename": "C 04장-조건문",
       "path": "ROKEY bootcamp/C class/C 04장-조건문.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "C 03장-전처리,연산자,입출력",
       "path": "ROKEY bootcamp/C class/C 03장-전처리,연산자,입출력.md"
-    },
-    {
-      "basename": "C 05장-반복문",
-      "path": "ROKEY bootcamp/C class/C 05장-반복문.md"
-    },
-    {
-      "basename": "C 06장-함수",
-      "path": "ROKEY bootcamp/C class/C 06장-함수.md"
     }
   ],
   "omittedPaths": []
