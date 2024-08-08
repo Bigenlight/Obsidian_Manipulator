@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "b6327f1f7ee2c1af",
+            "id": "7745a1d861c8c94f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-07.md",
+                "file": "Daily Notes/2024-08-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "36ee4781440adcf5",
+            "id": "70797600a583f8cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강-딕셔너리,집합.md",
+                "file": "ROKEY bootcamp/참고자료.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +59,38 @@
             }
           },
           {
-            "id": "c43c3469a0516f59",
+            "id": "258f429dced42d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 08강-리스트,튜플.md",
+                "file": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa93bd0e0af5c6be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/C class/C 이론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7005ced5a8b54a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/C class/C 이론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,9 +109,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14d820a822c7276c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "두산",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-07.md",
+                "file": "Daily Notes/2024-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-07.md",
+                "file": "Daily Notes/2024-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-07.md"
+                "file": "Daily Notes/2024-08-08.md"
               }
             }
           }
@@ -233,47 +272,47 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84ef2b3a38591259",
+  "active": "7745a1d861c8c94f",
   "lastOpenFiles": [
-    "Templates/Daily notes template.md",
     "Daily Notes/2024-08-07.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강-딕셔너리,집합.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 08강-리스트,튜플.md",
-    "ROKEY bootcamp/Python 강의/Python 평가 준비.md",
+    "Daily Notes/2024-08-08.md",
+    "Daily Notes/2024-08-06.md",
     "Daily Notes/2024-08-05.md",
+    "Daily Notes/2024-08-04.md",
+    "Daily Notes/2024-08-03.md",
+    "Daily Notes/2024-08-02.md",
+    "Daily Notes/2024-08-01.md",
+    "Daily Notes/2024-07-30.md",
+    "Daily Notes/2024-07-29.md",
+    "Daily Notes/2024-07-26.md",
+    "Daily Notes/2024-07-25.md",
+    "Daily Notes/2024-07-24.md",
+    "Daily Notes/2024-07-23.md",
+    "Daily Notes/2024-07-22.md",
+    "Daily Notes/2024-07-21.md",
+    "Daily Notes/2024-07-20.md",
+    "Daily Notes/2024-07-19.md",
+    "Daily Notes/2024-07-18.md",
+    "Daily Notes/2024-07-17.md",
+    "Daily Notes/2024-07-16.md",
+    "Daily Notes/2024-07-15.md",
+    "Daily Notes/2024-07-13.md",
+    "Daily Notes/2024-07-12.md",
+    "Daily Notes/2024-07-11.md",
+    "Daily Notes/2024-07-10.md",
+    "Daily Notes/attachments/_C__3차_과제.docx",
+    "Daily Notes/attachments/_C__4차_과제.docx",
+    "Daily Notes/attachments/_C__5차_과제.docx",
+    "ROKEY bootcamp/C class/attachments/C_4-1차.pdf",
+    "ROKEY bootcamp/C class/attachments/C_4-2차.pdf",
+    "ROKEY bootcamp/C class/attachments/C_5-1차.pdf",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807102230.png",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807101642.png",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807101455.png",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md",
-    "ROKEY bootcamp/Python 강의/Python 이론.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강-이터&제네리터.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 09강-파일.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 07강-반복문.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 06강-함수.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 05강 문자열, 인코디코.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 04강 조건문,비교연산,논리연산.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 03강-변수,출력,input.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 02강-자료형.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 01강.md",
-    "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/리눅스 환경.md",
-    "Daily Notes/2024-08-06.md",
     "ROKEY bootcamp/C class/attachments/C_3-1차.pdf",
     "ROKEY bootcamp/C class/attachments/C_3-2차.pdf",
     "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.read.2.tlog",
     "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/CL.write.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/CL.read.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/c01.obj",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/unsuccessfulbuild",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.17384.read.1.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.17384.read.2.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.17384-cvtres.write.1.tlog",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161933.png",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161820.png",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161654.png",
