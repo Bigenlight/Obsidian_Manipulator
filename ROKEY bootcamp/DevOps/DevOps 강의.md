@@ -1,1 +1,5 @@
-[[1차 DBMS 이해-MySQL]]
+DevOps
+데이터베이스 서버
+
+[[1차 MySQL 설치 및 실행]]
+[[1차 DBMS 개요와 MySQL 소개]]

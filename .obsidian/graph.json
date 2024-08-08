@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 14048454
       }
+    },
+    {
+      "query": "line:(DevOps)",
+      "color": {
+        "a": 1,
+        "rgb": 10263799
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.8233748585243226,
+  "scale": 0.661679732311881,
   "close": false
 }
