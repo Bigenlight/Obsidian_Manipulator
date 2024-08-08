@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "d025eab78edacda4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/1차 DBMS 이해.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7745a1d861c8c94f",
             "type": "leaf",
             "state": {
@@ -124,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,8 +191,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,7 +286,15 @@
   },
   "active": "7745a1d861c8c94f",
   "lastOpenFiles": [
+    "DevOps/1차 DBMS 이해.md",
+    "DevOps/attachments/데브옵스_1차-2.pdf",
+    "DevOps/attachments/데브옵스_1차-1.pdf",
+    "DevOps/attachments",
+    "DevOps/DevOps 강의.md",
+    "DevOps",
+    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "Daily Notes/2024-08-07.md",
+    "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
     "Daily Notes/2024-08-08.md",
     "Daily Notes/2024-08-06.md",
     "Daily Notes/2024-08-05.md",
@@ -295,11 +315,6 @@
     "Daily Notes/2024-07-18.md",
     "Daily Notes/2024-07-17.md",
     "Daily Notes/2024-07-16.md",
-    "Daily Notes/2024-07-15.md",
-    "Daily Notes/2024-07-13.md",
-    "Daily Notes/2024-07-12.md",
-    "Daily Notes/2024-07-11.md",
-    "Daily Notes/2024-07-10.md",
     "Daily Notes/attachments/_C__3차_과제.docx",
     "Daily Notes/attachments/_C__4차_과제.docx",
     "Daily Notes/attachments/_C__5차_과제.docx",
@@ -309,10 +324,6 @@
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807102230.png",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807101642.png",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807101455.png",
-    "ROKEY bootcamp/C class/attachments/C_3-1차.pdf",
-    "ROKEY bootcamp/C class/attachments/C_3-2차.pdf",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/link.read.2.tlog",
-    "ROKEY bootcamp/C class/codes/Project1/Project1/x64/Debug/Project1.tlog/CL.write.1.tlog",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161933.png",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161820.png",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161654.png",
