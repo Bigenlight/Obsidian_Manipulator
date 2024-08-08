@@ -1,68 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-07",
+      "path": "Daily Notes/2024-08-07.md"
+    },
+    {
       "basename": "1차 DBMS 개요와 MySQL 소개",
       "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
-    },
-    {
-      "basename": "2024-08-08",
-      "path": "Daily Notes/2024-08-08.md"
-    },
-    {
-      "basename": "1차 MySQL 설치 및 실행",
-      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
-    },
-    {
-      "basename": "DevOps 강의",
-      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
-    },
-    {
-      "basename": "우분투 지식",
-      "path": "개인공부/우분투 지식.md"
     },
     {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
     },
     {
-      "basename": "C 이론",
-      "path": "ROKEY bootcamp/C class/C 이론.md"
-    },
-    {
-      "basename": "C 강의",
-      "path": "ROKEY bootcamp/C class/C 강의.md"
-    },
-    {
-      "basename": "9회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/9회차 실습.md"
-    },
-    {
-      "basename": "데브옵스_1차-1",
-      "path": "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-1.pdf"
-    },
-    {
-      "basename": "copy",
-      "path": "copy.jpg"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
-    },
-    {
-      "basename": "2024-08-07",
-      "path": "Daily Notes/2024-08-07.md"
-    },
-    {
-      "basename": "Python 평가 안내",
-      "path": "ROKEY bootcamp/Python 강의/Python 평가 안내.md"
+      "basename": "리눅스 환경",
+      "path": "ROKEY bootcamp/리눅스 환경.md"
     },
     {
       "basename": "참고자료",
       "path": "ROKEY bootcamp/참고자료.md"
     },
     {
+      "basename": "교육(커리큘럼) 및 학사 관리",
+      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
+    },
+    {
+      "basename": "C 이론",
+      "path": "ROKEY bootcamp/C class/C 이론.md"
+    },
+    {
+      "basename": "2024-07-03",
+      "path": "Daily Notes/2024-07-03.md"
+    },
+    {
+      "basename": "2024-08-08",
+      "path": "Daily Notes/2024-08-08.md"
+    },
+    {
+      "basename": "1차 DBMS 이해",
+      "path": "DevOps/1차 DBMS 이해.md"
+    },
+    {
+      "basename": "DevOps 강의",
+      "path": "DevOps/DevOps 강의.md"
+    },
+    {
       "basename": "두산 로보틱스 ROKEY bootcamp",
       "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "Python 평가 안내",
+      "path": "ROKEY bootcamp/Python 강의/Python 평가 안내.md"
     },
     {
       "basename": "2024-08-06",
@@ -185,10 +173,6 @@
       "path": "Daily Notes/2024-07-04.md"
     },
     {
-      "basename": "2024-07-03",
-      "path": "Daily Notes/2024-07-03.md"
-    },
-    {
       "basename": "2024-07-02",
       "path": "Daily Notes/2024-07-02.md"
     },
@@ -199,6 +183,22 @@
     {
       "basename": "C 04장-조건문",
       "path": "ROKEY bootcamp/C class/C 04장-조건문.md"
+    },
+    {
+      "basename": "C 강의 템플릿",
+      "path": "Templates/C 강의 템플릿.md"
+    },
+    {
+      "basename": "C 01장",
+      "path": "ROKEY bootcamp/C class/C 01장.md"
+    },
+    {
+      "basename": "C 02장-자료형,변수,상수,printf()",
+      "path": "ROKEY bootcamp/C class/C 02장-자료형,변수,상수,printf().md"
+    },
+    {
+      "basename": "C 03장-전처리,연산자,입출력",
+      "path": "ROKEY bootcamp/C class/C 03장-전처리,연산자,입출력.md"
     }
   ],
   "omittedPaths": []

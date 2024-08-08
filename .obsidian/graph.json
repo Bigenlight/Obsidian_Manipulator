@@ -53,7 +53,7 @@
       "query": "line:(DevOps)",
       "color": {
         "a": 1,
-        "rgb": 10263799
+        "rgb": 6053078
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.661679732311881,
-  "close": false
+  "scale": 0.6795369479909876,
+  "close": true
 }
