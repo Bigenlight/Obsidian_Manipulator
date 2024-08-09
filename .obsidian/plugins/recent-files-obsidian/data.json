@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2차-SQL고급",
+      "path": "ROKEY bootcamp/DevOps/2차-SQL고급.md"
+    },
+    {
+      "basename": "1차 DBMS 개요와 MySQL 소개",
+      "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
+    },
+    {
+      "basename": "DevOps 강의",
+      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
+    },
+    {
       "basename": "2024-08-09",
       "path": "Daily Notes/2024-08-09.md"
     },
     {
-      "basename": "2차-SQL고급",
-      "path": "ROKEY bootcamp/DevOps/2차-SQL고급.md"
+      "basename": "1차 MySQL 설치 및 실행",
+      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
+    },
+    {
+      "basename": "2024-07-03",
+      "path": "Daily Notes/2024-07-03.md"
+    },
+    {
+      "basename": "정보 템플릿",
+      "path": "Templates/정보 템플릿.md"
     },
     {
       "basename": "개인 공부",
@@ -57,10 +77,6 @@
       "path": "Templates/개인 공부 템플릿.md"
     },
     {
-      "basename": "정보 템플릿",
-      "path": "Templates/정보 템플릿.md"
-    },
-    {
       "basename": "C 강의 템플릿",
       "path": "Templates/C 강의 템플릿.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "옵시디언 꿀팀 모음",
       "path": "옵시디언공부/옵시디언 꿀팀 모음.md"
-    },
-    {
-      "basename": "1차 MySQL 설치 및 실행",
-      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
     },
     {
       "basename": "Daily notes template",
@@ -91,14 +103,6 @@
     {
       "basename": "Python 평가 준비",
       "path": "ROKEY bootcamp/Python 강의/Python 평가 준비.md"
-    },
-    {
-      "basename": "1차 DBMS 개요와 MySQL 소개",
-      "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
-    },
-    {
-      "basename": "DevOps 강의",
-      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
     },
     {
       "basename": "데브옵스_2차-1",
@@ -131,10 +135,6 @@
     {
       "basename": "2024-08-07",
       "path": "Daily Notes/2024-08-07.md"
-    },
-    {
-      "basename": "2024-07-03",
-      "path": "Daily Notes/2024-07-03.md"
     },
     {
       "basename": "1차 DBMS 이해",

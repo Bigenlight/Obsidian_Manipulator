@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "52131d8c38f042fe",
+            "id": "398b888ebd834dc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/정보 템플릿.md",
+                "file": "ROKEY bootcamp/DevOps/DevOps 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "84ef2b3a38591259",
+            "id": "b57931b3da07d97f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,20 +59,7 @@
             }
           },
           {
-            "id": "97e6cf320002051e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d674f50c9bb1df13",
+            "id": "586db85b67247bd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,9 +70,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "302d02c70e3ff0f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-08-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "ROKEY bootcamp/DevOps/2차-SQL고급.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "ROKEY bootcamp/DevOps/2차-SQL고급.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-09.md"
+                "file": "ROKEY bootcamp/DevOps/2차-SQL고급.md"
               }
             }
           }
@@ -232,9 +232,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84ef2b3a38591259",
+  "active": "586db85b67247bd0",
   "lastOpenFiles": [
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809162912.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809162519.png",
+    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809161548.png",
     "ROKEY bootcamp/DevOps/2차-SQL고급.md",
+    "ROKEY bootcamp/DevOps/DevOps 강의.md",
+    "Daily Notes/2024-08-09.md",
+    "Daily Notes/attachments/lu42083m44.tmp",
+    "Daily Notes/attachments/lu42083m3z.tmp",
+    "Daily Notes/attachments/lu42083m3u.tmp",
+    "Daily Notes/attachments/lu42083m3p.tmp",
+    "Daily Notes/attachments/lu42083lvq.tmp",
+    "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-2 1.pdf",
+    "ROKEY bootcamp/DevOps/attachments/devops_code.sql",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809145226.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809145103.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809145037.png",
+    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
+    "Daily Notes/2024-07-03.md",
+    "Templates/정보 템플릿.md",
     "개인공부/개인 공부.md",
     "개인공부/한화 비전 채용 정보.md",
     "ROKEY bootcamp/Python 강의/Python 이론.md",
@@ -247,38 +266,19 @@
     "개인공부/API이란.md",
     "개인공부/Ubuntu 22.04.md",
     "Templates/개인 공부 템플릿.md",
-    "Templates/정보 템플릿.md",
     "Templates/C 강의 템플릿.md",
     "ROKEY bootcamp/정보.md",
     "옵시디언공부/옵시디언 꿀팀 모음.md",
-    "Daily Notes/2024-08-09.md",
-    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
     "Templates/Daily notes template.md",
     "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
     "copy.jpg",
     "개인공부/Untitled.md",
-    "ROKEY bootcamp/Python 강의/Python 평가 준비.md",
-    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
     "Daily Notes/attachments/lu224782nj72.tmp",
     "Daily Notes/attachments/lu224782nj6x.tmp",
     "Daily Notes/attachments/lu224782nj6s.tmp",
-    "Daily Notes/attachments/lu224782nj5t.tmp",
-    "Daily Notes/attachments/lu224782nidx.tmp",
-    "Daily Notes/attachments/_DevOps___1차___공통__DBMS_문제.docx",
     "Daily Notes/attachments/Pasted image 20240809103416.png",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809102512.png",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809102134.png",
-    "ROKEY bootcamp/DevOps/DevOps 강의.md",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809101127.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809095848.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809095618.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809095537.png",
-    "ROKEY bootcamp/DevOps/attachments/데브옵스_2차-1.pdf",
-    "ROKEY bootcamp/리눅스 환경.md",
-    "ROKEY bootcamp/DevOps/attachments/데브옵스_2_2_웹서버.pdf",
-    "Daily Notes/attachments/~$__3차_과제.docx",
-    "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-2.pdf",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162737.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162544.png"
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809101127.png"
   ]
 }
