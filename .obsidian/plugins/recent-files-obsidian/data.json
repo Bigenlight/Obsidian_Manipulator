@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-09",
-      "path": "Daily Notes/2024-08-09.md"
-    },
-    {
-      "basename": "2024-08-08",
-      "path": "Daily Notes/2024-08-08.md"
-    },
-    {
-      "basename": "2024-08-07",
-      "path": "Daily Notes/2024-08-07.md"
-    },
-    {
       "basename": "1차 DBMS 개요와 MySQL 소개",
       "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
     },
     {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
+      "basename": "2024-08-09",
+      "path": "Daily Notes/2024-08-09.md"
+    },
+    {
+      "basename": "1차 MySQL 설치 및 실행",
+      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
+    },
+    {
+      "basename": "2차-SQL고급",
+      "path": "ROKEY bootcamp/DevOps/2차-SQL고급.md"
+    },
+    {
+      "basename": "DevOps 강의",
+      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
+    },
+    {
+      "basename": "데브옵스_2차-1",
+      "path": "ROKEY bootcamp/DevOps/attachments/데브옵스_2차-1.pdf"
     },
     {
       "basename": "리눅스 환경",
@@ -35,6 +39,22 @@
     {
       "basename": "C 이론",
       "path": "ROKEY bootcamp/C class/C 이론.md"
+    },
+    {
+      "basename": "2차-웹서버",
+      "path": "ROKEY bootcamp/DevOps/2차-웹서버.md"
+    },
+    {
+      "basename": "2024-08-08",
+      "path": "Daily Notes/2024-08-08.md"
+    },
+    {
+      "basename": "2024-08-07",
+      "path": "Daily Notes/2024-08-07.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "2024-07-03",
@@ -179,26 +199,6 @@
     {
       "basename": "2024-07-02",
       "path": "Daily Notes/2024-07-02.md"
-    },
-    {
-      "basename": "2024-07-01",
-      "path": "Daily Notes/2024-07-01.md"
-    },
-    {
-      "basename": "C 04장-조건문",
-      "path": "ROKEY bootcamp/C class/C 04장-조건문.md"
-    },
-    {
-      "basename": "C 강의 템플릿",
-      "path": "Templates/C 강의 템플릿.md"
-    },
-    {
-      "basename": "C 01장",
-      "path": "ROKEY bootcamp/C class/C 01장.md"
-    },
-    {
-      "basename": "C 02장-자료형,변수,상수,printf()",
-      "path": "ROKEY bootcamp/C class/C 02장-자료형,변수,상수,printf().md"
     }
   ],
   "omittedPaths": []

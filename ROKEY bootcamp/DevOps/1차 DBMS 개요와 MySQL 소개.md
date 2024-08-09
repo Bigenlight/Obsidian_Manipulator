@@ -79,3 +79,6 @@ select max(emp_no), avg(salary) from salaries group by salary;
 MySQL 데이터 형식 종류 정리
 ![[Pasted image 20240808162737.png]]
 
+
+499999 직원들 월급 10퍼 인상 시키기
+UPDATE salaries SET salary = salary * 1.10 WHERE emp_no =499999;

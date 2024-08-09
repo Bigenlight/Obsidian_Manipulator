@@ -23,99 +23,13 @@
             }
           },
           {
-            "id": "00e2b63686fec08e",
+            "id": "9d610b47d0f07964",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
               "pinned": true
-            }
-          },
-          {
-            "id": "204201bcad933ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d025eab78edacda4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7745a1d861c8c94f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/리눅스 환경.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70797600a583f8cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/참고자료.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "258f429dced42d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa93bd0e0af5c6be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/C class/C 이론.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7005ced5a8b54a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/C class/C 이론.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           },
           {
@@ -130,9 +44,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7997144f426a05d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97e6cf320002051e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d674f50c9bb1df13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/DevOps/2차-SQL고급.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,12 +139,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ed06cea5a27a30bc",
@@ -215,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-09.md"
+                "file": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
               }
             }
           }
@@ -280,42 +232,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84ef2b3a38591259",
+  "active": "7997144f426a05d4",
   "lastOpenFiles": [
-    "Daily Notes/2024-08-08.md",
+    "Daily Notes/attachments/lu224782nj72.tmp",
+    "Daily Notes/attachments/lu224782nj6x.tmp",
+    "Daily Notes/attachments/lu224782nj6s.tmp",
+    "Daily Notes/attachments/lu224782nj5t.tmp",
     "Daily Notes/2024-08-09.md",
-    "Daily Notes/attachments/~$__3차_과제.docx",
-    "Daily Notes/2024-08-07.md",
     "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
-    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
+    "Daily Notes/attachments/lu224782nidx.tmp",
+    "Daily Notes/attachments/_DevOps___1차___공통__DBMS_문제.docx",
+    "Daily Notes/attachments/Pasted image 20240809103416.png",
+    "ROKEY bootcamp/DevOps/2차-SQL고급.md",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809102512.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809102134.png",
+    "ROKEY bootcamp/DevOps/DevOps 강의.md",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809101127.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809095848.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809095618.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240809095537.png",
+    "ROKEY bootcamp/DevOps/attachments/데브옵스_2차-1.pdf",
     "ROKEY bootcamp/리눅스 환경.md",
     "ROKEY bootcamp/참고자료.md",
     "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
     "ROKEY bootcamp/C class/C 이론.md",
+    "ROKEY bootcamp/DevOps/2차-웹서버.md",
+    "ROKEY bootcamp/DevOps/attachments/데브옵스_2_2_웹서버.pdf",
+    "Daily Notes/2024-08-08.md",
+    "Daily Notes/attachments/~$__3차_과제.docx",
+    "Daily Notes/2024-08-07.md",
+    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-2.pdf",
     "ROKEY bootcamp/DevOps/attachments/데브옵스_1차-1.pdf",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162737.png",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162544.png",
     "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162517.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162439.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808162242.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808161204.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808151613.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808150811.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808150759.png",
-    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240808143417.png",
-    "ROKEY bootcamp/DevOps/DevOps 강의.md",
-    "ROKEY bootcamp/DevOps/attachments",
-    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
-    "ROKEY bootcamp/DevOps",
     "Daily Notes/2024-07-03.md",
-    "Daily Notes/attachments/employees.zip",
     "DevOps/1차 DBMS 이해.md",
-    "DevOps/attachments/데브옵스_1차-2.pdf",
-    "DevOps/attachments/데브옵스_1차-1.pdf",
-    "DevOps/attachments",
     "DevOps/DevOps 강의.md",
-    "DevOps",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "ROKEY bootcamp/Python 강의/Python 평가 안내.md",
     "Daily Notes/2024-08-06.md",
@@ -324,9 +279,6 @@
     "Daily Notes/2024-08-03.md",
     "Daily Notes/2024-08-02.md",
     "Daily Notes/2024-08-01.md",
-    "Daily Notes/2024-07-30.md",
-    "Daily Notes/2024-07-29.md",
-    "Daily Notes/2024-07-26.md",
-    "Daily Notes/2024-07-25.md"
+    "Daily Notes/2024-07-30.md"
   ]
 }
