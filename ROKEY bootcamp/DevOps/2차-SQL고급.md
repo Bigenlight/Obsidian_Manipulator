@@ -11,6 +11,10 @@ sudo mysql -u root
 ##### 날짜와 시간
 ![[Pasted image 20240809095848.png]]
 
+## 이너, 아우터 조인
+- **INNER JOIN**: 두 테이블 간에 공통된 값이 있는 행들만 포함.
+- **OUTER JOIN**: 모든 행을 포함하지만, 일치하지 않는 경우 `NULL`로 표시.
+
 if
 select if (100>200, '오', '안됑');
 ![[Pasted image 20240809101127.png|300]]
@@ -138,3 +142,33 @@ SELECT * FROM v_usertbl; -- 뷰를 테이블이라고 생각해도 무방
 ###### 뷰의 장점
 - 보안에 도움 됨
 - 사용자 입장에 간단한 쿼리로 이용 가능
+
+
+# 실습을 통해 알게 된 것
+1번 문제
+서로 테이블에 맞는 열이 없어 어떻게 조인하나 했는데
+그냥 중간다리를 만들면 됨.
+이를 통해 서로 연결 되있지 않은 직원과 부서명 테이블이 연결 됨.
+```sql
+SELECT a.first_name, a.last_name, b.dept_name
+FROM employees a
+JOIN dept_emp c ON a.emp_no = c.emp_no
+JOIN departments b ON c.dept_no = b.dept_no;
+
+```
+
+5번 문제
+###### 테이블 복사
+CREATE TABLE employees_copy LIKE employees; -- 구조만 복사 됨
+CREATE TABLE employees_copy AS SELECT * FROM employees; -- 데이터까지 복사
+
+6번 문제
+###### 유일한 값 조사
+SELECT DISTINCT first_name, last_name  FROM employees_copy;
+이를 이용한 중복값 제거는 나중에
+
+###### 날짜 사용
+UPDATE employees_copy
+SET salary = salary + 500
+WHERE hire_date = '1997-11-30';
+날짜는 '  ' 안에 지정해야 함.
