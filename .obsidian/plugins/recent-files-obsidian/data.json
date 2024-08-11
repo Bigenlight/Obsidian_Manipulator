@@ -1,80 +1,180 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-12",
-      "path": "Daily Notes/2024-08-12.md"
+      "basename": "2024-08-10",
+      "path": "Daily Notes/2024-08-10.md"
     },
     {
-      "basename": "2024-08-09",
-      "path": "Daily Notes/2024-08-09.md"
+      "basename": "C 07장-배열",
+      "path": "ROKEY bootcamp/C class/C 07장-배열.md"
     },
     {
-      "basename": "2차-SQL고급",
-      "path": "ROKEY bootcamp/DevOps/2차-SQL고급.md"
+      "basename": "C 이론",
+      "path": "ROKEY bootcamp/C class/C 이론.md"
     },
     {
-      "basename": "주간 과제 - 쇼핑몰 데이터베이스",
-      "path": "ROKEY bootcamp/DevOps/주간 과제 - 쇼핑몰 데이터베이스.md"
+      "basename": "C 03장-전처리,연산자,입출력",
+      "path": "ROKEY bootcamp/C class/C 03장-전처리,연산자,입출력.md"
+    },
+    {
+      "basename": "2024-08-11",
+      "path": "Daily Notes/2024-08-11.md"
+    },
+    {
+      "basename": "C 06장-함수",
+      "path": "ROKEY bootcamp/C class/C 06장-함수.md"
+    },
+    {
+      "basename": "C 01장",
+      "path": "ROKEY bootcamp/C class/C 01장.md"
     },
     {
       "basename": "DevOps 강의",
       "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
     },
     {
-      "basename": "1차 DBMS 개요와 MySQL 소개",
-      "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
-    },
-    {
-      "basename": "Daily notes template",
-      "path": "Templates/Daily notes template.md"
+      "basename": "2차-SQL고급",
+      "path": "ROKEY bootcamp/DevOps/2차-SQL고급.md"
     },
     {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
     },
     {
-      "basename": "1차 MySQL 설치 및 실행",
-      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
+      "basename": "2024-08-07",
+      "path": "Daily Notes/2024-08-07.md"
     },
     {
-      "basename": "2024-07-03",
-      "path": "Daily Notes/2024-07-03.md"
+      "basename": "Python 평가 준비",
+      "path": "ROKEY bootcamp/Python 강의/Python 평가 준비.md"
     },
     {
-      "basename": "정보 템플릿",
-      "path": "Templates/정보 템플릿.md"
+      "basename": "Python 08강-리스트,튜플",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 08강-리스트,튜플.md"
     },
     {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
+      "basename": "Python 11강-딕셔너리,집합",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강-딕셔너리,집합.md"
     },
     {
-      "basename": "한화 비전 채용 정보",
-      "path": "개인공부/한화 비전 채용 정보.md"
+      "basename": "2024-08-05",
+      "path": "Daily Notes/2024-08-05.md"
+    },
+    {
+      "basename": "Python 13강-모듈",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md"
     },
     {
       "basename": "Python 이론",
       "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     },
     {
-      "basename": "knowledge template",
-      "path": "Templates/knowledge template.md"
+      "basename": "Python 14강-시퀀스",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md"
+    },
+    {
+      "basename": "Python 15강-그래픽스",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md"
+    },
+    {
+      "basename": "Python 16강-람다",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md"
+    },
+    {
+      "basename": "Python 17강-이터&제네리터",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강-이터&제네리터.md"
+    },
+    {
+      "basename": "Python 18강-정규표현식,코루틴",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
+    },
+    {
+      "basename": "Python 12강-클래스",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md"
+    },
+    {
+      "basename": "Python 10강-예외처리",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md"
+    },
+    {
+      "basename": "Python 09강-파일",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 09강-파일.md"
+    },
+    {
+      "basename": "Python 07강-반복문",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 07강-반복문.md"
+    },
+    {
+      "basename": "Python 06강-함수",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 06강-함수.md"
+    },
+    {
+      "basename": "Python 05강 문자열, 인코디코",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 05강 문자열, 인코디코.md"
+    },
+    {
+      "basename": "Python 04강 조건문,비교연산,논리연산",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 04강 조건문,비교연산,논리연산.md"
+    },
+    {
+      "basename": "Python 03강-변수,출력,input",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 03강-변수,출력,input.md"
+    },
+    {
+      "basename": "Python 02강-자료형",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 02강-자료형.md"
+    },
+    {
+      "basename": "Python 01강",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 01강.md"
+    },
+    {
+      "basename": "리눅스 환경",
+      "path": "ROKEY bootcamp/리눅스 환경.md"
+    },
+    {
+      "basename": "2024-08-06",
+      "path": "Daily Notes/2024-08-06.md"
+    },
+    {
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "2024-08-04",
+      "path": "Daily Notes/2024-08-04.md"
+    },
+    {
+      "basename": "이진수 쉽게 읽는 법",
+      "path": "개인공부/이진수 쉽게 읽는 법.md"
     },
     {
       "basename": "서울대 카이스트 로봇 랩실 조사",
       "path": "개인공부/서울대 카이스트 로봇 랩실 조사.md"
     },
     {
-      "basename": "우분투 지식",
-      "path": "개인공부/우분투 지식.md"
+      "basename": "C 05장-반복문",
+      "path": "ROKEY bootcamp/C class/C 05장-반복문.md"
     },
     {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
+      "basename": "Untitled",
+      "path": "ROKEY bootcamp/Python 강의/Untitled.md"
     },
     {
-      "basename": "이진수 쉽게 읽는 법",
-      "path": "개인공부/이진수 쉽게 읽는 법.md"
+      "basename": "1회차 실습",
+      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/1회차 실습.md"
+    },
+    {
+      "basename": "2024-08-03",
+      "path": "Daily Notes/2024-08-03.md"
+    },
+    {
+      "basename": "C 04장-조건문",
+      "path": "ROKEY bootcamp/C class/C 04장-조건문.md"
+    },
+    {
+      "basename": "2024-08-02",
+      "path": "Daily Notes/2024-08-02.md"
     },
     {
       "basename": "확률과 통계 계획",
@@ -85,120 +185,16 @@
       "path": "개인공부/API이란.md"
     },
     {
-      "basename": "Ubuntu 22.04",
-      "path": "개인공부/Ubuntu 22.04.md"
-    },
-    {
-      "basename": "개인 공부 템플릿",
-      "path": "Templates/개인 공부 템플릿.md"
+      "basename": "C 02장-자료형,변수,상수,printf()",
+      "path": "ROKEY bootcamp/C class/C 02장-자료형,변수,상수,printf().md"
     },
     {
       "basename": "C 강의 템플릿",
       "path": "Templates/C 강의 템플릿.md"
     },
     {
-      "basename": "옵시디언 꿀팀 모음",
-      "path": "옵시디언공부/옵시디언 꿀팀 모음.md"
-    },
-    {
-      "basename": "Python 평가 안내",
-      "path": "ROKEY bootcamp/Python 강의/Python 평가 안내.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "개인공부/Untitled.md"
-    },
-    {
-      "basename": "Python 평가 준비",
-      "path": "ROKEY bootcamp/Python 강의/Python 평가 준비.md"
-    },
-    {
-      "basename": "데브옵스_2차-1",
-      "path": "ROKEY bootcamp/DevOps/attachments/데브옵스_2차-1.pdf"
-    },
-    {
-      "basename": "리눅스 환경",
-      "path": "ROKEY bootcamp/리눅스 환경.md"
-    },
-    {
-      "basename": "참고자료",
-      "path": "ROKEY bootcamp/참고자료.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
-    },
-    {
-      "basename": "C 이론",
-      "path": "ROKEY bootcamp/C class/C 이론.md"
-    },
-    {
-      "basename": "2차-웹서버",
-      "path": "ROKEY bootcamp/DevOps/2차-웹서버.md"
-    },
-    {
-      "basename": "2024-08-08",
-      "path": "Daily Notes/2024-08-08.md"
-    },
-    {
-      "basename": "2024-08-07",
-      "path": "Daily Notes/2024-08-07.md"
-    },
-    {
-      "basename": "1차 DBMS 이해",
-      "path": "DevOps/1차 DBMS 이해.md"
-    },
-    {
-      "basename": "DevOps 강의",
-      "path": "DevOps/DevOps 강의.md"
-    },
-    {
-      "basename": "두산 로보틱스 ROKEY bootcamp",
-      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
-    },
-    {
-      "basename": "2024-08-06",
-      "path": "Daily Notes/2024-08-06.md"
-    },
-    {
-      "basename": "2024-08-05",
-      "path": "Daily Notes/2024-08-05.md"
-    },
-    {
-      "basename": "2024-08-04",
-      "path": "Daily Notes/2024-08-04.md"
-    },
-    {
-      "basename": "2024-08-03",
-      "path": "Daily Notes/2024-08-03.md"
-    },
-    {
-      "basename": "2024-08-02",
-      "path": "Daily Notes/2024-08-02.md"
-    },
-    {
       "basename": "2024-08-01",
       "path": "Daily Notes/2024-08-01.md"
-    },
-    {
-      "basename": "2024-07-30",
-      "path": "Daily Notes/2024-07-30.md"
-    },
-    {
-      "basename": "2024-07-29",
-      "path": "Daily Notes/2024-07-29.md"
-    },
-    {
-      "basename": "2024-07-26",
-      "path": "Daily Notes/2024-07-26.md"
-    },
-    {
-      "basename": "2024-07-25",
-      "path": "Daily Notes/2024-07-25.md"
-    },
-    {
-      "basename": "2024-07-24",
-      "path": "Daily Notes/2024-07-24.md"
     }
   ],
   "omittedPaths": []
