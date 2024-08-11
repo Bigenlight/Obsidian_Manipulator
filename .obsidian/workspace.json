@@ -33,51 +33,38 @@
             }
           },
           {
+            "id": "afffc6d35dc67e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/DevOps/DevOps 강의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f57481c062b71146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/DevOps/3차.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8fa6b1fbb94a7cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3e5e098d62df05c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25ab66c39f117ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/C class/C 07장-배열.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e419f812f321c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-10.md",
+                "file": "Daily Notes/2024-08-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-10.md",
+                "file": "Daily Notes/2024-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-10.md",
+                "file": "Daily Notes/2024-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-10.md"
+                "file": "Daily Notes/2024-08-12.md"
               }
             }
           }
@@ -234,25 +221,27 @@
   },
   "active": "8fa6b1fbb94a7cec",
   "lastOpenFiles": [
+    "ROKEY bootcamp/DevOps/3차.md",
+    "ROKEY bootcamp/DevOps/DevOps 강의.md",
+    "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
+    "ROKEY bootcamp/DevOps/attachments/DevOps프로그래밍_3차.pdf",
+    "Daily Notes/2024-08-12.md",
+    "Daily Notes/2024-08-11.md",
+    "Daily Notes/2024-08-10.md",
+    "desktop.ini",
     "ROKEY bootcamp/C class/C 07장-배열.md",
     "ROKEY bootcamp/C class/codes/C_3/C_3/x64/Debug/C_3.tlog/link.read.2.tlog",
     "ROKEY bootcamp/C class/codes/C_3/C_3/x64/Debug/C_3.tlog/unsuccessfulbuild",
     "ROKEY bootcamp/C class/codes/C_3/C_3/x64/Debug/5_1.obj",
     "ROKEY bootcamp/C class/C 이론.md",
     "ROKEY bootcamp/C class/C 03장-전처리,연산자,입출력.md",
-    "Daily Notes/2024-08-10.md",
     "ROKEY bootcamp/C class/codes/C_3/C_3/4pmqggqy.frf~",
     "ROKEY bootcamp/C class/codes/C_3/enc_temp_folder/3ba8561daf52613949a020df38e989/5_1.cpp",
     "ROKEY bootcamp/C class/codes/C_3/enc_temp_folder/3ba8561daf52613949a020df38e989",
     "ROKEY bootcamp/C class/codes/C_3/enc_temp_folder",
     "ROKEY bootcamp/C class/codes/C_3/C_3/snfzon1l.q32~",
-    "ROKEY bootcamp/C class/codes/C_3/C_3/kfniakdb.zvi~",
-    "ROKEY bootcamp/C class/codes/C_3/C_3/bmhxpubs.0em~",
-    "Daily Notes/2024-08-12.md",
-    "Daily Notes/2024-08-11.md",
     "ROKEY bootcamp/C class/C 06장-함수.md",
     "ROKEY bootcamp/C class/C 01장.md",
-    "ROKEY bootcamp/DevOps/DevOps 강의.md",
     "ROKEY bootcamp/DevOps/2차-SQL고급.md",
     "ROKEY bootcamp/정보.md",
     "Daily Notes/2024-08-07.md",
@@ -271,8 +260,6 @@
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강-이터&제네리터.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 09강-파일.md",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161933.png",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161820.png",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240802161654.png",

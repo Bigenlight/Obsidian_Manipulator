@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-12",
+      "path": "Daily Notes/2024-08-12.md"
+    },
+    {
+      "basename": "3차",
+      "path": "ROKEY bootcamp/DevOps/3차.md"
+    },
+    {
+      "basename": "DevOps 강의",
+      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
+    },
+    {
+      "basename": "1차 MySQL 설치 및 실행",
+      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
+    },
+    {
+      "basename": "2024-08-11",
+      "path": "Daily Notes/2024-08-11.md"
+    },
+    {
       "basename": "2024-08-10",
       "path": "Daily Notes/2024-08-10.md"
     },
@@ -17,20 +37,12 @@
       "path": "ROKEY bootcamp/C class/C 03장-전처리,연산자,입출력.md"
     },
     {
-      "basename": "2024-08-11",
-      "path": "Daily Notes/2024-08-11.md"
-    },
-    {
       "basename": "C 06장-함수",
       "path": "ROKEY bootcamp/C class/C 06장-함수.md"
     },
     {
       "basename": "C 01장",
       "path": "ROKEY bootcamp/C class/C 01장.md"
-    },
-    {
-      "basename": "DevOps 강의",
-      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
     },
     {
       "basename": "2차-SQL고급",
@@ -187,14 +199,6 @@
     {
       "basename": "C 02장-자료형,변수,상수,printf()",
       "path": "ROKEY bootcamp/C class/C 02장-자료형,변수,상수,printf().md"
-    },
-    {
-      "basename": "C 강의 템플릿",
-      "path": "Templates/C 강의 템플릿.md"
-    },
-    {
-      "basename": "2024-08-01",
-      "path": "Daily Notes/2024-08-01.md"
     }
   ],
   "omittedPaths": []
