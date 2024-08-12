@@ -5,6 +5,6 @@ DevOps
 [[1차 DBMS 개요와 MySQL 소개]]
 [[2차-SQL고급]]
 [[2차-웹서버]]
-[[3차]]
+[[3차-MySQL(VScode),FLASK]]
 
 [[주간 과제 - 쇼핑몰 데이터베이스]]

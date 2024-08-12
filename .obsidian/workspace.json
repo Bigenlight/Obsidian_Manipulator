@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "00e2b63686fec08e",
+            "id": "fa4c7619599e9144",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -33,7 +33,20 @@
             }
           },
           {
-            "id": "afffc6d35dc67e95",
+            "id": "a6134f058df6672c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5334006c60c98dd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,12 +59,12 @@
             }
           },
           {
-            "id": "f57481c062b71146",
+            "id": "33b7e3ee52dc8fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/DevOps/3차.md",
+                "file": "ROKEY bootcamp/DevOps/DevOps 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +72,46 @@
             }
           },
           {
-            "id": "8fa6b1fbb94a7cec",
+            "id": "5c42e6db021fc6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/DevOps/3차-MySQL(VScode),FLASK.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f6dec041f9c6b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-08-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f1b209edec7855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-08-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e82a40076924189",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -126,11 +178,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ed06cea5a27a30bc",
@@ -219,13 +272,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8fa6b1fbb94a7cec",
+  "active": "72f1b209edec7855",
   "lastOpenFiles": [
-    "ROKEY bootcamp/DevOps/3차.md",
+    "ROKEY bootcamp/DevOps/3차-MySQL(VScode),FLASK.md",
     "ROKEY bootcamp/DevOps/DevOps 강의.md",
+    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
+    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-08-12.md",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240812161500.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240812160633.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240812152712.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240812145949.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240812145408.png",
+    "ROKEY bootcamp/DevOps/2차-웹서버.md",
+    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240812141152.png",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240812140614.png",
+    "개인공부/Ubuntu 22.04.md",
+    "Daily Notes/2024-07-03.md",
+    "ROKEY bootcamp/DevOps/devops3_1.py",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/devops_3_1.py",
+    "ROKEY bootcamp/Python 강의/Python 수업 코드/mysql_devops3.py",
+    "ROKEY bootcamp/DevOps/attachments/Pasted image 20240812120739.png",
     "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
     "ROKEY bootcamp/DevOps/attachments/DevOps프로그래밍_3차.pdf",
-    "Daily Notes/2024-08-12.md",
     "Daily Notes/2024-08-11.md",
     "Daily Notes/2024-08-10.md",
     "desktop.ini",
@@ -237,13 +307,9 @@
     "ROKEY bootcamp/C class/C 03장-전처리,연산자,입출력.md",
     "ROKEY bootcamp/C class/codes/C_3/C_3/4pmqggqy.frf~",
     "ROKEY bootcamp/C class/codes/C_3/enc_temp_folder/3ba8561daf52613949a020df38e989/5_1.cpp",
-    "ROKEY bootcamp/C class/codes/C_3/enc_temp_folder/3ba8561daf52613949a020df38e989",
-    "ROKEY bootcamp/C class/codes/C_3/enc_temp_folder",
-    "ROKEY bootcamp/C class/codes/C_3/C_3/snfzon1l.q32~",
     "ROKEY bootcamp/C class/C 06장-함수.md",
     "ROKEY bootcamp/C class/C 01장.md",
     "ROKEY bootcamp/DevOps/2차-SQL고급.md",
-    "ROKEY bootcamp/정보.md",
     "Daily Notes/2024-08-07.md",
     "ROKEY bootcamp/Python 강의/Python 평가 준비.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 08강-리스트,튜플.md",
@@ -251,21 +317,8 @@
     "Daily Notes/2024-08-05.md",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807102230.png",
     "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807101642.png",
-    "ROKEY bootcamp/Python 강의/attachments/Pasted image 20240807101455.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md",
     "ROKEY bootcamp/Python 강의/Python 이론.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 17강-이터&제네리터.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240802161933.png",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240802161820.png",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240802161654.png",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240802153306.png",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240802153244.png",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240802152611.png",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240802151155.png"
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md"
   ]
 }
