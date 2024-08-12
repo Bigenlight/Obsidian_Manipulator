@@ -5,68 +5,26 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "file:옵시디언 공부",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 8213471
-      }
-    },
-    {
-      "query": "file:두산 로보틱스 ROKEY",
-      "color": {
-        "a": 1,
-        "rgb": 22015
-      }
-    },
-    {
-      "query": "tag:#2024년  ",
-      "color": {
-        "a": 1,
-        "rgb": 10866266
-      }
-    },
-    {
-      "query": "file:Python",
-      "color": {
-        "a": 1,
-        "rgb": 4305985
-      }
-    },
-    {
-      "query": "section:(옵시디언 공부)",
-      "color": {
-        "a": 1,
-        "rgb": 6835889
-      }
-    },
-    {
-      "query": "file:C",
-      "color": {
-        "a": 1,
-        "rgb": 14048454
-      }
-    },
-    {
-      "query": "line:(DevOps)",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
+        "rgb": 14048348
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
+  "collapse-display": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.07633333333333,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9032860537363803,
-  "close": true
+  "scale": 0.4595575282568169,
+  "close": false
 }

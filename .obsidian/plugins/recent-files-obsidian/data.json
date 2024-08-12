@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-12",
-      "path": "Daily Notes/2024-08-12.md"
+      "basename": "3차-MySQL(VScode)",
+      "path": "ROKEY bootcamp/DevOps/3차-MySQL(VScode).md"
     },
     {
-      "basename": "3차-MySQL(VScode),FLASK",
-      "path": "ROKEY bootcamp/DevOps/3차-MySQL(VScode),FLASK.md"
+      "basename": "C 강의",
+      "path": "ROKEY bootcamp/C class/C 강의.md"
+    },
+    {
+      "basename": "3차_3-DOCKER",
+      "path": "ROKEY bootcamp/DevOps/3차_3-DOCKER.md"
+    },
+    {
+      "basename": "3차_2-FLASK",
+      "path": "ROKEY bootcamp/DevOps/3차_2-FLASK.md"
     },
     {
       "basename": "DevOps 강의",
       "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
+    },
+    {
+      "basename": "2024-08-12",
+      "path": "Daily Notes/2024-08-12.md"
     },
     {
       "basename": "교육(커리큘럼) 및 학사 관리",
@@ -187,18 +199,6 @@
     {
       "basename": "서울대 카이스트 로봇 랩실 조사",
       "path": "개인공부/서울대 카이스트 로봇 랩실 조사.md"
-    },
-    {
-      "basename": "C 05장-반복문",
-      "path": "ROKEY bootcamp/C class/C 05장-반복문.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "ROKEY bootcamp/Python 강의/Untitled.md"
-    },
-    {
-      "basename": "1회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/1회차 실습.md"
     }
   ],
   "omittedPaths": []
