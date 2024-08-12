@@ -5,13 +5,55 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "file:Python",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 3000404
+      }
+    },
+    {
+      "query": "file: 옵시디언 공부",
+      "color": {
+        "a": 1,
+        "rgb": 10633442
+      }
+    },
+    {
+      "query": "tag:#daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 10085770
+      }
+    },
+    {
+      "query": "file:두산",
+      "color": {
+        "a": 1,
+        "rgb": 935921
+      }
+    },
+    {
+      "query": "tag:#DevOps  ",
+      "color": {
+        "a": 1,
+        "rgb": 13451991
+      }
+    },
+    {
+      "query": "tag:#C언어  ",
+      "color": {
+        "a": 1,
+        "rgb": 15223370
+      }
+    },
+    {
+      "query": "line:(개인 공부)",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     }
   ],
@@ -25,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4595575282568169,
+  "scale": 0.6442917865097655,
   "close": false
 }

@@ -1,4 +1,5 @@
-DevOps
+DevOps 강의
+#DevOps
 데이터베이스 서버
 
 [[1차 MySQL 설치 및 실행]]

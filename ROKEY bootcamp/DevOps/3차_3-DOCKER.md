@@ -1,4 +1,4 @@
-
+#DevOps
 [[DevOps 강의]]
 
 ![[DevOps프로그래밍_3차.pdf]]
@@ -12,6 +12,12 @@ venv와 다르게 메모리 접근 가능.
 도커 이미지를 통해 쉽게 공유 가능.
 
 독립성을 보장받아 다른 컨테이너와도 독립 환경 보장.
+
+사용이유:
+• 애플리케이션 독립성을 가진다. 호스트 OS, 다른 컨테이너와도 독립된 공간을 보장받아 충돌이 발생하지 않는다.
+• 컨테이너 내부에 작업 후 배포하려 한다면 도커 이미지로 만들어서 운영서버에 전달만 하면 된다.
+• 마이크로 서비스 구조로 변화가 쉽다. 컨테이너 하나당 하나의 기능을 제공하는 모듈로 만드는 등 조정이 가능하다.
+• 다시 말해, Docker을 사용하면 환경에 구애받지 않고 애플리케이션을 신속하게 배포, 확장할 수 있다.
 
 ![[Pasted image 20240812160633.png]]
 도커 이미지에는 컨테이너 설계도가 있음.
@@ -52,15 +58,30 @@ docker rmi
 네트워크 확인
 ip addr
 
-##### 우리가 만든 FLASK를 도커라이징하기
+##### 우리가 만든 FLASK 웹 페이지 코드를 도커라이징하기
 [[3차_2-FLASK]]
 cd webwork/
 source ./bin/activate
+
+도커 파일과 requirements 파일 생성.
+![[Pasted image 20240813004209.png|170]]
 ![[Pasted image 20240812161500.png|400]]
 도커 파일은 확장자가 없다!
-```
+[[Dockerfile]]
+requirements.txt
+```txt
 flask==3.0.3
 ```
 
+![[Pasted image 20240813003557.png]]
+sudo docker build -t flask-web .   
 
+작동하는 컨테이너 보기
 sudo docker ps -a
+sudo docker images
+
+도커 실행
+sudo docker run -p 5000:5000 flask-web
+![[Pasted image 20240813004023.png|400]]
+근데 안됨.
+강사님도 안되시는거 보니 강의자료에 문제가 있는 듯.

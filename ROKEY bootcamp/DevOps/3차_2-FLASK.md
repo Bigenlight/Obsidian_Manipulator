@@ -1,4 +1,4 @@
-
+#DevOps
 [[DevOps 강의]]
 
 ![[DevOps프로그래밍_3차.pdf]]
@@ -92,4 +92,8 @@ html 파일에서 {{name}}포함하면 파이썬 코드 값이 들어감
 \<h1>hello world {{name}}</h1>
 ![[Pasted image 20240812152712.png]]
 
-페이지끼리 옮기는거 못함.
+##### 두 웹페이지를 만들어서 서로 왔다 갔다
+[[Test1.py]]
+[[index.html]]
+[[user.html]]
+![[Pasted image 20240813001930.png]]

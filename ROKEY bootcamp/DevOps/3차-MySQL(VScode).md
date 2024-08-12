@@ -1,4 +1,4 @@
-
+#DevOps
 [[DevOps 강의]]
 
 ![[DevOps프로그래밍_3차.pdf]]
@@ -67,8 +67,13 @@ conn.commit()
 ###### 닫기
 conn.close()
 
-python3 -u "/home/theo/Opsidian_Manipulator/ROKEY bootcamp/DevOps/devops3_1.py"
-
+#### 실습
+[[devops3_1.py]]
+데이터베이스에 반영 잘 됨
+sql
+use TEST;
+select * from userTable;
+![[Pasted image 20240813004844.png|300]]
 #### GUI는 패스
 
 
