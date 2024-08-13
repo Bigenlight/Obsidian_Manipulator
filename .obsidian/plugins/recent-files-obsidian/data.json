@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-13",
-      "path": "Daily Notes/2024-08-13.md"
+      "basename": "2024-08-09",
+      "path": "Daily Notes/2024-08-09.md"
+    },
+    {
+      "basename": "2024-08-10",
+      "path": "Daily Notes/2024-08-10.md"
+    },
+    {
+      "basename": "3차_2-FLASK",
+      "path": "ROKEY bootcamp/DevOps/3차_2-FLASK.md"
+    },
+    {
+      "basename": "DevOps 강의",
+      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
+    },
+    {
+      "basename": "1_1-데이터,AI기초",
+      "path": "ROKEY bootcamp/1_1-데이터,AI기초.md"
+    },
+    {
+      "basename": "1_3-머신러닝 및 통계 개요",
+      "path": "ROKEY bootcamp/1_3-머신러닝 및 통계 개요.md"
+    },
+    {
+      "basename": "1_5-",
+      "path": "ROKEY bootcamp/1_5-.md"
+    },
+    {
+      "basename": "컴퓨터 비전",
+      "path": "ROKEY bootcamp/컴퓨터 비전.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "알고리즘 강의 링크",
+      "path": "개인공부/알고리즘 강의 링크.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "C언어 팁",
+      "path": "개인공부/C언어 팁.md"
+    },
+    {
+      "basename": "2024-08-11",
+      "path": "Daily Notes/2024-08-11.md"
     },
     {
       "basename": "2024-08-12",
       "path": "Daily Notes/2024-08-12.md"
     },
     {
-      "basename": "DevOps 강의",
-      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
+      "basename": "2024-08-13",
+      "path": "Daily Notes/2024-08-13.md"
+    },
+    {
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "plot juggler",
+      "path": "개인공부/plot juggler.md"
+    },
+    {
+      "basename": "1_4-",
+      "path": "ROKEY bootcamp/1_4-.md"
+    },
+    {
+      "basename": "1_2-Digital Transformation 및 적용 예시",
+      "path": "ROKEY bootcamp/1_2-Digital Transformation 및 적용 예시.md"
     },
     {
       "basename": "3차_3-DOCKER",
@@ -19,14 +87,6 @@
     {
       "basename": "3차-MySQL(VScode)",
       "path": "ROKEY bootcamp/DevOps/3차-MySQL(VScode).md"
-    },
-    {
-      "basename": "3차_2-FLASK",
-      "path": "ROKEY bootcamp/DevOps/3차_2-FLASK.md"
-    },
-    {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
     },
     {
       "basename": "플러그인",
@@ -57,16 +117,8 @@
       "path": "옵시디언공부/Google Tasks.md"
     },
     {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
-    },
-    {
       "basename": "개인 공부 템플릿",
       "path": "Templates/개인 공부 템플릿.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "이진수 쉽게 읽는 법",
@@ -147,58 +199,6 @@
     {
       "basename": "옵시디언 공부",
       "path": "옵시디언공부/옵시디언 공부.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
-    },
-    {
-      "basename": "Ubuntu 22.04",
-      "path": "개인공부/Ubuntu 22.04.md"
-    },
-    {
-      "basename": "2024-07-03",
-      "path": "Daily Notes/2024-07-03.md"
-    },
-    {
-      "basename": "mysql_devops3",
-      "path": "ROKEY bootcamp/Python 강의/Python 수업 코드/mysql_devops3.py"
-    },
-    {
-      "basename": "2024-08-11",
-      "path": "Daily Notes/2024-08-11.md"
-    },
-    {
-      "basename": "2024-08-10",
-      "path": "Daily Notes/2024-08-10.md"
-    },
-    {
-      "basename": "2024-08-07",
-      "path": "Daily Notes/2024-08-07.md"
-    },
-    {
-      "basename": "Python 평가 준비",
-      "path": "ROKEY bootcamp/Python 강의/Python 평가 준비.md"
-    },
-    {
-      "basename": "Python 08강-리스트,튜플",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 08강-리스트,튜플.md"
-    },
-    {
-      "basename": "Python 11강-딕셔너리,집합",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강-딕셔너리,집합.md"
-    },
-    {
-      "basename": "2024-08-05",
-      "path": "Daily Notes/2024-08-05.md"
-    },
-    {
-      "basename": "Python 13강-모듈",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md"
-    },
-    {
-      "basename": "Python 이론",
-      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     }
   ],
   "omittedPaths": []

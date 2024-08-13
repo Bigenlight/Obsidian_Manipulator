@@ -32,7 +32,7 @@
       "query": "file:두산",
       "color": {
         "a": 1,
-        "rgb": 935921
+        "rgb": 16639
       }
     },
     {
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "tag:#컴퓨터비전  ",
+      "color": {
+        "a": 1,
+        "rgb": 3369169
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6442917865097655,
+  "scale": 0.6442917865097654,
   "close": false
 }
