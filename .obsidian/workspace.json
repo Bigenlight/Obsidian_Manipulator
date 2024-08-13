@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "c97c7701be0426b8",
+            "id": "8d4888971f7e374b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +46,20 @@
             }
           },
           {
-            "id": "649f0fac36cbfd18",
+            "id": "2163dfa89885d972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/1_6-Numpy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ed930ad741e9e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,77 +72,12 @@
             }
           },
           {
-            "id": "a24bd6727ba559be",
+            "id": "ebdf2e3ffa15f3a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/1_4-.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8d6cdacaec80552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/1_3-머신러닝 및 통계 개요.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5fc0071141093c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/1_1-데이터,AI기초.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fc933cab186639e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/DevOps/DevOps 강의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8335f7528994696c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/DevOps/3차_2-FLASK.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae8e261245c00a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "Daily Notes/2024-08-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "확통",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "Daily Notes/2024-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-09.md",
+                "file": "Daily Notes/2024-08-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-09.md"
+                "file": "Daily Notes/2024-08-13.md"
               }
             }
           }
@@ -284,53 +232,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ae8e261245c00a62",
+  "active": "ebdf2e3ffa15f3a9",
   "lastOpenFiles": [
-    "Daily Notes/2024-08-10.md",
-    "ROKEY bootcamp/DevOps/3차_2-FLASK.md",
-    "ROKEY bootcamp/DevOps/DevOps 강의.md",
-    "ROKEY bootcamp/1_1-데이터,AI기초.md",
-    "ROKEY bootcamp/1_3-머신러닝 및 통계 개요.md",
     "ROKEY bootcamp/1_5-.md",
-    "ROKEY bootcamp/컴퓨터 비전.md",
-    "개인공부/유용한 정보.md",
-    "개인공부/알고리즘 강의 링크.md",
-    "개인공부/개인 공부.md",
-    "ROKEY bootcamp/정보.md",
-    "개인공부/C언어 팁.md",
-    "Daily Notes/2024-08-11.md",
-    "Daily Notes/2024-08-12.md",
+    "ROKEY bootcamp/1_6-Numpy.md",
+    "Templates/날짜 템플릿.md",
+    "ROKEY bootcamp/attachments/1차시_05-06교시.pdf",
     "Daily Notes/2024-08-13.md",
-    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "개인공부/plot juggler.md",
-    "ROKEY bootcamp/attachments/Pasted image 20240813145755.png",
+    "ROKEY bootcamp/컴퓨터 비전.md",
+    "Templates/강의 템플릿.md",
+    "ROKEY bootcamp/attachments/Pasted image 20240813160534.png",
+    "ROKEY bootcamp/attachments/Pasted image 20240813160403.png",
+    "ROKEY bootcamp/attachments/Pasted image 20240813160214.png",
+    "ROKEY bootcamp/attachments/Pasted image 20240813160140.png",
+    "ROKEY bootcamp/attachments/Pasted image 20240813160112.png",
+    "ROKEY bootcamp/attachments/Pasted image 20240813160039.png",
+    "ROKEY bootcamp/attachments/Pasted image 20240813155406.png",
+    "Templates/knowledge template.md",
+    "Templates/Daily notes template.md",
+    "할일 모음.md",
+    "README.md",
+    "copy.jpg",
     "ROKEY bootcamp/1_4-.md",
+    "개인공부/라마3.1, Udio.md",
+    "개인공부/쉬운 양자컴퓨터 설명.md",
+    "Untitled.md",
+    "ROKEY bootcamp/1_3-머신러닝 및 통계 개요.md",
+    "ROKEY bootcamp/1_1-데이터,AI기초.md",
+    "ROKEY bootcamp/DevOps/DevOps 강의.md",
+    "ROKEY bootcamp/DevOps/3차_2-FLASK.md",
+    "Daily Notes/2024-07-01.md",
+    "Daily Notes/2024-07-02.md",
+    "Daily Notes/2024-07-03.md",
+    "Daily Notes/2024-07-04.md",
+    "Daily Notes/2024-07-05.md",
+    "Daily Notes/2024-07-06.md",
+    "Daily Notes/2024-07-07.md",
+    "ROKEY bootcamp/attachments/Pasted image 20240813145755.png",
     "ROKEY bootcamp/attachments/1차시_05-06교시 (1).pdf",
     "ROKEY bootcamp/attachments/Pasted image 20240813145125.png",
-    "ROKEY bootcamp/attachments/Pasted image 20240813145051.png",
     "ROKEY bootcamp/attachments/1차시_04.pdf",
-    "ROKEY bootcamp/1_2-Digital Transformation 및 적용 예시.md",
-    "ROKEY bootcamp/attachments/Pasted image 20240813143518.png",
-    "ROKEY bootcamp/attachments/Pasted image 20240813142850.png",
-    "ROKEY bootcamp/attachments/Pasted image 20240813142821.png",
-    "ROKEY bootcamp/attachments/Pasted image 20240813141029.png",
-    "ROKEY bootcamp/attachments/Pasted image 20240813141000.png",
-    "ROKEY bootcamp/attachments/Pasted image 20240813140914.png",
-    "ROKEY bootcamp/attachments/Pasted image 20240813140757.png",
     "desktop.ini",
     "ROKEY bootcamp/attachments/01차시_03.pdf",
     "ROKEY bootcamp/attachments/01차시_02.pdf",
     "Daily Notes/attachments/~$evOps___3차___공통__DBMS_문제.docx",
     "ROKEY bootcamp/attachments/01차시_01 (1).pdf",
     "Daily Notes/attachments/_DevOps___3차___공통__DBMS_문제.docx",
-    "ROKEY bootcamp/DevOps/3차_3-DOCKER.md",
-    "ROKEY bootcamp/DevOps/3차-MySQL(VScode).md",
-    "ROKEY bootcamp/DevOps/attachments/Dockerfile",
-    "ROKEY bootcamp/DevOps/attachments/Test1.py",
-    "옵시디언공부/플러그인.md",
-    "개인공부/서울대 카이스트 로봇 랩실 조사.md",
-    "Templates/정보 템플릿.md",
-    "ROKEY bootcamp/DevOps/주간 과제 - 쇼핑몰 데이터베이스.md",
-    "Daily Notes/2024-07-04.md"
+    "ROKEY bootcamp/DevOps/attachments/Dockerfile"
   ]
 }

@@ -22,7 +22,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/C 강의 템플릿.md",
+    "Templates/날짜 템플릿.md",
     "Templates/정보 템플릿.md",
     "Templates/개인 공부 템플릿.md"
   ],

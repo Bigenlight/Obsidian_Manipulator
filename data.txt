@@ -1,4 +1,0 @@
-Hello
-This is data.txt
-이 파일은 utf-8 형식으로 저장했습니다
-Here comes to the end.

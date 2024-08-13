@@ -54,5 +54,21 @@
       ],
       "key": "S"
     }
+  ],
+  "templater-obsidian:Templates/강의 템플릿.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:Templates/날짜 템플릿.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
   ]
 }
