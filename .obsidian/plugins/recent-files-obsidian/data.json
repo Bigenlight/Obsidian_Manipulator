@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-14",
+      "path": "Daily Notes/2024-08-14.md"
+    },
+    {
+      "basename": "Ubuntu 22.04",
+      "path": "개인공부/Ubuntu 22.04.md"
+    },
+    {
+      "basename": "리눅스 환경",
+      "path": "ROKEY bootcamp/리눅스 환경.md"
+    },
+    {
       "basename": "2024-08-13",
       "path": "Daily Notes/2024-08-13.md"
+    },
+    {
+      "basename": "C 08장-포인터1",
+      "path": "ROKEY bootcamp/C class/C 08장-포인터1.md"
+    },
+    {
+      "basename": "2024-07-01",
+      "path": "Daily Notes/2024-07-01.md"
     },
     {
       "basename": "C 이론",
@@ -11,10 +31,6 @@
     {
       "basename": "C 07장-배열",
       "path": "ROKEY bootcamp/C class/C 07장-배열.md"
-    },
-    {
-      "basename": "C 08장-포인터1",
-      "path": "ROKEY bootcamp/C class/C 08장-포인터1.md"
     },
     {
       "basename": "DevOps 강의",
@@ -125,10 +141,6 @@
       "path": "개인공부/쉬운 양자컴퓨터 설명.md"
     },
     {
-      "basename": "2024-07-01",
-      "path": "Daily Notes/2024-07-01.md"
-    },
-    {
       "basename": "2024-07-02",
       "path": "Daily Notes/2024-07-02.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2024-07-13",
       "path": "Daily Notes/2024-07-13.md"
-    },
-    {
-      "basename": "2024-07-15",
-      "path": "Daily Notes/2024-07-15.md"
-    },
-    {
-      "basename": "2024-07-16",
-      "path": "Daily Notes/2024-07-16.md"
-    },
-    {
-      "basename": "2024-07-17",
-      "path": "Daily Notes/2024-07-17.md"
     }
   ],
   "omittedPaths": []

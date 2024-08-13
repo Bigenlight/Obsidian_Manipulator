@@ -77,7 +77,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-13.md",
+                "file": "개인공부/Ubuntu 22.04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a2e70f2ff6152c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-08-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "확통",
+                "query": "bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +152,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-13.md",
+                "file": "Daily Notes/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-13.md",
+                "file": "Daily Notes/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-13.md"
+                "file": "Daily Notes/2024-08-14.md"
               }
             }
           }
@@ -232,12 +246,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ebdf2e3ffa15f3a9",
+  "active": "2a2e70f2ff6152c8",
   "lastOpenFiles": [
+    "개인공부/Ubuntu 22.04.md",
+    "ROKEY bootcamp/리눅스 환경.md",
+    "Daily Notes/2024-08-13.md",
+    "ROKEY bootcamp/C class/C 08장-포인터1.md",
+    "Daily Notes/2024-08-14.md",
+    "Daily Notes/2024-07-01.md",
     "ROKEY bootcamp/C class/C 이론.md",
     "ROKEY bootcamp/C class/C 07장-배열.md",
-    "ROKEY bootcamp/C class/C 08장-포인터1.md",
-    "Daily Notes/2024-08-13.md",
     "ROKEY bootcamp/C class/codes/C_3/C_3/wpuwbeem.q0q~",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240813233450.png",
     "ROKEY bootcamp/C class/attachments/Pasted image 20240813233146.png",
@@ -275,10 +293,6 @@
     "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md",
     "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
     "개인공부/개인 공부.md",
-    "개인공부/코딩 타자 연습.md",
-    "Templates/날짜 템플릿.md",
-    "Templates/강의 템플릿.md",
-    "Templates/knowledge template.md",
-    "Templates/Daily notes template.md"
+    "개인공부/코딩 타자 연습.md"
   ]
 }
