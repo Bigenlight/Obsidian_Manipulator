@@ -593,3 +593,20 @@
 //}
 
 
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main(void)
+{
+    //int n = 3;
+    //int* ptr1 = &n; // Store the address of variable n in pointer ptr1
+    //unsigned int* ptr2 = (unsigned int*)ptr1; // Cast ptr1 to unsigned int pointer type and store in ptr2
+
+    //printf("*ptr2 = %u\n", *ptr2); // Dereference ptr2 to get the value at the address (which is the value of n)
+
+    int n = 0x0A040E03; // Store the hexadecimal value 0A040E03 in variable n
+    int* ptr1 = &n; // Store the address of variable n in pointer ptr1
+    
+    char* ptr2 = (char*) ptr1;
+    printf("%d\n", *ptr2);
+}
