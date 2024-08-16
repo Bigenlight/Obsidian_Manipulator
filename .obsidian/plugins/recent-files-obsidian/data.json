@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-15",
-      "path": "Daily Notes/2024-08-15.md"
+      "basename": "2024-08-16",
+      "path": "Daily Notes/2024-08-16.md"
+    },
+    {
+      "basename": "3_3-퍼셉트론",
+      "path": "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md"
+    },
+    {
+      "basename": "3_2-경사하강법,로지스틱,보스턴",
+      "path": "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md"
+    },
+    {
+      "basename": "3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습",
+      "path": "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md"
+    },
+    {
+      "basename": "컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md"
+    },
+    {
+      "basename": "2_1 Pandas,Matplotlib,딥러닝실습",
+      "path": "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md"
     },
     {
       "basename": "1_6-Numpy",
       "path": "ROKEY bootcamp/Computer Vision/1_6-Numpy.md"
     },
     {
-      "basename": "2_1",
-      "path": "ROKEY bootcamp/Computer Vision/2_1.md"
+      "basename": "2024-08-15",
+      "path": "Daily Notes/2024-08-15.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "2024-08-14",
       "path": "Daily Notes/2024-08-14.md"
-    },
-    {
-      "basename": "컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md"
     },
     {
       "basename": "1_1-데이터,AI기초",
@@ -179,26 +199,6 @@
     {
       "basename": "2024-07-08",
       "path": "Daily Notes/2024-07-08.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
-    },
-    {
-      "basename": "임주완 강사님 팀",
-      "path": "개인공부/임주완 강사님 팀.md"
-    },
-    {
-      "basename": "2024-07-09",
-      "path": "Daily Notes/2024-07-09.md"
-    },
-    {
-      "basename": "2024-07-10",
-      "path": "Daily Notes/2024-07-10.md"
     }
   ],
   "omittedPaths": []

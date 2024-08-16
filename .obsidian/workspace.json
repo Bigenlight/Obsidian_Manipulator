@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "5ad5f160e96dfca5",
+            "id": "ecb27e990ace36eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/2_1.md",
+                "file": "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +59,25 @@
             }
           },
           {
-            "id": "c3bb75ca2f6815ad",
+            "id": "2c73ee67eca566ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
+                "file": "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3c013dd5e5b3e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-15.md",
+                "file": "Daily Notes/2024-08-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-15.md",
+                "file": "Daily Notes/2024-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-15.md",
+                "file": "Daily Notes/2024-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-15.md"
+                "file": "Daily Notes/2024-08-16.md"
               }
             }
           }
@@ -234,25 +247,40 @@
   },
   "active": "2a2e70f2ff6152c8",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
-    "ROKEY bootcamp/Computer Vision/2_1.md",
-    "Daily Notes/2024-08-15.md",
-    "Daily Notes/2024-08-14.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240814160355.png",
+    "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240817000617.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240817000536.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240817000426.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816235256.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816235127.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816234904.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816234825.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816234553.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816234517.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816234442.png",
+    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
+    "Daily Notes/2024-08-16.md",
+    "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
     "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/attachments/3차시_06.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/3차시_05.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/3차시_04.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/3차시_03.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/3차시_02.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/3차시_01.pdf",
+    "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
+    "ROKEY bootcamp/Computer Vision/2_2.md",
+    "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
+    "Daily Notes/2024-08-15.md",
+    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-08-14.md",
     "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md",
     "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md",
     "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240814155005.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240814154737.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240814154702.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240814152742.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pandas_Cheat_Sheet.pdf",
     "Templates/날짜 템플릿.md",
     "Templates/강의 템플릿.md",
     "Templates/Daily notes template.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240814025250.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240814025023.png",
     "Daily Notes/2024-08-13.md",
     "ROKEY bootcamp/Computer Vision/1_5-코랩을 이용한 학습 개요.md",
     "ROKEY bootcamp/Computer Vision/attachments/2차시_01-02.pdf",
@@ -263,22 +291,6 @@
     "ROKEY bootcamp/C class/C 08장-포인터1.md",
     "Daily Notes/2024-07-01.md",
     "ROKEY bootcamp/C class/C 이론.md",
-    "ROKEY bootcamp/C class/C 07장-배열.md",
-    "ROKEY bootcamp/C class/codes/C_3/C_3/wpuwbeem.q0q~",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240813233450.png",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240813233146.png",
-    "ROKEY bootcamp/C class/attachments/Pasted image 20240813232648.png",
-    "ROKEY bootcamp/C class/codes/C_3/C_3/x64/Debug/C_3.tlog/link.read.2.tlog",
-    "ROKEY bootcamp/C class/codes/C_3/C_3/x64/Debug/5_1.obj",
-    "ROKEY bootcamp/C class/codes/C_3/C_3/x64/Debug/C_3.tlog/unsuccessfulbuild",
-    "ROKEY bootcamp/DevOps/DevOps 강의.md",
-    "ROKEY bootcamp/DevOps/3차_3-DOCKER.md",
-    "ROKEY bootcamp/DevOps/3차-MySQL(VScode).md",
-    "ROKEY bootcamp/Python 강의/Python 수업 코드/mysql_devops3.py",
-    "ROKEY bootcamp/DevOps/3차_2-FLASK.md",
-    "Daily Notes/attachments/~WRL0595.tmp",
-    "ROKEY bootcamp/C class/C 09장-포인터2.md",
-    "Daily Notes/2024-08-12.md",
-    "Daily Notes/2024-08-11.md"
+    "ROKEY bootcamp/C class/C 07장-배열.md"
   ]
 }
