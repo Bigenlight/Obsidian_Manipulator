@@ -5,6 +5,10 @@
       "path": "Daily Notes/2024-08-16.md"
     },
     {
+      "basename": "2024-08-17",
+      "path": "Daily Notes/2024-08-17.md"
+    },
+    {
       "basename": "3_3-퍼셉트론",
       "path": "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-07-07",
       "path": "Daily Notes/2024-07-07.md"
-    },
-    {
-      "basename": "2024-07-08",
-      "path": "Daily Notes/2024-07-08.md"
     }
   ],
   "omittedPaths": []
