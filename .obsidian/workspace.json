@@ -152,7 +152,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -241,13 +242,15 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2a2e70f2ff6152c8",
   "lastOpenFiles": [
-    "Daily Notes/2024-08-16.md",
+    "Templates/Daily notes template.md",
     "Daily Notes/2024-08-18.md",
+    "Daily Notes/2024-08-16.md",
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "Daily Notes/2024-08-17.md",
@@ -282,7 +285,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pandas_Cheat_Sheet.pdf",
     "Templates/날짜 템플릿.md",
     "Templates/강의 템플릿.md",
-    "Templates/Daily notes template.md",
     "Daily Notes/2024-08-13.md",
     "ROKEY bootcamp/Computer Vision/1_5-코랩을 이용한 학습 개요.md",
     "ROKEY bootcamp/Computer Vision/attachments/2차시_01-02.pdf",

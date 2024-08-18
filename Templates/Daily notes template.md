@@ -27,14 +27,12 @@ if(yfile) {
 } 
 
 tR += should_include ? sectionContent : "없습니다😀"; %>
-- 
 - [ ]  
 
 
 
 
 ###### 내일 노트 및 할 일
-- 
 - [ ] 
 
 
