@@ -90,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-16.md",
+                "file": "Daily Notes/2024-08-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-16.md",
+                "file": "Daily Notes/2024-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-16.md",
+                "file": "Daily Notes/2024-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-16.md"
+                "file": "Daily Notes/2024-08-18.md"
               }
             }
           }
@@ -247,9 +247,10 @@
   },
   "active": "2a2e70f2ff6152c8",
   "lastOpenFiles": [
+    "Daily Notes/2024-08-16.md",
+    "Daily Notes/2024-08-18.md",
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
-    "Daily Notes/2024-08-16.md",
     "Daily Notes/2024-08-17.md",
     "desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240817001700.png",
