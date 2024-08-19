@@ -8,7 +8,7 @@ Python으로 작성된 오픈 소스 웹 프레임워크
 • 코드도 비교적 단순하며 API 서버 구축에 편리함
 • 다른 프레임 워크에 비해 비교적 확장하기 용이하고 유연함
 [Welcome to Flask — Flask Documentation (2.2.x)](https://flask.palletsprojects.com/en/2.2.x)
-### 가상 환경 설정
+### 가상 환경 설정(venv)
 sudo apt install python3-venv
 python3 -m venv webwork
 ###### 실행

@@ -74,9 +74,10 @@ flask==3.0.3
 ```
 
 ![[Pasted image 20240813003557.png]]
+
 sudo docker build -t flask-web .   
 
-작동하는 컨테이너 보기
+작동하는 컨테이너 확인하기
 sudo docker ps -a
 sudo docker images
 
