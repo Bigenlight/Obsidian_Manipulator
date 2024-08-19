@@ -96,9 +96,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80b071390d280863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa23a1e0b93da0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-08-19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -181,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-18.md",
+                "file": "Daily Notes/2024-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-18.md",
+                "file": "Daily Notes/2024-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-18.md"
+                "file": "Daily Notes/2024-08-19.md"
               }
             }
           }
@@ -246,14 +272,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a2e70f2ff6152c8",
+  "active": "aa23a1e0b93da0e9",
   "lastOpenFiles": [
-    "desktop.ini",
     "Templates/Daily notes template.md",
+    "Daily Notes/2024-08-19.md",
+    "ROKEY bootcamp/Computer Vision/4_1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
+    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
+    "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
     "Daily Notes/2024-08-18.md",
+    "desktop.ini",
     "Daily Notes/2024-08-16.md",
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
-    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "Daily Notes/2024-08-17.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240817001700.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240817001302.png",
@@ -266,7 +297,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816235256.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240816235127.png",
     "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
-    "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_06.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_05.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_04.pdf",
@@ -287,11 +317,8 @@
     "Templates/강의 템플릿.md",
     "Daily Notes/2024-08-13.md",
     "ROKEY bootcamp/Computer Vision/1_5-코랩을 이용한 학습 개요.md",
-    "ROKEY bootcamp/Computer Vision/attachments/2차시_01-02.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/2차시_06.pdf",
     "개인공부/Ubuntu 22.04.md",
     "ROKEY bootcamp/리눅스 환경.md",
-    "ROKEY bootcamp/C class/C 08장-포인터1.md",
-    "Daily Notes/2024-07-01.md"
+    "ROKEY bootcamp/C class/C 08장-포인터1.md"
   ]
 }
