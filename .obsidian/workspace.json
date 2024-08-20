@@ -33,19 +33,6 @@
             }
           },
           {
-            "id": "af674eef8c5de9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/DevOps/DevOps 강의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b9b94278cbb0fb8",
             "type": "leaf",
             "state": {
@@ -59,12 +46,25 @@
             }
           },
           {
-            "id": "b86dd3198e750b76",
+            "id": "8e7688c0d0998994",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/4_1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b86dd3198e750b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-08-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -235,19 +235,23 @@
   },
   "active": "aa23a1e0b93da0e9",
   "lastOpenFiles": [
-    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-08-20.md",
     "ROKEY bootcamp/Computer Vision/4_1.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819152436.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819152142.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819152025.png",
-    "Daily Notes/2024-08-19.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819141851.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819141348.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819141118.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819141057.png",
-    "ROKEY bootcamp/Computer Vision/attachments/1.Intro_for_AI-0819_-_배포안.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819122401.png",
     "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
+    "ROKEY bootcamp/DevOps/DevOps 강의.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819213817.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819213553.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819213521.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819213329.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819210301.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819210112.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819205602.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819205311.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819205246.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240819204334.png",
+    "Daily Notes/2024-08-19.md",
+    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Computer Vision/attachments/1.Intro_for_AI-0819_-_배포안.pdf",
     "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md",
     "ROKEY bootcamp/Computer Vision/1_4-코랩 개요.md",
@@ -258,7 +262,6 @@
     "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
     "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md",
     "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md",
-    "ROKEY bootcamp/DevOps/DevOps 강의.md",
     "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
     "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
     "ROKEY bootcamp/DevOps/3차-MySQL(VScode).md",
@@ -272,9 +275,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
     "Daily Notes/2024-08-18.md",
     "desktop.ini",
-    "Daily Notes/2024-08-16.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240817001700.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240817001302.png",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_06.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_05.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_04.pdf",
