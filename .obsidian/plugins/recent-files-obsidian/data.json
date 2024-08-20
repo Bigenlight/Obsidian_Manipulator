@@ -5,6 +5,14 @@
       "path": "Daily Notes/2024-08-20.md"
     },
     {
+      "basename": "오픽 공부",
+      "path": "개인공부/오픽 공부.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
       "basename": "4_1-딥러닝개요,경사하강법,역전파",
       "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
     },
@@ -185,20 +193,12 @@
       "path": "Daily Notes/2024-08-09.md"
     },
     {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
-    },
-    {
       "basename": "코딩 타자 연습",
       "path": "개인공부/코딩 타자 연습.md"
     },
     {
       "basename": "knowledge template",
       "path": "Templates/knowledge template.md"
-    },
-    {
-      "basename": "할일 모음",
-      "path": "할일 모음.md"
     }
   ],
   "omittedPaths": []
