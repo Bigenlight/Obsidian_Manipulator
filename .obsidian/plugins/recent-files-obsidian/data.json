@@ -17,6 +17,18 @@
       "path": "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md"
     },
     {
+      "basename": "1_3-머신러닝 및 통계 개요",
+      "path": "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md"
+    },
+    {
+      "basename": "1_2-Digital Transformation 및 적용 예시",
+      "path": "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md"
+    },
+    {
+      "basename": "1_1-데이터,AI기초",
+      "path": "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md"
+    },
+    {
       "basename": "2024-08-19",
       "path": "Daily Notes/2024-08-19.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "3_2-경사하강법,로지스틱,보스턴",
       "path": "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md"
-    },
-    {
-      "basename": "1_3-머신러닝 및 통계 개요",
-      "path": "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md"
     },
     {
       "basename": "1_4-코랩 개요",
@@ -59,14 +67,6 @@
     {
       "basename": "3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습",
       "path": "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md"
-    },
-    {
-      "basename": "1_2-Digital Transformation 및 적용 예시",
-      "path": "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md"
-    },
-    {
-      "basename": "1_1-데이터,AI기초",
-      "path": "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md"
     },
     {
       "basename": "1차 MySQL 설치 및 실행",
