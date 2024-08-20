@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/4_2.md",
+                "file": "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -235,9 +235,11 @@
   },
   "active": "b86dd3198e750b76",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/4_2.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820161223.png",
+    "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
+    "Daily Notes/2024-08-20.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820174255.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820161223.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820160801.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820152210.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820150141.png",
@@ -248,10 +250,8 @@
     "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md",
     "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md",
     "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md",
-    "Daily Notes/2024-08-20.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820141935.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820141818.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820141556.png",
     "Daily Notes/2024-08-19.md",
     "ROKEY bootcamp/DevOps/DevOps 강의.md",
     "ROKEY bootcamp/정보.md",

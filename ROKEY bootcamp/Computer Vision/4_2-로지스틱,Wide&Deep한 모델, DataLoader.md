@@ -8,13 +8,13 @@
 
 ![[Pasted image 20240820112254.png]]
 Linear인 값에 ==Actication function==인 Sigmoid 함수를 적용하여 발동 여부를 판별
-이 같은 경우 역전파를 적용하도 뒤로 안감
+이 같은 경우 역전파를 적용하도 뒤로 안감 <- 이게 맞나?
 
 ###### 로지스틱에서 사용하는 교차 엔트로피 공식
 ![[Pasted image 20240820120021.png|350]]
 ![[Pasted image 20240820115749.png]]
-궁금하면 나중에 영상 찾아봐야 할 듯.
-
+궁금하면 나중에 영상 더 찾아봐야 할 듯.
+근데 그냥 대입하면 나옴.
 
 CNN이랑 RNN을 배울텐데, 요즘은 LLM이 이를 다 합침.
 
@@ -47,12 +47,12 @@ l1, l2, l3는 선언만 되는거고 실제 계산은 아래 x_data, out1, ou2�
 ###### 여러 Actication Function 정리
 ![[Pasted image 20240820150141.png|500]]
 용도에 따라 달라지긴하는데, 일단 아래 4개가 중요.
-우리가 우리씀.
+우리가 씀.
 
 Relu 설명
 [Visualising Activation Functions in Neural Networks - dashee87.github.io](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/)
 
-wide하고 딥한 코드 예제
+##### wide하고 딥한 코드 예제
 ```python
 import torch
 import torch.nn as nn
@@ -84,9 +84,9 @@ class Model(nn.Module): # 모델 만들기, 부모 클래스가 nn.Module
 위는 그냥 모델만 만든거고, 이제 오차에 따른 옵티마이저를 설정하고
 마지막으로 트레이닝 사이클을 구성하면 됨. 
 ![[Pasted image 20240820152210.png|250]]
-위 코드가 1단계.
+###### 위 코드가 1단계.
 
-아래가 2단계
+###### 아래가 2단계
 ```python
 # our model 
 model = Model() 
@@ -96,11 +96,11 @@ model = Model()
 criterion = torch.nn.BCELoss(size_average=True) 
 optimizer = torch.optim.SGD(model.parameters(), lr=0.1)
 ```
-BCE : binary cross entropy, 교차엔트로피 공식
-이를 통해 오차 계산 (선형에서는 MCE(평균제곱오차) 썼음)
-옵티마이저는 SGD: Stochastic Gradient Descent (확률적 경사하강법)
+==BCE== : binary cross entropy, 교차엔트로피 공식
+	이를 통해 오차 계산 (선형에서는 MCE(평균제곱오차) 썼음)
+옵티마이저는 ==SGD==: Stochastic Gradient Descent (확률적 경사하강법)
 
-아래가 3단계
+###### 아래가 3단계
 ```python
 # Training Loop
 for epoch in range(100): # 100번 학습
@@ -140,12 +140,12 @@ print(y_data.data.shape)  # torch.Size([759, 1])
 
 #### 용어 정리
 batch: 작업, 학습을 하는 프로세스
-batch size: 그 작업의 사이즈
+batch size: 그 작업의 사이즈, batch size를 늘리려면 메모리가 커야 됨
 
 real time: 실시간으로 대응, 이런 경우 batch로 하면 안됨
 
 ![[Pasted image 20240820160801.png]]
-epoch: forward pass 1번과 backward pass(역전파 같은) 한번
+epoch: 모든 트레이닝 샘플을 각각 forward pass 1번과 backward pass(역전파 같은)을 한번씩 함.
 batch size : 트레이닝 하는 샘플의 수
 트레이닝 샘플이 1000개 있고, batch size가 500이면, 2번의 iteration을 해야 1 epoch이 된다.
 
@@ -193,4 +193,62 @@ for i, (inputs, labels) in enumerate(train_loader):
     print(f"Batch {i}:")
     print(f"Inputs: {inputs}")
     print(f"Labels: {labels}")
+```
+모델은 위에 정의한 것을 쓴다고 가정할 때
+트레이닝 loop은
+```python
+# Training loop
+for epoch in range(2):
+    for i, data in enumerate(train_loader, 0):
+        # Get the inputs
+        inputs, labels = data
+
+        # Forward pass: Compute predicted y by passing x to the model
+        y_pred = model(inputs) # 예측
+
+        # Compute and print loss
+        loss = criterion(y_pred, labels) # 오차 연산
+        print(epoch, i, loss.item())
+
+        # Zero gradients, perform a backward pass, and update the weights
+        optimizer.zero_grad() # gradient(기울기) 초기화 (다음 w에 대한 gradient를 다시 구해야 됨)
+        loss.backward() # w 업데이트, 역전파
+        optimizer.step()
+```
+
+데이터셋 찾는 곳
+![[Pasted image 20240820174255.png|500]]
+[AI-Hub](https://www.aihub.or.kr/)
+이 링크는 국내 데이터
+
+MNIST 데이터 가져오기, 내일 마저 실습함
+```python
+import torch
+from torchvision import datasets, transforms
+from torch.utils.data import DataLoader
+
+# MNIST Dataset
+train_dataset = datasets.MNIST(root='./data/',
+                               train=True,
+                               transform=transforms.ToTensor(),
+                               download=True)
+
+test_dataset = datasets.MNIST(root='./data/',
+                              train=False,
+                              transform=transforms.ToTensor())
+
+# Data Loader (Input Pipeline)
+train_loader = DataLoader(dataset=train_dataset,
+                          batch_size=batch_size,
+                          shuffle=True)
+
+test_loader = DataLoader(dataset=test_dataset,
+                         batch_size=batch_size,
+                         shuffle=False)
+
+# Training loop example
+for batch_idx, (data, target) in enumerate(train_loader):
+    data, target = Variable(data), Variable(target)
+    # Further training steps would follow...
+
 ```
