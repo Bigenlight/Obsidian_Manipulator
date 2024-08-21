@@ -33,12 +33,38 @@
             }
           },
           {
+            "id": "152166f96a0bf162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/유용한 정보.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b9b94278cbb0fb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecec61e4fe380ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/4_3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -193,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-21.md",
+                "file": "Daily Notes/2024-08-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-21.md",
+                "file": "Daily Notes/2024-08-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-21.md"
+                "file": "Daily Notes/2024-08-20.md"
               }
             }
           }
@@ -258,14 +284,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "60db33f84ff14bbf",
+  "active": "b86dd3198e750b76",
   "lastOpenFiles": [
-    "개인공부/오픽 공부.md",
-    "Daily Notes/2024-08-21.md",
-    "Daily Notes/2024-08-20.md",
-    "개인공부/개인 공부.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
     "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
+    "ROKEY bootcamp/Computer Vision/4_3.md",
+    "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
+    "개인공부/유용한 정보.md",
+    "개인공부/코딩 실력보다 훨씬 중요한거.md",
+    "Daily Notes/2024-08-20.md",
+    "개인공부/개인 공부.md",
+    "Daily Notes/2024-08-21.md",
+    "개인공부/오픽 공부.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820174255.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820161223.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820160801.png",
@@ -274,7 +304,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820150010.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820145634.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820143103.png",
-    "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md",
     "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md",
     "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md",
@@ -294,9 +323,6 @@
     "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
     "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
     "ROKEY bootcamp/DevOps/3차-MySQL(VScode).md",
-    "ROKEY bootcamp/DevOps/2차-SQL고급.md",
-    "ROKEY bootcamp/DevOps/2차-웹서버.md",
-    "ROKEY bootcamp/DevOps/3차_2-FLASK.md",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
     "desktop.ini",
