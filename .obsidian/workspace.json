@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/오픽 공부.md",
+                "file": "Daily Notes/2024-08-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-20.md",
+                "file": "Daily Notes/2024-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-20.md",
+                "file": "Daily Notes/2024-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-20.md"
+                "file": "Daily Notes/2024-08-21.md"
               }
             }
           }
@@ -258,11 +258,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b86dd3198e750b76",
+  "active": "60db33f84ff14bbf",
   "lastOpenFiles": [
     "개인공부/오픽 공부.md",
-    "개인공부/개인 공부.md",
+    "Daily Notes/2024-08-21.md",
     "Daily Notes/2024-08-20.md",
+    "개인공부/개인 공부.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
     "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820174255.png",
@@ -296,7 +297,6 @@
     "ROKEY bootcamp/DevOps/2차-SQL고급.md",
     "ROKEY bootcamp/DevOps/2차-웹서버.md",
     "ROKEY bootcamp/DevOps/3차_2-FLASK.md",
-    "ROKEY bootcamp/DevOps/3차_3-DOCKER.md",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
     "desktop.ini",
