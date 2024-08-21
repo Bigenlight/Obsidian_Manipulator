@@ -33,19 +33,6 @@
             }
           },
           {
-            "id": "152166f96a0bf162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/유용한 정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b9b94278cbb0fb8",
             "type": "leaf",
             "state": {
@@ -59,64 +46,12 @@
             }
           },
           {
-            "id": "ecec61e4fe380ad6",
+            "id": "a1f5c10ea6df37c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/4_3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ce0bec71fbad252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e7688c0d0998994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b86dd3198e750b76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-08-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad84102b0e83b662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/개인 공부.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "08-13",
+                "query": "08-21",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-20.md",
+                "file": "Daily Notes/2024-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-20.md",
+                "file": "Daily Notes/2024-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-20.md"
+                "file": "Daily Notes/2024-08-21.md"
               }
             }
           }
@@ -284,31 +219,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b86dd3198e750b76",
+  "active": "60db33f84ff14bbf",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
-    "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
     "ROKEY bootcamp/Computer Vision/4_3.md",
     "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
     "개인공부/유용한 정보.md",
-    "개인공부/코딩 실력보다 훨씬 중요한거.md",
+    "개인공부/오픽 공부.md",
+    "개인공부/유튜브 영상을 요약해주는 ai.md",
+    "desktop.ini",
+    "Daily Notes/2024-08-21.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821145816.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821145757.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821145631.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821142000.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821140524.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821121954.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821121938.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821121121.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821121022.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821120939.png",
+    "Templates/날짜 템플릿.md",
+    "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
+    "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
     "Daily Notes/2024-08-20.md",
     "개인공부/개인 공부.md",
-    "Daily Notes/2024-08-21.md",
-    "개인공부/오픽 공부.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820174255.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820161223.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820160801.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820152210.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820150141.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820150010.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820145634.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820143103.png",
+    "개인공부/코딩 실력보다 훨씬 중요한거.md",
     "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md",
     "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md",
     "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820141935.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240820141818.png",
     "Daily Notes/2024-08-19.md",
     "ROKEY bootcamp/DevOps/DevOps 강의.md",
     "ROKEY bootcamp/정보.md",
@@ -321,11 +259,8 @@
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
     "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md",
-    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
-    "ROKEY bootcamp/DevOps/3차-MySQL(VScode).md",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
-    "desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_06.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_05.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_04.pdf",

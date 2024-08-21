@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
-    },
-    {
-      "basename": "2024-08-20",
-      "path": "Daily Notes/2024-08-20.md"
-    },
-    {
-      "basename": "4_1-딥러닝개요,경사하강법,역전파",
-      "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
-    },
-    {
-      "basename": "4_2-로지스틱,Wide&Deep한 모델, DataLoader",
-      "path": "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md"
+      "basename": "2024-08-21",
+      "path": "Daily Notes/2024-08-21.md"
     },
     {
       "basename": "4_3",
@@ -29,16 +17,36 @@
       "path": "개인공부/유용한 정보.md"
     },
     {
-      "basename": "코딩 실력보다 훨씬 중요한거",
-      "path": "개인공부/코딩 실력보다 훨씬 중요한거.md"
-    },
-    {
-      "basename": "2024-08-21",
-      "path": "Daily Notes/2024-08-21.md"
-    },
-    {
       "basename": "오픽 공부",
       "path": "개인공부/오픽 공부.md"
+    },
+    {
+      "basename": "유튜브 영상을 요약해주는 ai",
+      "path": "개인공부/유튜브 영상을 요약해주는 ai.md"
+    },
+    {
+      "basename": "날짜 템플릿",
+      "path": "Templates/날짜 템플릿.md"
+    },
+    {
+      "basename": "4_2-로지스틱,Wide&Deep한 모델, DataLoader",
+      "path": "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md"
+    },
+    {
+      "basename": "4_1-딥러닝개요,경사하강법,역전파",
+      "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
+    },
+    {
+      "basename": "2024-08-20",
+      "path": "Daily Notes/2024-08-20.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "코딩 실력보다 훨씬 중요한거",
+      "path": "개인공부/코딩 실력보다 훨씬 중요한거.md"
     },
     {
       "basename": "1_3-머신러닝 및 통계 개요",
@@ -153,10 +161,6 @@
       "path": "ROKEY bootcamp/Computer Vision/attachments/Pandas_Cheat_Sheet.pdf"
     },
     {
-      "basename": "날짜 템플릿",
-      "path": "Templates/날짜 템플릿.md"
-    },
-    {
       "basename": "강의 템플릿",
       "path": "Templates/강의 템플릿.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "C 09장-포인터2",
       "path": "ROKEY bootcamp/C class/C 09장-포인터2.md"
-    },
-    {
-      "basename": "2024-08-11",
-      "path": "Daily Notes/2024-08-11.md"
     }
   ],
   "omittedPaths": []
