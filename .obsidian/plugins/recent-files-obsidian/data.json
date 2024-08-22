@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6_1",
+      "path": "ROKEY bootcamp/Computer Vision/6_1.md"
+    },
+    {
       "basename": "2024-08-22",
       "path": "Daily Notes/2024-08-22.md"
     },
@@ -9,8 +13,8 @@
       "path": "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md"
     },
     {
-      "basename": "4_3",
-      "path": "ROKEY bootcamp/Computer Vision/4_3.md"
+      "basename": "5_1",
+      "path": "ROKEY bootcamp/Computer Vision/5_1.md"
     },
     {
       "basename": "2024-08-21",
@@ -195,10 +199,6 @@
     {
       "basename": "C 07장-배열",
       "path": "ROKEY bootcamp/C class/C 07장-배열.md"
-    },
-    {
-      "basename": "mysql_devops3",
-      "path": "ROKEY bootcamp/Python 강의/Python 수업 코드/mysql_devops3.py"
     }
   ],
   "omittedPaths": []

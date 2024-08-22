@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "a1f5c10ea6df37c9",
+            "id": "679a28b0a2bfc24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/4_3.md",
+                "file": "ROKEY bootcamp/Computer Vision/6_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -221,8 +221,9 @@
   },
   "active": "60db33f84ff14bbf",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/6_1.md",
     "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/4_3.md",
+    "ROKEY bootcamp/Computer Vision/5_1.md",
     "Daily Notes/2024-08-22.md",
     "Daily Notes/2024-08-21.md",
     "개인공부/유용한 정보.md",
@@ -258,7 +259,6 @@
     "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
     "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
-    "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_06.pdf",
