@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-22",
+      "path": "Daily Notes/2024-08-22.md"
+    },
+    {
       "basename": "6_1",
       "path": "ROKEY bootcamp/Computer Vision/6_1.md"
     },
     {
-      "basename": "2024-08-22",
-      "path": "Daily Notes/2024-08-22.md"
+      "basename": "5_1",
+      "path": "ROKEY bootcamp/Computer Vision/5_1.md"
     },
     {
       "basename": "컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md"
     },
     {
-      "basename": "5_1",
-      "path": "ROKEY bootcamp/Computer Vision/5_1.md"
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "2024-08-21",
@@ -75,10 +79,6 @@
     {
       "basename": "DevOps 강의",
       "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "3_2-경사하강법,로지스틱,보스턴",

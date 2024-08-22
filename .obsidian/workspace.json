@@ -59,6 +59,19 @@
             }
           },
           {
+            "id": "876d03e36d58f168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/5_1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "60db33f84ff14bbf",
             "type": "leaf",
             "state": {
@@ -72,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -222,24 +235,26 @@
   "active": "60db33f84ff14bbf",
   "lastOpenFiles": [
     "ROKEY bootcamp/Computer Vision/6_1.md",
-    "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/5_1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822164318.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822163648.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162630.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162349.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162313.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162133.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162056.png",
     "Daily Notes/2024-08-22.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822160854.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822160823.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822160600.png",
+    "ROKEY bootcamp/Computer Vision/5_1.md",
+    "ROKEY bootcamp/Computer Vision/컴퓨터 비전.md",
+    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Computer Vision/attachments/자료-2-pytorch선형회귀.pdf",
     "Daily Notes/2024-08-21.md",
     "개인공부/유용한 정보.md",
     "개인공부/오픽 공부.md",
     "개인공부/유튜브 영상을 요약해주는 ai.md",
     "desktop.ini",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821145816.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821145757.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821145631.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821142000.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821140524.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821121954.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821121938.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821121121.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821121022.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240821120939.png",
     "Templates/날짜 템플릿.md",
     "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
@@ -251,21 +266,18 @@
     "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md",
     "Daily Notes/2024-08-19.md",
     "ROKEY bootcamp/DevOps/DevOps 강의.md",
-    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/attachments/1.Intro_for_AI-0819_-_배포안.pdf",
     "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "ROKEY bootcamp/Computer Vision/1_4-코랩 개요.md",
     "ROKEY bootcamp/Computer Vision/1_5-코랩을 이용한 학습 개요.md",
     "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
     "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
-    "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_06.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_05.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_04.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_03.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/3차시_02.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/3차시_01.pdf"
+    "ROKEY bootcamp/Computer Vision/attachments/3차시_02.pdf"
   ]
 }
