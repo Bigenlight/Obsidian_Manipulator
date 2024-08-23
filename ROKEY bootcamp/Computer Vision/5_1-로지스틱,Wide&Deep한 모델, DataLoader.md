@@ -3,7 +3,7 @@
 2024-08-20
 
 ![[1.Intro_for_AI-0819_-_배포안.pdf]]
-
+p. 103
 # Logistic Regression
 
 ![[Pasted image 20240820112254.png]]
@@ -15,6 +15,8 @@ Linear인 값에 ==Actication function==인 Sigmoid 함수를 적용하여 발�
 ![[Pasted image 20240820115749.png]]
 궁금하면 나중에 영상 더 찾아봐야 할 듯.
 근데 그냥 대입하면 나옴.
+[5. 분류알고리즘 선택2 - YouTube](https://www.youtube.com/watch?v=mQZBj-oU1Go)
+1:23:20 부근에 계산
 
 CNN이랑 RNN을 배울텐데, 요즘은 LLM이 이를 다 합침.
 
