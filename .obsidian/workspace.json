@@ -46,12 +46,25 @@
             }
           },
           {
+            "id": "5ab367445bd9b48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "60db33f84ff14bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-22.md",
+                "file": "Daily Notes/2024-08-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-22.md",
+                "file": "Daily Notes/2024-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-22.md",
+                "file": "Daily Notes/2024-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-22.md"
+                "file": "Daily Notes/2024-08-23.md"
               }
             }
           }
@@ -202,16 +215,23 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "60db33f84ff14bbf",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
+    "ROKEY bootcamp/Computer Vision/8_1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823105422.png",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/6_1-Pytorch 실습.md",
-    "ROKEY bootcamp/Computer Vision/5_1.md",
+    "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
+    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
+    "ROKEY bootcamp/Computer Vision/6_1.md",
+    "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
+    "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
+    "Daily Notes/2024-08-23.md",
     "Daily Notes/2024-08-22.md",
-    "ROKEY bootcamp/Computer Vision/6_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822164318.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822163648.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162630.png",
@@ -221,7 +241,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162056.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822160854.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822160823.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822160600.png",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/attachments/자료-2-pytorch선형회귀.pdf",
     "Daily Notes/2024-08-21.md",
@@ -230,8 +249,6 @@
     "개인공부/유튜브 영상을 요약해주는 ai.md",
     "desktop.ini",
     "Templates/날짜 템플릿.md",
-    "ROKEY bootcamp/Computer Vision/4_2-로지스틱,Wide&Deep한 모델, DataLoader.md",
-    "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
     "Daily Notes/2024-08-20.md",
     "개인공부/개인 공부.md",
     "개인공부/코딩 실력보다 훨씬 중요한거.md",
@@ -242,10 +259,6 @@
     "ROKEY bootcamp/DevOps/DevOps 강의.md",
     "ROKEY bootcamp/Computer Vision/attachments/1.Intro_for_AI-0819_-_배포안.pdf",
     "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
-    "ROKEY bootcamp/Computer Vision/1_4-코랩 개요.md",
-    "ROKEY bootcamp/Computer Vision/1_5-코랩을 이용한 학습 개요.md",
-    "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
-    "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_06.pdf",

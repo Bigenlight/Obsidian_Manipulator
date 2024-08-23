@@ -16,6 +16,8 @@ NLP: Natural Language Processing - 자연어 처리 = 언어를 기계가 이해
 
 지금까지의 딥러닝은 여기저기 들어가는 방법들임.
 
+![[Pasted image 20240823105422.png|500]]
+
 
 ## 비지도 학습
 ![[Pasted image 20240822152424.png|400]]
@@ -71,3 +73,5 @@ SVC: Support Vector Classifier라고도 함
 사용 예시
 ![[Pasted image 20240822164318.png]]
 빨간 점 하나와 파란 점 두개를 서포트 벡터로 이용
+
+last modification: 2024-08-23
