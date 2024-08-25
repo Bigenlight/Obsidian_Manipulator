@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-25.md",
+                "file": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-25.md",
+                "file": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-25.md"
+                "file": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
               }
             }
           }
@@ -203,13 +203,14 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "60db33f84ff14bbf",
+  "active": "5a1b7e7d73dad2d4",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "Daily Notes/2024-08-25.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "Daily Notes/2024-08-24.md",
     "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
     "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md",
