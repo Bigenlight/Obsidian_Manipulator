@@ -90,3 +90,6 @@ print("PyTorch Loss1 = ", l1.data, "\nPyTorch Loss2=", l2.data)
 이제 실습 들어감
 마저보기 [6. 데이터 전처리 - YouTube](https://www.youtube.com/watch?v=UrtxT79RVo8&t=5s)
 하다가 잘 안됐다고함
+지금 보니까 별거 안했누
+[Site Unreachable](https://colab.research.google.com/drive/1TZZVFWFddhoJF7f7vR1KTmOaUsOxytPn?hl=ko#scrollTo=8iW0V1MtnOcE)
+ZOO는 다음번 했으니 안봐도 ㄱㅊ을 듯. 그리고 강의 보는 것보다 GPT에 함수 용도 물어보는게 효율적으로 보임.

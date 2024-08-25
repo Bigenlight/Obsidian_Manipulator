@@ -57,3 +57,9 @@ Class
 
 [Google Colab](https://colab.research.google.com/drive/1AdIPp_V4vGgcMrtzP9kpf6mc-A-Qwahb?hl=ko#scrollTo=jxyR_2eP9n8S)
 
+### 과제
+```python
+x = torch.tensor([1., 2., 3.],requires_grad=True)
+y = torch.tensor([4., 5., 6.])
+```
+참고로 gradient를 계산하려면 행렬 속 숫자들이 float가 아니면 안됨. 뒤에 '.'이라도 붙여야함.

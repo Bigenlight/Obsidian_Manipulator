@@ -1,28 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-23",
-      "path": "Daily Notes/2024-08-23.md"
-    },
-    {
-      "basename": "8_1",
-      "path": "ROKEY bootcamp/Computer Vision/8_1.md"
-    },
-    {
-      "basename": "7_2-머신러닝-Kmeans,Knn,Ms,SVM 등",
-      "path": "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md"
-    },
-    {
-      "basename": "6_1",
-      "path": "ROKEY bootcamp/Computer Vision/6_1.md"
+      "basename": "2024-08-25",
+      "path": "Daily Notes/2024-08-25.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
+      "basename": "2024-08-24",
+      "path": "Daily Notes/2024-08-24.md"
+    },
+    {
+      "basename": "7_2-머신러닝-Kmeans,Knn,Ms,SVM 등",
+      "path": "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md"
+    },
+    {
+      "basename": "8_1-실습,딥러닝",
+      "path": "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md"
+    },
+    {
+      "basename": "C 이론",
+      "path": "ROKEY bootcamp/C class/C 이론.md"
+    },
+    {
+      "basename": "C 08장-포인터1",
+      "path": "ROKEY bootcamp/C class/C 08장-포인터1.md"
+    },
+    {
+      "basename": "C 09장-포인터2",
+      "path": "ROKEY bootcamp/C class/C 09장-포인터2.md"
+    },
+    {
+      "basename": "2024-08-23",
+      "path": "Daily Notes/2024-08-23.md"
+    },
+    {
+      "basename": "6_1-Softmax, 실습",
+      "path": "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md"
+    },
+    {
+      "basename": "2024-08-22",
+      "path": "Daily Notes/2024-08-22.md"
+    },
+    {
+      "basename": "2024-08-21",
+      "path": "Daily Notes/2024-08-21.md"
+    },
+    {
       "basename": "5_1-로지스틱,Wide&Deep한 모델, DataLoader",
       "path": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md"
+    },
+    {
+      "basename": "7_1-Pytorch 실습",
+      "path": "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md"
     },
     {
       "basename": "3_2-경사하강법,로지스틱,보스턴",
@@ -33,24 +65,12 @@
       "path": "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md"
     },
     {
-      "basename": "7_1-Pytorch 실습",
-      "path": "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md"
-    },
-    {
       "basename": "4_1-딥러닝개요,경사하강법,역전파",
       "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
     },
     {
-      "basename": "2024-08-22",
-      "path": "Daily Notes/2024-08-22.md"
-    },
-    {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "2024-08-21",
-      "path": "Daily Notes/2024-08-21.md"
     },
     {
       "basename": "유용한 정보",
@@ -179,26 +199,6 @@
     {
       "basename": "Pandas_Cheat_Sheet",
       "path": "ROKEY bootcamp/Computer Vision/attachments/Pandas_Cheat_Sheet.pdf"
-    },
-    {
-      "basename": "강의 템플릿",
-      "path": "Templates/강의 템플릿.md"
-    },
-    {
-      "basename": "2024-08-13",
-      "path": "Daily Notes/2024-08-13.md"
-    },
-    {
-      "basename": "Ubuntu 22.04",
-      "path": "개인공부/Ubuntu 22.04.md"
-    },
-    {
-      "basename": "리눅스 환경",
-      "path": "ROKEY bootcamp/리눅스 환경.md"
-    },
-    {
-      "basename": "C 08장-포인터1",
-      "path": "ROKEY bootcamp/C class/C 08장-포인터1.md"
     }
   ],
   "omittedPaths": []

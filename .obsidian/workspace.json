@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "9b9b94278cbb0fb8",
+            "id": "5a1b7e7d73dad2d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,64 +46,12 @@
             }
           },
           {
-            "id": "a9082f3cb10e2fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/8_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d7e888e91cc92b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/6_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3d021428c0b1d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ab367445bd9b48c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60db33f84ff14bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-23.md",
+                "file": "Daily Notes/2024-08-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "교차",
+                "query": "정규화",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,12 +113,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed06cea5a27a30bc",
@@ -194,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-23.md",
+                "file": "Daily Notes/2024-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-23.md",
+                "file": "Daily Notes/2024-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-23.md"
+                "file": "Daily Notes/2024-08-25.md"
               }
             }
           }
@@ -255,38 +203,42 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "periodic-notes:Open today": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
   "active": "60db33f84ff14bbf",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/8_1.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "Daily Notes/2024-08-25.md",
+    "Daily Notes/2024-08-24.md",
+    "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
+    "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md",
+    "ROKEY bootcamp/C class/C 이론.md",
+    "ROKEY bootcamp/C class/C 08장-포인터1.md",
+    "ROKEY bootcamp/C class/C 09장-포인터2.md",
+    "Daily Notes/2024-08-23.md",
+    "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
+    "Daily Notes/2024-08-22.md",
+    "Daily Notes/2024-08-21.md",
+    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
+    "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823234505.png",
+    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "ROKEY bootcamp/Computer Vision/attachments/머신러닝 작업 순서.pptx",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823163251.png",
-    "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
     "ROKEY bootcamp/Computer Vision/attachments/AI개론교안(템플릿)-5차시-10장.pdf",
-    "Daily Notes/2024-08-23.md",
-    "ROKEY bootcamp/Computer Vision/6_1.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823120630.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823115356.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823112905.png",
-    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
-    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823105422.png",
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
-    "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
-    "Daily Notes/2024-08-22.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822164318.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822163648.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162630.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162349.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162313.png",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/attachments/자료-2-pytorch선형회귀.pdf",
-    "Daily Notes/2024-08-21.md",
     "개인공부/유용한 정보.md",
     "개인공부/오픽 공부.md",
     "개인공부/유튜브 영상을 요약해주는 ai.md",
@@ -296,10 +248,6 @@
     "개인공부/개인 공부.md",
     "개인공부/코딩 실력보다 훨씬 중요한거.md",
     "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md",
-    "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md",
-    "ROKEY bootcamp/Computer Vision/1_1-데이터,AI기초.md",
-    "Daily Notes/2024-08-19.md",
-    "ROKEY bootcamp/DevOps/DevOps 강의.md",
     "ROKEY bootcamp/Computer Vision/attachments/1.Intro_for_AI-0819_-_배포안.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
