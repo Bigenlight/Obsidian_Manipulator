@@ -137,58 +137,6 @@
             }
           },
           {
-            "id": "f694e4043d2ef84f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "080384f0dc3e5080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ace8cc2e3195b390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ede32dab6ccba260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60db33f84ff14bbf",
             "type": "leaf",
             "state": {
@@ -202,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -351,22 +299,22 @@
   },
   "active": "60db33f84ff14bbf",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
+    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
+    "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
+    "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
+    "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
+    "Daily Notes/2024-08-25.md",
     "개인공부/대학원 정보 모음.md",
     "ROKEY bootcamp/C class/C 01강 실습.md",
-    "Daily Notes/2024-08-25.md",
     "개인공부/유용한 정보.md",
-    "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
     "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md",
-    "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
     "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
     "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
     "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
-    "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
-    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
-    "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
     "Daily Notes/2024-08-24.md",
     "ROKEY bootcamp/C class/C 이론.md",
     "ROKEY bootcamp/C class/C 08장-포인터1.md",

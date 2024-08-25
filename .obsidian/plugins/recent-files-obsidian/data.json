@@ -5,6 +5,26 @@
       "path": "Daily Notes/2024-08-25.md"
     },
     {
+      "basename": "4_1-딥러닝개요,경사하강법,역전파",
+      "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
+    },
+    {
+      "basename": "5_1-로지스틱,Wide&Deep한 모델, DataLoader",
+      "path": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md"
+    },
+    {
+      "basename": "6_1-Softmax, 실습",
+      "path": "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md"
+    },
+    {
+      "basename": "7_1-Pytorch 실습",
+      "path": "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md"
+    },
+    {
+      "basename": "7_2-머신러닝-Kmeans,Knn,Ms,SVM 등",
+      "path": "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md"
+    },
+    {
       "basename": "대학원 정보 모음",
       "path": "개인공부/대학원 정보 모음.md"
     },
@@ -13,16 +33,8 @@
       "path": "개인공부/유용한 정보.md"
     },
     {
-      "basename": "7_2-머신러닝-Kmeans,Knn,Ms,SVM 등",
-      "path": "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md"
-    },
-    {
       "basename": "8_1-실습,딥러닝",
       "path": "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md"
-    },
-    {
-      "basename": "7_1-Pytorch 실습",
-      "path": "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
@@ -47,18 +59,6 @@
     {
       "basename": "3_3-퍼셉트론",
       "path": "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md"
-    },
-    {
-      "basename": "4_1-딥러닝개요,경사하강법,역전파",
-      "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
-    },
-    {
-      "basename": "5_1-로지스틱,Wide&Deep한 모델, DataLoader",
-      "path": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md"
-    },
-    {
-      "basename": "6_1-Softmax, 실습",
-      "path": "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md"
     },
     {
       "basename": "2024-08-24",

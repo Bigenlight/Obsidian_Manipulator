@@ -18,8 +18,8 @@ Linear인 값에 ==Actication function==인 Sigmoid 함수를 적용하여 발�
 ![[Pasted image 20240820115749.png]]
 궁금하면 나중에 영상 더 찾아봐야 할 듯.
 근데 그냥 대입하면 나옴.
-[5. 분류알고리즘 선택2 - YouTube](https://www.youtube.com/watch?v=mQZBj-oU1Go)
-1:23:20 부근에 계산
+~~[5. 분류알고리즘 선택2 - YouTube](https://www.youtube.com/watch?v=mQZBj-oU1Go)~~
+~~1:23:20 부근에 계산~~
 
 CNN이랑 RNN을 배울텐데, 요즘은 LLM이 이를 다 합침.
 
@@ -101,7 +101,7 @@ model = Model()
 criterion = torch.nn.BCELoss(size_average=True) 
 optimizer = torch.optim.SGD(model.parameters(), lr=0.1)
 ```
-==BCE== : binary cross entropy, 교차엔트로피 공식
+==BCE== : binary cross entropy, 교차 엔트로피 공식
 	이를 통해 오차 계산 (선형에서는 MCE(평균제곱오차) 썼음)
 옵티마이저는 ==SGD==: Stochastic Gradient Descent (확률적 경사하강법)
 
@@ -156,8 +156,8 @@ batch size : 트레이닝 하는 샘플의 수
 
 ![[Pasted image 20240820161223.png]]
 데이터 로드시 queue로 이용
-	Stack : 마지막에 추가된 요소가 가장 먼저 제거 (후입선출)  
-	Queue : 가장 먼저 추가된 요소가 가장 먼저 제거 (선입선출)  
+	Stack : 마지막에 추가된 요소가 가장 먼저 제거 (후입선출)
+	Queue : 가장 먼저 추가된 요소가 가장 먼저 제거 (선입선출)
 	Deque :  양쪽 끝에서 요소를 추가하거나 제거 (양방향 Queue)
 
 ```python

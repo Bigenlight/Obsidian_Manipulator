@@ -37,7 +37,7 @@ Softmax 함수를 표시하는 기호는 시그모이드랑 똑같이 시그마�
 
 ###### 단순 코딩으로 Cross Entropy 예제
 ![[Pasted image 20240821145631.png|200]]
-0.7, 0.2, 0.1이 여기까치 예측한 값, 이제 이거에 대한  cost(loss, 오차)를 측정함.
+0.7, 0.2, 0.1이 여기까치 예측한 값, 이제 이거에 대한 cost(loss, 오차)를 측정함.
 ```python
 # Cross entropy example
 import numpy as np
