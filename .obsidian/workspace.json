@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-25.md",
+                "file": "Daily Notes/2024-08-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-25.md",
+                "file": "Daily Notes/2024-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-25.md",
+                "file": "Daily Notes/2024-08-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-25.md"
+                "file": "Daily Notes/2024-08-26.md"
               }
             }
           }
@@ -286,9 +286,10 @@
   },
   "active": "a08e8e7d3b2d1182",
   "lastOpenFiles": [
+    "Daily Notes/2024-08-25.md",
+    "Daily Notes/2024-08-26.md",
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
-    "Daily Notes/2024-08-25.md",
     "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
     "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
     "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
@@ -324,7 +325,6 @@
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/attachments/자료-2-pytorch선형회귀.pdf",
     "개인공부/오픽 공부.md",
-    "개인공부/유튜브 영상을 요약해주는 ai.md",
     "desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/1.Intro_for_AI-0819_-_배포안.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
