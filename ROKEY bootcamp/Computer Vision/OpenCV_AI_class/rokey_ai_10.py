@@ -11,6 +11,7 @@ cv2.destroyAllWindows()
 
 # %%
 #C:\MSI\ROKEY\OpenCV_Ai_Class\insightbook.opencv_project_python\04.img_processing
+# 마우스 드래그로 ROI 좌표값 반환하는 코드
 import cv2
 import numpy as np
 
@@ -40,10 +41,10 @@ def onMouse(event,x,y,flags,param):     # 마우스 이벤트 핸들 함수  ---
                 # 선택 영역에 빨간 사각형 표시
                 cv2.rectangle(img_draw, (x0, y0), (x, y), red, 2)
                 #cv2.imshow('img', img_draw) # 빨간 사각형 그려진 이미지 화면 출력
-                cv2_imshow(img_draw) # 빨간 사각형 그려진 이미지 화면 출력
+                cv2.imshow('img', img_draw) # 빨간 사각형 그려진 이미지 화면 출력
                 roi = img[y0:y0+h, x0:x0+w] # 원본 이미지에서 선택 영영만 ROI로 지정 ---⑥
                 #cv2.imshow('cropped', roi)  # ROI 지정 영역을 새창으로 표시
-                cv2_imshow(roi)  # ROI 지정 영역을 새창으로 표시
+                cv2.imshow('cropped', roi)  # ROI 지정 영역을 새창으로 표시
                 cv2.moveWindow('cropped', 0, 0) # 새창을 화면 좌측 상단에 이동
                 cv2.imwrite('./cropped.jpg', roi)   # ROI 영역만 파일로 저장 ---⑦
                 print("croped.")
@@ -59,3 +60,5 @@ cv2.destroyAllWindows()
 
 
 # %%
+
+

@@ -9,12 +9,16 @@
       "path": "ROKEY bootcamp/Computer Vision/10_1.md"
     },
     {
-      "basename": "9_1-OpenCV",
-      "path": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md"
-    },
-    {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "rokey_ai_10",
+      "path": "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_10.py"
+    },
+    {
+      "basename": "9_1-OpenCV",
+      "path": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md"
     },
     {
       "basename": "교육(커리큘럼) 및 학사 관리",
@@ -195,10 +199,6 @@
     {
       "basename": "3차_3-DOCKER",
       "path": "ROKEY bootcamp/DevOps/3차_3-DOCKER.md"
-    },
-    {
-      "basename": "2024-08-12",
-      "path": "Daily Notes/2024-08-12.md"
     }
   ],
   "omittedPaths": []
