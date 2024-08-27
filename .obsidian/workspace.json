@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-27.md",
+                "file": "ROKEY bootcamp/Computer Vision/10_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-27.md",
+                "file": "ROKEY bootcamp/Computer Vision/10_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-27.md"
+                "file": "ROKEY bootcamp/Computer Vision/10_1.md"
               }
             }
           }
@@ -232,12 +232,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "704eb570fe020b20",
+  "active": "01b8ba2201882a41",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827155143.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827153150.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827152936.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827152912.png",
+    "Daily Notes/2024-08-27.md",
     "ROKEY bootcamp/Computer Vision/10_1.md",
     "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "Daily Notes/2024-08-27.md",
     "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
     "Daily Notes/2024-08-26.md",
     "desktop.ini",
@@ -261,7 +265,6 @@
     "개인공부/유용한 정보.md",
     "Daily Notes/2024-08-24.md",
     "ROKEY bootcamp/C class/C 이론.md",
-    "ROKEY bootcamp/C class/C 08장-포인터1.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823234505.png",
     "ROKEY bootcamp/Computer Vision/attachments/머신러닝 작업 순서.pptx",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823163251.png",
@@ -271,9 +274,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823112905.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823105422.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822164318.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822163648.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162630.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162349.png",
     "ROKEY bootcamp/Computer Vision/attachments/자료-2-pytorch선형회귀.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/1.Intro_for_AI-0819_-_배포안.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
