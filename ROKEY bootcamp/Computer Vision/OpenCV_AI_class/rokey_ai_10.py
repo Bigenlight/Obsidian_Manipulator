@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('cropped.jpg', cv2.IMREAD_GRAYSCALE)
+img = cv2.imread('/home/theo/Downloads/cuterobot_0000.jpg', cv2.IMREAD_GRAYSCALE)
 _,bin=cv2.threshold(img,170,255,cv2.THRESH_BINARY)
 cv2.imshow('Gray Scale',img)
 cv2.imshow('Binary',bin)
