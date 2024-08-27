@@ -33,12 +33,25 @@
             }
           },
           {
-            "id": "3b404846cf1a5d3e",
+            "id": "46fcf53d3ac161d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/대학원 정보 모음.md",
+                "file": "ROKEY bootcamp/정보.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52554ae7eed7fba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,64 +72,12 @@
             }
           },
           {
-            "id": "ef6054d238a9a8c5",
+            "id": "e30c6feba384e11e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9c34ddfdeb507f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d901d36ed1c0affc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b37dc41288601525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd90fbe30b338050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
+                "file": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -286,9 +247,21 @@
   },
   "active": "a08e8e7d3b2d1182",
   "lastOpenFiles": [
-    "Daily Notes/2024-08-25.md",
+    "desktop.ini",
+    "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
     "Daily Notes/2024-08-26.md",
+    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
+    "ROKEY bootcamp/Computer Vision/attachments/opencv강좌_02_ipynb의_사본.ipynb",
+    "Daily Notes/2024-08-25.md",
+    "개인공부/Flux.md",
+    "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md",
+    "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
+    "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
+    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
+    "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
     "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
     "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
@@ -297,19 +270,10 @@
     "개인공부/대학원 정보 모음.md",
     "ROKEY bootcamp/C class/C 01강 실습.md",
     "개인공부/유용한 정보.md",
-    "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
-    "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
-    "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
-    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
     "Daily Notes/2024-08-24.md",
     "ROKEY bootcamp/C class/C 이론.md",
     "ROKEY bootcamp/C class/C 08장-포인터1.md",
     "ROKEY bootcamp/C class/C 09장-포인터2.md",
-    "Daily Notes/2024-08-23.md",
-    "Daily Notes/2024-08-22.md",
-    "Daily Notes/2024-08-21.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823234505.png",
     "ROKEY bootcamp/Computer Vision/attachments/머신러닝 작업 순서.pptx",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240823163251.png",
@@ -322,15 +286,11 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822163648.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162630.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240822162349.png",
-    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/attachments/자료-2-pytorch선형회귀.pdf",
-    "개인공부/오픽 공부.md",
-    "desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/1.Intro_for_AI-0819_-_배포안.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_A._모두의딥러닝.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/_최종__AI개론교안_4차시_B._머신러닝교과서.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/3차시_06.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/3차시_05.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/3차시_04.pdf"
+    "ROKEY bootcamp/Computer Vision/attachments/3차시_05.pdf"
   ]
 }
