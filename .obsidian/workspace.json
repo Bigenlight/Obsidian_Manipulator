@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "4ed607c8b37e6cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5a1b7e7d73dad2d4",
             "type": "leaf",
             "state": {
@@ -46,12 +59,12 @@
             }
           },
           {
-            "id": "01b8ba2201882a41",
+            "id": "f5b4cd52d164cb9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/10_1.md",
+                "file": "ROKEY bootcamp/Computer Vision/11_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-26.md",
+                "file": "Daily Notes/2024-08-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-26.md",
+                "file": "Daily Notes/2024-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-26.md",
+                "file": "Daily Notes/2024-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-26.md"
+                "file": "Daily Notes/2024-08-28.md"
               }
             }
           }
@@ -221,33 +234,35 @@
   },
   "active": "3053dae91117ef02",
   "lastOpenFiles": [
-    "Daily Notes/2024-08-27.md",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/test.py",
+    "ROKEY bootcamp/Computer Vision/11_1.md",
+    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240828142400.png",
     "ROKEY bootcamp/Computer Vision/10_1.md",
+    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_11.py",
+    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/untitled0.py",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240828121030.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240828120945.png",
+    "Daily Notes/2024-08-28.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "Daily Notes/2024-08-27.md",
+    "Daily Notes/2024-08-26.md",
+    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/test.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/02.interface/desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827162225.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827162043.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827161957.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827161324.png",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_10.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/coin_test/coin9.jpg",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/coin_test/coin8.jpg",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/coin_test/coin7.jpg",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/coin_test/coin6.jpg",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/coin_test/coin5.jpg",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/coin_test/coin4.jpg",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/walking.avi",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/highway.mp4",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/coin_test",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/books",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/big_buck.avi",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/10.apdx/face_swap.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/README.md",
     "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
-    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
-    "Daily Notes/2024-08-26.md",
     "ROKEY bootcamp/정보.md",
     "Daily Notes/2024-08-25.md",
     "개인공부/Flux.md",
@@ -263,8 +278,6 @@
     "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
     "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
     "개인공부/대학원 정보 모음.md",
-    "ROKEY bootcamp/C class/C 01강 실습.md",
-    "개인공부/유용한 정보.md",
-    "Daily Notes/2024-08-24.md"
+    "ROKEY bootcamp/C class/C 01강 실습.md"
   ]
 }
