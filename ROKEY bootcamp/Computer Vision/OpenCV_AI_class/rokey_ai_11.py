@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 28 13:47:14 2024
-
-@author: window
-"""
+# 문서 꼭짓점 찍으면 잘 보이게 변환해주는 코드
 
 import cv2
 import numpy as np
