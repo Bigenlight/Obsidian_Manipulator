@@ -1,5 +1,7 @@
 #컴퓨터비전
 
+[[AI, Computer Vision 평가 준비]]
+
 [[1_1-데이터,AI기초]]
 [[1_2-Digital Transformation 및 적용 예시]]
 [[1_3-머신러닝 및 통계 개요]]

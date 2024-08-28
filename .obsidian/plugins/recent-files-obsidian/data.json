@@ -5,6 +5,10 @@
       "path": "Daily Notes/2024-08-28.md"
     },
     {
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
       "basename": "11_1",
       "path": "ROKEY bootcamp/Computer Vision/11_1.md"
     },
@@ -13,12 +17,16 @@
       "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
     },
     {
-      "basename": "10_1",
-      "path": "ROKEY bootcamp/Computer Vision/10_1.md"
+      "basename": "9_1-OpenCV",
+      "path": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "10_1",
+      "path": "ROKEY bootcamp/Computer Vision/10_1.md"
     },
     {
       "basename": "2024-08-27",
@@ -31,10 +39,6 @@
     {
       "basename": "rokey_ai_10",
       "path": "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_10.py"
-    },
-    {
-      "basename": "9_1-OpenCV",
-      "path": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md"
     },
     {
       "basename": "정보",
@@ -195,10 +199,6 @@
     {
       "basename": "2차-SQL고급",
       "path": "ROKEY bootcamp/DevOps/2차-SQL고급.md"
-    },
-    {
-      "basename": "2차-웹서버",
-      "path": "ROKEY bootcamp/DevOps/2차-웹서버.md"
     }
   ],
   "omittedPaths": []
