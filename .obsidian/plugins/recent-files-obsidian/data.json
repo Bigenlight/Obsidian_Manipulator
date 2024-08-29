@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-29",
+      "path": "Daily Notes/2024-08-29.md"
+    },
+    {
       "basename": "2024-08-28",
       "path": "Daily Notes/2024-08-28.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3차-MySQL(VScode)",
       "path": "ROKEY bootcamp/DevOps/3차-MySQL(VScode).md"
-    },
-    {
-      "basename": "2차-SQL고급",
-      "path": "ROKEY bootcamp/DevOps/2차-SQL고급.md"
     }
   ],
   "omittedPaths": []
