@@ -5,24 +5,36 @@
       "path": "Daily Notes/2024-08-29.md"
     },
     {
-      "basename": "2024-08-27",
-      "path": "Daily Notes/2024-08-27.md"
+      "basename": "로봇 프로젝트",
+      "path": "ROKEY bootcamp/로봇 프로젝트.md"
     },
     {
-      "basename": "2024-08-25",
-      "path": "Daily Notes/2024-08-25.md"
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
     },
     {
-      "basename": "12_1",
-      "path": "ROKEY bootcamp/Computer Vision/12_1.md"
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
       "basename": "11_1",
       "path": "ROKEY bootcamp/Computer Vision/11_1.md"
     },
     {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+      "basename": "12_1",
+      "path": "ROKEY bootcamp/Computer Vision/12_1.md"
+    },
+    {
+      "basename": "2024-08-27",
+      "path": "Daily Notes/2024-08-27.md"
+    },
+    {
+      "basename": "2024-08-25",
+      "path": "Daily Notes/2024-08-25.md"
     },
     {
       "basename": "Flux",
@@ -35,10 +47,6 @@
     {
       "basename": "2024-08-28",
       "path": "Daily Notes/2024-08-28.md"
-    },
-    {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
     },
     {
       "basename": "10_1",
@@ -191,14 +199,6 @@
     {
       "basename": "1_5-코랩을 이용한 학습 개요",
       "path": "ROKEY bootcamp/Computer Vision/1_5-코랩을 이용한 학습 개요.md"
-    },
-    {
-      "basename": "1차 MySQL 설치 및 실행",
-      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
-    },
-    {
-      "basename": "1차 DBMS 개요와 MySQL 소개",
-      "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
     }
   ],
   "omittedPaths": []
