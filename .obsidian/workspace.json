@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-29.md",
+                "file": "Daily Notes/2024-08-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-29.md",
+                "file": "Daily Notes/2024-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-29.md",
+                "file": "Daily Notes/2024-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-29.md"
+                "file": "Daily Notes/2024-08-30.md"
               }
             }
           }
@@ -267,14 +267,16 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "3053dae91117ef02",
   "lastOpenFiles": [
+    "Daily Notes/2024-08-29.md",
+    "Daily Notes/2024-08-30.md",
     "ROKEY bootcamp/로봇 프로젝트.md",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "Daily Notes/2024-08-29.md",
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/11_1.md",
@@ -316,7 +318,6 @@
     "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/1_6-Numpy.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
-    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
-    "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md"
+    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md"
   ]
 }
