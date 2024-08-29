@@ -267,7 +267,8 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "3053dae91117ef02",
