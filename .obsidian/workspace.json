@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "2fc5d6adeb432607",
+            "id": "f6fa576a1e635f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+                "file": "ROKEY bootcamp/Computer Vision/12_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -221,13 +221,15 @@
   },
   "active": "3053dae91117ef02",
   "lastOpenFiles": [
-    "Daily Notes/2024-08-28.md",
-    "Daily Notes/2024-08-29.md",
+    "ROKEY bootcamp/Computer Vision/12_1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240829105903.png",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/11_1.md",
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+    "Daily Notes/2024-08-29.md",
+    "Daily Notes/2024-08-28.md",
     "ROKEY bootcamp/Computer Vision/10_1.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240828223036.png",
-    "ROKEY bootcamp/Computer Vision/11_1.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240828221520.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240828221432.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240828221308.png",
@@ -245,7 +247,6 @@
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/02.interface/desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827162225.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827162043.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240827161957.png",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_10.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/walking.avi",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/highway.mp4",
@@ -264,8 +265,6 @@
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
     "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
     "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
-    "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md",
-    "ROKEY bootcamp/Computer Vision/7_2-머신러닝-Kmeans,Knn,Ms,SVM 등.md",
-    "개인공부/대학원 정보 모음.md"
+    "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md"
   ]
 }
