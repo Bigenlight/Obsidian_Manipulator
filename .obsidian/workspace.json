@@ -85,45 +85,6 @@
             }
           },
           {
-            "id": "e949590436ceff1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/13_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a09230ea5ed4fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/11_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6fa576a1e635f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/12_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3053dae91117ef02",
             "type": "leaf",
             "state": {
@@ -137,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -286,9 +247,13 @@
   },
   "active": "3053dae91117ef02",
   "lastOpenFiles": [
-    "desktop.ini",
     "Daily Notes/2024-08-30.md",
     "Daily Notes/2024-09-01.md",
+    "Templates/Daily notes template.md",
+    "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md",
+    "ROKEY bootcamp/Computer Vision/12_1-컨투어, 하프 변환, 연속 영역 분할.md",
+    "ROKEY bootcamp/Computer Vision/11_1-이미지 변환, 필터링.md",
+    "desktop.ini",
     "ROKEY bootcamp/Computer Vision/13_1.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240830171028.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240830170814.png",
@@ -325,12 +290,8 @@
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/walking.avi",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/highway.mp4",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/coin_test",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/img/books",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/README.md",
     "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md",
-    "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
-    "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
-    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md"
+    "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md"
   ]
 }
