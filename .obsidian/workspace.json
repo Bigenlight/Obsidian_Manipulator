@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-08-30.md",
+                "file": "Daily Notes/2024-09-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-08-30.md",
+                "file": "Daily Notes/2024-09-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-08-30.md",
+                "file": "Daily Notes/2024-09-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-08-30.md"
+                "file": "Daily Notes/2024-09-01.md"
               }
             }
           }
@@ -286,11 +286,13 @@
   },
   "active": "3053dae91117ef02",
   "lastOpenFiles": [
+    "desktop.ini",
+    "Daily Notes/2024-08-30.md",
+    "Daily Notes/2024-09-01.md",
     "ROKEY bootcamp/Computer Vision/13_1.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240830171028.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240830170814.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240830170656.png",
-    "Daily Notes/2024-08-30.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240830161226.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240830152412.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240830144857.png",
@@ -329,7 +331,6 @@
     "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md",
     "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md",
     "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
-    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md",
-    "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md"
+    "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md"
   ]
 }
