@@ -5,28 +5,8 @@
       "path": "Daily Notes/2024-09-01.md"
     },
     {
-      "basename": "2024-08-30",
-      "path": "Daily Notes/2024-08-30.md"
-    },
-    {
-      "basename": "Daily notes template",
-      "path": "Templates/Daily notes template.md"
-    },
-    {
-      "basename": "한화 비전 채용 정보",
-      "path": "개인공부/한화 비전 채용 정보.md"
-    },
-    {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
-    },
-    {
-      "basename": "2024-08-29",
-      "path": "Daily Notes/2024-08-29.md"
     },
     {
       "basename": "로봇 프로젝트",
@@ -35,6 +15,30 @@
     {
       "basename": "두산 로보틱스 ROKEY bootcamp",
       "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "한화 비전 채용 정보",
+      "path": "개인공부/한화 비전 채용 정보.md"
+    },
+    {
+      "basename": "2024-08-30",
+      "path": "Daily Notes/2024-08-30.md"
+    },
+    {
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
+    },
+    {
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
+      "basename": "2024-08-29",
+      "path": "Daily Notes/2024-08-29.md"
     },
     {
       "basename": "2024-08-27",
@@ -71,10 +75,6 @@
     {
       "basename": "rokey_ai_10",
       "path": "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_10.py"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "8_1-실습,딥러닝",
