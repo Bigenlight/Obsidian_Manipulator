@@ -5,16 +5,24 @@
       "path": "Daily Notes/2024-09-02.md"
     },
     {
-      "basename": "2024-09-01",
-      "path": "Daily Notes/2024-09-01.md"
+      "basename": "14_1",
+      "path": "ROKEY bootcamp/Computer Vision/14_1.md"
     },
     {
-      "basename": "13_1-특징 검출, 매칭, 추적",
-      "path": "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md"
+      "basename": "2024년 하반기 공채",
+      "path": "개인공부/2024년 하반기 공채.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "13_1-특징 검출, 매칭, 추적",
+      "path": "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md"
     },
     {
       "basename": "로봇 프로젝트",
@@ -23,6 +31,14 @@
     {
       "basename": "두산 로보틱스 ROKEY bootcamp",
       "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "소켓 프로그래밍",
+      "path": "개인공부/소켓 프로그래밍.md"
+    },
+    {
+      "basename": "2024-09-01",
+      "path": "Daily Notes/2024-09-01.md"
     },
     {
       "basename": "정보",
@@ -133,10 +149,6 @@
       "path": "개인공부/대학원 정보 모음.md"
     },
     {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
-    },
-    {
       "basename": "2024-08-24",
       "path": "Daily Notes/2024-08-24.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "코딩 실력보다 훨씬 중요한거",
       "path": "개인공부/코딩 실력보다 훨씬 중요한거.md"
-    },
-    {
-      "basename": "1_3-머신러닝 및 통계 개요",
-      "path": "ROKEY bootcamp/Computer Vision/1_3-머신러닝 및 통계 개요.md"
-    },
-    {
-      "basename": "1_2-Digital Transformation 및 적용 예시",
-      "path": "ROKEY bootcamp/Computer Vision/1_2-Digital Transformation 및 적용 예시.md"
     }
   ],
   "omittedPaths": []
