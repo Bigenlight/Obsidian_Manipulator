@@ -72,12 +72,12 @@
             }
           },
           {
-            "id": "fb982872524ab3c5",
+            "id": "b960d53b66a1030e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/14_1.md",
+                "file": "ROKEY bootcamp/Computer Vision/14_2-다시 퍼셉트론.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,19 +91,6 @@
               "type": "markdown",
               "state": {
                 "file": "Daily Notes/2024-09-02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3053dae91117ef02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-09-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -260,7 +247,12 @@
   },
   "active": "19664a4abc95a059",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/14_1.md",
+    "ROKEY bootcamp/Computer Vision/14_2-다시 퍼셉트론.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "개인공부/2024년 하반기 공채.md",
+    "Daily Notes/2024-09-02.md",
+    "Daily Notes/2024-09-01.md",
+    "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902151606.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902151549.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902151534.png",
@@ -270,17 +262,13 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902145429.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902145255.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902145223.png",
-    "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902121317.png",
     "개인공부/유용한 정보.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md",
     "ROKEY bootcamp/로봇 프로젝트.md",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "개인공부/소켓 프로그래밍.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌 (1).pdf",
-    "Daily Notes/2024-09-02.md",
-    "Daily Notes/2024-09-01.md",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/untitled0.py",
     "ROKEY bootcamp/정보.md",
     "개인공부/한화 비전 채용 정보.md",
