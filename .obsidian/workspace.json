@@ -90,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-02.md",
+                "file": "Daily Notes/2024-09-03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-02.md",
+                "file": "Daily Notes/2024-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-02.md",
+                "file": "Daily Notes/2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-02.md"
+                "file": "Daily Notes/2024-09-03.md"
               }
             }
           }
@@ -247,12 +247,13 @@
   },
   "active": "19664a4abc95a059",
   "lastOpenFiles": [
+    "Daily Notes/2024-09-02.md",
+    "Daily Notes/2024-09-03.md",
     "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "개인공부/유용한 정보.md",
     "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
-    "Daily Notes/2024-09-02.md",
     "Daily Notes/2024-09-01.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902151606.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902151549.png",
@@ -285,7 +286,6 @@
     "Daily Notes/2024-08-27.md",
     "Daily Notes/2024-08-25.md",
     "개인공부/Flux.md",
-    "Daily Notes/2024-08-26.md",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/tmp52hebxbk",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_11.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/test.py",
