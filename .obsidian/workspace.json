@@ -33,12 +33,25 @@
             }
           },
           {
-            "id": "9d89d335e9a03d19",
+            "id": "c7f36ace6797f52d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/유용한 정보.md",
+                "file": "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99e4fb4c89fa442f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,6 +65,32 @@
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1fa427bb19cad35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ae6735555bd2c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -247,45 +286,44 @@
   },
   "active": "19664a4abc95a059",
   "lastOpenFiles": [
-    "Daily Notes/2024-09-02.md",
-    "Daily Notes/2024-09-03.md",
-    "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
     "개인공부/유용한 정보.md",
-    "개인공부/2024년 하반기 공채.md",
+    "개인공부/로봇 관련 박람회 및 포럼.md",
+    "개인공부/attachments/Pasted image 20240903210137.png",
+    "Daily Notes/2024-09-03.md",
+    "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
+    "개인공부/attachments/Pasted image 20240903185955.png",
+    "개인공부/attachments/Pasted image 20240903175234.png",
+    "개인공부/attachments/Pasted image 20240903174957.png",
+    "개인공부/attachments/Pasted image 20240903172052.png",
+    "개인공부/attachments/Pasted image 20240903170802.png",
+    "개인공부/attachments/Pasted image 20240903170543.png",
+    "개인공부/attachments/Pasted image 20240903170514.png",
+    "개인공부/attachments/Pasted image 20240903170254.png",
+    "개인공부/attachments/Pasted image 20240903170238.png",
+    "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
+    "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
+    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
+    "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
+    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
+    "Daily Notes/2024-09-02.md",
+    "개인공부/2024년 하반기 공채.md",
     "Daily Notes/2024-09-01.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902151606.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902151549.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902151534.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902150819.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902145943.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902145440.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902145429.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902145255.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902145223.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240902121317.png",
     "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md",
     "ROKEY bootcamp/로봇 프로젝트.md",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "개인공부/소켓 프로그래밍.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌 (1).pdf",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/untitled0.py",
-    "ROKEY bootcamp/정보.md",
     "개인공부/한화 비전 채용 정보.md",
     "Daily Notes/2024-08-30.md",
     "Templates/Daily notes template.md",
     "ROKEY bootcamp/Computer Vision/12_1-컨투어, 하프 변환, 연속 영역 분할.md",
     "ROKEY bootcamp/Computer Vision/11_1-이미지 변환, 필터링.md",
     "desktop.ini",
-    "ROKEY bootcamp/Computer Vision/13_1.md",
-    "ROKEY bootcamp/Computer Vision/12_1.md",
-    "ROKEY bootcamp/Computer Vision/11_1.md",
-    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
-    "Daily Notes/2024-08-29.md",
-    "Daily Notes/2024-08-27.md",
-    "Daily Notes/2024-08-25.md",
-    "개인공부/Flux.md",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/tmp52hebxbk",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_11.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/test.py",

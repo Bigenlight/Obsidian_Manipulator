@@ -5,28 +5,60 @@
       "path": "Daily Notes/2024-09-03.md"
     },
     {
-      "basename": "2024-09-02",
-      "path": "Daily Notes/2024-09-02.md"
-    },
-    {
-      "basename": "14_1-다시 퍼셉트론",
-      "path": "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md"
-    },
-    {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+      "basename": "삼성전자DS 로봇 관련 현직자 강의",
+      "path": "개인공부/삼성전자DS 로봇 관련 현직자 강의.md"
     },
     {
       "basename": "유용한 정보",
       "path": "개인공부/유용한 정보.md"
     },
     {
-      "basename": "2024년 하반기 공채",
-      "path": "개인공부/2024년 하반기 공채.md"
+      "basename": "로봇 관련 박람회 및 포럼",
+      "path": "개인공부/로봇 관련 박람회 및 포럼.md"
+    },
+    {
+      "basename": "15_2-오차역전파",
+      "path": "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md"
+    },
+    {
+      "basename": "15_1-신경망 학습",
+      "path": "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md"
+    },
+    {
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "14_1-다시 퍼셉트론",
+      "path": "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md"
+    },
+    {
+      "basename": "6_1-Softmax, 실습",
+      "path": "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md"
+    },
+    {
+      "basename": "5_1-로지스틱,Wide&Deep한 모델, DataLoader",
+      "path": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md"
+    },
+    {
+      "basename": "4_1-딥러닝개요,경사하강법,역전파",
+      "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "14_2-신경망",
       "path": "ROKEY bootcamp/Computer Vision/14_2-신경망.md"
+    },
+    {
+      "basename": "2024-09-02",
+      "path": "Daily Notes/2024-09-02.md"
+    },
+    {
+      "basename": "2024년 하반기 공채",
+      "path": "개인공부/2024년 하반기 공채.md"
     },
     {
       "basename": "2024-09-01",
@@ -47,10 +79,6 @@
     {
       "basename": "소켓 프로그래밍",
       "path": "개인공부/소켓 프로그래밍.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "한화 비전 채용 정보",
@@ -133,18 +161,6 @@
       "path": "ROKEY bootcamp/Computer Vision/1_6-Numpy.md"
     },
     {
-      "basename": "4_1-딥러닝개요,경사하강법,역전파",
-      "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
-    },
-    {
-      "basename": "5_1-로지스틱,Wide&Deep한 모델, DataLoader",
-      "path": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md"
-    },
-    {
-      "basename": "6_1-Softmax, 실습",
-      "path": "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md"
-    },
-    {
       "basename": "7_1-Pytorch 실습",
       "path": "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "2024-08-21",
       "path": "Daily Notes/2024-08-21.md"
-    },
-    {
-      "basename": "오픽 공부",
-      "path": "개인공부/오픽 공부.md"
-    },
-    {
-      "basename": "유튜브 영상을 요약해주는 ai",
-      "path": "개인공부/유튜브 영상을 요약해주는 ai.md"
-    },
-    {
-      "basename": "날짜 템플릿",
-      "path": "Templates/날짜 템플릿.md"
-    },
-    {
-      "basename": "2024-08-20",
-      "path": "Daily Notes/2024-08-20.md"
     }
   ],
   "omittedPaths": []
