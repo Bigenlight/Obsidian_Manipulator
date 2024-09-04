@@ -33,45 +33,6 @@
             }
           },
           {
-            "id": "dd2c5a732775f145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/2024년 하반기 공채.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7f36ace6797f52d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99e4fb4c89fa442f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-09-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3a084ffbd687ddc",
             "type": "leaf",
             "state": {
@@ -85,38 +46,12 @@
             }
           },
           {
-            "id": "d3e9c03b925aad6b",
+            "id": "ee2dee79b2fc231d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/16_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1fa427bb19cad35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ae6735555bd2c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
+                "file": "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-03.md",
+                "file": "Daily Notes/2024-09-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "affine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-03.md",
+                "file": "Daily Notes/2024-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-03.md",
+                "file": "Daily Notes/2024-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-03.md"
+                "file": "Daily Notes/2024-09-04.md"
               }
             }
           }
@@ -287,27 +223,28 @@
   "active": "19664a4abc95a059",
   "lastOpenFiles": [
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/16_1.md",
-    "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
-    "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
-    "개인공부/2024년 하반기 공채.md",
-    "개인공부/attachments/Pasted image 20240904121934.png",
-    "개인공부/attachments/Pasted image 20240904120918.png",
-    "Daily Notes/2024-09-03.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904114444.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904114205.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904114149.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904112702.png",
-    "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
+    "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
     "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
-    "Daily Notes/2024-09-04.md",
     "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
+    "개인공부/2024년 하반기 공채.md",
+    "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
+    "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
+    "Daily Notes/2024-09-04.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904174229.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904173351.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904173317.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904171051.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904171040.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904164422.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904160926.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904160619.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904160423.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904155242.png",
+    "desktop.ini",
+    "Daily Notes/2024-09-03.md",
+    "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
     "개인공부/유용한 정보.md",
     "개인공부/로봇 관련 박람회 및 포럼.md",
-    "개인공부/attachments/Pasted image 20240903210137.png",
-    "개인공부/attachments/Pasted image 20240903185955.png",
-    "개인공부/attachments/Pasted image 20240903175234.png",
-    "개인공부/attachments/Pasted image 20240903174957.png",
     "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
     "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
     "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
@@ -323,7 +260,6 @@
     "개인공부/한화 비전 채용 정보.md",
     "Daily Notes/2024-08-30.md",
     "Templates/Daily notes template.md",
-    "desktop.ini",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/tmp52hebxbk",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_11.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/test.py",
