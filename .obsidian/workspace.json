@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
+                "file": "Daily Notes/2024-09-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-03.md",
+                "file": "Daily Notes/2024-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-03.md",
+                "file": "Daily Notes/2024-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-03.md"
+                "file": "Daily Notes/2024-09-04.md"
               }
             }
           }
@@ -284,13 +284,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "19664a4abc95a059",
+  "active": "99e4fb4c89fa442f",
   "lastOpenFiles": [
     "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
+    "Daily Notes/2024-09-04.md",
+    "Daily Notes/2024-09-03.md",
     "개인공부/유용한 정보.md",
     "개인공부/로봇 관련 박람회 및 포럼.md",
     "개인공부/attachments/Pasted image 20240903210137.png",
-    "Daily Notes/2024-09-03.md",
     "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
     "개인공부/attachments/Pasted image 20240903185955.png",
     "개인공부/attachments/Pasted image 20240903175234.png",
