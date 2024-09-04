@@ -33,6 +33,45 @@
             }
           },
           {
+            "id": "a3b62378cb740f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/개인 공부.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2da2a32e3a7c36f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/VScode 공부.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d82b1c6ae8407d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-07-25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d3a084ffbd687ddc",
             "type": "leaf",
             "state": {
@@ -72,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -101,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "affine",
+                "query": "vscode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,14 +260,18 @@
   },
   "active": "19664a4abc95a059",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "개인공부/VScode 공부.md",
+    "개인공부/개인 공부.md",
+    "Daily Notes/2024-07-25.md",
+    "개인공부/Flux.md",
+    "Daily Notes/2024-09-04.md",
     "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
     "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
     "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
     "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
-    "Daily Notes/2024-09-04.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904174229.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904173351.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240904173317.png",
@@ -257,9 +299,6 @@
     "개인공부/소켓 프로그래밍.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌 (1).pdf",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/untitled0.py",
-    "개인공부/한화 비전 채용 정보.md",
-    "Daily Notes/2024-08-30.md",
-    "Templates/Daily notes template.md",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/tmp52hebxbk",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_11.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/test.py",
