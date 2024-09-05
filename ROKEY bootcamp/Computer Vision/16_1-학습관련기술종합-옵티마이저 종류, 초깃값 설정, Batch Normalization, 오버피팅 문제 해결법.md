@@ -9,6 +9,7 @@ last modification: 2024-09-04
 > [!Affine Layer]
 > 참고로 일반적인 레이어는 흔히 Fully Connected Layer(완전 연결층)이나 Affine Layer라고 부른다. 
 >  Affine Layer은 또 선형 변환을 수행하는 레이어를 의미하기도 하며, 우리가 흔히 배운 기번레이어인 y = w* x + b가 이에 해당 된다. 
+>  FCN은 Affine의 포괄하는 듯. 그냥 연결만 됐으면 FCN.
 
 ### 6.1 매개 변수 갱신
 #### 옵티마이저

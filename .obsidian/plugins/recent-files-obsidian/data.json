@@ -5,8 +5,20 @@
       "path": "Daily Notes/2024-09-05.md"
     },
     {
-      "basename": "2024-09-04",
-      "path": "Daily Notes/2024-09-04.md"
+      "basename": "17_1",
+      "path": "ROKEY bootcamp/Computer Vision/17_1.md"
+    },
+    {
+      "basename": "16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법",
+      "path": "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md"
+    },
+    {
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "2024-07-25",
+      "path": "Daily Notes/2024-07-25.md"
     },
     {
       "basename": "VScode 공부",
@@ -17,20 +29,12 @@
       "path": "개인공부/개인 공부.md"
     },
     {
-      "basename": "2024-07-25",
-      "path": "Daily Notes/2024-07-25.md"
+      "basename": "2024-09-04",
+      "path": "Daily Notes/2024-09-04.md"
     },
     {
       "basename": "Flux",
       "path": "개인공부/Flux.md"
-    },
-    {
-      "basename": "16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법",
-      "path": "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md"
-    },
-    {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
       "basename": "14_2-신경망",
@@ -195,10 +199,6 @@
     {
       "basename": "대학원 정보 모음",
       "path": "개인공부/대학원 정보 모음.md"
-    },
-    {
-      "basename": "2024-08-24",
-      "path": "Daily Notes/2024-08-24.md"
     }
   ],
   "omittedPaths": []
