@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "30c7eece223b927a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/2024년 하반기 공채.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d3a084ffbd687ddc",
             "type": "leaf",
             "state": {
@@ -85,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -234,8 +247,9 @@
   },
   "active": "19664a4abc95a059",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/17_1.md",
+    "개인공부/2024년 하반기 공채.md",
     "Daily Notes/2024-09-05.md",
+    "ROKEY bootcamp/Computer Vision/17_1.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240905172150.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240905171826.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240905171231.png",
@@ -257,7 +271,6 @@
     "개인공부/Flux.md",
     "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
     "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
-    "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
     "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
     "desktop.ini",
