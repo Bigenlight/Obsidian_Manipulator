@@ -5,16 +5,24 @@
       "path": "Daily Notes/2024-09-06.md"
     },
     {
-      "basename": "18_1",
-      "path": "ROKEY bootcamp/Computer Vision/18_1.md"
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "18_2",
+      "path": "ROKEY bootcamp/Computer Vision/18_2.md"
     },
     {
       "basename": "17_1-CNN",
       "path": "ROKEY bootcamp/Computer Vision/17_1-CNN.md"
     },
     {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+      "basename": "18_1",
+      "path": "ROKEY bootcamp/Computer Vision/18_1.md"
     },
     {
       "basename": "2024년 하반기 공채",
@@ -133,10 +141,6 @@
       "path": "Templates/Daily notes template.md"
     },
     {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
-    },
-    {
       "basename": "2024-08-29",
       "path": "Daily Notes/2024-08-29.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1_6-Numpy",
       "path": "ROKEY bootcamp/Computer Vision/1_6-Numpy.md"
-    },
-    {
-      "basename": "7_1-Pytorch 실습",
-      "path": "ROKEY bootcamp/Computer Vision/7_1-Pytorch 실습.md"
     }
   ],
   "omittedPaths": []
