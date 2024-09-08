@@ -5,40 +5,80 @@
       "path": "Daily Notes/2024-09-08.md"
     },
     {
-      "basename": "2024년 하반기 공채",
-      "path": "개인공부/2024년 하반기 공채.md"
-    },
-    {
-      "basename": "2024-09-07",
-      "path": "Daily Notes/2024-09-07.md"
-    },
-    {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
     },
     {
-      "basename": "2024-09-06",
-      "path": "Daily Notes/2024-09-06.md"
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
     },
     {
-      "basename": "2024-09-05",
-      "path": "Daily Notes/2024-09-05.md"
+      "basename": "plot juggler",
+      "path": "개인공부/plot juggler.md"
+    },
+    {
+      "basename": "SW 배포까지 해주는 ai",
+      "path": "개인공부/SW 배포까지 해주는 ai.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "우분투 지식",
+      "path": "개인공부/우분투 지식.md"
+    },
+    {
+      "basename": "코딩 타자 연습",
+      "path": "개인공부/코딩 타자 연습.md"
+    },
+    {
+      "basename": "API이란",
+      "path": "개인공부/API이란.md"
+    },
+    {
+      "basename": "VScode 공부",
+      "path": "개인공부/VScode 공부.md"
+    },
+    {
+      "basename": "이진수 쉽게 읽는 법",
+      "path": "개인공부/이진수 쉽게 읽는 법.md"
+    },
+    {
+      "basename": "개인 공부 템플릿",
+      "path": "Templates/개인 공부 템플릿.md"
+    },
+    {
+      "basename": "오픽 공부",
+      "path": "개인공부/오픽 공부.md"
+    },
+    {
+      "basename": "확률과 통계 계획",
+      "path": "개인공부/확률과 통계 계획.md"
+    },
+    {
+      "basename": "C++ 유튜브 강의 추천",
+      "path": "개인공부/C++ 유튜브 강의 추천.md"
+    },
+    {
+      "basename": "Daily Notes Dataview",
+      "path": "Daily Notes/Daily Notes Dataview.md"
+    },
+    {
+      "basename": "2024년 하반기 공채",
+      "path": "개인공부/2024년 하반기 공채.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+      "basename": "18_1-정밀, 고속 팁",
+      "path": "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md"
     },
     {
-      "basename": "18_2",
-      "path": "ROKEY bootcamp/Computer Vision/18_2.md"
-    },
-    {
-      "basename": "18_1",
-      "path": "ROKEY bootcamp/Computer Vision/18_1.md"
+      "basename": "18_2-딥러닝 복습",
+      "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
     },
     {
       "basename": "17_1-CNN",
@@ -49,16 +89,24 @@
       "path": "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md"
     },
     {
+      "basename": "2024-09-07",
+      "path": "Daily Notes/2024-09-07.md"
+    },
+    {
+      "basename": "2024-09-06",
+      "path": "Daily Notes/2024-09-06.md"
+    },
+    {
+      "basename": "2024-09-05",
+      "path": "Daily Notes/2024-09-05.md"
+    },
+    {
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
       "basename": "2024-07-25",
       "path": "Daily Notes/2024-07-25.md"
-    },
-    {
-      "basename": "VScode 공부",
-      "path": "개인공부/VScode 공부.md"
-    },
-    {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
     },
     {
       "basename": "2024-09-04",
@@ -91,10 +139,6 @@
     {
       "basename": "14_1-다시 퍼셉트론",
       "path": "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "로봇 관련 박람회 및 포럼",
@@ -155,50 +199,6 @@
     {
       "basename": "2024-08-27",
       "path": "Daily Notes/2024-08-27.md"
-    },
-    {
-      "basename": "2024-08-25",
-      "path": "Daily Notes/2024-08-25.md"
-    },
-    {
-      "basename": "2024-08-26",
-      "path": "Daily Notes/2024-08-26.md"
-    },
-    {
-      "basename": "2024-08-28",
-      "path": "Daily Notes/2024-08-28.md"
-    },
-    {
-      "basename": "10_1",
-      "path": "ROKEY bootcamp/Computer Vision/10_1.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
-    },
-    {
-      "basename": "9_1-OpenCV",
-      "path": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md"
-    },
-    {
-      "basename": "rokey_ai_10",
-      "path": "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_10.py"
-    },
-    {
-      "basename": "8_1-실습,딥러닝",
-      "path": "ROKEY bootcamp/Computer Vision/8_1-실습,딥러닝.md"
-    },
-    {
-      "basename": "2_1 Pandas,Matplotlib,딥러닝실습",
-      "path": "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md"
-    },
-    {
-      "basename": "3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습",
-      "path": "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md"
-    },
-    {
-      "basename": "3_2-경사하강법,로지스틱,보스턴",
-      "path": "ROKEY bootcamp/Computer Vision/3_2-경사하강법,로지스틱,보스턴.md"
     }
   ],
   "omittedPaths": []
