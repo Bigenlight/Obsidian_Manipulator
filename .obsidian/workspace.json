@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "94850d99e1af8a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-09-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "30c7eece223b927a",
             "type": "leaf",
             "state": {
@@ -52,45 +65,6 @@
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "520735ce7a1714b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "709737a4e3fffa20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/18_2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "362baaf60a05d750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/18_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +103,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-06.md",
+                "file": "Daily Notes/2024-09-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5639948c662dced4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-09-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-06.md",
+                "file": "Daily Notes/2024-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-06.md",
+                "file": "Daily Notes/2024-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-06.md"
+                "file": "Daily Notes/2024-09-08.md"
               }
             }
           }
@@ -284,25 +271,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6500e45025a20ca9",
+  "active": "94850d99e1af8a8f",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/18_2.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906152051.png",
+    "개인공부/2024년 하반기 공채.md",
+    "Daily Notes/2024-09-08.md",
+    "Daily Notes/2024-09-07.md",
+    "ROKEY bootcamp/정보.md",
     "Daily Notes/2024-09-06.md",
+    "Daily Notes/2024-09-05.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+    "ROKEY bootcamp/Computer Vision/18_2.md",
+    "ROKEY bootcamp/Computer Vision/18_1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906152051.png",
     "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906143448.png",
-    "ROKEY bootcamp/Computer Vision/18_1.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906142057.png",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf",
-    "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906114516.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906111419.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906111221.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906105027.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906104900.png",
-    "Daily Notes/2024-09-05.md",
     "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240905172150.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240905171826.png",
@@ -323,9 +313,6 @@
     "개인공부/유용한 정보.md",
     "개인공부/로봇 관련 박람회 및 포럼.md",
     "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md",
-    "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md",
-    "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md",
-    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌 (1).pdf",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/untitled0.py",
     "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/tmp52hebxbk",
