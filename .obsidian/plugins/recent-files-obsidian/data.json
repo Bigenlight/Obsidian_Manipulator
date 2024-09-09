@@ -5,16 +5,52 @@
       "path": "Daily Notes/2024-09-09.md"
     },
     {
-      "basename": "2024-09-08",
-      "path": "Daily Notes/2024-09-08.md"
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
     },
     {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
+      "basename": "2024년 하반기 공채",
+      "path": "개인공부/2024년 하반기 공채.md"
     },
     {
       "basename": "유용한 정보",
       "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "19_1",
+      "path": "ROKEY bootcamp/Computer Vision/19_1.md"
+    },
+    {
+      "basename": "18_2-딥러닝 복습",
+      "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
+    },
+    {
+      "basename": "2024-09-08",
+      "path": "Daily Notes/2024-09-08.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "코딩 타자 연습",
+      "path": "개인공부/코딩 타자 연습.md"
+    },
+    {
+      "basename": "이진수 쉽게 읽는 법",
+      "path": "개인공부/이진수 쉽게 읽는 법.md"
+    },
+    {
+      "basename": "C++ 유튜브 강의 추천",
+      "path": "개인공부/C++ 유튜브 강의 추천.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "plot juggler",
@@ -25,16 +61,8 @@
       "path": "개인공부/SW 배포까지 해주는 ai.md"
     },
     {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
-    },
-    {
       "basename": "우분투 지식",
       "path": "개인공부/우분투 지식.md"
-    },
-    {
-      "basename": "코딩 타자 연습",
-      "path": "개인공부/코딩 타자 연습.md"
     },
     {
       "basename": "API이란",
@@ -43,10 +71,6 @@
     {
       "basename": "VScode 공부",
       "path": "개인공부/VScode 공부.md"
-    },
-    {
-      "basename": "이진수 쉽게 읽는 법",
-      "path": "개인공부/이진수 쉽게 읽는 법.md"
     },
     {
       "basename": "개인 공부 템플릿",
@@ -61,28 +85,12 @@
       "path": "개인공부/확률과 통계 계획.md"
     },
     {
-      "basename": "C++ 유튜브 강의 추천",
-      "path": "개인공부/C++ 유튜브 강의 추천.md"
-    },
-    {
       "basename": "Daily Notes Dataview",
       "path": "Daily Notes/Daily Notes Dataview.md"
     },
     {
-      "basename": "2024년 하반기 공채",
-      "path": "개인공부/2024년 하반기 공채.md"
-    },
-    {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
       "basename": "18_1-정밀, 고속 팁",
       "path": "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md"
-    },
-    {
-      "basename": "18_2-딥러닝 복습",
-      "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
     },
     {
       "basename": "17_1-CNN",
@@ -103,10 +111,6 @@
     {
       "basename": "2024-09-05",
       "path": "Daily Notes/2024-09-05.md"
-    },
-    {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
     },
     {
       "basename": "2024-07-25",
@@ -195,10 +199,6 @@
     {
       "basename": "Daily notes template",
       "path": "Templates/Daily notes template.md"
-    },
-    {
-      "basename": "2024-08-29",
-      "path": "Daily Notes/2024-08-29.md"
     }
   ],
   "omittedPaths": []

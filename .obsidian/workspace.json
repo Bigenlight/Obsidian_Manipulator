@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "f190fa1457b6ffc4",
+            "id": "78405ed8c553464b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,85 +46,7 @@
             }
           },
           {
-            "id": "e3e068b48aa1738e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/개인 공부.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bdd2fa6b04f514b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/코딩 타자 연습.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e487a3bf47c42671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/개인 공부.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d470fb1dda926c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/이진수 쉽게 읽는 법.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc6412d85c8d90bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/개인 공부.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bf5e8f53c9e082f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/C++ 유튜브 강의 추천.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b35fa9e24d9077a",
+            "id": "1f8fca317a5366e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,12 +59,51 @@
             }
           },
           {
-            "id": "d3a084ffbd687ddc",
+            "id": "2d9264ec03bdaba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4db461eb7eb8b3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaded60a66a83983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4641ed971fa40db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/19_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -161,35 +122,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "22d442eafce97ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/유용한 정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51f2074f894ebb48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/SW 배포까지 해주는 ai.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -338,43 +273,43 @@
   },
   "active": "5639948c662dced4",
   "lastOpenFiles": [
-    "Daily Notes/2024-09-08.md",
-    "Daily Notes/2024-09-09.md",
-    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+    "개인공부/2024년 하반기 공채.md",
     "개인공부/유용한 정보.md",
-    "개인공부/plot juggler.md",
-    "개인공부/attachments/Pasted image 20240908225558.png",
-    "개인공부/attachments/Pasted image 20240908225550.png",
-    "개인공부/SW 배포까지 해주는 ai.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "Daily Notes/2024-09-09.md",
+    "ROKEY bootcamp/Computer Vision/19_1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909172319.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909172159.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909171437.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909170933.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909164402.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909163035.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909162458.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909162446.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909161828.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909160909.png",
+    "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
+    "Daily Notes/2024-09-08.md",
     "개인공부/개인 공부.md",
-    "개인공부/우분투 지식.md",
     "개인공부/코딩 타자 연습.md",
+    "개인공부/이진수 쉽게 읽는 법.md",
+    "개인공부/C++ 유튜브 강의 추천.md",
+    "ROKEY bootcamp/정보.md",
+    "개인공부/plot juggler.md",
+    "개인공부/SW 배포까지 해주는 ai.md",
+    "개인공부/우분투 지식.md",
     "개인공부/API이란.md",
     "개인공부/VScode 공부.md",
-    "개인공부/이진수 쉽게 읽는 법.md",
     "Templates/개인 공부 템플릿.md",
     "개인공부/오픽 공부.md",
     "개인공부/확률과 통계 계획.md",
-    "개인공부/C++ 유튜브 강의 추천.md",
     "Daily Notes/Daily Notes Dataview.md",
-    "개인공부/2024년 하반기 공채.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
-    "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
     "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
     "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
     "Daily Notes/2024-09-07.md",
-    "Daily Notes/2024-09-06.md",
-    "Daily Notes/2024-09-05.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906152051.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906143448.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906142057.png",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906114516.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906111419.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906111221.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906105027.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240906104900.png",
     "Untitled",
     "ROKEY bootcamp/Computer Vision/attachments/05.CNN_intro_20230724.pdf",
     "desktop.ini",
