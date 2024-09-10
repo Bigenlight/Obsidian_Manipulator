@@ -33,19 +33,6 @@
             }
           },
           {
-            "id": "78405ed8c553464b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/유용한 정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f8fca317a5366e7",
             "type": "leaf",
             "state": {
@@ -85,25 +72,12 @@
             }
           },
           {
-            "id": "eaded60a66a83983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4641ed971fa40db2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/19_1.md",
+                "file": "Daily Notes/2024-09-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,15 +245,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5639948c662dced4",
+  "active": "4641ed971fa40db2",
   "lastOpenFiles": [
-    "Daily Notes/2024-09-09.md",
-    "Daily Notes/2024-09-10.md",
+    "ROKEY bootcamp/Computer Vision/19_1.md",
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+    "ROKEY bootcamp/Computer Vision/20_1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240910121941.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240910121522.png",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
     "개인공부/2024년 하반기 공채.md",
     "개인공부/유용한 정보.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/19_1.md",
+    "Daily Notes/2024-09-10.md",
+    "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
+    "Daily Notes/2024-09-09.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909172319.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909172159.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909171437.png",
@@ -288,9 +267,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909163035.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909162458.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909162446.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909161828.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909160909.png",
-    "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
     "Daily Notes/2024-09-08.md",
     "개인공부/개인 공부.md",
     "개인공부/코딩 타자 연습.md",
@@ -306,9 +282,6 @@
     "개인공부/오픽 공부.md",
     "개인공부/확률과 통계 계획.md",
     "Daily Notes/Daily Notes Dataview.md",
-    "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
-    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
-    "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf",
     "Untitled",
     "ROKEY bootcamp/Computer Vision/attachments/05.CNN_intro_20230724.pdf",

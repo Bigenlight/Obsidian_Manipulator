@@ -5,12 +5,24 @@
       "path": "Daily Notes/2024-09-10.md"
     },
     {
-      "basename": "2024-09-09",
-      "path": "Daily Notes/2024-09-09.md"
+      "basename": "19_1",
+      "path": "ROKEY bootcamp/Computer Vision/19_1.md"
     },
     {
       "basename": "AI, Computer Vision 평가 준비",
       "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
+      "basename": "20_1",
+      "path": "ROKEY bootcamp/Computer Vision/20_1.md"
+    },
+    {
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "10_1-ROI, RGB, 이미지 연산",
+      "path": "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md"
     },
     {
       "basename": "2024년 하반기 공채",
@@ -21,16 +33,12 @@
       "path": "개인공부/유용한 정보.md"
     },
     {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
-      "basename": "19_1",
-      "path": "ROKEY bootcamp/Computer Vision/19_1.md"
-    },
-    {
       "basename": "18_2-딥러닝 복습",
       "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
+    },
+    {
+      "basename": "2024-09-09",
+      "path": "Daily Notes/2024-09-09.md"
     },
     {
       "basename": "2024-09-08",
@@ -191,14 +199,6 @@
     {
       "basename": "소켓 프로그래밍",
       "path": "개인공부/소켓 프로그래밍.md"
-    },
-    {
-      "basename": "한화 비전 채용 정보",
-      "path": "개인공부/한화 비전 채용 정보.md"
-    },
-    {
-      "basename": "2024-08-30",
-      "path": "Daily Notes/2024-08-30.md"
     }
   ],
   "omittedPaths": []
