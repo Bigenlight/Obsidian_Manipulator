@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-09.md",
+                "file": "Daily Notes/2024-09-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-09.md",
+                "file": "Daily Notes/2024-09-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-09.md",
+                "file": "Daily Notes/2024-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-09.md"
+                "file": "Daily Notes/2024-09-10.md"
               }
             }
           }
@@ -273,11 +273,12 @@
   },
   "active": "5639948c662dced4",
   "lastOpenFiles": [
+    "Daily Notes/2024-09-09.md",
+    "Daily Notes/2024-09-10.md",
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
     "개인공부/2024년 하반기 공채.md",
     "개인공부/유용한 정보.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "Daily Notes/2024-09-09.md",
     "ROKEY bootcamp/Computer Vision/19_1.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909172319.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909172159.png",
@@ -308,7 +309,6 @@
     "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
     "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
     "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
-    "Daily Notes/2024-09-07.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf",
     "Untitled",
     "ROKEY bootcamp/Computer Vision/attachments/05.CNN_intro_20230724.pdf",
