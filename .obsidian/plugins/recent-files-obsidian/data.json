@@ -13,20 +13,36 @@
       "path": "Daily Notes/2024-09-10.md"
     },
     {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+      "basename": "유튜브 영상을 요약해주는 ai",
+      "path": "개인공부/유튜브 영상을 요약해주는 ai.md"
+    },
+    {
+      "basename": "모방학습",
+      "path": "개인공부/모방학습.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "20_1",
-      "path": "ROKEY bootcamp/Computer Vision/20_1.md"
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "2024년 하반기 공채",
       "path": "개인공부/2024년 하반기 공채.md"
+    },
+    {
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
+      "basename": "20_1",
+      "path": "ROKEY bootcamp/Computer Vision/20_1.md"
     },
     {
       "basename": "19_1",
@@ -35,10 +51,6 @@
     {
       "basename": "10_1-ROI, RGB, 이미지 연산",
       "path": "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "18_2-딥러닝 복습",
@@ -51,10 +63,6 @@
     {
       "basename": "2024-09-08",
       "path": "Daily Notes/2024-09-08.md"
-    },
-    {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
     },
     {
       "basename": "코딩 타자 연습",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-09-01",
       "path": "Daily Notes/2024-09-01.md"
-    },
-    {
-      "basename": "13_1-특징 검출, 매칭, 추적",
-      "path": "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md"
-    },
-    {
-      "basename": "로봇 프로젝트",
-      "path": "ROKEY bootcamp/로봇 프로젝트.md"
     }
   ],
   "omittedPaths": []
