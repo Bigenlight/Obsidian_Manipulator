@@ -5,40 +5,48 @@
       "path": "Daily Notes/2024-09-11.md"
     },
     {
-      "basename": "모방학습",
-      "path": "개인공부/모방학습.md"
-    },
-    {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
-    },
-    {
-      "basename": "21_1",
-      "path": "ROKEY bootcamp/Computer Vision/21_1.md"
-    },
-    {
-      "basename": "2024-09-10",
-      "path": "Daily Notes/2024-09-10.md"
-    },
-    {
-      "basename": "유튜브 영상을 요약해주는 ai",
-      "path": "개인공부/유튜브 영상을 요약해주는 ai.md"
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
+      "basename": "21_1",
+      "path": "ROKEY bootcamp/Computer Vision/21_1.md"
+    },
+    {
+      "basename": "유튜브 영상을 요약해주는 ai",
+      "path": "개인공부/유튜브 영상을 요약해주는 ai.md"
+    },
+    {
+      "basename": "Python 18강-정규표현식,코루틴",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
     },
     {
       "basename": "2024년 하반기 공채",
       "path": "개인공부/2024년 하반기 공채.md"
     },
     {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+      "basename": "모방학습",
+      "path": "개인공부/모방학습.md"
+    },
+    {
+      "basename": "1차 DBMS 개요와 MySQL 소개",
+      "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "2024-09-10",
+      "path": "Daily Notes/2024-09-10.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "20_1",
@@ -191,14 +199,6 @@
     {
       "basename": "4_1-딥러닝개요,경사하강법,역전파",
       "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
-    },
-    {
-      "basename": "2024-09-02",
-      "path": "Daily Notes/2024-09-02.md"
-    },
-    {
-      "basename": "2024-09-01",
-      "path": "Daily Notes/2024-09-01.md"
     }
   ],
   "omittedPaths": []
