@@ -33,19 +33,6 @@
             }
           },
           {
-            "id": "559bdb43844a2337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/개인 공부.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "70fc8aae088350d1",
             "type": "leaf",
             "state": {
@@ -124,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -273,13 +260,13 @@
   },
   "active": "5639948c662dced4",
   "lastOpenFiles": [
+    "개인공부/모방학습.md",
+    "개인공부/개인 공부.md",
+    "Daily Notes/2024-09-11.md",
     "ROKEY bootcamp/Computer Vision/21_1.md",
     "Daily Notes/2024-09-10.md",
-    "Daily Notes/2024-09-11.md",
     "개인공부/유튜브 영상을 요약해주는 ai.md",
-    "개인공부/모방학습.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "개인공부/개인 공부.md",
     "개인공부/유용한 정보.md",
     "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
