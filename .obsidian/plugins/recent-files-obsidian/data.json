@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-12",
+      "path": "Daily Notes/2024-09-12.md"
+    },
+    {
       "basename": "2024-09-11",
       "path": "Daily Notes/2024-09-11.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5_1-로지스틱,Wide&Deep한 모델, DataLoader",
       "path": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md"
-    },
-    {
-      "basename": "4_1-딥러닝개요,경사하강법,역전파",
-      "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
     }
   ],
   "omittedPaths": []
