@@ -33,59 +33,7 @@
             }
           },
           {
-            "id": "70fc8aae088350d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/모방학습.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d29ddd462adfce76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/유튜브 영상을 요약해주는 ai.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f8fca317a5366e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/2024년 하반기 공채.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d0872bc03e7587d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/21_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bc724fdcaf04a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,12 +46,12 @@
             }
           },
           {
-            "id": "45480f55b85ea22a",
+            "id": "fdb3909695ad310d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+                "file": "ROKEY bootcamp/Computer Vision/22_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,51 +221,50 @@
   },
   "active": "5639948c662dced4",
   "lastOpenFiles": [
-    "Daily Notes/2024-09-11.md",
+    "ROKEY bootcamp/Computer Vision/22_1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912181228.png",
+    "ROKEY bootcamp/Computer Vision/attachments/BEDCC141-086F-49D7-A0CE-AF9198254135.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912172446.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912172218.png",
     "Daily Notes/2024-09-12.md",
-    "ROKEY bootcamp/Computer Vision/21_1.md",
-    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "개인공부/유튜브 영상을 요약해주는 ai.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
+    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
+    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912163013.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912162750.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912162201.png",
+    "ROKEY bootcamp/Computer Vision/attachments/SSD.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912153310.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912152819.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240912145710.png",
+    "ROKEY bootcamp/Computer Vision/attachments/04.LabelImg_설치_및_실행_.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/03.Embedded_Object_Detection_with_Jetson_TX2_simple.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/02.object_detection.pdf",
+    "ROKEY bootcamp/Computer Vision/attachments/01.CNN_intro.pdf",
+    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+    "ROKEY bootcamp/Computer Vision/21_1.md",
     "개인공부/2024년 하반기 공채.md",
-    "개인공부/모방학습.md",
-    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
-    "개인공부/개인 공부.md",
-    "Daily Notes/2024-09-10.md",
     "개인공부/유용한 정보.md",
+    "개인공부/리니어 엑추에이터.md",
+    "개인공부/유튜브 영상을 요약해주는 ai.md",
+    "개인공부/모방학습.md",
+    "개인공부/개인 공부.md",
+    "개인공부/attachments/s41467-024-51568-3 1.pdf",
+    "개인공부/attachments/s41467-024-51568-3.pdf",
+    "개인공부/Untitled 1.md",
+    "Daily Notes/2024-09-11.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
+    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
+    "Daily Notes/2024-09-10.md",
     "ROKEY bootcamp/Computer Vision/20_1.md",
     "ROKEY bootcamp/Computer Vision/19_1.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240910121941.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240910121522.png",
     "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
     "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
     "Daily Notes/2024-09-09.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909172319.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909172159.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909171437.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909170933.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909164402.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909163035.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909162458.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240909162446.png",
     "Daily Notes/2024-09-08.md",
     "개인공부/코딩 타자 연습.md",
-    "개인공부/이진수 쉽게 읽는 법.md",
-    "개인공부/C++ 유튜브 강의 추천.md",
-    "ROKEY bootcamp/정보.md",
-    "개인공부/plot juggler.md",
-    "개인공부/SW 배포까지 해주는 ai.md",
-    "개인공부/우분투 지식.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf",
     "Untitled",
-    "ROKEY bootcamp/Computer Vision/attachments/05.CNN_intro_20230724.pdf",
-    "desktop.ini",
-    "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌 (1).pdf",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/untitled0.py",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/tmp52hebxbk",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/rokey_ai_11.py",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/test.py",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/insightbook.opencv_project_python/02.interface/desktop.ini"
+    "ROKEY bootcamp/Computer Vision/attachments/05.CNN_intro_20230724.pdf"
   ]
 }
