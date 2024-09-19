@@ -5,28 +5,12 @@
       "path": "Daily Notes/2024-09-20.md"
     },
     {
-      "basename": "21_1-Classification, Transfer Learning 실습",
-      "path": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md"
-    },
-    {
       "basename": "25_1",
       "path": "ROKEY bootcamp/Computer Vision/25_1.md"
     },
     {
-      "basename": "19_1-텐서플로우와 케라스",
-      "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
-    },
-    {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
-      "basename": "2024-09-19",
-      "path": "Daily Notes/2024-09-19.md"
-    },
-    {
-      "basename": "24_1",
-      "path": "ROKEY bootcamp/Computer Vision/24_1.md"
     },
     {
       "basename": "2024년 하반기 공채",
@@ -39,6 +23,22 @@
     {
       "basename": "유용한 정보",
       "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "24_1",
+      "path": "ROKEY bootcamp/Computer Vision/24_1.md"
+    },
+    {
+      "basename": "21_1-Classification, Transfer Learning 실습",
+      "path": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md"
+    },
+    {
+      "basename": "19_1-텐서플로우와 케라스",
+      "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
+    },
+    {
+      "basename": "2024-09-19",
+      "path": "Daily Notes/2024-09-19.md"
     },
     {
       "basename": "23_1-객체 탐지, Yolo",
