@@ -1,0 +1,126 @@
+#컴퓨터비전 
+[[Ai,컴퓨터 비전]]
+last modification: 2024-09-13
+
+코랩에서 실수로 너무 상위 폴더에 왔다면: content 폴더 우측 점 3개 클릭 -> 열기
+
+[Google Colab](https://colab.research.google.com/drive/1rc6JRHgKFauKo7AIuljBMorfwNk1upfq)
+다크넷은 GPU가 없으면 잘 안된다고 함 참고.
+다크넷은 텐서플로우와 파이토치 처럼 프레임워크임. 근데 일반인이 쓰기는 어려움.
+
+# 객체 탐지
+
+3차원 텐서로 출력되고.
+0, 1축은 cell의 위치를 나타내고. 각 cell은 담당 영역이 있음.
+
+###### Bounding Box
+![[Pasted image 20240913111520.png|300]]
+
+욜로8 부터 xyhw에서 더 확장 됨. 원래는 픽셀 값 기준이었지만, 요즘은 xyhwn으로 0~1 사이의 값으로도 많이 씀.
+
+###### IOU
+![[Pasted image 20240913111727.png|300]]
+![[Pasted image 20240913111742.png|400]]
+
+###### NMS
+Non-Maximum Suppression
+![[Pasted image 20240913112135.png|300]]
+
+###### 모델 성능 평가
+대충 넘어감
+
+대부분 mAP 사용.
+
+###### VOC Dataset
+- Object Detection 기술의 benchmark로 간주
+- 데이터셋에는 20개의 클래스가 존재
+![[Pasted image 20240913112437.png]]
+![[Pasted image 20240913112425.png|300]]
+7x7x30
+
+###### VOC Dataset
+13x13x90
+5 + 5 + 80 = 90
+80개의 클래스
+
+## YOLO - You Only Look Once
+욜로 초기 단점이 작은 디테일 못 봄
+ssd로 극복
+
+마지막 계층 출력은 w×h×M 행렬
+- M=B×(C+5)
+    - B : 그리드 셀당 경계 상자 개수
+    - C : 클래스 개수
+![[Pasted image 20240913115634.png|500]]
+
+###### Anchor
+- YOLOv2에서 도입
+- 사전 정의된 상자(prior box)
+- 객체에 가장 근접한 앵커 박스를 맞추고 신경망을 사용해 앵커 박스의 크기를 조정하는 과정때문에 tx,ty,tw,th이 필요
+![[Pasted image 20240913115723.png]]
+
+### Yolo V3
+[Google Colab](https://colab.research.google.com/drive/1rc6JRHgKFauKo7AIuljBMorfwNk1upfq) 
+근데 코드 실행이 잘 안됨.
+
+```
+pip install -r requirements-gpu.txt
+```
+어린 식으로 필요 파일을 단체로 설치 가능.
+
+### Yolo V5
+이때 부터 다크넷이 아니라 파이토치나 텐서플로우
+이거는 됨
+
+python detect.py --weights yolov5s.pt --img 640 --conf 0.25 --source data/images/
+conf는 confidence score -> 0.25
+640은 이미지 크기
+
+ultralytics은 모델을 만듬
+roboflow은  데이터셋을 제공하는 회사
+
+이제 쭉 실습함
+잘 안되면 일단 새 노트 열고 복사하고 하셈, epoch 수는 줄이고
+
+
+### Yolo V8
+욜로4 까지는 설치 과정이 굉장히 불편했음.
+욜로5도 깃으로 설치하고 불편
+
+근데 욜로8는 거의 하나의 툴 수준으로 편함
+그리고 아래 모든 기능 가능
+![[Pasted image 20240913161450.png|250]]
+
+진짜 엄청 간편하누, 그동안 뭐한거지?
+
+```
+yolo TASK MODE ARGS
+```
+디폴트는 object detection인 듯
+
+![[Pasted image 20240913165009.png]]
+디폴트 세팅들
+
+print(results[0].boxes)
+하면 자세한 박스 정보 출력 가능
+
+감지한 것들은 개별적으로 정리하여 출력
+![[Pasted image 20240913165426.png|400]]
+
+```python
+import cv2
+from ultralytics import YOLO
+model = YOLO('yolov8n.pt') # 인스턴스 생성
+results = model.predict('https://ultralytics.com/images/zidane.jpg') # call method
+```
+이렇게만해도 results에 결과 이미지와 각 박스들의 정보들이 다 담김.
+
+#### 학습
+
+#### 이미지 예측
+[Site Unreachable](https://colab.research.google.com/drive/14PtRUZ4x67o4tczrf9j6s5jUML4AE3Vv#scrollTo=fjwoZhANvn6b)
+
+
+
+## 과제
+[Site Unreachable](https://colab.research.google.com/drive/1RA2wAKnLfjUlJ-FEuVO8WwhyFtLiFdcJ)

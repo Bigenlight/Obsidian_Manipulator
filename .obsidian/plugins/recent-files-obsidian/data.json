@@ -1,52 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-09-18",
-      "path": "Daily Notes/2024-09-18.md"
+      "basename": "2024-09-19",
+      "path": "Daily Notes/2024-09-19.md"
     },
     {
-      "basename": "2024-09-16",
-      "path": "Daily Notes/2024-09-16.md"
+      "basename": "24_1",
+      "path": "ROKEY bootcamp/Computer Vision/24_1.md"
     },
     {
-      "basename": "2024-09-15",
-      "path": "Daily Notes/2024-09-15.md"
-    },
-    {
-      "basename": "2024-09-14",
-      "path": "Daily Notes/2024-09-14.md"
-    },
-    {
-      "basename": "2024-09-10",
-      "path": "Daily Notes/2024-09-10.md"
-    },
-    {
-      "basename": "2024년 하반기 공채",
-      "path": "개인공부/2024년 하반기 공채.md"
-    },
-    {
-      "basename": "19_1",
-      "path": "ROKEY bootcamp/Computer Vision/19_1.md"
-    },
-    {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
-    },
-    {
-      "basename": "20_1",
-      "path": "ROKEY bootcamp/Computer Vision/20_1.md"
+      "basename": "19_1-텐서플로우와 케라스",
+      "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "10_1-ROI, RGB, 이미지 연산",
-      "path": "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md"
+      "basename": "2024년 하반기 공채",
+      "path": "개인공부/2024년 하반기 공채.md"
+    },
+    {
+      "basename": "유튜브 영상을 요약해주는 ai",
+      "path": "개인공부/유튜브 영상을 요약해주는 ai.md"
     },
     {
       "basename": "유용한 정보",
       "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "21_1-Classification, Transfer Learning 실습",
+      "path": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md"
+    },
+    {
+      "basename": "23_1-객체 탐지, Yolo",
+      "path": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, Yolo.md"
+    },
+    {
+      "basename": "22_1-Object Detection",
+      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection.md"
+    },
+    {
+      "basename": "2024-09-10",
+      "path": "Daily Notes/2024-09-10.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "20_1-Pytorch",
+      "path": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md"
+    },
+    {
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
+      "basename": "2024-09-11",
+      "path": "Daily Notes/2024-09-11.md"
+    },
+    {
+      "basename": "2024-09-12",
+      "path": "Daily Notes/2024-09-12.md"
+    },
+    {
+      "basename": "2024-09-14",
+      "path": "Daily Notes/2024-09-14.md"
+    },
+    {
+      "basename": "2024-09-15",
+      "path": "Daily Notes/2024-09-15.md"
+    },
+    {
+      "basename": "2024-09-13",
+      "path": "Daily Notes/2024-09-13.md"
+    },
+    {
+      "basename": "2024-09-16",
+      "path": "Daily Notes/2024-09-16.md"
+    },
+    {
+      "basename": "2024-09-18",
+      "path": "Daily Notes/2024-09-18.md"
+    },
+    {
+      "basename": "10_1-ROI, RGB, 이미지 연산",
+      "path": "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md"
     },
     {
       "basename": "18_2-딥러닝 복습",
@@ -75,10 +115,6 @@
     {
       "basename": "C++ 유튜브 강의 추천",
       "path": "개인공부/C++ 유튜브 강의 추천.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "plot juggler",
@@ -163,42 +199,6 @@
     {
       "basename": "15_2-오차역전파",
       "path": "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md"
-    },
-    {
-      "basename": "15_1-신경망 학습",
-      "path": "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md"
-    },
-    {
-      "basename": "2024-09-03",
-      "path": "Daily Notes/2024-09-03.md"
-    },
-    {
-      "basename": "14_1-다시 퍼셉트론",
-      "path": "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md"
-    },
-    {
-      "basename": "로봇 관련 박람회 및 포럼",
-      "path": "개인공부/로봇 관련 박람회 및 포럼.md"
-    },
-    {
-      "basename": "6_1-Softmax, 실습",
-      "path": "ROKEY bootcamp/Computer Vision/6_1-Softmax, 실습.md"
-    },
-    {
-      "basename": "5_1-로지스틱,Wide&Deep한 모델, DataLoader",
-      "path": "ROKEY bootcamp/Computer Vision/5_1-로지스틱,Wide&Deep한 모델, DataLoader.md"
-    },
-    {
-      "basename": "4_1-딥러닝개요,경사하강법,역전파",
-      "path": "ROKEY bootcamp/Computer Vision/4_1-딥러닝개요,경사하강법,역전파.md"
-    },
-    {
-      "basename": "2024-09-02",
-      "path": "Daily Notes/2024-09-02.md"
-    },
-    {
-      "basename": "2024-09-01",
-      "path": "Daily Notes/2024-09-01.md"
     }
   ],
   "omittedPaths": []
