@@ -319,11 +319,15 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2880d0e60cfc1e56",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/desktop.ini",
+    "Daily Notes/desktop.ini",
+    "desktop.ini",
     "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
     "ROKEY bootcamp/Computer Vision/25_1.md",
     "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
@@ -360,15 +364,12 @@
     "Daily Notes/2024-09-13.md",
     "Daily Notes/2024-09-16.md",
     "Daily Notes/2024-09-18.md",
-    "desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240910121941.png",
     "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
     "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
-    "Daily Notes/2024-09-09.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf",
     "Untitled",
     "ROKEY bootcamp/Computer Vision/attachments/05.CNN_intro_20230724.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌 (1).pdf",
-    "ROKEY bootcamp/Computer Vision/OpenCV_AI_class/untitled0.py"
+    "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌 (1).pdf"
   ]
 }
