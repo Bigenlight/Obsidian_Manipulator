@@ -5,8 +5,24 @@
       "path": "Daily Notes/2024-09-20.md"
     },
     {
-      "basename": "25_1",
-      "path": "ROKEY bootcamp/Computer Vision/25_1.md"
+      "basename": "19_1-텐서플로우와 케라스",
+      "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
+    },
+    {
+      "basename": "25_1-Labeling",
+      "path": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md"
+    },
+    {
+      "basename": "대학원 정보 모음",
+      "path": "개인공부/대학원 정보 모음.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "24_1",
+      "path": "ROKEY bootcamp/Computer Vision/24_1.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
@@ -21,20 +37,8 @@
       "path": "개인공부/유튜브 영상을 요약해주는 ai.md"
     },
     {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
-    },
-    {
-      "basename": "24_1",
-      "path": "ROKEY bootcamp/Computer Vision/24_1.md"
-    },
-    {
       "basename": "21_1-Classification, Transfer Learning 실습",
       "path": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md"
-    },
-    {
-      "basename": "19_1-텐서플로우와 케라스",
-      "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
     },
     {
       "basename": "2024-09-19",
@@ -195,10 +199,6 @@
     {
       "basename": "Flux",
       "path": "개인공부/Flux.md"
-    },
-    {
-      "basename": "14_2-신경망",
-      "path": "ROKEY bootcamp/Computer Vision/14_2-신경망.md"
     }
   ],
   "omittedPaths": []
