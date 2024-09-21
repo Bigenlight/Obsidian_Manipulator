@@ -20,7 +20,7 @@
 [[7_2-머신러닝-Kmeans,Knn,Ms,SVM 등]]
 [[8_1-실습,딥러닝]]
 
-여기 부터 시험 범위ㅍ   
+여기 부터 시험 범위
 [[9_1-OpenCV]]
 [[10_1-ROI, RGB, 이미지 연산]]
 [[11_1-이미지 변환, 필터링]]
@@ -39,10 +39,10 @@
 [[19_1-텐서플로우와 케라스]]
 [[20_1-Pytorch]]
 [[21_1-Classification, Transfer Learning 실습]]
-[[22_1-Object Detection]]
-[[23_1-객체 탐지, Yolo]]
 
-[[24_1]]
+[[22_1-Object Detection, YoloV12, SSD]]
+[[23_1-객체 탐지, YoloV358]]
+[[24_1  YoloV1234]]
 [[25_1-Labeling]]
 
 

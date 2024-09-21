@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "2ed19505cd74ee91",
+            "id": "280d7ab36223e053",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
+                "file": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "c63456e016f9d848",
+            "id": "7b8a8d847c26391b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,51 +72,25 @@
             }
           },
           {
-            "id": "668aa0d3f29cca4a",
+            "id": "e315ddac1c792091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa31a96f88299500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af65d578883c923d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/22_1-Object Detection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fa2887f9975d41c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/22_1-Object Detection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "989a2a404f81ebde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/24_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -287,18 +261,20 @@
   },
   "active": "fcbee7f40c051833",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/24_1.md",
-    "ROKEY bootcamp/Computer Vision/22_1-Object Detection.md",
-    "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
+    "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md",
+    "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md",
     "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
+    "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
+    "Daily Notes/2024-09-21.md",
+    "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md",
+    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
     "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
     "Daily Notes/2024-09-20.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "desktop.ini",
     "개인공부/대학원 정보 모음.md",
-    "Daily Notes/2024-09-21.md",
-    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
-    "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, Yolo.md",
     "ROKEY bootcamp/Computer Vision/attachments/labelImg_setting.ipynb",
     "ROKEY bootcamp/Computer Vision/attachments/Ubuntu 아나콘다 가상환경에서 labelImg 설치 및 실행 과정.pdf",
     "개인공부/유용한 정보.md",
@@ -322,8 +298,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/yolov4.pdf",
     "Daily Notes/2024-09-10.md",
     "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
-    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
     "Daily Notes/2024-09-11.md",
     "Daily Notes/2024-09-12.md",
     "Daily Notes/2024-09-14.md",

@@ -6,6 +6,7 @@ last modification: 2024-09-12
 ![[01.CNN_intro.pdf]]
 위는 classification, 즉 분류임. <- CNN
 
+###### 이거 나올 수도
 localization -> 하나의 사물을 인식하여, 어디에 있는 인식
 
 object detection -> 여러 사물이 어디에 무엇이 있는지. 하지만 같은 사물은 구별 x.
@@ -16,14 +17,15 @@ pose estimation -> 사람이나 사람의 동작을 인식
 ![[02.object_detection.pdf]]
 여기서도 CNN이 쓰임.
 
-1) Image classification : CNN 이용해서 물체를 인식, 하나의물체대상 
-2) localization : 물체인식 후에 위치인식,하나의물체대상, bounding box로위치표시 
+###### 이거 나올 수도
+1) Image classification : CNN 이용해서 물체를 인식, 하나의 물체 대상 
+2) localization : 물체인식 후에 위치인식,하나의 물체 대상, bounding box로 위치 표시 
 3) detection : 여러 물체 대상물체인식후위치인식
 ![[Pasted image 20240912112447.png|400]]
 ![[Pasted image 20240912112759.png|500]]
-- Clasification(인식) : 입력 이미지가 CNN을거친후softmax 통해서물체인식
+- Clasification(인식) : 입력 이미지가 CNN을 거친 후 softmax 통해서 물체 인식
 - Localization : CNN의 마지막 구조변경위치를알기위한기능추가
-- - bounding box와 연관된output 추가:좌표데이터: bx, by, bh, bw
+- - bounding box와 연관된output 추가: 좌표데이터: bx, by, bh, bw
 
 마지막에 CNN 마지막에 softmax와  x, y, h, w 출력도 만듬 (위치와 박스 크기).
 그리고 softmax와 x, y, h, w에 대한 loss도 각각 구하고 학습함.
@@ -49,7 +51,7 @@ MSE 이용
 - - object 있을 때CNN은1이되고, 그위치에서bounding box를그림
 단점:
 - computational cost 증가
-	-  다양한window size를CNN에feed하여많은연산필요
+	-  다양한window size를CNN에 feed하여 많은 연산 필요
 - 연산량 줄이려고 stride 크게 해서 window를 한번에 여러 칸옮길순 있지만 정밀도가 낮아짐
 
 sliding window object detection을 CNN 사용으로 해결
@@ -160,7 +162,7 @@ nms - non max suppression
 #### SSD
 ![[Pasted image 20240912153310.png]]
 기존 욜로는 마지막에 텐서를 만들고.
-ssd는 중간 중간에텐서를 만듬 -> 이를 통해 큰 특징, 작은 특징 다 볼 수 있음.
+ssd는 중간 중간에 텐서를 만듬 -> 이를 통해 큰 특징, 작은 특징 다 볼 수 있음.
 하지만 최근 욜로4 부터 이것도 흡수함.
 
 
@@ -214,12 +216,12 @@ confidence는 21개의 채널인 이유는 클래스가 20개인데 배경도 1�
 SSD는 기본적으로 빨라서 리얼타임 가능
 
 
-
+## 아나콘다 설치
 ![[04.LabelImg_설치_및_실행_.pdf]]
 
-과제
-GPU 안쓰면 이렇게 바꿔야함
 
+# 과제
+GPU 안쓰면 이렇게 바꿔야함
 ![[Pasted image 20240912181228.png]]
 
 비전 응용 7차시 과제입니다.  

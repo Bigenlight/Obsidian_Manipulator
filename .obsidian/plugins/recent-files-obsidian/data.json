@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "20_1-Pytorch",
+      "path": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md"
+    },
+    {
       "basename": "2024-09-21",
       "path": "Daily Notes/2024-09-21.md"
     },
     {
-      "basename": "24_1",
-      "path": "ROKEY bootcamp/Computer Vision/24_1.md"
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "22_1-Object Detection",
-      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection.md"
+      "basename": "24_1  YoloV1234",
+      "path": "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md"
+    },
+    {
+      "basename": "22_1-Object Detection, YoloV12, SSD",
+      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md"
+    },
+    {
+      "basename": "19_1-텐서플로우와 케라스",
+      "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
     },
     {
       "basename": "21_1-Classification, Transfer Learning 실습",
       "path": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md"
     },
     {
-      "basename": "19_1-텐서플로우와 케라스",
-      "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
+      "basename": "23_1-객체 탐지, YoloV358",
+      "path": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md"
+    },
+    {
+      "basename": "AI, Computer Vision 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
+    },
+    {
+      "basename": "25_1-Labeling",
+      "path": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md"
     },
     {
       "basename": "9_1-OpenCV",
@@ -29,20 +49,8 @@
       "path": "Daily Notes/2024-09-20.md"
     },
     {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
       "basename": "대학원 정보 모음",
       "path": "개인공부/대학원 정보 모음.md"
-    },
-    {
-      "basename": "25_1-Labeling",
-      "path": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md"
-    },
-    {
-      "basename": "23_1-객체 탐지, Yolo",
-      "path": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, Yolo.md"
     },
     {
       "basename": "유용한 정보",
@@ -67,14 +75,6 @@
     {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "20_1-Pytorch",
-      "path": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md"
-    },
-    {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
     },
     {
       "basename": "2024-09-11",
