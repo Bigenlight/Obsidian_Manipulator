@@ -21,7 +21,8 @@ cd anaconda3\Lib\site-packages\libs
 Change Dir가 아니라 Open Dir로 하는 것을 명심할 것.
 
 
-욜로4 이론 복습, 14:16
+
+
 
 
 다시 8로 갔을 때 부터 안봄

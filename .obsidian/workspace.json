@@ -33,19 +33,6 @@
             }
           },
           {
-            "id": "c4fab53247df5fe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/대학원 정보 모음.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d9264ec03bdaba3",
             "type": "leaf",
             "state": {
@@ -64,20 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dacbd148cc21f29f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-09-20.md",
+                "file": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,19 +65,6 @@
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2880d0e60cfc1e56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-09-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, Yolo.md",
+                "file": "ROKEY bootcamp/Computer Vision/22_1-Object Detection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-20.md",
+                "file": "Daily Notes/2024-09-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -205,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "대학원",
+                "query": "08-26",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-20.md",
+                "file": "Daily Notes/2024-09-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-20.md",
+                "file": "Daily Notes/2024-09-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-20.md"
+                "file": "Daily Notes/2024-09-21.md"
               }
             }
           }
@@ -324,23 +285,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dacbd148cc21f29f",
+  "active": "fcbee7f40c051833",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
-    "Daily Notes/2024-09-20.md",
-    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
-    "ROKEY bootcamp/Computer Vision/attachments/labelImg_setting.ipynb",
-    "ROKEY bootcamp/Computer Vision/attachments/Ubuntu 아나콘다 가상환경에서 labelImg 설치 및 실행 과정.pdf",
-    "개인공부/대학원 정보 모음.md",
-    "개인공부/유용한 정보.md",
     "ROKEY bootcamp/Computer Vision/24_1.md",
+    "ROKEY bootcamp/Computer Vision/22_1-Object Detection.md",
+    "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
+    "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
+    "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
+    "Daily Notes/2024-09-20.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "desktop.ini",
+    "개인공부/대학원 정보 모음.md",
+    "Daily Notes/2024-09-21.md",
+    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
+    "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, Yolo.md",
+    "ROKEY bootcamp/Computer Vision/attachments/labelImg_setting.ipynb",
+    "ROKEY bootcamp/Computer Vision/attachments/Ubuntu 아나콘다 가상환경에서 labelImg 설치 및 실행 과정.pdf",
+    "개인공부/유용한 정보.md",
     "개인공부/2024년 하반기 공채.md",
     "개인공부/유튜브 영상을 요약해주는 ai.md",
     "ROKEY bootcamp/Computer Vision/desktop.ini",
     "Daily Notes/desktop.ini",
-    "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
     "Daily Notes/2024-09-19.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003141.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003116.png",
@@ -354,9 +319,7 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919234833.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919234821.png",
     "ROKEY bootcamp/Computer Vision/attachments/yolov123_1.pdf",
-    "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, Yolo.md",
     "ROKEY bootcamp/Computer Vision/attachments/yolov4.pdf",
-    "ROKEY bootcamp/Computer Vision/22_1-Object Detection.md",
     "Daily Notes/2024-09-10.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
@@ -367,9 +330,7 @@
     "Daily Notes/2024-09-15.md",
     "Daily Notes/2024-09-13.md",
     "Daily Notes/2024-09-16.md",
-    "Daily Notes/2024-09-18.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240910121941.png",
-    "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf"
   ]
 }
