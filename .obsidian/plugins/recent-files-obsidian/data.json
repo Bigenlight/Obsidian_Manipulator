@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-22",
+      "path": "Daily Notes/2024-09-22.md"
+    },
+    {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "13_1-특징 검출, 매칭, 추적",
-      "path": "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md"
-    },
-    {
-      "basename": "18_2-딥러닝 복습",
-      "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
+      "basename": "20_1-Pytorch",
+      "path": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md"
     },
     {
       "basename": "19_1-텐서플로우와 케라스",
       "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
-    },
-    {
-      "basename": "20_1-Pytorch",
-      "path": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md"
     },
     {
       "basename": "21_1-Classification, Transfer Learning 실습",
@@ -115,6 +111,10 @@
     {
       "basename": "10_1-ROI, RGB, 이미지 연산",
       "path": "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md"
+    },
+    {
+      "basename": "18_2-딥러닝 복습",
+      "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
     },
     {
       "basename": "2024-09-09",
