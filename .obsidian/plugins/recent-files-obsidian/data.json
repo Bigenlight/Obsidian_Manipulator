@@ -1,58 +1,40 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-      "basename": "2024-09-21",
-      "path": "Daily Notes/2024-09-21.md"
-    },
-    {
-      "basename": "20_1-Pytorch",
-      "path": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md"
-=======
-      "basename": "25_1",
-      "path": "ROKEY bootcamp/Computer Vision/25_1.md"
-    },
-    {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "2024년 하반기 공채",
-      "path": "개인공부/2024년 하반기 공채.md"
+      "basename": "13_1-특징 검출, 매칭, 추적",
+      "path": "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md"
     },
     {
-      "basename": "2024-09-20",
-      "path": "Daily Notes/2024-09-20.md"
-    },
-    {
-      "basename": "21_1-Classification, Transfer Learning 실습",
-      "path": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md"
->>>>>>> e053222be05dc9a57ad5689a9b1c845a52a54dae
+      "basename": "18_2-딥러닝 복습",
+      "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
     },
     {
       "basename": "19_1-텐서플로우와 케라스",
       "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
     },
     {
-<<<<<<< HEAD
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
-      "basename": "24_1  YoloV1234",
-      "path": "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md"
-=======
-      "basename": "2024-09-19",
-      "path": "Daily Notes/2024-09-19.md"
->>>>>>> e053222be05dc9a57ad5689a9b1c845a52a54dae
-    },
-    {
-      "basename": "22_1-Object Detection, YoloV12, SSD",
-      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md"
+      "basename": "20_1-Pytorch",
+      "path": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md"
     },
     {
       "basename": "21_1-Classification, Transfer Learning 실습",
       "path": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md"
+    },
+    {
+      "basename": "2024-09-21",
+      "path": "Daily Notes/2024-09-21.md"
+    },
+    {
+      "basename": "24_1  YoloV1234",
+      "path": "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md"
+    },
+    {
+      "basename": "22_1-Object Detection, YoloV12, SSD",
+      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md"
     },
     {
       "basename": "23_1-객체 탐지, YoloV358",
@@ -81,6 +63,10 @@
     {
       "basename": "유용한 정보",
       "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "2024년 하반기 공채",
+      "path": "개인공부/2024년 하반기 공채.md"
     },
     {
       "basename": "유튜브 영상을 요약해주는 ai",
@@ -129,10 +115,6 @@
     {
       "basename": "10_1-ROI, RGB, 이미지 연산",
       "path": "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md"
-    },
-    {
-      "basename": "18_2-딥러닝 복습",
-      "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
     },
     {
       "basename": "2024-09-09",
@@ -217,10 +199,6 @@
     {
       "basename": "2024-09-05",
       "path": "Daily Notes/2024-09-05.md"
-    },
-    {
-      "basename": "2024-07-25",
-      "path": "Daily Notes/2024-07-25.md"
     }
   ],
   "omittedPaths": []

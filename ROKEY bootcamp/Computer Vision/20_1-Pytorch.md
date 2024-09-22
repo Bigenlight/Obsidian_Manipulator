@@ -35,7 +35,7 @@ for epoch in range(10):
             running_loss = 0.0
 ```
 - .zero_grad() = 미분값(그래디언트)를 clear함
-- .net( - ) = 콜 함수, 인스턴스명이 실행 되면 feed forward 실행. 즉 forward 연산 시작.
+- net( - ) = 콜 함수, 인스턴스명이 실행 되면 feed forward 실행. 즉 forward 연산 시작.
 - 손실함수( criterion( - ) ) = loss 함수임. 여러 종류 있음.
 - .backward() = 역전파, 뒤에서 앞으로 자동 미분하여 gradient를 다 구함.
 - .step() = update
