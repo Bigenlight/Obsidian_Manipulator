@@ -60,14 +60,14 @@ RGBA도 있음, RGB에 A(알파, alpha)(투명도) 추가
 
 #### YUV 방식
 - YCbCr 방식이라고도 함
-- Y는 밝기(Luma),
-- U는 밝기와 파란색과의 색상 차(Chroma Blue, Cb),
+- Y는 ==밝기==(Luma),
+- U는 밝기와 파란색과의 ==색상 차==(Chroma Blue, Cb),
 - V는 밝기와 빨간색과의 색상 차(Chroma Red, Cr)
 Y(밝기)에는 많은 비트수를 할당하고 U(Cb)와 V(Cr)에는 적은 비트수를 할당하여 데이터 압축 효과
 ![[Pasted image 20240827162225.png|300]]
 
 ### 이진 변화
-Otzu's method: 이진화 threshold를 자동으로 정해줌
+==Otzu's method==: 이진화 threshold를 자동으로 정해줌
 
 ### 이미지 연산
 ![[Pasted image 20240828221308.png|400]]

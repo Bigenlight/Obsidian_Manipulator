@@ -33,32 +33,6 @@
             }
           },
           {
-            "id": "495a9f39dd8dba20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/유용한 정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "993e5e5cd7886ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/리니어 엑추에이터.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7229f0a3574c4ed7",
             "type": "leaf",
             "state": {
@@ -72,12 +46,12 @@
             }
           },
           {
-            "id": "15d949d7b30d2a1b",
+            "id": "c86cf49ba5fdb59c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
+                "file": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,12 +59,12 @@
             }
           },
           {
-            "id": "d756327d0c46b6ff",
+            "id": "c3881e1319f9f290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
+                "file": "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,12 +211,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,40 +234,41 @@
   },
   "active": "56c71824c69567fd",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
+    "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
+    "ROKEY bootcamp/Computer Vision/11_1-이미지 변환, 필터링.md",
+    "ROKEY bootcamp/Computer Vision/12_1-컨투어, 하프 변환, 연속 영역 분할.md",
+    "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md",
+    "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
+    "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
+    "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
+    "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924020316.png",
+    "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
+    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
+    "개인공부/유용한 정보.md",
+    "개인공부/리니어 엑추에이터.md",
     "Daily Notes/2024-09-24.md",
+    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
+    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
     "Daily Notes/2024-09-23.md",
     "Daily Notes/2024-09-22.md",
     "Daily Notes/2024-09-25.md",
-    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
-    "개인공부/유용한 정보.md",
-    "개인공부/리니어 엑추에이터.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "Excalidraw/Drawing 2024-09-23 16.07.37.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 16.09.16.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 17.32.42.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 17.44.50.excalidraw.md",
     "개인공부/건강하게 잘 앉는 방법.md",
     "옵시디언공부/옵시디언 공부.md",
-    "옵시디언공부/Excalidraw, Inconize.md",
     "Excalidraw/제목 없음-2024-09-23-1626.excalidraw",
     "Excalidraw/제목 없음-2024-09-23-1623.excalidraw",
-    "옵시디언공부/Minimal Theme.md",
-    "개인공부/개인 공부.md",
-    "개인공부/코딩을 할 때 필요한 마음가짐.md",
-    "개인공부/회로 설계 프로그램 - KiCAD.md",
     "Excalidraw",
     "Capstone/무제 파일.canvas",
-    "옵시디언공부/프론트메타.md",
     "Untitled.canvas",
-    "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923101353.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095707.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095651.png",
-    "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
-    "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
-    "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
     "desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/labelImg_setting.ipynb",
     "ROKEY bootcamp/Computer Vision/attachments/Ubuntu 아나콘다 가상환경에서 labelImg 설치 및 실행 과정.pdf",
@@ -307,7 +281,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/04._Doit_점프투파이썬__05장.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920000136.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235932.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235414.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235154.png"
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235414.png"
   ]
 }

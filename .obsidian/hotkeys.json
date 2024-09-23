@@ -70,5 +70,21 @@
       ],
       "key": "Key23"
     }
+  ],
+  "obsidian-stopwatch-plugin:start-stop-stopwatch": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-stopwatch-plugin:reset-stopwatch": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": ","
+    }
   ]
 }
