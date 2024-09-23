@@ -98,12 +98,12 @@
             }
           },
           {
-            "id": "f28cfab977b41821",
+            "id": "56c71824c69567fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-23.md",
+                "file": "Daily Notes/2024-09-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-23.md",
+                "file": "Daily Notes/2024-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-23.md",
+                "file": "Daily Notes/2024-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-23.md"
+                "file": "Daily Notes/2024-09-24.md"
               }
             }
           }
@@ -259,13 +259,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f28cfab977b41821",
+  "active": "56c71824c69567fd",
   "lastOpenFiles": [
     "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
+    "Daily Notes/2024-09-24.md",
+    "Daily Notes/2024-09-23.md",
+    "Daily Notes/2024-09-22.md",
+    "Daily Notes/2024-09-25.md",
     "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
     "개인공부/유용한 정보.md",
     "개인공부/리니어 엑추에이터.md",
-    "Daily Notes/2024-09-23.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "Excalidraw/Drawing 2024-09-23 16.07.37.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 16.09.16.excalidraw.md",
@@ -288,13 +291,10 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923101353.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095707.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095651.png",
-    "Daily Notes/2024-09-22.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
     "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
     "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
-    "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
-    "Daily Notes/2024-09-21.md",
     "desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/labelImg_setting.ipynb",
     "ROKEY bootcamp/Computer Vision/attachments/Ubuntu 아나콘다 가상환경에서 labelImg 설치 및 실행 과정.pdf",

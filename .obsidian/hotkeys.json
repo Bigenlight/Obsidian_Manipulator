@@ -23,14 +23,6 @@
       "key": "P"
     }
   ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "="
-    }
-  ],
   "templater-obsidian:Templates/공부 & 정보 템플릿.md": [
     {
       "modifiers": [
@@ -69,6 +61,14 @@
         "Alt"
       ],
       "key": "D"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Key23"
     }
   ]
 }
