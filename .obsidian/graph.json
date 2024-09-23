@@ -1,22 +1,79 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Python",
+      "color": {
+        "a": 1,
+        "rgb": 3000404
+      }
+    },
+    {
+      "query": "file: 옵시디언 공부",
+      "color": {
+        "a": 1,
+        "rgb": 10633442
+      }
+    },
+    {
+      "query": "tag:#daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 10085770
+      }
+    },
+    {
+      "query": "file:두산",
+      "color": {
+        "a": 1,
+        "rgb": 16639
+      }
+    },
+    {
+      "query": "tag:#DevOps  ",
+      "color": {
+        "a": 1,
+        "rgb": 13451991
+      }
+    },
+    {
+      "query": "tag:#C언어  ",
+      "color": {
+        "a": 1,
+        "rgb": 15223370
+      }
+    },
+    {
+      "query": "line:(개인 공부)",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#컴퓨터비전  ",
+      "color": {
+        "a": 1,
+        "rgb": 3369169
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19753086419753085,
+  "scale": 0.7428287443742791,
   "close": false
 }

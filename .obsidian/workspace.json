@@ -33,6 +33,32 @@
             }
           },
           {
+            "id": "6e19b74994c17aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/개인 공부.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee28873ccafa0d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/코딩을 할 때 필요한 마음가짐.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2d9264ec03bdaba3",
             "type": "leaf",
             "state": {
@@ -46,12 +72,12 @@
             }
           },
           {
-            "id": "20528faf8349091a",
+            "id": "afe2fb2e5b113f2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
+                "file": "ROKEY bootcamp/Computer Vision/26_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +85,38 @@
             }
           },
           {
-            "id": "e315ddac1c792091",
+            "id": "9d4836ee408ea416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
+                "file": "Daily Notes/2024-09-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce0220cd87e07b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "216a851b0fe4cb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -139,8 +191,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-22.md",
+                "file": "Daily Notes/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-22.md",
+                "file": "Daily Notes/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-22.md"
+                "file": "Daily Notes/2024-09-23.md"
               }
             }
           }
@@ -232,9 +283,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d62b66798ceaeb16",
+  "active": "9d4836ee408ea416",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/26_1.md",
+    "Daily Notes/2024-09-23.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
+    "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
+    "개인공부/코딩을 할 때 필요한 마음가짐.md",
+    "개인공부/개인 공부.md",
+    "ROKEY bootcamp/정보.md",
+    "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
     "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
     "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
     "Daily Notes/2024-09-22.md",
@@ -257,7 +316,6 @@
     "개인공부/유튜브 영상을 요약해주는 ai.md",
     "ROKEY bootcamp/Computer Vision/desktop.ini",
     "Daily Notes/desktop.ini",
-    "Daily Notes/2024-09-19.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003141.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003116.png",
     "ROKEY bootcamp/Computer Vision/attachments/05.파이썬의_개요_1 (1).pdf",
@@ -271,13 +329,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919234821.png",
     "ROKEY bootcamp/Computer Vision/attachments/yolov123_1.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/yolov4.pdf",
-    "Daily Notes/2024-09-10.md",
-    "ROKEY bootcamp/정보.md",
-    "Daily Notes/2024-09-11.md",
-    "Daily Notes/2024-09-12.md",
-    "Daily Notes/2024-09-14.md",
-    "Daily Notes/2024-09-15.md",
-    "Daily Notes/2024-09-13.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240910121941.png",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf"
   ]
