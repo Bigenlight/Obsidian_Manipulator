@@ -13,12 +13,16 @@
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "17_1-CNN",
-      "path": "ROKEY bootcamp/Computer Vision/17_1-CNN.md"
-    },
-    {
       "basename": "18_1-정밀, 고속 팁",
       "path": "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md"
+    },
+    {
+      "basename": "2024-09-22",
+      "path": "Daily Notes/2024-09-22.md"
+    },
+    {
+      "basename": "17_1-CNN",
+      "path": "ROKEY bootcamp/Computer Vision/17_1-CNN.md"
     },
     {
       "basename": "코딩을 할 때 필요한 마음가짐",
@@ -43,10 +47,6 @@
     {
       "basename": "19_1-텐서플로우와 케라스",
       "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
-    },
-    {
-      "basename": "2024-09-22",
-      "path": "Daily Notes/2024-09-22.md"
     },
     {
       "basename": "21_1-Classification, Transfer Learning 실습",

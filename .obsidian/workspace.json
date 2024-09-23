@@ -85,19 +85,6 @@
             }
           },
           {
-            "id": "9d4836ee408ea416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-09-23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ce0220cd87e07b46",
             "type": "leaf",
             "state": {
@@ -124,12 +111,12 @@
             }
           },
           {
-            "id": "d62b66798ceaeb16",
+            "id": "9d4836ee408ea416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-22.md",
+                "file": "Daily Notes/2024-09-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -286,17 +273,20 @@
   "active": "9d4836ee408ea416",
   "lastOpenFiles": [
     "ROKEY bootcamp/Computer Vision/26_1.md",
-    "Daily Notes/2024-09-23.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923101353.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095707.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095651.png",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
     "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
+    "Daily Notes/2024-09-22.md",
+    "Daily Notes/2024-09-23.md",
+    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
     "개인공부/코딩을 할 때 필요한 마음가짐.md",
     "개인공부/개인 공부.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
     "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
     "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
-    "Daily Notes/2024-09-22.md",
     "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
     "Daily Notes/2024-09-21.md",
     "ROKEY bootcamp/Computer Vision/25_1.md",
@@ -313,7 +303,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Ubuntu 아나콘다 가상환경에서 labelImg 설치 및 실행 과정.pdf",
     "개인공부/유용한 정보.md",
     "개인공부/2024년 하반기 공채.md",
-    "개인공부/유튜브 영상을 요약해주는 ai.md",
     "ROKEY bootcamp/Computer Vision/desktop.ini",
     "Daily Notes/desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003141.png",
@@ -325,11 +314,8 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235932.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235414.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235154.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919234833.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919234821.png",
     "ROKEY bootcamp/Computer Vision/attachments/yolov123_1.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/yolov4.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240910121941.png",
     "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf"
   ]
 }
