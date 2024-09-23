@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "6e19b74994c17aa5",
+            "id": "495a9f39dd8dba20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/개인 공부.md",
+                "file": "개인공부/유용한 정보.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "7ee28873ccafa0d8",
+            "id": "993e5e5cd7886ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/코딩을 할 때 필요한 마음가짐.md",
+                "file": "개인공부/리니어 엑추에이터.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "2d9264ec03bdaba3",
+            "id": "7229f0a3574c4ed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,12 +72,12 @@
             }
           },
           {
-            "id": "afe2fb2e5b113f2c",
+            "id": "15d949d7b30d2a1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/26_1.md",
+                "file": "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,12 +85,12 @@
             }
           },
           {
-            "id": "ce0220cd87e07b46",
+            "id": "d756327d0c46b6ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
+                "file": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,20 +98,7 @@
             }
           },
           {
-            "id": "216a851b0fe4cb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d4836ee408ea416",
+            "id": "f28cfab977b41821",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -124,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -250,7 +237,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -267,42 +255,49 @@
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d4836ee408ea416",
+  "active": "f28cfab977b41821",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/26_1.md",
+    "개인공부/리니어 엑추에이터.md",
+    "개인공부/유용한 정보.md",
+    "Daily Notes/2024-09-23.md",
+    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
+    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "Excalidraw/Drawing 2024-09-23 16.07.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-23 16.09.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-23 17.32.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-23 17.44.50.excalidraw.md",
+    "개인공부/건강하게 잘 앉는 방법.md",
+    "옵시디언공부/옵시디언 공부.md",
+    "옵시디언공부/Excalidraw, Inconize.md",
+    "Excalidraw/제목 없음-2024-09-23-1626.excalidraw",
+    "Excalidraw/제목 없음-2024-09-23-1623.excalidraw",
+    "옵시디언공부/Minimal Theme.md",
+    "개인공부/개인 공부.md",
+    "개인공부/코딩을 할 때 필요한 마음가짐.md",
+    "개인공부/회로 설계 프로그램 - KiCAD.md",
+    "Excalidraw",
+    "Capstone/무제 파일.canvas",
+    "옵시디언공부/프론트메타.md",
+    "Untitled.canvas",
+    "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923101353.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095707.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095651.png",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
     "Daily Notes/2024-09-22.md",
-    "Daily Notes/2024-09-23.md",
-    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
-    "개인공부/코딩을 할 때 필요한 마음가짐.md",
-    "개인공부/개인 공부.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
     "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
     "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
     "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
     "Daily Notes/2024-09-21.md",
-    "ROKEY bootcamp/Computer Vision/25_1.md",
-    "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md",
-    "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md",
-    "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md",
-    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
-    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
-    "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
-    "Daily Notes/2024-09-20.md",
     "desktop.ini",
-    "개인공부/대학원 정보 모음.md",
     "ROKEY bootcamp/Computer Vision/attachments/labelImg_setting.ipynb",
     "ROKEY bootcamp/Computer Vision/attachments/Ubuntu 아나콘다 가상환경에서 labelImg 설치 및 실행 과정.pdf",
-    "개인공부/유용한 정보.md",
-    "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/desktop.ini",
     "Daily Notes/desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003141.png",
@@ -313,9 +308,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920000136.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235932.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235414.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235154.png",
-    "ROKEY bootcamp/Computer Vision/attachments/yolov123_1.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/yolov4.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/딥러닝강좌2 (1).pdf"
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235154.png"
   ]
 }

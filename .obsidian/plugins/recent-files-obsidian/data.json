@@ -5,12 +5,60 @@
       "path": "Daily Notes/2024-09-23.md"
     },
     {
-      "basename": "26_1",
-      "path": "ROKEY bootcamp/Computer Vision/26_1.md"
+      "basename": "리니어 엑추에이터",
+      "path": "개인공부/리니어 엑추에이터.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "26_1-PyQT",
+      "path": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md"
+    },
+    {
+      "basename": "17_1-CNN",
+      "path": "ROKEY bootcamp/Computer Vision/17_1-CNN.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "Drawing 2024-09-23 17.32.42.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-23 17.32.42.excalidraw.md"
+    },
+    {
+      "basename": "건강하게 잘 앉는 방법",
+      "path": "개인공부/건강하게 잘 앉는 방법.md"
+    },
+    {
+      "basename": "옵시디언 공부",
+      "path": "옵시디언공부/옵시디언 공부.md"
+    },
+    {
+      "basename": "Excalidraw, Inconize",
+      "path": "옵시디언공부/Excalidraw, Inconize.md"
+    },
+    {
+      "basename": "Minimal Theme",
+      "path": "옵시디언공부/Minimal Theme.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "코딩을 할 때 필요한 마음가짐",
+      "path": "개인공부/코딩을 할 때 필요한 마음가짐.md"
+    },
+    {
+      "basename": "회로 설계 프로그램 - KiCAD",
+      "path": "개인공부/회로 설계 프로그램 - KiCAD.md"
+    },
+    {
+      "basename": "프론트메타",
+      "path": "옵시디언공부/프론트메타.md"
     },
     {
       "basename": "18_1-정밀, 고속 팁",
@@ -19,18 +67,6 @@
     {
       "basename": "2024-09-22",
       "path": "Daily Notes/2024-09-22.md"
-    },
-    {
-      "basename": "17_1-CNN",
-      "path": "ROKEY bootcamp/Computer Vision/17_1-CNN.md"
-    },
-    {
-      "basename": "코딩을 할 때 필요한 마음가짐",
-      "path": "개인공부/코딩을 할 때 필요한 마음가짐.md"
-    },
-    {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
     },
     {
       "basename": "정보",
@@ -87,10 +123,6 @@
     {
       "basename": "대학원 정보 모음",
       "path": "개인공부/대학원 정보 모음.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "2024년 하반기 공채",
@@ -159,46 +191,6 @@
     {
       "basename": "C++ 유튜브 강의 추천",
       "path": "개인공부/C++ 유튜브 강의 추천.md"
-    },
-    {
-      "basename": "plot juggler",
-      "path": "개인공부/plot juggler.md"
-    },
-    {
-      "basename": "SW 배포까지 해주는 ai",
-      "path": "개인공부/SW 배포까지 해주는 ai.md"
-    },
-    {
-      "basename": "우분투 지식",
-      "path": "개인공부/우분투 지식.md"
-    },
-    {
-      "basename": "API이란",
-      "path": "개인공부/API이란.md"
-    },
-    {
-      "basename": "VScode 공부",
-      "path": "개인공부/VScode 공부.md"
-    },
-    {
-      "basename": "개인 공부 템플릿",
-      "path": "Templates/개인 공부 템플릿.md"
-    },
-    {
-      "basename": "오픽 공부",
-      "path": "개인공부/오픽 공부.md"
-    },
-    {
-      "basename": "확률과 통계 계획",
-      "path": "개인공부/확률과 통계 계획.md"
-    },
-    {
-      "basename": "Daily Notes Dataview",
-      "path": "Daily Notes/Daily Notes Dataview.md"
-    },
-    {
-      "basename": "16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법",
-      "path": "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md"
     }
   ],
   "omittedPaths": []

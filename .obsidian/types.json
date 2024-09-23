@@ -3,16 +3,25 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "watch_date": "date",
-    "important_date": "checkbox",
-    "복습 횟수": "number",
-    "재확인 필요": "checkbox",
-    "재확인필요": "checkbox",
-<<<<<<< HEAD
-    "NeedCheck": "checkbox"
-=======
-    "NeedCheck": "checkbox",
-    "date": "text"
->>>>>>> e2deeb9d33184862460dc0ea2e3c9e7ed59a66a7
+    "excalidraw-plugin": "text",
+    "excalidraw-export-transparent": "checkbox",
+    "excalidraw-mask": "checkbox",
+    "excalidraw-export-dark": "checkbox",
+    "excalidraw-export-padding": "number",
+    "excalidraw-export-pngscale": "number",
+    "excalidraw-export-embed-scene": "checkbox",
+    "excalidraw-link-prefix": "text",
+    "excalidraw-url-prefix": "text",
+    "excalidraw-link-brackets": "checkbox",
+    "excalidraw-onload-script": "text",
+    "excalidraw-linkbutton-opacity": "number",
+    "excalidraw-default-mode": "text",
+    "excalidraw-font": "text",
+    "excalidraw-font-color": "text",
+    "excalidraw-border-color": "text",
+    "excalidraw-css": "text",
+    "excalidraw-autoexport": "text",
+    "excalidraw-embeddable-theme": "text",
+    "excalidraw-open-md": "checkbox"
   }
 }
