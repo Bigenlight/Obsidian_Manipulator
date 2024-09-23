@@ -8,7 +8,7 @@ last modification: 2024-09-23
 [01) 창 띄우기 - PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/21920)
 
 이거는 코랩 강의자료
-[Site Unreachable](https://colab.research.google.com/drive/1i9n1qsOhVKoPD2GfUzMFw5OH44lqq_mx#scrollTo=K3mapsSHknhQ)
+[Site Unreachable](https://colab.research.google.com/drive/1i9n1qsOhVKoPD2GfUzMFw5OH44lqq_mx#scrollTo=K3mapsSHknhQ)    
 
 소스 코드 파일 모음
 [Fetching Title#37uu](https://drive.google.com/uc?id=1nYC8lE8htkmeJ7GKT4iqoi5BZ2prefRW)
