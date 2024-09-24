@@ -5,12 +5,24 @@
       "path": "Daily Notes/2024-09-24.md"
     },
     {
-      "basename": "17_1-CNN",
-      "path": "ROKEY bootcamp/Computer Vision/17_1-CNN.md"
-    },
-    {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "27_1-PyQT, Flask, YoloV8",
+      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
+    },
+    {
+      "basename": "22_1-Object Detection, YoloV12, SSD",
+      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md"
+    },
+    {
+      "basename": "23_1-객체 탐지, YoloV358",
+      "path": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md"
+    },
+    {
+      "basename": "17_1-CNN",
+      "path": "ROKEY bootcamp/Computer Vision/17_1-CNN.md"
     },
     {
       "basename": "24_1  YoloV1234",
@@ -19,18 +31,6 @@
     {
       "basename": "25_1-Labeling",
       "path": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md"
-    },
-    {
-      "basename": "23_1-객체 탐지, YoloV358",
-      "path": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md"
-    },
-    {
-      "basename": "22_1-Object Detection, YoloV12, SSD",
-      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md"
-    },
-    {
-      "basename": "27_1-PyQT, Flask, YoloV8",
-      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
     },
     {
       "basename": "26_1-PyQT",

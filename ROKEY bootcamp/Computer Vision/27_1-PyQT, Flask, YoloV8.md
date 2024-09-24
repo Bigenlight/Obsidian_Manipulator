@@ -84,5 +84,5 @@ Hyper text make up language
 욜로가 바로 되는 사이트 게제
 ![[Pasted image 20240924163155.png]]
 
-이거는 로컬로 해야 함
-[Site Unreachable](https://colab.research.google.com/drive/1x6GsMH-HuQgPdcGOdK4JM8tYJW_ce7AX)
+아래에 로컬로 돌리는 것도 있음
+[Site Unreachable](https://colab.research.google.com/drive/1hSxd6zDJhFu3pWZCDOonWS8L9umTuNFq)
