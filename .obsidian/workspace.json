@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "1d026d0aa89895e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-09-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7229f0a3574c4ed7",
             "type": "leaf",
             "state": {
@@ -46,12 +59,12 @@
             }
           },
           {
-            "id": "1d026d0aa89895e8",
+            "id": "daf7b7e60b4683d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-24.md",
+                "file": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed06cea5a27a30bc",
@@ -238,7 +252,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -259,8 +274,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1d026d0aa89895e8",
+  "active": "231a48fc087e649a",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "Daily Notes/2024-09-24.md",
@@ -269,7 +285,6 @@
     "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
     "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md",
     "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
-    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924163155.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924142907.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924142851.png",

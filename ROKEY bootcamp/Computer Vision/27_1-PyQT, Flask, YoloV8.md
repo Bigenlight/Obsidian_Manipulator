@@ -37,7 +37,7 @@ Qlabel 1개
 
 # 코랩으로 FLASK
 플라스크를 코딩하는 것은 백앤드 프로그래밍이라고 볼 수 있음
-[Site Unreachable](https://colab.research.google.com/drive/1hSxd6zDJhFu3pWZCDOonWS8L9umTuNFq#scrollTo=F4Zsx1wRynYK)
+###### Html 관한 설명이 많음 [Site Unreachable](https://colab.research.google.com/drive/1hSxd6zDJhFu3pWZCDOonWS8L9umTuNFq#scrollTo=F4Zsx1wRynYK)
 
 ngrok 로그인하고
 ![[Pasted image 20240924142600.png]]
