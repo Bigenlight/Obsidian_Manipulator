@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "c86cf49ba5fdb59c",
+            "id": "18e5403b6265b753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
+                "file": "ROKEY bootcamp/Computer Vision/27-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +59,12 @@
             }
           },
           {
-            "id": "c3881e1319f9f290",
+            "id": "dbc0025bfee1ed09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
+                "file": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "56c71824c69567fd",
+            "id": "231a48fc087e649a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "08-26",
+                "query": "tag:daily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,13 +228,17 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "56c71824c69567fd",
+  "active": "231a48fc087e649a",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
+    "Daily Notes/2024-09-24.md",
+    "ROKEY bootcamp/Computer Vision/27-1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/joystick_step_by_step.pdf",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
     "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
@@ -249,9 +254,7 @@
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
     "개인공부/유용한 정보.md",
     "개인공부/리니어 엑추에이터.md",
-    "Daily Notes/2024-09-24.md",
     "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
-    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
     "Daily Notes/2024-09-23.md",
     "Daily Notes/2024-09-22.md",
     "Daily Notes/2024-09-25.md",
@@ -259,8 +262,6 @@
     "Excalidraw/Drawing 2024-09-23 16.09.16.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 17.32.42.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 17.44.50.excalidraw.md",
-    "개인공부/건강하게 잘 앉는 방법.md",
-    "옵시디언공부/옵시디언 공부.md",
     "Excalidraw/제목 없음-2024-09-23-1626.excalidraw",
     "Excalidraw/제목 없음-2024-09-23-1623.excalidraw",
     "Excalidraw",
@@ -278,7 +279,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003116.png",
     "ROKEY bootcamp/Computer Vision/attachments/05.파이썬의_개요_1 (1).pdf",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920002432.png",
-    "ROKEY bootcamp/Computer Vision/attachments/04._Doit_점프투파이썬__05장.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920000136.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235932.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235414.png"
