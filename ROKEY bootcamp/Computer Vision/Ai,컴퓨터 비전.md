@@ -46,7 +46,7 @@
 [[25_1-Labeling]]
 
 [[26_1-PyQT]]
-[[27-1]]
+[[27_1-PyQT, Flask, YoloV8]]
 
 
 

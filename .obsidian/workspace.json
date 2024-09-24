@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "18e5403b6265b753",
+            "id": "1d026d0aa89895e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/27-1.md",
+                "file": "Daily Notes/2024-09-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +59,38 @@
             }
           },
           {
-            "id": "dbc0025bfee1ed09",
+            "id": "e9685ce823e4122f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
+                "file": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4801acabe28dcfed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8a3040933be255a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,13 +259,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "231a48fc087e649a",
+  "active": "1d026d0aa89895e8",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md",
+    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
+    "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md",
+    "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md",
+    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
     "Daily Notes/2024-09-24.md",
-    "ROKEY bootcamp/Computer Vision/27-1.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924163155.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924142907.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924142851.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924142747.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924142728.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924142600.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924141130.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240924141102.png",
     "ROKEY bootcamp/Computer Vision/attachments/joystick_step_by_step.pdf",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
     "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
     "ROKEY bootcamp/Computer Vision/11_1-이미지 변환, 필터링.md",
@@ -254,33 +293,21 @@
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
     "개인공부/유용한 정보.md",
     "개인공부/리니어 엑추에이터.md",
-    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
     "Daily Notes/2024-09-23.md",
     "Daily Notes/2024-09-22.md",
     "Daily Notes/2024-09-25.md",
     "Excalidraw/Drawing 2024-09-23 16.07.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-23 16.09.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-23 17.32.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-23 17.44.50.excalidraw.md",
     "Excalidraw/제목 없음-2024-09-23-1626.excalidraw",
     "Excalidraw/제목 없음-2024-09-23-1623.excalidraw",
     "Excalidraw",
     "Capstone/무제 파일.canvas",
     "Untitled.canvas",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923101353.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095707.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240923095651.png",
     "desktop.ini",
     "ROKEY bootcamp/Computer Vision/attachments/labelImg_setting.ipynb",
     "ROKEY bootcamp/Computer Vision/attachments/Ubuntu 아나콘다 가상환경에서 labelImg 설치 및 실행 과정.pdf",
     "ROKEY bootcamp/Computer Vision/desktop.ini",
     "Daily Notes/desktop.ini",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003141.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920003116.png",
-    "ROKEY bootcamp/Computer Vision/attachments/05.파이썬의_개요_1 (1).pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920002432.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240920000136.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235932.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240919235414.png"
+    "ROKEY bootcamp/Computer Vision/attachments/05.파이썬의_개요_1 (1).pdf"
   ]
 }
