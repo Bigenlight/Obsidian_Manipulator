@@ -105,5 +105,4 @@ cv2.destroyAllWindows()
 [Site Unreachable](https://colab.research.google.com/drive/1e3KK3bwVvvjzjGizZaY-DVyZYxdC0Shw)
 브로드캐스팅 -> 일반적으로 형태가 곱할 수 없는 행렬을 곱할  수 있게만듬.
 ## 4장
-[Site Unreachable](https://colab.research.google.com/drive/1uXCY6r6WqoKitfOzXmSi4KlTU82dCahp)
 관심 영역(ROI : Region Of Interest) : 이미지에서 분석의 대상으로 지정한 영역
