@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "4094ee2d74e4f6db",
+            "id": "c5d0c512a69a3033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+                "file": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +59,12 @@
             }
           },
           {
-            "id": "acc0fb86af41f3db",
+            "id": "d06147abd793ae9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
+                "file": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,12 +72,12 @@
             }
           },
           {
-            "id": "0ff25b14e3ff5e08",
+            "id": "ac478fad5034d5ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/28_1.md",
+                "file": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed06cea5a27a30bc",
@@ -236,13 +237,32 @@
   },
   "active": "186c61d10d4894cf",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
+    "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
     "Daily Notes/2024-09-25.md",
+    "ROKEY bootcamp/Computer Vision/28_1-총정리.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
+    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
     "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md",
-    "ROKEY bootcamp/Computer Vision/28_1.md",
+    "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md",
+    "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md",
+    "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
+    "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
+    "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
+    "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
+    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
+    "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
+    "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
+    "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
+    "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021350.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021331.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021221.png",
+    "Daily Notes/2024-09-26.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926011529.png",
     "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md",
     "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
-    "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
     "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925215029.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925213823.png",
@@ -251,29 +271,10 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925211256.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925211245.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925211144.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925211123.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925211056.png",
     "ROKEY bootcamp/Computer Vision/11_1-이미지 변환, 필터링.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925205109.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925205039.png",
     "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
-    "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
-    "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md",
-    "ROKEY bootcamp/Computer Vision/16_1-학습관련기술종합-옵티마이저 종류, 초깃값 설정, Batch Normalization, 오버피팅 문제 해결법.md",
-    "ROKEY bootcamp/Computer Vision/17_1-CNN.md",
-    "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md",
-    "ROKEY bootcamp/Computer Vision/15_2-오차역전파.md",
-    "ROKEY bootcamp/Computer Vision/15_1-신경망 학습.md",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_01.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_02.pdf",
-    "개인공부/유용한 정보.md",
-    "Daily Notes/2024-09-24.md",
-    "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md",
-    "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md",
-    "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md",
-    "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md",
-    "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md",
-    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
     "ROKEY bootcamp/Computer Vision/attachments/joystick_step_by_step.pdf",
     "Excalidraw/제목 없음-2024-09-23-1626.excalidraw",
     "Excalidraw/제목 없음-2024-09-23-1623.excalidraw",

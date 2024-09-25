@@ -2,6 +2,7 @@
 [[Ai,컴퓨터 비전]]
 last modification: 2024-09-11
 
+움... 이걸 어떻게... 공부하지...?
 # Classification
 오브젝트 디텍션을 다음주에
 

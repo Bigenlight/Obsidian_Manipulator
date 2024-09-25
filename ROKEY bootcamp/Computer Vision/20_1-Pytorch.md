@@ -12,7 +12,31 @@ last modification: 2024-09-10
 
 텐서는 fit이 알아서 대 해주지만, 파이토치는 자동 미분이라는 과정이 중요. \_\_.backward이 여기에 해강. 이 부분을 이해하고 봐야 함.
 
-###### 함수 5가지 정도는 이해해야 함.
+```python
+import torch
+torch.__version__
+```
+
+##### 텐서 만들기
+x = torch.tensor(\[3, 2.3])
+print(x)
+tensor(\[3.0000, 2.3000])
+
+x = torch.empty(4,2)    # 쓰레기 값의 4x2 행렬
+print(x)
+출력하면 쓰레기 값 나옴
+
+x = torch.rand(4,2)     # 랜덤값
+print(x)
+출력하면 랜덤의 소수가 나옴 (0~1)
+
+x = torch.zeros(4,2, dtype=torch.long)
+print(x)
+0으로 채우기
+
+x.size()
+-> torch.Size(\[4, 2])
+#### 함수 5가지 정도는 이해해야 함.
 코드 보면 for문이 다 노출 됨.
 ```python
 for epoch in range(10):
