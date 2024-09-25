@@ -22,7 +22,7 @@ NHWC 체계
 [PyTorch training/inference 성능 최적화 (1/2) — da2so](https://da2so.tistory.com/70)
 
 # 4장
-[Google Colab](https://colab.research.google.com/drive/1mpVe3iYgjXaMS4k29E4BdjHnJPBNZv9K?usp=sharing#scrollTo=1eZywmkJUVDl)
+[Google Colab](https://colab.research.google.com/drive/1mpVe3iYgjXaMS4k29E4BdjHnJPBNZv9K?usp=sharing#scrollTo=1eZywmkJUVDl) <- 목차 위주로 볼 것
 
 ROI
 ![[Pasted image 20240827153150.png|500]]

@@ -9,23 +9,23 @@ last modification: 2024-09-12
 ###### 이거 나올 수도
 localization -> 하나의 사물을 인식하여, 어디에 있는 인식
 
-object detection -> 여러 사물이 어디에 무엇이 있는지. 하지만 같은 사물은 구별 x.
-object tracking -> 같은 사물이라도 구별하여 어디에 있는지 추적
-segmentation -> 물체가 있는 곳을 마스킹
-pose estimation -> 사람이나 사람의 동작을 인식
+object detection -> ==여러 사물==이 ==어디==에 무엇이 있는지. 하지만 ==같은 사물은 구별 x==.
+object tracking -> ==같은 사물==이라도 구별하여 어디에 있는지 ==추적==
+segmentation -> 물체가 있는 곳을 ==마스킹==
+pose estimation -> 사람이나 사람의 ==동작을 인식==
 # Object Detection
 ![[02.object_detection.pdf]]
 여기서도 CNN이 쓰임.
 
 ###### 이거 나올 수도
-1) Image classification : CNN 이용해서 물체를 인식, 하나의 물체 대상 
-2) localization : 물체인식 후에 위치인식,하나의 물체 대상, bounding box로 위치 표시 
+1) Image classification : ==CNN== 이용해서 물체를 인식, ==하나의 물체== 대상 
+2) localization : 물체 인식 후에 ==위치== 인식,하나의 물체 대상, bounding box로 위치 표시 
 3) detection : 여러 물체 대상물체인식후위치인식
 ![[Pasted image 20240912112447.png|400]]
 ![[Pasted image 20240912112759.png|500]]
 - Clasification(인식) : 입력 이미지가 CNN을 거친 후 softmax 통해서 물체 인식
 - Localization : CNN의 마지막 구조변경위치를알기위한기능추가
-- - bounding box와 연관된output 추가: 좌표데이터: bx, by, bh, bw
+	-  bounding box와 연관된output 추가: 좌표데이터: bx, by, bh, bw
 
 마지막에 CNN 마지막에 softmax와  x, y, h, w 출력도 만듬 (위치와 박스 크기).
 그리고 softmax와 x, y, h, w에 대한 loss도 각각 구하고 학습함.

@@ -2,7 +2,7 @@
 [[Ai,컴퓨터 비전]]
 last modification: 2024-09-10
 
-[Site Unreachable](https://colab.research.google.com/drive/1OERTjROxyB5xAvfhxfHTN2IY5VSSs_Ni#scrollTo=f9Xx-jP92OgP)
+[Site Unreachable](https://colab.research.google.com/drive/1OERTjROxyB5xAvfhxfHTN2IY5VSSs_Ni#scrollTo=f9Xx-jP92OgP) -> 뭐 좀 있음
 
 # Pytorch
 페이스북에서 만듬
@@ -48,6 +48,12 @@ for epoch in range(10):
 ![[Pasted image 20240910121941.png|400]]
 기본적으로 C로 코딩 돼서 생각보다 빠름.
 
+#### 파이토치의 구성요소
 
-
-마저 공부할 것
+- `torch`: 메인 네임스페이스, 텐서 등의 다양한 수학 함수가 포함
+- `torch.autograd`: 자동 미분 기능을 제공하는 라이브러리
+- `torch.nn`: 신경망 구축을 위한 데이터 구조나 레이어 등의 라이브러리
+- `torch.multiprocessing`: 병럴처리 기능을 제공하는 라이브러리
+- `torch.optim`: SGD(Stochastic Gradient Descent)를 중심으로 한 파라미터 최적화 알고리즘 제공
+- `torch.utils`: 데이터 조작 등 유틸리티 기능 제공
+- `torch.onnx`: ONNX(Open Neural Network Exchange), 서로 다른 프레임워크 간의 모델을 공유할 때 사용

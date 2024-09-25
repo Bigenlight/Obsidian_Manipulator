@@ -19,7 +19,7 @@ Channel은 BGR 또는 RGB로 구성 됨.
 
 # OpenCV 실습
 ## 2장
-[Site Unreachable](https://colab.research.google.com/drive/1XcNys-wNnH1I9pvr4OoFwLPlBUi5LgR8#scrollTo=BKuGHNIh42QT)
+[Site Unreachable](https://colab.research.google.com/drive/1XcNys-wNnH1I9pvr4OoFwLPlBUi5LgR8#scrollTo=BKuGHNIh42QT) <- 이건 안봐도 됨
 
 참고로 한글 경로 작동이 안되는 듯
 
@@ -103,7 +103,7 @@ cv2.destroyAllWindows()
 
 ## 3장
 [Site Unreachable](https://colab.research.google.com/drive/1e3KK3bwVvvjzjGizZaY-DVyZYxdC0Shw)
-
+브로드캐스팅 -> 일반적으로 형태가 곱할 수 없는 행렬을 곱할  수 있게만듬.
 ## 4장
 [Site Unreachable](https://colab.research.google.com/drive/1uXCY6r6WqoKitfOzXmSi4KlTU82dCahp)
 관심 영역(ROI : Region Of Interest) : 이미지에서 분석의 대상으로 지정한 영역
