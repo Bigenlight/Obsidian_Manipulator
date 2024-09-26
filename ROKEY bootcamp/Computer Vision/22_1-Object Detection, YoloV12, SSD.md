@@ -9,7 +9,7 @@ last modification: 2024-09-12
 ###### 이거 나올 수도
 localization -> 하나의 사물을 인식하여, 어디에 있는 인식
 
-object detection -> ==여러 사물==이 ==어디==에 무엇이 있는지. 하지만 ==같은 사물은 구별 x==.
+object detection -> ==여러 사물==이 ==어디==에 무엇이 있는지. 하지만 ==같은 사물은 구별 x==. <- 우리가 주로 쓰는거
 object tracking -> ==같은 사물==이라도 구별하여 어디에 있는지 ==추적==
 segmentation -> 물체가 있는 곳을 ==마스킹==
 pose estimation -> 사람이나 사람의 ==동작을 인식==
@@ -19,9 +19,9 @@ pose estimation -> 사람이나 사람의 ==동작을 인식==
 
 ###### 이거 나올 수도
 1) Image classification : ==CNN== 이용해서 물체를 인식, ==하나의 물체== 대상 
-2) localization : 물체 인식 후에 ==위치== 인식,하나의 물체 대상, bounding box로 위치 표시 
-3) detection : 여러 물체 대상물체인식후위치인식
-![[Pasted image 20240912112447.png|400]]
+2) localization : 물체 인식 후에 ==위치== 인식, ==하나의 물체== 대상, bounding box로 위치 표시 
+3) detection : ==여러 물체== 대상 물체 인식 후 위치 인식
+![[Pasted image 20240912112447.png|500]]
 ![[Pasted image 20240912112759.png|500]]
 - Clasification(인식) : 입력 이미지가 CNN을 거친 후 softmax 통해서 물체 인식
 - Localization : CNN의 마지막 구조변경위치를알기위한기능추가
@@ -47,18 +47,18 @@ MSE 이용
 연산량 어마어마하게 많이 필요.
 ![[Pasted image 20240912120419.png]]
 점점 칸을 키워서 검사.
-- window 크기를키워가며반복함
-- - object 있을 때CNN은1이되고, 그위치에서bounding box를그림
+- window 크기를 키워가며 반복함
+- - object 있을 때 CNN은 1이 되고, 그 위치에서 bounding box를 그림
 단점:
 - computational cost 증가
-	-  다양한window size를CNN에 feed하여 많은 연산 필요
+	-  다양한 window size를 CNN에 feed하여 많은 연산 필요
 - 연산량 줄이려고 stride 크게 해서 window를 한번에 여러 칸옮길순 있지만 정밀도가 낮아짐
 
 sliding window object detection을 CNN 사용으로 해결
 즉, 이것도 딥러닝으로 해결. 그것이 욜로.
 
 #### CNN Implementation of Sliding Windows
-모든 곳에 슬라이드 윈도를 하는 것이 아님
+모든 곳에 슬라이드 윈도우를 하는 것이 아님
 
 ![[Pasted image 20240912121255.png]]
 위에는 통상적인 Classification의 FCN으로 압축이고. 아래는 결과는 비슷해보지만 엄연히 3차원의 깊이만 큰 레이어.
@@ -96,15 +96,16 @@ Intersection(교집합)  of Uninon(합집합)
 
 #### YOLO 
 ![[Pasted image 20240912123112.png|300]]
-각각의 영역을 나눠서 봄. 그리고 그 영역 중에서 가장 값이 큰 곳만 남기.
+==각각의 영역을 나눠서 봄==. 그리고 그 영역 중에서 가장 값이 큰 곳만 남기.
 
-개인적으로 찾음 참고 자료:
+개인적으로 찾은 참고 자료:
 [C4W3L09 YOLO Algorithm - YouTube](https://www.youtube.com/watch?v=9s_FpMpdYW8&ab_channel=DeepLearningAI)
 
 ###### Anchor
 ![[Pasted image 20240912140229.png]]
 anchor 박스 결과 첫 인덱스가 0뜨면 뒤에는 그냥 무시함.
 
+적어도 anchor를 쓰면 m = b x ( c + 5)인 듯
 
 ## 젯슨 TX2를 이용한 사물인식
 ![[03.Embedded_Object_Detection_with_Jetson_TX2_simple.pdf]]
@@ -158,12 +159,12 @@ nms - non max suppression
 ![[Pasted image 20240912152819.png]]
 앞에 c x y h w, c x y h w이 두개 있다는 것은 한셀당 두개의 정보를 감지할 수 있다는겨.
 그 우측 나머지는 각각 클래스.
-
+(이걸 보니까 또 아닌 것 같기도...)
 #### SSD
 ![[Pasted image 20240912153310.png]]
 기존 욜로는 마지막에 텐서를 만들고.
 ssd는 중간 중간에 텐서를 만듬 -> 이를 통해 큰 특징, 작은 특징 다 볼 수 있음.
-하지만 최근 욜로4 부터 이것도 흡수함.
+하지만 최근 ==욜로4== 부터 이것도 흡수함.
 
 
 욜로가 1부터 10까지 있음.
@@ -199,9 +200,9 @@ Base Network은 VGG-16
 
 일을 3개로 분리하여 구성.
 ![[Pasted image 20240912162750.png|500]]
-좌측은 anchor 박스 특징을 찾음.
-가운데는 위치.
-우측은 점수가 높은 곳을 찾음.
+좌측은 anchor 박스 ==특징==을 찾음.
+가운데는 ==위치.==
+우측은 ==점수==가 높은 곳을 찾음.
 
 ![[Pasted image 20240912163013.png]]
 셀 하나당 anchor 박스가 3개.
@@ -209,11 +210,11 @@ Base Network은 VGG-16
 
 ![[Pasted image 20240912172218.png]]
 localization은 4개 변수라 4개의 채널 필요
-confidence는 21개의 채널인 이유는 클래스가 20개인데 배경도 1개 필요해서 20 + 1임.
+confidence는 21개의 채널인 이유는 클래스가 20개인데 ==배경도 1개 필요==해서 20 + 1임.
 ![[Pasted image 20240912172446.png]]
 그래서 박스가 엄청 나오는데 좋은 것만 남김.
 
-SSD는 기본적으로 빨라서 리얼타임 가능
+SSD는 기본적으로 ==빨라서== 리얼타임 가능
 
 
 ## 아나콘다 설치

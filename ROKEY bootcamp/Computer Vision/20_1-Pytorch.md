@@ -10,7 +10,7 @@ last modification: 2024-09-10
 텐서플로우는 다 덮혀있음, 매립형임. 몇개의 API로만 모델 만들기 가능.
 반면에 Pytorch은 오픈형임. 몇개의 함수만 라이브러리로 있고. 대부분의 과정이 다 드러나 있음.
 
-텐서는 fit이 알아서 대 해주지만, 파이토치는 자동 미분이라는 과정이 중요. \_\_.backward이 여기에 해강. 이 부분을 이해하고 봐야 함.
+텐서는 fit이 알아서 대 해주지만, 파이토치는 ==자동 미분==이라는 과정이 중요. ==\_\_.backward==이 여기에 해강. 이 부분을 이해하고 봐야 함.
 
 ```python
 import torch
@@ -59,7 +59,7 @@ for epoch in range(10):
             running_loss = 0.0
 ```
 - .zero_grad() = 미분값(그래디언트)를 clear함
-- net( - ) = 콜 함수, 인스턴스명이 실행 되면 feed forward 실행. 즉 forward 연산 시작.
+- net( - ) = 콜 함수, 인스턴스명이 실행 되면 feed forward 실행. 즉 ==forward 연산== 시작.
 - 손실함수( criterion( - ) ) = loss 함수임. 여러 종류 있음.
 - .backward() = 역전파, 뒤에서 앞으로 자동 미분하여 gradient를 다 구함.
 - .step() = update
@@ -67,7 +67,7 @@ for epoch in range(10):
 위 5가지 함수는 꼭 봐야 모델이 이해가 될거임.
 
 ![[Pasted image 20240910121522.png|255]]
-자동미분 변수는 forwar 연산 때 쓰는 데이터랑 grad 값, 그리고 함수, 이렇게 3개의 요소로 구성 됨.
+자동미분 변수는 forward 연산 때 쓰는 데이터랑 grad 값, 그리고 함수, 이렇게 3개의 요소로 구성 됨.
 
 ![[Pasted image 20240910121941.png|400]]
 기본적으로 C로 코딩 돼서 생각보다 빠름.
