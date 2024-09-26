@@ -5,5 +5,6 @@
 [[Python 강의]]
 [[DevOps 강의]]
 [[Ai,컴퓨터 비전]]
+[[ROBOTICS]]
 
 [[로봇 프로젝트]]

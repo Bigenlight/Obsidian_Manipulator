@@ -1,4 +1,4 @@
-#컴퓨터비전
+#컴퓨터비전[[두산 로보틱스 ROKEY bootcamp]]
 
 [[AI, Computer Vision 평가 준비]]
 

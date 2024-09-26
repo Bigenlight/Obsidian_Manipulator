@@ -5,6 +5,38 @@
       "path": "Daily Notes/2024-09-26.md"
     },
     {
+      "basename": "ROBOTICS",
+      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
+      "basename": "기초_1",
+      "path": "ROKEY bootcamp/Computer Vision/기초_1.md"
+    },
+    {
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "교육(커리큘럼) 및 학사 관리",
+      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
+    },
+    {
+      "basename": "26_1-PyQT",
+      "path": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md"
+    },
+    {
+      "basename": "27_1-PyQT, Flask, YoloV8",
+      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
+    },
+    {
+      "basename": "2024-09-25",
+      "path": "Daily Notes/2024-09-25.md"
+    },
+    {
       "basename": "22_1-Object Detection, YoloV12, SSD",
       "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md"
     },
@@ -19,18 +51,6 @@
     {
       "basename": "25_1-Labeling",
       "path": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md"
-    },
-    {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
-      "basename": "26_1-PyQT",
-      "path": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md"
-    },
-    {
-      "basename": "27_1-PyQT, Flask, YoloV8",
-      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
     },
     {
       "basename": "9_1-OpenCV",
@@ -95,10 +115,6 @@
     {
       "basename": "21_1-Classification, Transfer Learning 실습",
       "path": "ROKEY bootcamp/Computer Vision/21_1-Classification, Transfer Learning 실습.md"
-    },
-    {
-      "basename": "2024-09-25",
-      "path": "Daily Notes/2024-09-25.md"
     },
     {
       "basename": "28_1-총정리",
@@ -183,22 +199,6 @@
     {
       "basename": "대학원 정보 모음",
       "path": "개인공부/대학원 정보 모음.md"
-    },
-    {
-      "basename": "2024년 하반기 공채",
-      "path": "개인공부/2024년 하반기 공채.md"
-    },
-    {
-      "basename": "유튜브 영상을 요약해주는 ai",
-      "path": "개인공부/유튜브 영상을 요약해주는 ai.md"
-    },
-    {
-      "basename": "2024-09-19",
-      "path": "Daily Notes/2024-09-19.md"
-    },
-    {
-      "basename": "2024-09-10",
-      "path": "Daily Notes/2024-09-10.md"
     }
   ],
   "omittedPaths": []
