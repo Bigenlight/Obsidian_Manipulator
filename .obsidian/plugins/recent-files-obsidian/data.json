@@ -5,8 +5,16 @@
       "path": "Daily Notes/2024-09-27.md"
     },
     {
-      "basename": "27_1-PyQT, Flask, YoloV8",
-      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
+      "basename": "면접 팁",
+      "path": "개인공부/면접 팁.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "기초_1",
+      "path": "ROKEY bootcamp/Computer Vision/기초_1.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
@@ -17,8 +25,8 @@
       "path": "개인공부/한화 비전 채용 정보.md"
     },
     {
-      "basename": "기초_1",
-      "path": "ROKEY bootcamp/Computer Vision/기초_1.md"
+      "basename": "27_1-PyQT, Flask, YoloV8",
+      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
     },
     {
       "basename": "유용한 정보",
@@ -181,10 +189,6 @@
       "path": "옵시디언공부/Minimal Theme.md"
     },
     {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
-    },
-    {
       "basename": "코딩을 할 때 필요한 마음가짐",
       "path": "개인공부/코딩을 할 때 필요한 마음가짐.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "프론트메타",
       "path": "옵시디언공부/프론트메타.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
     }
   ],
   "omittedPaths": []
