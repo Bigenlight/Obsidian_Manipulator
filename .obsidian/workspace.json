@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-26.md",
+                "file": "Daily Notes/2024-09-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-26.md",
+                "file": "Daily Notes/2024-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-26.md",
+                "file": "Daily Notes/2024-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-26.md"
+                "file": "Daily Notes/2024-09-27.md"
               }
             }
           }
@@ -210,8 +210,9 @@
   },
   "active": "2d3163f07f53ff12",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "Daily Notes/2024-09-26.md",
+    "Daily Notes/2024-09-27.md",
+    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/기초_1.md",
