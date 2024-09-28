@@ -33,6 +33,19 @@
             }
           },
           {
+            "id": "e1912a676e9710ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-09-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0378dd3a6175e32b",
             "type": "leaf",
             "state": {
@@ -96,22 +109,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2d3163f07f53ff12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-09-27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-27.md",
+                "file": "Daily Notes/2024-09-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-27.md",
+                "file": "Daily Notes/2024-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-27.md"
+                "file": "Daily Notes/2024-09-28.md"
               }
             }
           }
@@ -259,16 +259,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d3163f07f53ff12",
+  "active": "e1912a676e9710ff",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
+    "개인공부/2024년 하반기 공채.md",
+    "Daily Notes/2024-09-28.md",
+    "개인공부/유용한 정보.md",
     "Daily Notes/2024-09-27.md",
+    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "개인공부/면접 팁.md",
     "개인공부/개인 공부.md",
     "ROKEY bootcamp/Computer Vision/기초_1.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "개인공부/한화 비전 채용 정보.md",
-    "개인공부/유용한 정보.md",
     "Excalidraw/Drawing 2024-09-27 10.33.56.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240927103434_672.png",
     "Excalidraw/attachments",
@@ -289,8 +291,6 @@
     "ROKEY bootcamp/Computer Vision/11_1-이미지 변환, 필터링.md",
     "ROKEY bootcamp/Computer Vision/12_1-컨투어, 하프 변환, 연속 영역 분할.md",
     "ROKEY bootcamp/Computer Vision/14_2-신경망.md",
-    "ROKEY bootcamp/Computer Vision/13_1-특징 검출, 매칭, 추적.md",
-    "ROKEY bootcamp/Computer Vision/14_1-다시 퍼셉트론.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021350.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021331.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021221.png",
