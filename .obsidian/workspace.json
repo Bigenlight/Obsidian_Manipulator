@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "e1912a676e9710ff",
+            "id": "1b68c7e9fdb98732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-28.md",
+                "file": "개인공부/유용한 정보.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +46,25 @@
             }
           },
           {
-            "id": "0378dd3a6175e32b",
+            "id": "510544caaaa32669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/개인 공부.md",
+                "file": "개인공부/두산 로보틱스 채용- 카카오톡.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1912a676e9710ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-09-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,7 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,17 +274,21 @@
   },
   "active": "e1912a676e9710ff",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
+    "Daily Notes/2024-09-28.md",
+    "Daily Notes/attachments/Pasted image 20240928122359.png",
+    "Daily Notes/attachments/Pasted image 20240928121654.png",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "개인공부/두산 로보틱스 채용- 카카오톡.md",
+    "개인공부/유용한 정보.md",
+    "Daily Notes/attachments/Pasted image 20240928115321.png",
     "Daily Notes/attachments/Pasted image 20240928112808.png",
     "Daily Notes/attachments/Pasted image 20240928111325.png",
     "개인공부/2024년 하반기 공채.md",
-    "Daily Notes/2024-09-28.md",
-    "개인공부/유용한 정보.md",
     "Daily Notes/2024-09-27.md",
-    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "개인공부/면접 팁.md",
     "개인공부/개인 공부.md",
     "ROKEY bootcamp/Computer Vision/기초_1.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "개인공부/한화 비전 채용 정보.md",
     "Excalidraw/Drawing 2024-09-27 10.33.56.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20240927103434_672.png",
@@ -291,15 +308,10 @@
     "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md",
     "ROKEY bootcamp/Computer Vision/10_1-ROI, RGB, 이미지 연산.md",
     "ROKEY bootcamp/Computer Vision/11_1-이미지 변환, 필터링.md",
-    "ROKEY bootcamp/Computer Vision/12_1-컨투어, 하프 변환, 연속 영역 분할.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021350.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021331.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021221.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926011529.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925215029.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925213823.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925212758.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240925211256.png",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_01.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_02.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/joystick_step_by_step.pdf",
