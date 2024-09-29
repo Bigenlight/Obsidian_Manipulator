@@ -1,24 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-09-28",
-      "path": "Daily Notes/2024-09-28.md"
+      "basename": "2024-09-29",
+      "path": "Daily Notes/2024-09-29.md"
     },
     {
-      "basename": "27_1-PyQT, Flask, YoloV8",
-      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
+      "basename": "기초_1",
+      "path": "ROKEY bootcamp/Computer Vision/기초_1.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
-      "basename": "두산 로보틱스 채용- 카카오톡",
-      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
+      "basename": "27_1-PyQT, Flask, YoloV8",
+      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
+    },
+    {
+      "basename": "Ubuntu 22.04",
+      "path": "개인공부/Ubuntu 22.04.md"
+    },
+    {
+      "basename": "VScode 공부",
+      "path": "개인공부/VScode 공부.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "개인공부/Untitled 2.md"
+    },
+    {
+      "basename": "2024-09-28",
+      "path": "Daily Notes/2024-09-28.md"
+    },
+    {
+      "basename": "Launch_file 제작",
+      "path": "개인공부/Launch_file 제작.md"
+    },
+    {
+      "basename": "ROS2 공부",
+      "path": "개인공부/ROS2 공부.md"
+    },
+    {
+      "basename": "ROS2_Foxy",
+      "path": "개인공부/ROS2_Foxy.md"
     },
     {
       "basename": "유용한 정보",
       "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "리눅스 환경",
+      "path": "ROKEY bootcamp/리눅스 환경.md"
+    },
+    {
+      "basename": "두산 로보틱스 채용- 카카오톡",
+      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
     },
     {
       "basename": "2024년 하반기 공채",
@@ -31,14 +71,6 @@
     {
       "basename": "면접 팁",
       "path": "개인공부/면접 팁.md"
-    },
-    {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
-    },
-    {
-      "basename": "기초_1",
-      "path": "ROKEY bootcamp/Computer Vision/기초_1.md"
     },
     {
       "basename": "한화 비전 채용 정보",
@@ -167,38 +199,6 @@
     {
       "basename": "AI, Computer Vision 평가 준비",
       "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
-    },
-    {
-      "basename": "리니어 엑추에이터",
-      "path": "개인공부/리니어 엑추에이터.md"
-    },
-    {
-      "basename": "2024-09-23",
-      "path": "Daily Notes/2024-09-23.md"
-    },
-    {
-      "basename": "2024-09-22",
-      "path": "Daily Notes/2024-09-22.md"
-    },
-    {
-      "basename": "Drawing 2024-09-23 17.32.42.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-23 17.32.42.excalidraw.md"
-    },
-    {
-      "basename": "건강하게 잘 앉는 방법",
-      "path": "개인공부/건강하게 잘 앉는 방법.md"
-    },
-    {
-      "basename": "옵시디언 공부",
-      "path": "옵시디언공부/옵시디언 공부.md"
-    },
-    {
-      "basename": "Excalidraw, Inconize",
-      "path": "옵시디언공부/Excalidraw, Inconize.md"
-    },
-    {
-      "basename": "Minimal Theme",
-      "path": "옵시디언공부/Minimal Theme.md"
     }
   ],
   "omittedPaths": []

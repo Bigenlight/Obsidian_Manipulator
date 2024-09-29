@@ -1,5 +1,6 @@
 bashrc 정리
 2024.08.12 기준
+
 ```
 ####### Theo
 alias hum='source /opt/ros/humble/setup.bash'
