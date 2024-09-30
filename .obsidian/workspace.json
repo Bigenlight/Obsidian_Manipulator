@@ -33,123 +33,6 @@
             }
           },
           {
-            "id": "9b67c985bb1d698a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/VScode 공부.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f269b47e635cb411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/Untitled 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eb02fdf8925da04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-09-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d351967565b50a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/Launch_file 제작.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b68c7e9fdb98732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/유용한 정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "510544caaaa32669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/두산 로보틱스 채용- 카카오톡.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1912a676e9710ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-09-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62e6b6ec99bf3955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/면접 팁.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ab85f63081e360c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31fb5b332d43f397",
             "type": "leaf",
             "state": {
@@ -163,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-28.md",
+                "file": "Daily Notes/2024-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-28.md",
+                "file": "Daily Notes/2024-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-28.md"
+                "file": "Daily Notes/2024-09-30.md"
               }
             }
           }
@@ -311,16 +194,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e1912a676e9710ff",
+  "active": "31fb5b332d43f397",
   "lastOpenFiles": [
-    "개인공부/두산 로보틱스 채용- 카카오톡.md",
+    "Daily Notes/2024-09-28.md",
+    "개인공부/면접 팁.md",
     "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
+    "개인공부/두산 로보틱스 채용- 카카오톡.md",
+    "개인공부/유용한 정보.md",
+    "개인공부/Launch_file 제작.md",
+    "개인공부/Untitled 2.md",
+    "개인공부/VScode 공부.md",
+    "개인공부/KT 로봇 관제 센터 현직자 강연.md",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240930181455.png",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-    "개인공부/면접 팁.md",
     "Daily Notes/2024-09-30.md",
-    "개인공부/VScode 공부.md",
     "ROKEY bootcamp/정보.md",
     "Daily Notes/2024-09-29.md",
     "desktop.ini",
@@ -332,12 +220,8 @@
     "개인공부/attachments/Pasted image 20240928175410.png",
     "개인공부/attachments/Pasted image 20240928175240.png",
     "개인공부/개인 공부.md",
-    "개인공부/Untitled 2.md",
-    "Daily Notes/2024-09-28.md",
-    "개인공부/Launch_file 제작.md",
     "개인공부/ROS2 공부.md",
     "개인공부/ROS2_Foxy.md",
-    "개인공부/유용한 정보.md",
     "ROKEY bootcamp/리눅스 환경.md",
     "Daily Notes/attachments/Pasted image 20240928122359.png",
     "Daily Notes/attachments/Pasted image 20240928121654.png",
