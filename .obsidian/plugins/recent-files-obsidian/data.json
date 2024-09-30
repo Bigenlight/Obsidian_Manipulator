@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-28",
+      "path": "Daily Notes/2024-09-28.md"
+    },
+    {
+      "basename": "두산 로보틱스 채용- 카카오톡",
+      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
+    },
+    {
+      "basename": "기초 이론_1",
+      "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
+    },
+    {
+      "basename": "ROS2설치",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2설치.md"
+    },
+    {
+      "basename": "ROBOTICS",
+      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
+      "basename": "면접 팁",
+      "path": "개인공부/면접 팁.md"
+    },
+    {
       "basename": "2024-09-30",
       "path": "Daily Notes/2024-09-30.md"
     },
     {
-      "basename": "2024-09-29",
-      "path": "Daily Notes/2024-09-29.md"
+      "basename": "VScode 공부",
+      "path": "개인공부/VScode 공부.md"
     },
     {
-      "basename": "기초_1",
-      "path": "ROKEY bootcamp/Computer Vision/기초_1.md"
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "2024-09-29",
+      "path": "Daily Notes/2024-09-29.md"
     },
     {
       "basename": "Ai,컴퓨터 비전",
@@ -25,20 +53,12 @@
       "path": "개인공부/Ubuntu 22.04.md"
     },
     {
-      "basename": "VScode 공부",
-      "path": "개인공부/VScode 공부.md"
-    },
-    {
       "basename": "개인 공부",
       "path": "개인공부/개인 공부.md"
     },
     {
       "basename": "Untitled 2",
       "path": "개인공부/Untitled 2.md"
-    },
-    {
-      "basename": "2024-09-28",
-      "path": "Daily Notes/2024-09-28.md"
     },
     {
       "basename": "Launch_file 제작",
@@ -61,10 +81,6 @@
       "path": "ROKEY bootcamp/리눅스 환경.md"
     },
     {
-      "basename": "두산 로보틱스 채용- 카카오톡",
-      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
-    },
-    {
       "basename": "2024년 하반기 공채",
       "path": "개인공부/2024년 하반기 공채.md"
     },
@@ -73,20 +89,12 @@
       "path": "Daily Notes/2024-09-27.md"
     },
     {
-      "basename": "면접 팁",
-      "path": "개인공부/면접 팁.md"
-    },
-    {
       "basename": "한화 비전 채용 정보",
       "path": "개인공부/한화 비전 채용 정보.md"
     },
     {
       "basename": "Drawing 2024-09-27 10.33.56.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-27 10.33.56.excalidraw.md"
-    },
-    {
-      "basename": "ROBOTICS",
-      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
     },
     {
       "basename": "2024-09-26",
@@ -191,14 +199,6 @@
     {
       "basename": "28_1-총정리",
       "path": "ROKEY bootcamp/Computer Vision/28_1-총정리.md"
-    },
-    {
-      "basename": "3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습",
-      "path": "ROKEY bootcamp/Computer Vision/3_1-기초수학,선형회귀,최소제곱법,평균제곱오차,와인실습.md"
-    },
-    {
-      "basename": "2024-09-24",
-      "path": "Daily Notes/2024-09-24.md"
     }
   ],
   "omittedPaths": []

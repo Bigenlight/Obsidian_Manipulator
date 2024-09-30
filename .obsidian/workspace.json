@@ -142,7 +142,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/기초_1.md",
+                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-30.md",
+                "file": "Daily Notes/2024-09-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-30.md",
+                "file": "Daily Notes/2024-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-30.md"
+                "file": "Daily Notes/2024-09-28.md"
               }
             }
           }
@@ -307,20 +307,27 @@
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "31fb5b332d43f397",
+  "active": "e1912a676e9710ff",
   "lastOpenFiles": [
-    "Daily Notes/2024-09-29.md",
+    "개인공부/두산 로보틱스 채용- 카카오톡.md",
+    "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
+    "ROKEY bootcamp/Computer Vision/ROS2설치.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240930181455.png",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+    "개인공부/면접 팁.md",
     "Daily Notes/2024-09-30.md",
+    "개인공부/VScode 공부.md",
+    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-09-29.md",
     "desktop.ini",
     "Daily Notes/attachments/Pasted image 20240930001914.png",
-    "ROKEY bootcamp/Computer Vision/기초_1.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "개인공부/Ubuntu 22.04.md",
-    "개인공부/VScode 공부.md",
     "개인공부/attachments/Pasted image 20240928175421.png",
     "개인공부/attachments/Pasted image 20240928175410.png",
     "개인공부/attachments/Pasted image 20240928175240.png",
@@ -334,21 +341,15 @@
     "ROKEY bootcamp/리눅스 환경.md",
     "Daily Notes/attachments/Pasted image 20240928122359.png",
     "Daily Notes/attachments/Pasted image 20240928121654.png",
-    "개인공부/두산 로보틱스 채용- 카카오톡.md",
     "Daily Notes/attachments/Pasted image 20240928115321.png",
     "Daily Notes/attachments/Pasted image 20240928112808.png",
     "Daily Notes/attachments/Pasted image 20240928111325.png",
     "개인공부/2024년 하반기 공채.md",
     "Daily Notes/2024-09-27.md",
-    "개인공부/면접 팁.md",
     "개인공부/한화 비전 채용 정보.md",
     "Excalidraw/Drawing 2024-09-27 10.33.56.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20240927103434_672.png",
     "Excalidraw/attachments",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "Daily Notes/2024-09-26.md",
-    "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
-    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_01.pdf",
