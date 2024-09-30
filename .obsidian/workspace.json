@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-29.md",
+                "file": "Daily Notes/2024-09-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-29.md",
+                "file": "Daily Notes/2024-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-29.md",
+                "file": "Daily Notes/2024-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-29.md"
+                "file": "Daily Notes/2024-09-30.md"
               }
             }
           }
@@ -312,11 +312,14 @@
   },
   "active": "31fb5b332d43f397",
   "lastOpenFiles": [
+    "Daily Notes/2024-09-29.md",
+    "Daily Notes/2024-09-30.md",
+    "desktop.ini",
+    "Daily Notes/attachments/Pasted image 20240930001914.png",
     "ROKEY bootcamp/Computer Vision/기초_1.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "개인공부/Ubuntu 22.04.md",
-    "Daily Notes/2024-09-29.md",
     "개인공부/VScode 공부.md",
     "개인공부/attachments/Pasted image 20240928175421.png",
     "개인공부/attachments/Pasted image 20240928175410.png",
@@ -346,11 +349,8 @@
     "Daily Notes/2024-09-26.md",
     "ROKEY bootcamp/Computer Vision/26_1-PyQT.md",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",
-    "Daily Notes/2024-09-25.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240926021350.png",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_01.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_02.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/joystick_step_by_step.pdf",
@@ -358,7 +358,6 @@
     "Excalidraw/제목 없음-2024-09-23-1623.excalidraw",
     "Excalidraw",
     "Capstone/무제 파일.canvas",
-    "Untitled.canvas",
-    "desktop.ini"
+    "Untitled.canvas"
   ]
 }
