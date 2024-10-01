@@ -5,8 +5,36 @@
       "path": "Daily Notes/2024-10-01.md"
     },
     {
+      "basename": "교육(커리큘럼) 및 학사 관리",
+      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "ROS2설치",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2설치.md"
+    },
+    {
+      "basename": "ROBOTICS",
+      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
+      "basename": "기초 이론_1",
+      "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
+    },
+    {
+      "basename": "Ubuntu 22.04",
+      "path": "개인공부/Ubuntu 22.04.md"
+    },
+    {
       "basename": "2024-09-30",
       "path": "Daily Notes/2024-09-30.md"
+    },
+    {
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
     },
     {
       "basename": "2024-09-28",
@@ -15,10 +43,6 @@
     {
       "basename": "면접 팁",
       "path": "개인공부/면접 팁.md"
-    },
-    {
-      "basename": "기초 이론_1",
-      "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
     },
     {
       "basename": "두산 로보틱스 채용- 카카오톡",
@@ -45,18 +69,6 @@
       "path": "개인공부/KT 로봇 관제 센터 현직자 강연.md"
     },
     {
-      "basename": "ROS2설치",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2설치.md"
-    },
-    {
-      "basename": "ROBOTICS",
-      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
       "basename": "2024-09-29",
       "path": "Daily Notes/2024-09-29.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "27_1-PyQT, Flask, YoloV8",
       "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
-    },
-    {
-      "basename": "Ubuntu 22.04",
-      "path": "개인공부/Ubuntu 22.04.md"
     },
     {
       "basename": "개인 공부",
@@ -115,10 +123,6 @@
     {
       "basename": "두산 로보틱스 ROKEY bootcamp",
       "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
     },
     {
       "basename": "2024-09-25",
@@ -195,10 +199,6 @@
     {
       "basename": "19_1-텐서플로우와 케라스",
       "path": "ROKEY bootcamp/Computer Vision/19_1-텐서플로우와 케라스.md"
-    },
-    {
-      "basename": "20_1-Pytorch",
-      "path": "ROKEY bootcamp/Computer Vision/20_1-Pytorch.md"
     }
   ],
   "omittedPaths": []

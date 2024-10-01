@@ -6,7 +6,7 @@ tags:
   - 2024년
   - 할일
   - "#daily"
-  - "#9월"
+  - 10월
 related notes: "[[Daily Notes Dataview]]"
 ---
 ##### 오늘 노트 및 할 일 
