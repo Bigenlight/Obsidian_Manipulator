@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-01.md",
+                "file": "Daily Notes/2024-10-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-01.md",
+                "file": "Daily Notes/2024-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-01.md",
+                "file": "Daily Notes/2024-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-01.md"
+                "file": "Daily Notes/2024-10-02.md"
               }
             }
           }
@@ -236,11 +236,12 @@
   },
   "active": "ca9c45788778d8cc",
   "lastOpenFiles": [
+    "Daily Notes/2024-10-01.md",
+    "Daily Notes/2024-10-02.md",
     "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-    "Daily Notes/2024-10-01.md",
     "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
     "desktop.ini",
     "개인공부/Ubuntu 22.04.md",
@@ -272,7 +273,6 @@
     "Daily Notes/attachments/Pasted image 20240928122359.png",
     "Daily Notes/attachments/Pasted image 20240928121654.png",
     "개인공부/2024년 하반기 공채.md",
-    "Daily Notes/2024-09-27.md",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",
