@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-02",
-      "path": "Daily Notes/2024-10-02.md"
+      "basename": "2024-10-03",
+      "path": "Daily Notes/2024-10-03.md"
     },
     {
-      "basename": "2024-10-01",
-      "path": "Daily Notes/2024-10-01.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
+      "basename": "두산 로보틱스 채용- 카카오톡",
+      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
     },
     {
       "basename": "ROS2설치",
@@ -27,6 +19,26 @@
     {
       "basename": "기초 이론_1",
       "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
+    },
+    {
+      "basename": "2024-10-02",
+      "path": "Daily Notes/2024-10-02.md"
+    },
+    {
+      "basename": "2024-09-22",
+      "path": "Daily Notes/2024-09-22.md"
+    },
+    {
+      "basename": "2024-10-01",
+      "path": "Daily Notes/2024-10-01.md"
+    },
+    {
+      "basename": "교육(커리큘럼) 및 학사 관리",
+      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
     },
     {
       "basename": "Ubuntu 22.04",
@@ -47,10 +59,6 @@
     {
       "basename": "면접 팁",
       "path": "개인공부/면접 팁.md"
-    },
-    {
-      "basename": "두산 로보틱스 채용- 카카오톡",
-      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
     },
     {
       "basename": "유용한 정보",
@@ -191,14 +199,6 @@
     {
       "basename": "17_1-CNN",
       "path": "ROKEY bootcamp/Computer Vision/17_1-CNN.md"
-    },
-    {
-      "basename": "18_1-정밀, 고속 팁",
-      "path": "ROKEY bootcamp/Computer Vision/18_1-정밀, 고속 팁.md"
-    },
-    {
-      "basename": "18_2-딥러닝 복습",
-      "path": "ROKEY bootcamp/Computer Vision/18_2-딥러닝 복습.md"
     }
   ],
   "omittedPaths": []

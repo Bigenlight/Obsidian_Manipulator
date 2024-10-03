@@ -6,6 +6,9 @@ last modification: 2024-09-30
 [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://teamsparkx.notion.site/3f83624b737a4fcca96a7fdafcf209f6?v=94fd31fff1244457a85007fdee06a20e)
 # ROS2 Humble 설치
 [Ubuntu (deb packages) — ROS 2 Documentation: Humble documentation](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
+```
+sudo pip install pyqt5==5.15.9
+```
 
 #### 환경 설정
 [Configuring environment — ROS 2 Documentation: Humble documentation](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html#the-ros-domain-id-variable)

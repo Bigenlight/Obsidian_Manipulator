@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2설치.md",
+                "file": "Daily Notes/2024-10-03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2설치.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "두산",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-02.md",
+                "file": "Daily Notes/2024-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-02.md",
+                "file": "Daily Notes/2024-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-02.md"
+                "file": "Daily Notes/2024-10-03.md"
               }
             }
           }
@@ -234,15 +234,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca9c45788778d8cc",
+  "active": "b028df6300b28e72",
   "lastOpenFiles": [
-    "Daily Notes/2024-10-01.md",
-    "Daily Notes/2024-10-02.md",
-    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
-    "ROKEY bootcamp/정보.md",
+    "개인공부/두산 로보틱스 채용- 카카오톡.md",
+    "Daily Notes/2024-10-03.md",
+    "개인공부/attachments/Pasted image 20241002151037.png",
+    "개인공부/attachments/Pasted image 20241002150851.png",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
+    "Daily Notes/2024-10-02.md",
+    "Daily Notes/2024-09-22.md",
+    "Daily Notes/2024-10-01.md",
+    "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
+    "ROKEY bootcamp/정보.md",
     "desktop.ini",
     "개인공부/Ubuntu 22.04.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001121413.png",
@@ -252,7 +257,6 @@
     "Templates/Daily notes template.md",
     "Daily Notes/2024-09-28.md",
     "개인공부/면접 팁.md",
-    "개인공부/두산 로보틱스 채용- 카카오톡.md",
     "개인공부/유용한 정보.md",
     "개인공부/Launch_file 제작.md",
     "개인공부/Untitled 2.md",
@@ -269,10 +273,6 @@
     "개인공부/개인 공부.md",
     "개인공부/ROS2 공부.md",
     "개인공부/ROS2_Foxy.md",
-    "ROKEY bootcamp/리눅스 환경.md",
-    "Daily Notes/attachments/Pasted image 20240928122359.png",
-    "Daily Notes/attachments/Pasted image 20240928121654.png",
-    "개인공부/2024년 하반기 공채.md",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",
