@@ -33,7 +33,20 @@
             }
           },
           {
-            "id": "705e209388da5b23",
+            "id": "8b35eec9f289d73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbe617ff222f8a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,12 +59,25 @@
             }
           },
           {
-            "id": "0d80e92647437222",
+            "id": "705e209388da5b23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-04.md",
+                "file": "Daily Notes/2024-10-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da9aa6e146a1ec4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily notes template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -142,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
+                "file": "Templates/Daily notes template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
+                "file": "Templates/Daily notes template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md"
+                "file": "Templates/Daily notes template.md"
               }
             }
           }
@@ -209,11 +235,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "705e209388da5b23",
+  "active": "da9aa6e146a1ec4f",
   "lastOpenFiles": [
+    "Daily Notes/2024-10-05.md",
+    "Templates/Daily notes template.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "Daily Notes/2024-10-04.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161240.png",
     "ROKEY bootcamp/정보.md",
@@ -233,7 +261,6 @@
     "개인공부/유용한 정보.md",
     "Daily Notes/2024-10-02.md",
     "Daily Notes/2024-10-03.md",
-    "Templates/Daily notes template.md",
     "개인공부/두산 로보틱스 채용- 카카오톡.md",
     "개인공부/attachments/Pasted image 20241002151037.png",
     "개인공부/attachments/Pasted image 20241002150851.png",

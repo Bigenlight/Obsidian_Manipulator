@@ -26,7 +26,7 @@ if(yfile) {
 	}
 } 
 
-tR += should_include ? sectionContent : "없습니다😀"; %>
+tR += should_include ? sectionContent : "- [ ]   "; %>
 - [ ]   
 
 

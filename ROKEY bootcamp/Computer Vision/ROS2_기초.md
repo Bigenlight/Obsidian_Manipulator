@@ -11,7 +11,9 @@ colcon build --symlink-install
 ROS2에 RQT라고 PyQT 같은 GUI 생성 프로그램이 있음.
 물론 영상도 출력 가능.
 
-# ROS2 연습
+# ROS2 연습, URDF 패키지 생성
+강의자료pdf 86p 부타
+
 mkdir -p urdf_ws/src
 cd urdf_ws/
 cbs
@@ -85,5 +87,11 @@ def generate_launch_description():
     )
 ```
 
+pip install xacro
+
 rviz2
 add -> Robot Model 추가
+
+==.xacro 파일에 실수로 띄워쓰기를 포함해서 실행이 안됨;;;;==
+
+Description Topic -> /robot_description으로 변경
