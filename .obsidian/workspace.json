@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily notes template.md",
+                "file": "Daily Notes/2024-10-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily notes template.md",
+                "file": "Daily Notes/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily notes template.md",
+                "file": "Daily Notes/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily notes template.md"
+                "file": "Daily Notes/2024-10-05.md"
               }
             }
           }
@@ -237,8 +237,8 @@
   },
   "active": "da9aa6e146a1ec4f",
   "lastOpenFiles": [
-    "Daily Notes/2024-10-05.md",
     "Templates/Daily notes template.md",
+    "Daily Notes/2024-10-05.md",
     "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "Daily Notes/2024-10-04.md",
