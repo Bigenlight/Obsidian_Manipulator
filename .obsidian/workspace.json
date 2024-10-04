@@ -46,6 +46,19 @@
             }
           },
           {
+            "id": "5594b976452c7eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbe617ff222f8a29",
             "type": "leaf",
             "state": {
@@ -85,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-05.md",
+                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-05.md",
+                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-05.md"
+                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
               }
             }
           }
@@ -235,12 +248,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da9aa6e146a1ec4f",
+  "active": "5594b976452c7eaa",
   "lastOpenFiles": [
-    "Templates/Daily notes template.md",
-    "Daily Notes/2024-10-05.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
+    "Daily Notes/2024-10-05.md",
+    "Templates/Daily notes template.md",
     "Daily Notes/2024-10-04.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161240.png",
