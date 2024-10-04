@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "c7eb16c557aa7fb5",
+            "id": "705e209388da5b23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-04.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,25 +46,12 @@
             }
           },
           {
-            "id": "849cff77950f982c",
+            "id": "0d80e92647437222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66cfac695c02cab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-10-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -222,13 +209,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "849cff77950f982c",
+  "active": "0d80e92647437222",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161240.png",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "Daily Notes/2024-10-04.md",
     "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161240.png",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
@@ -261,7 +248,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240930181455.png",
     "Daily Notes/attachments/Pasted image 20240930001914.png",
     "개인공부/attachments/Pasted image 20240928175421.png",
-    "개인공부/attachments/Pasted image 20240928175410.png",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",

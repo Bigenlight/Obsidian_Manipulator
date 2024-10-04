@@ -85,3 +85,5 @@ def generate_launch_description():
     )
 ```
 
+rviz2
+add -> Robot Model 추가
