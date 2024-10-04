@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
+                "file": "Daily Notes/2024-10-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,11 +209,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d80e92647437222",
+  "active": "705e209388da5b23",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "Daily Notes/2024-10-04.md",
     "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161240.png",
     "ROKEY bootcamp/정보.md",
