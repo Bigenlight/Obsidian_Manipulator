@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
+                "file": "Daily Notes/2024-10-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-04.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-04.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-04.md"
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md"
               }
             }
           }
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,14 +222,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c7eb16c557aa7fb5",
+  "active": "849cff77950f982c",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161240.png",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+    "Daily Notes/2024-10-04.md",
     "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
-    "Daily Notes/2024-10-04.md",
     "개인공부/개인 공부.md",
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
     "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
@@ -255,12 +258,10 @@
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001121413.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001121348.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001115614.png",
-    "Daily Notes/2024-09-30.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240930181455.png",
     "Daily Notes/attachments/Pasted image 20240930001914.png",
     "개인공부/attachments/Pasted image 20240928175421.png",
     "개인공부/attachments/Pasted image 20240928175410.png",
-    "개인공부/attachments/Pasted image 20240928175240.png",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",

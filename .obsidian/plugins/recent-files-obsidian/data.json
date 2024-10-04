@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-04",
-      "path": "Daily Notes/2024-10-04.md"
-    },
-    {
       "basename": "ROS2_기초",
       "path": "ROKEY bootcamp/Computer Vision/ROS2_기초.md"
+    },
+    {
+      "basename": "ROBOTICS",
+      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
+      "basename": "2024-10-04",
+      "path": "Daily Notes/2024-10-04.md"
     },
     {
       "basename": "정보",
@@ -15,10 +19,6 @@
     {
       "basename": "Python 18강-정규표현식,코루틴",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
-    },
-    {
-      "basename": "ROBOTICS",
-      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
     },
     {
       "basename": "ROS2설치",
