@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "3f1e42869152238f",
+            "id": "8279a1f83e61c12e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/유용한 정보.md",
+                "file": "개인공부/개인 공부.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +46,25 @@
             }
           },
           {
-            "id": "9cae81890059ab1d",
+            "id": "71e5f64fefe7ff4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-05.md",
+                "file": "개인공부/인공지능기초와 활용.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f1e42869152238f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/유용한 정보.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,35 +96,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "849cff77950f982c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66cfac695c02cab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -259,22 +246,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9cae81890059ab1d",
+  "active": "c7eb16c557aa7fb5",
   "lastOpenFiles": [
+    "개인공부/인공지능기초와 활용.md",
+    "개인공부/attachments/Pasted image 20241005203349.png",
+    "개인공부/attachments/Pasted image 20241005203211.png",
+    "개인공부/attachments/Pasted image 20241005203139.png",
+    "개인공부/attachments/Pasted image 20241005203116.png",
+    "개인공부/attachments/Pasted image 20241005202854.png",
+    "개인공부/attachments/Pasted image 20241005202705.png",
+    "개인공부/attachments/Pasted image 20241005201713.png",
+    "개인공부/attachments/Pasted image 20241005201648.png",
+    "개인공부/attachments/Pasted image 20241005201628.png",
+    "개인공부/개인 공부.md",
+    "개인공부/유용한 정보.md",
     "Daily Notes/2024-10-05.md",
+    "개인공부/2024년 하반기 공채.md",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "개인공부/두산 로보틱스 Dart 분석.md",
     "개인공부/attachments/[µÎ»ê·Îº¸Æ½½º]»ç¾÷º¸°í¼_(2024.03.20).pdf",
-    "개인공부/유용한 정보.md",
-    "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161240.png",
     "Daily Notes/2024-10-04.md",
     "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
-    "개인공부/개인 공부.md",
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
     "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
     "Daily Notes/2024-10-01.md",
@@ -289,16 +285,7 @@
     "Daily Notes/2024-10-03.md",
     "Templates/Daily notes template.md",
     "개인공부/두산 로보틱스 채용- 카카오톡.md",
-    "개인공부/attachments/Pasted image 20241002151037.png",
-    "개인공부/attachments/Pasted image 20241002150851.png",
-    "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
     "desktop.ini",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001121413.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001121348.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001115614.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240930181455.png",
-    "Daily Notes/attachments/Pasted image 20240930001914.png",
-    "개인공부/attachments/Pasted image 20240928175421.png",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",
