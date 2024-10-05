@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/두산 로보틱스 Dart 분석.md",
+                "file": "Daily Notes/2024-10-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인공부/두산 로보틱스 Dart 분석.md",
+                "file": "Daily Notes/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인공부/두산 로보틱스 Dart 분석.md",
+                "file": "Daily Notes/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인공부/두산 로보틱스 Dart 분석.md"
+                "file": "Daily Notes/2024-10-05.md"
               }
             }
           }
@@ -261,9 +261,9 @@
   },
   "active": "9cae81890059ab1d",
   "lastOpenFiles": [
+    "개인공부/두산 로보틱스 Dart 분석.md",
     "개인공부/attachments/[µÎ»ê·Îº¸Æ½½º]»ç¾÷º¸°í¼_(2024.03.20).pdf",
     "개인공부/유용한 정보.md",
-    "개인공부/두산 로보틱스 Dart 분석.md",
     "개인공부/2024년 하반기 공채.md",
     "Daily Notes/2024-10-05.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
@@ -306,7 +306,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_02.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/joystick_step_by_step.pdf",
     "Excalidraw/제목 없음-2024-09-23-1626.excalidraw",
-    "Excalidraw/제목 없음-2024-09-23-1623.excalidraw",
     "Capstone/무제 파일.canvas",
     "Untitled.canvas"
   ]
