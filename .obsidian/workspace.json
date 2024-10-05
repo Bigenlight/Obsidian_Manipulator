@@ -33,7 +33,20 @@
             }
           },
           {
-            "id": "8b35eec9f289d73e",
+            "id": "c7eb16c557aa7fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-10-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "849cff77950f982c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,20 +59,7 @@
             }
           },
           {
-            "id": "5594b976452c7eaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbe617ff222f8a29",
+            "id": "66cfac695c02cab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,35 +70,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "705e209388da5b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-10-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da9aa6e146a1ec4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-10-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
+                "file": "Daily Notes/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
+                "file": "Daily Notes/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
+                "file": "Daily Notes/2024-10-05.md"
               }
             }
           }
@@ -230,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,21 +217,19 @@
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "periodic-notes:Open today": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "5594b976452c7eaa",
+  "active": "c7eb16c557aa7fb5",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
-    "Daily Notes/2024-10-05.md",
-    "Templates/Daily notes template.md",
-    "Daily Notes/2024-10-04.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161830.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241004161240.png",
+    "Daily Notes/2024-10-04.md",
+    "Daily Notes/2024-10-05.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
     "개인공부/개인 공부.md",
     "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
@@ -274,6 +245,7 @@
     "개인공부/유용한 정보.md",
     "Daily Notes/2024-10-02.md",
     "Daily Notes/2024-10-03.md",
+    "Templates/Daily notes template.md",
     "개인공부/두산 로보틱스 채용- 카카오톡.md",
     "개인공부/attachments/Pasted image 20241002151037.png",
     "개인공부/attachments/Pasted image 20241002150851.png",
@@ -281,13 +253,13 @@
     "Daily Notes/2024-09-22.md",
     "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md",
     "desktop.ini",
-    "개인공부/Ubuntu 22.04.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001121413.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001121348.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241001115614.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20240930181455.png",
     "Daily Notes/attachments/Pasted image 20240930001914.png",
     "개인공부/attachments/Pasted image 20240928175421.png",
+    "개인공부/attachments/Pasted image 20240928175410.png",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",
