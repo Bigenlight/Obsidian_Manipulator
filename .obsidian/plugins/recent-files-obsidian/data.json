@@ -5,6 +5,22 @@
       "path": "Daily Notes/2024-10-06.md"
     },
     {
+      "basename": "인공지능기초와 활용",
+      "path": "개인공부/인공지능기초와 활용.md"
+    },
+    {
+      "basename": "faq",
+      "path": "faq.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "Flux",
+      "path": "개인공부/Flux.md"
+    },
+    {
       "basename": "2024-10-05",
       "path": "Daily Notes/2024-10-05.md"
     },
@@ -29,16 +45,8 @@
       "path": "개인공부/2024년 하반기 공채.md"
     },
     {
-      "basename": "인공지능기초와 활용",
-      "path": "개인공부/인공지능기초와 활용.md"
-    },
-    {
       "basename": "개인 공부",
       "path": "개인공부/개인 공부.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "ROBOTICS",
@@ -191,14 +199,6 @@
     {
       "basename": "Drawing 2024-09-27 10.33.56.excalidraw",
       "path": "Excalidraw/Drawing 2024-09-27 10.33.56.excalidraw.md"
-    },
-    {
-      "basename": "2024-09-26",
-      "path": "Daily Notes/2024-09-26.md"
-    },
-    {
-      "basename": "26_1-PyQT",
-      "path": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md"
     }
   ],
   "omittedPaths": []
