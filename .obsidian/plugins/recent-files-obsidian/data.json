@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-06",
+      "path": "Daily Notes/2024-10-06.md"
+    },
+    {
       "basename": "2024-10-05",
       "path": "Daily Notes/2024-10-05.md"
+    },
+    {
+      "basename": "2024-07-05",
+      "path": "Daily Notes/2024-07-05.md"
+    },
+    {
+      "basename": "2024-07-04",
+      "path": "Daily Notes/2024-07-04.md"
+    },
+    {
+      "basename": "2024-07-02",
+      "path": "Daily Notes/2024-07-02.md"
+    },
+    {
+      "basename": "2024-07-01",
+      "path": "Daily Notes/2024-07-01.md"
+    },
+    {
+      "basename": "2024년 하반기 공채",
+      "path": "개인공부/2024년 하반기 공채.md"
     },
     {
       "basename": "인공지능기초와 활용",
@@ -15,10 +39,6 @@
     {
       "basename": "유용한 정보",
       "path": "개인공부/유용한 정보.md"
-    },
-    {
-      "basename": "2024년 하반기 공채",
-      "path": "개인공부/2024년 하반기 공채.md"
     },
     {
       "basename": "ROBOTICS",
@@ -179,26 +199,6 @@
     {
       "basename": "26_1-PyQT",
       "path": "ROKEY bootcamp/Computer Vision/26_1-PyQT.md"
-    },
-    {
-      "basename": "두산 로보틱스 ROKEY bootcamp",
-      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
-    },
-    {
-      "basename": "2024-09-25",
-      "path": "Daily Notes/2024-09-25.md"
-    },
-    {
-      "basename": "24_1  YoloV1234",
-      "path": "ROKEY bootcamp/Computer Vision/24_1  YoloV1234.md"
-    },
-    {
-      "basename": "25_1-Labeling",
-      "path": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md"
-    },
-    {
-      "basename": "9_1-OpenCV",
-      "path": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md"
     }
   ],
   "omittedPaths": []

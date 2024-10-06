@@ -77,20 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/2024년 하반기 공채.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7eb16c557aa7fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-10-05.md",
+                "file": "Daily Notes/2024-10-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-05.md",
+                "file": "Daily Notes/2024-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-05.md",
+                "file": "Daily Notes/2024-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-05.md"
+                "file": "Daily Notes/2024-10-06.md"
               }
             }
           }
@@ -242,11 +229,19 @@
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c7eb16c557aa7fb5",
+  "active": "131b4fffbf4946e3",
   "lastOpenFiles": [
+    "Daily Notes/2024-10-05.md",
+    "Daily Notes/2024-10-06.md",
+    "Daily Notes/2024-07-05.md",
+    "Daily Notes/2024-07-04.md",
+    "Daily Notes/2024-07-02.md",
+    "Daily Notes/2024-07-01.md",
+    "개인공부/2024년 하반기 공채.md",
     "개인공부/인공지능기초와 활용.md",
     "개인공부/attachments/Pasted image 20241005203349.png",
     "개인공부/attachments/Pasted image 20241005203211.png",
@@ -259,8 +254,6 @@
     "개인공부/attachments/Pasted image 20241005201628.png",
     "개인공부/개인 공부.md",
     "개인공부/유용한 정보.md",
-    "Daily Notes/2024-10-05.md",
-    "개인공부/2024년 하반기 공채.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "개인공부/두산 로보틱스 Dart 분석.md",
     "개인공부/attachments/[µÎ»ê·Îº¸Æ½½º]»ç¾÷º¸°í¼_(2024.03.20).pdf",
@@ -280,10 +273,6 @@
     "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "Excalidraw/Drawing 2024-10-03 23.44.49.excalidraw.md",
-    "Daily Notes/2024-10-02.md",
-    "Daily Notes/2024-10-03.md",
-    "Templates/Daily notes template.md",
-    "개인공부/두산 로보틱스 채용- 카카오톡.md",
     "desktop.ini",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
