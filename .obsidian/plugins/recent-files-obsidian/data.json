@@ -5,6 +5,14 @@
       "path": "Daily Notes/2024-10-07.md"
     },
     {
+      "basename": "기출",
+      "path": "개인공부/기출.md"
+    },
+    {
+      "basename": "인공지능기초와 활용",
+      "path": "개인공부/인공지능기초와 활용.md"
+    },
+    {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "강의 - Deep Reinforcement Learning",
       "path": "개인공부/강의 - Deep Reinforcement Learning.md"
-    },
-    {
-      "basename": "인공지능기초와 활용",
-      "path": "개인공부/인공지능기초와 활용.md"
-    },
-    {
-      "basename": "기출",
-      "path": "개인공부/기출.md"
     },
     {
       "basename": "2024-10-06",
