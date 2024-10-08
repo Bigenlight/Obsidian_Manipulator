@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-07.md",
+                "file": "Daily Notes/2024-10-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-07.md",
+                "file": "Daily Notes/2024-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-07.md",
+                "file": "Daily Notes/2024-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-07.md"
+                "file": "Daily Notes/2024-10-08.md"
               }
             }
           }
@@ -235,9 +235,10 @@
   },
   "active": "131b4fffbf4946e3",
   "lastOpenFiles": [
+    "Daily Notes/2024-10-07.md",
+    "Daily Notes/2024-10-08.md",
     "개인공부/기출.md",
     "개인공부/인공지능기초와 활용.md",
-    "Daily Notes/2024-10-07.md",
     "ROKEY bootcamp/정보.md",
     "개인공부/유용한 정보.md",
     "개인공부/강의 - Deep Reinforcement Learning.md",
