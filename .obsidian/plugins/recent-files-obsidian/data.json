@@ -5,12 +5,28 @@
       "path": "Daily Notes/2024-10-08.md"
     },
     {
-      "basename": "2024-10-07",
-      "path": "Daily Notes/2024-10-07.md"
+      "basename": "ROS2_프로그래밍 입문",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md"
+    },
+    {
+      "basename": "기초 이론_1",
+      "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
+    },
+    {
+      "basename": "ROBOTICS",
+      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "기출",
       "path": "개인공부/기출.md"
+    },
+    {
+      "basename": "2024-10-07",
+      "path": "Daily Notes/2024-10-07.md"
     },
     {
       "basename": "인공지능기초와 활용",
@@ -19,10 +35,6 @@
     {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "강의 - Deep Reinforcement Learning",
@@ -69,16 +81,8 @@
       "path": "개인공부/개인 공부.md"
     },
     {
-      "basename": "ROBOTICS",
-      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
-    },
-    {
       "basename": "두산 로보틱스 Dart 분석",
       "path": "개인공부/두산 로보틱스 Dart 분석.md"
-    },
-    {
-      "basename": "기초 이론_1",
-      "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
     },
     {
       "basename": "ROS2_기초",
@@ -195,10 +199,6 @@
     {
       "basename": "ROS2 공부",
       "path": "개인공부/ROS2 공부.md"
-    },
-    {
-      "basename": "ROS2_Foxy",
-      "path": "개인공부/ROS2_Foxy.md"
     }
   ],
   "omittedPaths": []

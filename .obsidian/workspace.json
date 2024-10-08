@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "71e5f64fefe7ff4e",
+            "id": "1c8c19865d35c847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/기출.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "cec58523c0e66223",
+            "id": "76ac9140b5a1c708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/기출.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +59,12 @@
             }
           },
           {
-            "id": "3f1e42869152238f",
+            "id": "c452ebaac101ca82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/유용한 정보.md",
+                "file": "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -216,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,12 +235,16 @@
   },
   "active": "131b4fffbf4946e3",
   "lastOpenFiles": [
-    "Daily Notes/2024-10-07.md",
-    "Daily Notes/2024-10-08.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
+    "ROKEY bootcamp/Computer Vision/attachments/ROS2_프로그래밍입문_강의자료_v1..0.pdf",
+    "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+    "개인공부/유용한 정보.md",
     "개인공부/기출.md",
+    "Daily Notes/2024-10-08.md",
+    "Daily Notes/2024-10-07.md",
     "개인공부/인공지능기초와 활용.md",
     "ROKEY bootcamp/정보.md",
-    "개인공부/유용한 정보.md",
     "개인공부/강의 - Deep Reinforcement Learning.md",
     "개인공부/attachments/Pasted image 20241007162844.png",
     "개인공부/attachments/Pasted image 20241007162808.png",
@@ -262,16 +266,12 @@
     "Daily Notes/2024-07-01.md",
     "개인공부/2024년 하반기 공채.md",
     "개인공부/개인 공부.md",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "개인공부/두산 로보틱스 Dart 분석.md",
     "개인공부/attachments/[µÎ»ê·Îº¸Æ½½º]»ç¾÷º¸°í¼_(2024.03.20).pdf",
     "Daily Notes/2024-10-04.md",
     "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
-    "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md",
-    "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md",
-    "Daily Notes/2024-10-01.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/attachments/desktop.ini",
     "desktop.ini",
     "Excalidraw/attachments",
@@ -280,7 +280,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_01.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_02.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/joystick_step_by_step.pdf",
-    "Excalidraw/제목 없음-2024-09-23-1626.excalidraw",
     "Capstone/무제 파일.canvas",
     "Untitled.canvas"
   ]
