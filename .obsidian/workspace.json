@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-08.md",
+                "file": "Daily Notes/2024-10-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-08.md",
+                "file": "Daily Notes/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-08.md",
+                "file": "Daily Notes/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-08.md"
+                "file": "Daily Notes/2024-10-07.md"
               }
             }
           }
@@ -222,9 +222,11 @@
   },
   "active": "131b4fffbf4946e3",
   "lastOpenFiles": [
+    "Daily Notes/2024-10-08.md",
+    "Daily Notes/2024-10-07.md",
+    "Daily Notes/2024-10-06.md",
     "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241008160230.png",
-    "Daily Notes/2024-10-08.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241008151748.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241008145630.png",
     "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
@@ -232,14 +234,12 @@
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "개인공부/유용한 정보.md",
     "개인공부/기출.md",
-    "Daily Notes/2024-10-07.md",
     "개인공부/인공지능기초와 활용.md",
     "ROKEY bootcamp/정보.md",
     "개인공부/강의 - Deep Reinforcement Learning.md",
     "개인공부/attachments/Pasted image 20241007162844.png",
     "개인공부/attachments/Pasted image 20241007162808.png",
     "개인공부/attachments/Pasted image 20241007150056.png",
-    "Daily Notes/2024-10-06.md",
     "개인공부/attachments/Pasted image 20241006231822.png",
     "개인공부/attachments/Pasted image 20241006231434.png",
     "개인공부/attachments/Pasted image 20241006231141.png",
