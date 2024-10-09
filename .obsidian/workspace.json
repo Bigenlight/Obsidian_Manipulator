@@ -46,19 +46,6 @@
             }
           },
           {
-            "id": "76ac9140b5a1c708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-10-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "131b4fffbf4946e3",
             "type": "leaf",
             "state": {
@@ -220,11 +207,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "76ac9140b5a1c708",
+  "active": "131b4fffbf4946e3",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "Daily Notes/2024-10-09.md",
+    "ROKEY bootcamp/Computer Vision/desktop.ini",
+    "Templates/desktop.ini",
+    "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/attachments/desktop.ini",
     "Daily Notes/2024-10-08.md",
     "Daily Notes/2024-10-07.md",
@@ -265,8 +254,6 @@
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
     "ROKEY bootcamp/ROS2",
     "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_01.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_02.pdf",
-    "ROKEY bootcamp/Computer Vision/attachments/joystick_step_by_step.pdf",
     "Capstone/무제 파일.canvas",
     "Untitled.canvas"
   ]
