@@ -5,6 +5,14 @@
       "path": "Daily Notes/2024-10-09.md"
     },
     {
+      "basename": "ROS2_프로그래밍 입문",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md"
+    },
+    {
+      "basename": "ROBOTICS",
+      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
       "basename": "2024-10-08",
       "path": "Daily Notes/2024-10-08.md"
     },
@@ -17,16 +25,8 @@
       "path": "Daily Notes/2024-10-06.md"
     },
     {
-      "basename": "ROS2_프로그래밍 입문",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md"
-    },
-    {
       "basename": "기초 이론_1",
       "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
-    },
-    {
-      "basename": "ROBOTICS",
-      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
     },
     {
       "basename": "유용한 정보",
