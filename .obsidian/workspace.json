@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-07.md",
+                "file": "Daily Notes/2024-10-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-07.md",
+                "file": "Daily Notes/2024-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-07.md",
+                "file": "Daily Notes/2024-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-07.md"
+                "file": "Daily Notes/2024-10-09.md"
               }
             }
           }
@@ -222,7 +222,9 @@
   },
   "active": "131b4fffbf4946e3",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Python 강의/Python_Exercise/attachments/desktop.ini",
     "Daily Notes/2024-10-08.md",
+    "Daily Notes/2024-10-09.md",
     "Daily Notes/2024-10-07.md",
     "Daily Notes/2024-10-06.md",
     "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
@@ -258,8 +260,6 @@
     "Daily Notes/2024-10-04.md",
     "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
-    "ROKEY bootcamp/Computer Vision/ROS2설치.md",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/attachments/desktop.ini",
     "desktop.ini",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
