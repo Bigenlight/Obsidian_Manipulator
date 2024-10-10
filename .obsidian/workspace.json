@@ -203,8 +203,7 @@
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "periodic-notes:Open today": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
   "active": "131b4fffbf4946e3",
