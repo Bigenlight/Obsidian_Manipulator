@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-10.md",
+                "file": "Daily Notes/2024-10-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-10.md",
+                "file": "Daily Notes/2024-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-10.md",
+                "file": "Daily Notes/2024-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-10.md"
+                "file": "Daily Notes/2024-10-12.md"
               }
             }
           }
@@ -203,13 +203,16 @@
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "131b4fffbf4946e3",
   "lastOpenFiles": [
-    "Daily Notes/2024-10-09.md",
+    "Daily Notes/2024-10-11.md",
+    "Daily Notes/2024-10-12.md",
     "Daily Notes/2024-10-10.md",
+    "Daily Notes/2024-10-09.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/desktop.ini",
     "Templates/desktop.ini",
@@ -247,8 +250,6 @@
     "개인공부/두산 로보틱스 Dart 분석.md",
     "개인공부/attachments/[µÎ»ê·Îº¸Æ½½º]»ç¾÷º¸°í¼_(2024.03.20).pdf",
     "Daily Notes/2024-10-04.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
     "desktop.ini",
     "Excalidraw/attachments",
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-12",
+      "path": "Daily Notes/2024-10-12.md"
+    },
+    {
+      "basename": "2024-10-11",
+      "path": "Daily Notes/2024-10-11.md"
+    },
+    {
       "basename": "2024-10-10",
       "path": "Daily Notes/2024-10-10.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled 2",
       "path": "개인공부/Untitled 2.md"
-    },
-    {
-      "basename": "VScode 공부",
-      "path": "개인공부/VScode 공부.md"
-    },
-    {
-      "basename": "KT 로봇 관제 센터 현직자 강연",
-      "path": "개인공부/KT 로봇 관제 센터 현직자 강연.md"
     }
   ],
   "omittedPaths": []
