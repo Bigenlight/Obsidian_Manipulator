@@ -1,79 +1,35 @@
 {
   "main": {
-    "id": "7da3c5be28a46b45",
+    "id": "79523ea95b2c9591",
     "type": "split",
     "children": [
       {
-        "id": "ef263ed8a2baf6fe",
+        "id": "ba6cfb6e027037d2",
         "type": "tabs",
         "children": [
           {
-            "id": "8d664fef603de9fd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fa4c7619599e9144",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "1c8c19865d35c847",
+            "id": "5335b1f3a86d43b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "131b4fffbf4946e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-10-12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0c259f0b59c8d8ee",
+    "id": "fbcfda3189ed2515",
     "type": "split",
     "children": [
       {
-        "id": "54eaefc36c4a6c7c",
+        "id": "c843e28c0c9471a5",
         "type": "tabs",
         "children": [
           {
-            "id": "b9ff6fa8bd09460a",
+            "id": "7464cce53aa08b29",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,13 +39,13 @@
             }
           },
           {
-            "id": "38867223f6f4f68c",
+            "id": "1d07cb28d887be26",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "fetch",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -98,7 +54,7 @@
             }
           },
           {
-            "id": "0185950e296b1bab",
+            "id": "528cf21b29502c89",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,29 +62,30 @@
             }
           },
           {
-            "id": "0915076afeabb621",
+            "id": "ac0720156d946858",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "ed06cea5a27a30bc",
+    "id": "893b5b91249e5495",
     "type": "split",
     "children": [
       {
-        "id": "048be79779ecb9af",
+        "id": "a8cb4ebe476c45a1",
         "type": "tabs",
         "children": [
           {
-            "id": "63e5cb10d8fd784e",
+            "id": "e94813f4e6c7e5c3",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -136,12 +93,11 @@
             }
           },
           {
-            "id": "2e3117bd65894693",
+            "id": "909b085f58f6e864",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,19 +109,18 @@
             }
           },
           {
-            "id": "3c513c37efbbaf47",
+            "id": "0782e2054676025d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "21065817b29d1cf8",
+            "id": "dc80769b3c00616a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,86 +131,38 @@
             }
           },
           {
-            "id": "d0fa671597500623",
+            "id": "e9544e792ab0e350",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2024-10-12.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "vscode-editor:Create Code File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "vscode-editor:Create Code File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "131b4fffbf4946e3",
+  "active": "5335b1f3a86d43b0",
   "lastOpenFiles": [
-    "Daily Notes/2024-10-11.md",
-    "Daily Notes/2024-10-12.md",
-    "Daily Notes/2024-10-10.md",
-    "Daily Notes/2024-10-09.md",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-    "ROKEY bootcamp/Computer Vision/desktop.ini",
-    "Templates/desktop.ini",
-    "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
-    "ROKEY bootcamp/Python 강의/Python_Exercise/attachments/desktop.ini",
-    "Daily Notes/2024-10-08.md",
-    "Daily Notes/2024-10-07.md",
-    "Daily Notes/2024-10-06.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241008160230.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241008151748.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241008145630.png",
-    "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
-    "ROKEY bootcamp/Computer Vision/attachments/ROS2_프로그래밍입문_강의자료_v1..0.pdf",
-    "개인공부/유용한 정보.md",
-    "개인공부/기출.md",
-    "개인공부/인공지능기초와 활용.md",
-    "ROKEY bootcamp/정보.md",
-    "개인공부/강의 - Deep Reinforcement Learning.md",
-    "개인공부/attachments/Pasted image 20241007162844.png",
-    "개인공부/attachments/Pasted image 20241007162808.png",
-    "개인공부/attachments/Pasted image 20241007150056.png",
-    "개인공부/attachments/Pasted image 20241006231822.png",
-    "개인공부/attachments/Pasted image 20241006231434.png",
-    "개인공부/attachments/Pasted image 20241006231141.png",
-    "개인공부/attachments/Pasted image 20241006224838.png",
-    "faq.md",
-    "개인공부/Flux.md",
-    "Daily Notes/2024-10-05.md",
-    "Daily Notes/2024-07-05.md",
-    "Daily Notes/2024-07-04.md",
-    "Daily Notes/2024-07-02.md",
-    "Daily Notes/2024-07-01.md",
-    "개인공부/2024년 하반기 공채.md",
-    "개인공부/개인 공부.md",
-    "개인공부/두산 로보틱스 Dart 분석.md",
-    "개인공부/attachments/[µÎ»ê·Îº¸Æ½½º]»ç¾÷º¸°í¼_(2024.03.20).pdf",
-    "Daily Notes/2024-10-04.md",
-    "desktop.ini",
-    "Excalidraw/attachments",
-    "ROKEY bootcamp/Computer Vision/attachments/ROS2_기초강의안_최종_배포용_v1.1.pdf",
-    "ROKEY bootcamp/ROS2",
-    "ROKEY bootcamp/Computer Vision/attachments/컴퓨터비전_응용_13차시_01.pdf",
-    "Capstone/무제 파일.canvas",
-    "Untitled.canvas"
+    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+    "Daily Notes/2024-10-13.md"
   ]
 }
