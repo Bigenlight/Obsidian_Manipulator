@@ -1,3 +1,4 @@
+[[Ubuntu 22.04]]
 https://www.notion.so/07-03-dd676d5bb69b4a92b5d0df79aaa476c7
 
 ## 우분투 옵시디언 환경

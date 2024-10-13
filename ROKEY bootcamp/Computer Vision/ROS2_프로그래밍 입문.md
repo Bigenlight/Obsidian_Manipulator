@@ -5,6 +5,8 @@ last modification: 2024-10-08
 
 ![[ROS2_프로그래밍입문_강의자료_v1..0.pdf]]
 
+![[Pasted image 20241013213311.png]]
+
 sudo apt install tree를 이용해
 tree 명령으로 디렉토리를 빠르게 볼 수 있음
 
@@ -20,3 +22,5 @@ tree 명령으로 디렉토리를 빠르게 볼 수 있음
 ### bashrc  수정했으면
 source ~/.bashrc
 를 하면 적용 됨, 꼭 안꺼도 됨.
+
+
