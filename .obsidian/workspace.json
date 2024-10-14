@@ -16,32 +16,6 @@
             }
           },
           {
-            "id": "4bd6c3189603e4f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89e2630a965edd46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/Ubuntu 22.04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c662adbad72e272",
             "type": "leaf",
             "state": {
@@ -94,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+                "file": "Daily Notes/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+                "file": "Daily Notes/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md"
+                "file": "Daily Notes/2024-10-14.md"
               }
             }
           }
@@ -243,11 +217,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4bd6c3189603e4f2",
+  "active": "858a3d5fcf04393c",
   "lastOpenFiles": [
-    "개인공부/Ubuntu 22.04.md",
-    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
     "Daily Notes/2024-10-14.md",
+    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
+    "개인공부/Ubuntu 22.04.md",
     "개인공부/우분투 지식.md",
     "개인공부/우분투 22.04 설치.md",
     "ROKEY bootcamp/리눅스 환경.md",
