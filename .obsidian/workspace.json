@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+                "file": "개인공부/Ubuntu 22.04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2024-10-14.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -229,15 +225,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "858a3d5fcf04393c",
+  "active": "04b5d1f53a442547",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag.md",
+    "개인공부/Ubuntu 22.04.md",
+    "개인공부/우분투 지식.md",
+    "ROKEY bootcamp/리눅스 환경.md",
+    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-    "Daily Notes/2024-10-14.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security.md",
     "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md",
+    "Daily Notes/2024-10-14.md",
+    "Daily Notes/2024-10-15.md",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241014141535.png",
     "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241014141320.png",
-    "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md",
     "개인공부/DCAT 준비.md",
     "개인공부/개인 공부.md"
   ]

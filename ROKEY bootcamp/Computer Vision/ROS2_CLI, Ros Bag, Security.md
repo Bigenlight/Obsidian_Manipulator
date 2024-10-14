@@ -24,3 +24,19 @@ ros bag은 영상도 담을 수 있음
 ###### 정지 기능 추가
 --start-paused 
 엔터로 정지 시작 가능.
+
+## Security
+ROS2 DDS는 보안성도 나쁘지 않다
+
+ros2 security create_keystore demo_keystore
+
+ros2 security create_enclave demo_keystore /talker_listener/talker
+ros2 security create_enclave demo_keystore /talker_listener/listener
+
+cd demo_keystore/enclaves/
+에 키가 생김
+
+환경 임시 변수 설정 (영구적으로 쓰고 싶으면 bashrc에 저장), 첫 명령의 주소는 만들어둔 키 스토어로
+export ROS_SECURITY_KEYSTORE=~/demo_keystore
+export ROS_SECURITY_ENABLE=true
+export ROS_SECURITY_STRATEGY=Enforce
