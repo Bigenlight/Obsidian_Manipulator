@@ -2,6 +2,12 @@
 [[ROBOTICS]]
 last modification: 2024-10-14
 
+# CLI
+#### ROS2 Doctor or WTF
+ros2 doctor hello
+ros2 doctor -r
+개발환경의 문제 확인용
+사용하는 프로그램 버전도 다 출력 됨.
 ## ROS Bag
 ros bag은 영상도 담을 수 있음
 

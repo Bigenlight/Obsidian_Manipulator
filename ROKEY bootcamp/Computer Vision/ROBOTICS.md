@@ -8,4 +8,4 @@
 [[ROS2_프로그래밍 입문]]
 [[ROS2_인터페이스 생성]]
 [[ROS2_RCLPY과 주피터]]
-[[ROS2_Ros Bag]]
+[[ROS2_CLI, Ros Bag]]

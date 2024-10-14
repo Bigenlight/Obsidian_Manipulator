@@ -5,16 +5,16 @@
       "path": "Daily Notes/2024-10-14.md"
     },
     {
-      "basename": "ROS2_프로그래밍 입문",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md"
-    },
-    {
-      "basename": "ROS2_Ros Bag",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_Ros Bag.md"
+      "basename": "ROS2_CLI, Ros Bag",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag.md"
     },
     {
       "basename": "ROBOTICS",
       "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
+      "basename": "ROS2_프로그래밍 입문",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md"
     },
     {
       "basename": "ROS2_RCLPY과 주피터",
