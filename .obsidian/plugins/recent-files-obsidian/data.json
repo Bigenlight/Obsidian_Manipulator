@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-13",
-      "path": "Daily Notes/2024-10-13.md"
-    },
-    {
       "basename": "2024-10-14",
       "path": "Daily Notes/2024-10-14.md"
+    },
+    {
+      "basename": "ROS2_프로그래밍 입문",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md"
+    },
+    {
+      "basename": "ROS2_Ros Bag",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_Ros Bag.md"
+    },
+    {
+      "basename": "ROBOTICS",
+      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
+      "basename": "ROS2_RCLPY과 주피터",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md"
     },
     {
       "basename": "DCAT 준비",
@@ -15,190 +27,6 @@
     {
       "basename": "개인 공부",
       "path": "개인공부/개인 공부.md"
-    },
-    {
-      "basename": "Ubuntu 22.04",
-      "path": "개인공부/Ubuntu 22.04.md"
-    },
-    {
-      "basename": "ROS2_인터페이스 생성",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_인터페이스 생성.md"
-    },
-    {
-      "basename": "ROS2_RCLPY과 주피터",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md"
-    },
-    {
-      "basename": "ROBOTICS",
-      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
-    },
-    {
-      "basename": "ROS2_프로그래밍 입문",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md"
-    },
-    {
-      "basename": "우분투 지식",
-      "path": "개인공부/우분투 지식.md"
-    },
-    {
-      "basename": "우분투 22.04 설치",
-      "path": "개인공부/우분투 22.04 설치.md"
-    },
-    {
-      "basename": "Ubuntu 22.04 환경에서 옵시디언",
-      "path": "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md"
-    },
-    {
-      "basename": "2024-10-12",
-      "path": "Daily Notes/2024-10-12.md"
-    },
-    {
-      "basename": "2024-10-11",
-      "path": "Daily Notes/2024-10-11.md"
-    },
-    {
-      "basename": "2024-10-10",
-      "path": "Daily Notes/2024-10-10.md"
-    },
-    {
-      "basename": "2024-10-09",
-      "path": "Daily Notes/2024-10-09.md"
-    },
-    {
-      "basename": "2024-10-08",
-      "path": "Daily Notes/2024-10-08.md"
-    },
-    {
-      "basename": "2024-10-07",
-      "path": "Daily Notes/2024-10-07.md"
-    },
-    {
-      "basename": "2024-10-06",
-      "path": "Daily Notes/2024-10-06.md"
-    },
-    {
-      "basename": "기초 이론_1",
-      "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
-    },
-    {
-      "basename": "기출",
-      "path": "개인공부/기출.md"
-    },
-    {
-      "basename": "인공지능기초와 활용",
-      "path": "개인공부/인공지능기초와 활용.md"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "강의 - Deep Reinforcement Learning",
-      "path": "개인공부/강의 - Deep Reinforcement Learning.md"
-    },
-    {
-      "basename": "faq",
-      "path": "faq.md"
-    },
-    {
-      "basename": "Flux",
-      "path": "개인공부/Flux.md"
-    },
-    {
-      "basename": "2024-10-05",
-      "path": "Daily Notes/2024-10-05.md"
-    },
-    {
-      "basename": "2024-07-05",
-      "path": "Daily Notes/2024-07-05.md"
-    },
-    {
-      "basename": "2024-07-04",
-      "path": "Daily Notes/2024-07-04.md"
-    },
-    {
-      "basename": "2024-07-02",
-      "path": "Daily Notes/2024-07-02.md"
-    },
-    {
-      "basename": "2024-07-01",
-      "path": "Daily Notes/2024-07-01.md"
-    },
-    {
-      "basename": "2024년 하반기 공채",
-      "path": "개인공부/2024년 하반기 공채.md"
-    },
-    {
-      "basename": "두산 로보틱스 Dart 분석",
-      "path": "개인공부/두산 로보틱스 Dart 분석.md"
-    },
-    {
-      "basename": "ROS2_기초",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_기초.md"
-    },
-    {
-      "basename": "Daily notes template",
-      "path": "Templates/Daily notes template.md"
-    },
-    {
-      "basename": "2024-10-04",
-      "path": "Daily Notes/2024-10-04.md"
-    },
-    {
-      "basename": "Python 18강-정규표현식,코루틴",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
-    },
-    {
-      "basename": "ROS2설치",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2설치.md"
-    },
-    {
-      "basename": "AI, Computer Vision 평가 준비",
-      "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
-    },
-    {
-      "basename": "1차 DBMS 개요와 MySQL 소개",
-      "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
-    },
-    {
-      "basename": "2024-10-01",
-      "path": "Daily Notes/2024-10-01.md"
-    },
-    {
-      "basename": "22_1-Object Detection, YoloV12, SSD",
-      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md"
-    },
-    {
-      "basename": "인적성 준비",
-      "path": "개인공부/인적성 준비.md"
-    },
-    {
-      "basename": "27_1-PyQT, Flask, YoloV8",
-      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
-    },
-    {
-      "basename": "23_1-객체 탐지, YoloV358",
-      "path": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md"
-    },
-    {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
-      "basename": "Drawing 2024-10-03 23.44.49.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-03 23.44.49.excalidraw.md"
-    },
-    {
-      "basename": "2024-10-02",
-      "path": "Daily Notes/2024-10-02.md"
-    },
-    {
-      "basename": "2024-10-03",
-      "path": "Daily Notes/2024-10-03.md"
     }
   ],
   "omittedPaths": []

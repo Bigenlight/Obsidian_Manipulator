@@ -1,63 +1,22 @@
 {
   "main": {
-    "id": "79523ea95b2c9591",
+    "id": "ab88a9871c434d60",
     "type": "split",
     "children": [
       {
-        "id": "ba6cfb6e027037d2",
+        "id": "ecf74823819f2817",
         "type": "tabs",
         "children": [
           {
-            "id": "5335b1f3a86d43b0",
+            "id": "04b5d1f53a442547",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
-            "id": "f0fe90eab894352e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/개인 공부.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10436cf380dba3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-10-14.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d86663820dab48f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개인공부/Ubuntu 22.04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82988c8575bb2f6f",
+            "id": "89e2630a965edd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,12 +29,12 @@
             }
           },
           {
-            "id": "25e77bc3692e5983",
+            "id": "3c662adbad72e272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_인터페이스 생성.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_Ros Bag.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,20 +42,7 @@
             }
           },
           {
-            "id": "c1ff1654780ca7f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2182bde0ff7b1c16",
+            "id": "6c5ac2a4eb615807",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,12 +55,25 @@
             }
           },
           {
-            "id": "15749d89374dcb75",
+            "id": "735f9b269f8ff914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-13.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "858a3d5fcf04393c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-10-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,21 +81,21 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fbcfda3189ed2515",
+    "id": "7bb6080fd707d177",
     "type": "split",
     "children": [
       {
-        "id": "c843e28c0c9471a5",
+        "id": "f4ab5c6d04103337",
         "type": "tabs",
         "children": [
           {
-            "id": "7464cce53aa08b29",
+            "id": "ff644d1f609fe1dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -146,12 +105,12 @@
             }
           },
           {
-            "id": "1d07cb28d887be26",
+            "id": "180145f9fb12b506",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "fetch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +120,7 @@
             }
           },
           {
-            "id": "528cf21b29502c89",
+            "id": "058cbc1d0afdd85a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -169,7 +128,7 @@
             }
           },
           {
-            "id": "ac0720156d946858",
+            "id": "6d55e516f17ae841",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -183,15 +142,15 @@
     "width": 300
   },
   "right": {
-    "id": "893b5b91249e5495",
+    "id": "edff71a9094a233f",
     "type": "split",
     "children": [
       {
-        "id": "a8cb4ebe476c45a1",
+        "id": "446b330067ca3773",
         "type": "tabs",
         "children": [
           {
-            "id": "e94813f4e6c7e5c3",
+            "id": "04a8fb21da31a597",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -199,12 +158,12 @@
             }
           },
           {
-            "id": "909b085f58f6e864",
+            "id": "0c4c2b293c33180f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-13.md",
+                "file": "Daily Notes/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,19 +175,19 @@
             }
           },
           {
-            "id": "0782e2054676025d",
+            "id": "e6354b273a215dcb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-13.md",
+                "file": "Daily Notes/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dc80769b3c00616a",
+            "id": "826709afc1255d47",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -239,12 +198,12 @@
             }
           },
           {
-            "id": "e9544e792ab0e350",
+            "id": "c8a49597e170d4c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-13.md"
+                "file": "Daily Notes/2024-10-14.md"
               }
             }
           }
@@ -270,20 +229,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "15749d89374dcb75",
+  "active": "858a3d5fcf04393c",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_Ros Bag.md",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241014141535.png",
+    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241014141320.png",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md",
     "Daily Notes/2024-10-14.md",
     "개인공부/DCAT 준비.md",
-    "개인공부/개인 공부.md",
-    "개인공부/Ubuntu 22.04.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_인터페이스 생성.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
-    "개인공부/우분투 지식.md",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241013213311.png",
-    "Daily Notes/2024-10-13.md",
-    "개인공부/우분투 22.04 설치.md",
-    "옵시디언공부/Ubuntu 22.04 환경에서 옵시디언.md"
+    "개인공부/개인 공부.md"
   ]
 }

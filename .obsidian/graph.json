@@ -67,7 +67,7 @@
       "query": "tag:#ROS2  ",
       "color": {
         "a": 1,
-        "rgb": 1061594
+        "rgb": 10579002
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2876029701809753,
-  "close": true
+  "scale": 0.7717137828184909,
+  "close": false
 }
