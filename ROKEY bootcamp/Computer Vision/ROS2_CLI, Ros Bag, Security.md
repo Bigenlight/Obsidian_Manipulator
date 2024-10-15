@@ -40,3 +40,25 @@ cd demo_keystore/enclaves/
 export ROS_SECURITY_KEYSTORE=~/demo_keystore
 export ROS_SECURITY_ENABLE=true
 export ROS_SECURITY_STRATEGY=Enforce
+
+## --ros-args
+이걸 붙이면 뒤에 arguments 추가 가능
+```
+ros2 run turtlesim turtlesim_node --ros-args -r __ns:=/tutorial -r __node:=my_turtle -r turtle1/cmd_vel:=cmd_vel -p background_b:=0
+```
+원 터틀심 실행 노드에서 여러 커스텀 파라미터 추가  
+
+###### 터틀심 배경색 바꾸기
+cat turtlesim.yaml
+먼저 파라미터 파일을 만들고
+```
+turtlesim:
+  ros__parameters:
+    background_b: 0
+    background_g: 250
+    background_r: 250
+    use_sim_time: false
+```
+이를 ros-args를 통해 일회성으로 적용 가능
+ros2 run turtlesim turtlesim_node --ros-args --params-file turtlesim.yaml
+그러면 파라미터가 커스텀으로 바뀌어있음. 배경이 노란색 됨.
