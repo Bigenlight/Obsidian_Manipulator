@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
+                "file": "Daily Notes/2024-10-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
+                "file": "Daily Notes/2024-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
+                "file": "Daily Notes/2024-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md"
+                "file": "Daily Notes/2024-10-16.md"
               }
             }
           }
@@ -258,12 +258,12 @@
   },
   "active": "8cf4ea9dcd30e301",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
     "ROKEY bootcamp/Computer Vision/ROS2_DDS, QOS.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security.md",
     "Daily Notes/2024-10-15.md",
     "ROKEY bootcamp/Computer Vision/ROS2_IPC, RQT.md",
-    "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
     "Daily Notes/2024-10-16.md",
     "Daily Notes/attachments/과제_1기_ROS_6차시_일간문항.docx",
     "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
