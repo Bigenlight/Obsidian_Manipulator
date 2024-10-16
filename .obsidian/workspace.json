@@ -29,6 +29,19 @@
             }
           },
           {
+            "id": "6a8347336b385da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_DDS, QOS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8cf4ea9dcd30e301",
             "type": "leaf",
             "state": {
@@ -73,7 +86,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-16.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72842852c02101c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-10-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "cat turtl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-16.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-16.md",
+                "file": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-16.md"
+                "file": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md"
               }
             }
           }
@@ -230,15 +256,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "858a3d5fcf04393c",
+  "active": "8cf4ea9dcd30e301",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Computer Vision/ROS2_DDS, QOS.md",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security.md",
     "Daily Notes/2024-10-15.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_IPC, RQT.md",
+    "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
     "Daily Notes/2024-10-16.md",
     "Daily Notes/attachments/과제_1기_ROS_6차시_일간문항.docx",
-    "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security.md",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_IPC, RQT.md",
     "ROKEY bootcamp/Computer Vision/ROS2_프로그래밍 입문.md",
     "ROKEY bootcamp/Computer Vision/ROS2_RCLPY과 주피터.md",
     "Daily Notes/2024-10-14.md",

@@ -49,7 +49,7 @@ ros2 run turtlesim turtlesim_node --ros-args -r __ns:=/tutorial -r __node:=my_tu
 원 터틀심 실행 노드에서 여러 커스텀 파라미터 추가  
 
 ###### 터틀심 배경색 바꾸기
-cat turtlesim.yaml
+vim turtlesim.yaml
 먼저 파라미터 파일을 만들고
 ```
 turtlesim:
