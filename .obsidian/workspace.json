@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -302,7 +302,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "08aee587b0c8ebc6",
+  "active": "ac55846b0100b82a",
   "lastOpenFiles": [
     "ROKEY bootcamp/Computer Vision/ROS2_기초.md",
     "ROKEY bootcamp/Computer Vision/ROS2_IPC, RQT.md",
