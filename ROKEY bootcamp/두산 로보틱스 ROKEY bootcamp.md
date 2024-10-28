@@ -6,5 +6,6 @@
 [[DevOps 강의]]
 [[Ai,컴퓨터 비전]]
 [[ROBOTICS]]
+[[Robot Ai]]
 
 [[로봇 프로젝트]]
