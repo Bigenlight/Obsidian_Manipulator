@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-30",
+      "path": "Daily Notes/2024-10-30.md"
+    },
+    {
+      "basename": "Robot Ai",
+      "path": "ROKEY bootcamp/Robot Ai.md"
+    },
+    {
+      "basename": "2024-10-29",
+      "path": "Daily Notes/2024-10-29.md"
+    },
+    {
+      "basename": "ROBOTICS",
+      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+    },
+    {
+      "basename": "DCAT 준비",
+      "path": "개인공부/DCAT 준비.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "기초 이론_1",
+      "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
+    },
+    {
+      "basename": "ROS2_RCLPY, Jupyter, Turtlesim, ROS bag",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_RCLPY, Jupyter, Turtlesim, ROS bag.md"
+    },
+    {
+      "basename": "ROS2_인터페이스 제작, Calculator 종합 예제",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_인터페이스 제작, Calculator 종합 예제.md"
+    },
+    {
+      "basename": "ROS2_tf2",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_tf2.md"
+    },
+    {
+      "basename": "ROS2_OpenCV, Open3D",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_OpenCV, Open3D.md"
+    },
+    {
+      "basename": "ROS2_DDS, QOS",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_DDS, QOS.md"
+    },
+    {
+      "basename": "ROS2_IPC, RQT, Lifecycle",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_IPC, RQT, Lifecycle.md"
+    },
+    {
+      "basename": "ROS2_CLI, Ros Bag, Security, -args",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security, -args.md"
+    },
+    {
+      "basename": "ROS2_이론, 교양, 프로그래밍 입문",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_이론, 교양, 프로그래밍 입문.md"
+    },
+    {
+      "basename": "ROS2_기초, symlink-install",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_기초, symlink-install.md"
+    },
+    {
+      "basename": "ROS2설치",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2설치.md"
+    },
+    {
+      "basename": "2_ 로봇 환경 AI - 칼만",
+      "path": "ROKEY bootcamp/2_ 로봇 환경 AI - 칼만.md"
+    },
+    {
+      "basename": "1_로봇 환경 AI - 로컬라이제이션",
+      "path": "ROKEY bootcamp/1_로봇 환경 AI - 로컬라이제이션.md"
+    },
+    {
       "basename": "2024-10-28",
       "path": "Daily Notes/2024-10-28.md"
     },
@@ -13,40 +89,8 @@
       "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
     },
     {
-      "basename": "Robot Ai",
-      "path": "ROKEY bootcamp/Robot Ai.md"
-    },
-    {
-      "basename": "2024-10-29",
-      "path": "Daily Notes/2024-10-29.md"
-    },
-    {
-      "basename": "1_로봇 환경 AI - 로컬라이제이션",
-      "path": "ROKEY bootcamp/1_로봇 환경 AI - 로컬라이제이션.md"
-    },
-    {
-      "basename": "DCAT 준비",
-      "path": "개인공부/DCAT 준비.md"
-    },
-    {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
-    },
-    {
-      "basename": "ROBOTICS",
-      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
-    },
-    {
       "basename": "모방학습",
       "path": "개인공부/모방학습.md"
-    },
-    {
-      "basename": "ROS2_IPC, RQT",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_IPC, RQT.md"
-    },
-    {
-      "basename": "ROS2_기초",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_기초.md"
     },
     {
       "basename": "ROS2 평가 준비",
