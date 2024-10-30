@@ -8,73 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a40225b9e06167f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5bd7c6299050398b",
+            "id": "2c584d72adfbb55d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/정보.md",
+                "file": "ROKEY bootcamp/2_ 로봇 환경 AI - 칼만.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "정보"
-            }
-          },
-          {
-            "id": "a32362f8f43787dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Robot Ai.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Robot Ai"
-            }
-          },
-          {
-            "id": "3afebda8c8c00833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/1_로봇 환경 AI - 로컬라이제이션.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_로봇 환경 AI - 로컬라이제이션"
-            }
-          },
-          {
-            "id": "a0147877b9728e68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Robot Ai.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Robot Ai"
+              "title": "2_ 로봇 환경 AI - 칼만"
             }
           },
           {
@@ -93,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,9 +208,19 @@
   },
   "active": "fcdc70c29fc27f59",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Robot Ai.md",
-    "Daily Notes/2024-10-29.md",
+    "ROKEY bootcamp/2_ 로봇 환경 AI - 칼만.md",
+    "ROKEY bootcamp/attachments/Pasted image 20241030151022.png",
+    "ROKEY bootcamp/attachments/Pasted image 20241030150948.png",
+    "ROKEY bootcamp/attachments/Pasted image 20241030150905.png",
+    "ROKEY bootcamp/attachments/Pasted image 20241030150850.png",
+    "ROKEY bootcamp/attachments/Pasted image 20241030150814.png",
+    "ROKEY bootcamp/attachments/로봇_환경_AI_기초_실습_칼만필터.pdf",
     "Daily Notes/2024-10-30.md",
+    "ROKEY bootcamp/Robot Ai.md",
+    "ROKEY bootcamp/1_로봇 환경 AI - 로컬라이제이션.md",
+    "ROKEY bootcamp/attachments/Pasted image 20241030123157.png",
+    "ROKEY bootcamp/attachments/Pasted image 20241030123041.png",
+    "Daily Notes/2024-10-29.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "개인공부/DCAT 준비.md",
     "개인공부/개인 공부.md",
@@ -290,23 +245,13 @@
     "ROKEY bootcamp/Computer Vision/attachments/ROS2_심화프로그래밍2_241025_082014.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/OpenCV_Open3D_ver11_241024_160456.pdf",
     "ROKEY bootcamp/Computer Vision/attachments/tf_241024_112506.pdf",
-    "ROKEY bootcamp/2_ 로봇 환경 AI - 칼만.md",
-    "ROKEY bootcamp/1_로봇 환경 AI - 로컬라이제이션.md",
     "Daily Notes/2024-10-28.md",
     "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/attachments/ROKEY_Life Guide_20241029_(최종 안내용).pdf",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "Daily Notes/attachments/Pasted image 20241028170543.png",
     "Daily Notes/attachments/Pasted image 20241028170314.png",
-    "Daily Notes/attachments/Pasted image 20241028170137.png",
     "개인공부/모방학습.md",
     "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
-    "Daily Notes/2024-10-21.md",
-    "개인공부/attachments/Pasted image 20241028103115.png",
-    "개인공부/attachments/Pasted image 20241028103033.png",
-    "ROKEY bootcamp/Computer Vision/attachments/Pasted image 20241024202520.png",
-    "ROKEY bootcamp/attachments/Pasted image 20241024164611.png",
-    "ROKEY bootcamp/attachments/Pasted image 20241024164543.png",
-    "ROKEY bootcamp/attachments/Pasted image 20241024163917.png"
+    "Daily Notes/2024-10-21.md"
   ]
 }
