@@ -9,3 +9,14 @@
 [[Robot Ai]]
 
 [[로봇 프로젝트]]
+
+```dataview
+table without id
+	file.link as "제목",
+	date as "생성일"
+
+from "ROKEY bootcamp" and #ROKEY
+sort date desc
+
+```
+

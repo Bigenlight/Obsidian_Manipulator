@@ -5,20 +5,64 @@
       "path": "Daily Notes/2024-10-31.md"
     },
     {
-      "basename": "2024-10-30",
-      "path": "Daily Notes/2024-10-30.md"
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
     },
     {
-      "basename": "ROS2_tf2",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2_tf2.md"
+      "basename": "교육(커리큘럼) 및 학사 관리",
+      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
+    },
+    {
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "참고자료",
+      "path": "ROKEY bootcamp/참고자료.md"
+    },
+    {
+      "basename": "리눅스 환경",
+      "path": "ROKEY bootcamp/리눅스 환경.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
+    },
+    {
+      "basename": "Robot Ai",
+      "path": "ROKEY bootcamp/Robot Ai.md"
+    },
+    {
+      "basename": "강의 - Deep Reinforcement Learning",
+      "path": "개인공부/강의 - Deep Reinforcement Learning.md"
+    },
+    {
+      "basename": "4_로봇환경AI - PID",
+      "path": "ROKEY bootcamp/4_로봇환경AI - PID.md"
     },
     {
       "basename": "3_로봇환경 AI - Search",
       "path": "ROKEY bootcamp/3_로봇환경 AI - Search.md"
     },
     {
-      "basename": "Robot Ai",
-      "path": "ROKEY bootcamp/Robot Ai.md"
+      "basename": "모방학습",
+      "path": "개인공부/모방학습.md"
+    },
+    {
+      "basename": "ROS2_tf2",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_tf2.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "2024-10-30",
+      "path": "Daily Notes/2024-10-30.md"
     },
     {
       "basename": "2_ 로봇 환경 AI - 칼만",
@@ -39,10 +83,6 @@
     {
       "basename": "DCAT 준비",
       "path": "개인공부/DCAT 준비.md"
-    },
-    {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
     },
     {
       "basename": "기초 이론_1",
@@ -89,18 +129,6 @@
       "path": "Daily Notes/2024-10-28.md"
     },
     {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "두산 로보틱스 ROKEY bootcamp",
-      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
-    },
-    {
-      "basename": "모방학습",
-      "path": "개인공부/모방학습.md"
-    },
-    {
       "basename": "ROS2 평가 준비",
       "path": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md"
     },
@@ -115,10 +143,6 @@
     {
       "basename": "csv 파일을 그래프로 정리해주는 AI",
       "path": "개인공부/csv 파일을 그래프로 정리해주는 AI.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "2024-10-25",
