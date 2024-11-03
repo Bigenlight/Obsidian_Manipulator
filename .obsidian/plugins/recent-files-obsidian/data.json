@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-11-01",
-      "path": "Daily Notes/2024-11-01.md"
-    },
-    {
-      "basename": "2024-10-31",
-      "path": "Daily Notes/2024-10-31.md"
-    },
-    {
-      "basename": "두산 로보틱스 ROKEY bootcamp",
-      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
+      "basename": "2024-11-03",
+      "path": "Daily Notes/2024-11-03.md"
     },
     {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
     },
     {
-      "basename": "4_로봇환경AI - PID",
-      "path": "ROKEY bootcamp/4_로봇환경AI - PID.md"
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
     },
     {
       "basename": "Robot Ai",
       "path": "ROKEY bootcamp/Robot Ai.md"
+    },
+    {
+      "basename": "4_로봇환경AI - PID",
+      "path": "ROKEY bootcamp/4_로봇환경AI - PID.md"
+    },
+    {
+      "basename": "2024-11-01",
+      "path": "Daily Notes/2024-11-01.md"
+    },
+    {
+      "basename": "모방학습",
+      "path": "개인공부/모방학습.md"
+    },
+    {
+      "basename": "2024-10-31",
+      "path": "Daily Notes/2024-10-31.md"
+    },
+    {
+      "basename": "교육(커리큘럼) 및 학사 관리",
+      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
     },
     {
       "basename": "Daily notes template",
@@ -51,10 +59,6 @@
     {
       "basename": "3_로봇환경 AI - Search",
       "path": "ROKEY bootcamp/3_로봇환경 AI - Search.md"
-    },
-    {
-      "basename": "모방학습",
-      "path": "개인공부/모방학습.md"
     },
     {
       "basename": "ROS2_tf2",
