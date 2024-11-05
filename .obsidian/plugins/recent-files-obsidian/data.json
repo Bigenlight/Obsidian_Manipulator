@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Daily Notes/Untitled.md"
+      "basename": "ROS2_이론, 교양, 프로그래밍 입문",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_이론, 교양, 프로그래밍 입문.md"
+    },
+    {
+      "basename": "ROS2_CLI, Ros Bag, Security, -args",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security, -args.md"
+    },
+    {
+      "basename": "ROS2 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md"
+    },
+    {
+      "basename": "1_지능2",
+      "path": "ROKEY bootcamp/Project/1_지능2.md"
     },
     {
       "basename": "2024-11-05",
       "path": "Daily Notes/2024-11-05.md"
     },
     {
-      "basename": "1_지능2",
-      "path": "ROKEY bootcamp/1_지능2.md"
+      "basename": "로봇 프로젝트",
+      "path": "ROKEY bootcamp/Project/로봇 프로젝트.md"
     },
     {
-      "basename": "로봇 프로젝트",
-      "path": "ROKEY bootcamp/로봇 프로젝트.md"
+      "basename": "팀원",
+      "path": "ROKEY bootcamp/Project/팀원.md"
+    },
+    {
+      "basename": "Robot Ai",
+      "path": "ROKEY bootcamp/Robot AI/Robot Ai.md"
+    },
+    {
+      "basename": "2_ 로봇 환경 AI - 칼만",
+      "path": "ROKEY bootcamp/Robot AI/2_ 로봇 환경 AI - 칼만.md"
     },
     {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Daily Notes/Untitled.md"
     },
     {
       "basename": "2024-11-04",
@@ -175,30 +199,6 @@
     {
       "basename": "2024-10-02",
       "path": "Daily Notes/2024-10-02.md"
-    },
-    {
-      "basename": "2024-10-03",
-      "path": "Daily Notes/2024-10-03.md"
-    },
-    {
-      "basename": "두산 로보틱스 채용- 카카오톡",
-      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
-    },
-    {
-      "basename": "2024-09-22",
-      "path": "Daily Notes/2024-09-22.md"
-    },
-    {
-      "basename": "교육(커리큘럼) 및 학사 관리",
-      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
-    },
-    {
-      "basename": "Ubuntu 22.04",
-      "path": "개인공부/Ubuntu 22.04.md"
-    },
-    {
-      "basename": "2024-09-30",
-      "path": "Daily Notes/2024-09-30.md"
     }
   ],
   "omittedPaths": []
