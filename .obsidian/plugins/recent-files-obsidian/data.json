@@ -9,20 +9,32 @@
       "path": "ROKEY bootcamp/1_지능2.md"
     },
     {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "두산 로보틱스 ROS 교육",
-      "path": "ROKEY bootcamp/두산 로보틱스 ROS 교육.md"
+      "basename": "로봇 프로젝트",
+      "path": "ROKEY bootcamp/로봇 프로젝트.md"
     },
     {
       "basename": "팀원",
       "path": "ROKEY bootcamp/팀원.md"
     },
     {
-      "basename": "로봇 프로젝트",
-      "path": "ROKEY bootcamp/로봇 프로젝트.md"
+      "basename": "두산 로보틱스 ROS 교육",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROS 교육.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "ROS2설치",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2설치.md"
+    },
+    {
+      "basename": "ROS2_CLI, Ros Bag, Security, -args",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security, -args.md"
+    },
+    {
+      "basename": "ROS2 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md"
     },
     {
       "basename": "Robot Ai",
@@ -145,10 +157,6 @@
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
     },
     {
-      "basename": "ROS2설치",
-      "path": "ROKEY bootcamp/Computer Vision/ROS2설치.md"
-    },
-    {
       "basename": "AI, Computer Vision 평가 준비",
       "path": "ROKEY bootcamp/Computer Vision/AI, Computer Vision 평가 준비.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-10-03",
       "path": "Daily Notes/2024-10-03.md"
-    },
-    {
-      "basename": "두산 로보틱스 채용- 카카오톡",
-      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
-    },
-    {
-      "basename": "2024-09-22",
-      "path": "Daily Notes/2024-09-22.md"
     }
   ],
   "omittedPaths": []
