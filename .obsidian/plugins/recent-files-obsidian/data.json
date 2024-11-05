@@ -7,6 +7,7 @@
     {
       "basename": "25_1-Labeling",
       "path": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md"
+<<<<<<< HEAD
     },
     {
       "basename": "Ai,컴퓨터 비전",
@@ -23,22 +24,69 @@
     {
       "basename": "1_지능2",
       "path": "ROKEY bootcamp/1_지능2.md"
+=======
+>>>>>>> 97b65ae1928891564f61aabc1f9a50a4617bbe2b
     },
     {
       "basename": "2024-11-05",
       "path": "Daily Notes/2024-11-05.md"
     },
     {
+<<<<<<< HEAD
       "basename": "Untitled",
       "path": "Daily Notes/Untitled.md"
+=======
+      "basename": "1_지능2_OT",
+      "path": "ROKEY bootcamp/Project/1_지능2_OT.md"
+    },
+    {
+      "basename": "2_지능2_YOLO,FLASK",
+      "path": "ROKEY bootcamp/Project/2_지능2_YOLO,FLASK.md"
+>>>>>>> 97b65ae1928891564f61aabc1f9a50a4617bbe2b
     },
     {
       "basename": "로봇 프로젝트",
-      "path": "ROKEY bootcamp/로봇 프로젝트.md"
+      "path": "ROKEY bootcamp/Project/로봇 프로젝트.md"
+    },
+    {
+      "basename": "Day1",
+      "path": "ROKEY bootcamp/Project/attachments/Day1.pdf"
+    },
+    {
+      "basename": "3차_2-FLASK",
+      "path": "ROKEY bootcamp/DevOps/3차_2-FLASK.md"
+    },
+    {
+      "basename": "ROS2_이론, 교양, 프로그래밍 입문",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_이론, 교양, 프로그래밍 입문.md"
+    },
+    {
+      "basename": "ROS2_CLI, Ros Bag, Security, -args",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security, -args.md"
+    },
+    {
+      "basename": "ROS2 평가 준비",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md"
+    },
+    {
+      "basename": "팀원",
+      "path": "ROKEY bootcamp/Project/팀원.md"
+    },
+    {
+      "basename": "Robot Ai",
+      "path": "ROKEY bootcamp/Robot AI/Robot Ai.md"
+    },
+    {
+      "basename": "2_ 로봇 환경 AI - 칼만",
+      "path": "ROKEY bootcamp/Robot AI/2_ 로봇 환경 AI - 칼만.md"
     },
     {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Daily Notes/Untitled.md"
     },
     {
       "basename": "2024-11-04",
@@ -175,6 +223,7 @@
     {
       "basename": "인적성 준비",
       "path": "개인공부/인적성 준비.md"
+<<<<<<< HEAD
     },
     {
       "basename": "23_1-객체 탐지, YoloV358",
@@ -199,6 +248,8 @@
     {
       "basename": "2024-09-22",
       "path": "Daily Notes/2024-09-22.md"
+=======
+>>>>>>> 97b65ae1928891564f61aabc1f9a50a4617bbe2b
     }
   ],
   "omittedPaths": []
