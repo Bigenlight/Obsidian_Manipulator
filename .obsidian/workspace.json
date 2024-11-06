@@ -93,9 +93,18 @@
               "icon": "lucide-file",
               "title": "2024-11-06"
             }
+          },
+          {
+            "id": "772a9fc59cf2bb28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -262,13 +271,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "605c7119077e0ef7",
+  "active": "ae9d6a375be46d85",
   "lastOpenFiles": [
-    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
+    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-11-06.md",
     "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "Daily Notes/2024-11-05.md",
-    "Daily Notes/2024-11-06.md",
     "ROKEY bootcamp/Robot AI/Robot Ai.md",
     "ROKEY bootcamp/Robot AI/6_SLAM.md",
     "ROKEY bootcamp/Robot AI/4_로봇환경AI - PID.md",
