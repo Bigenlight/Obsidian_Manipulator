@@ -1,32 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-11-06",
-      "path": "Daily Notes/2024-11-06.md"
-    },
-    {
       "basename": "정보",
       "path": "ROKEY bootcamp/정보.md"
     },
     {
-      "basename": "25_1-Labeling",
-      "path": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md"
+      "basename": "2024-11-07",
+      "path": "Daily Notes/2024-11-07.md"
     },
     {
-      "basename": "27_1-PyQT, Flask, YoloV8",
-      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
+      "basename": "2024-11-08",
+      "path": "Daily Notes/2024-11-08.md"
     },
     {
-      "basename": "2024-11-05",
-      "path": "Daily Notes/2024-11-05.md"
+      "basename": "매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용)",
+      "path": "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf"
     },
     {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+      "basename": "2024-11-06",
+      "path": "Daily Notes/2024-11-06.md"
     },
     {
       "basename": "Untitled",
       "path": "Daily Notes/Untitled.md"
+    },
+    {
+      "basename": "2024-11-05",
+      "path": "Daily Notes/2024-11-05.md"
     },
     {
       "basename": "2024-11-04",
@@ -165,8 +165,16 @@
       "path": "개인공부/인적성 준비.md"
     },
     {
+      "basename": "27_1-PyQT, Flask, YoloV8",
+      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
+    },
+    {
       "basename": "23_1-객체 탐지, YoloV358",
       "path": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md"
+    },
+    {
+      "basename": "Ai,컴퓨터 비전",
+      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     },
     {
       "basename": "Drawing 2024-10-03 23.44.49.excalidraw",
@@ -187,6 +195,10 @@
     {
       "basename": "2024-09-22",
       "path": "Daily Notes/2024-09-22.md"
+    },
+    {
+      "basename": "교육(커리큘럼) 및 학사 관리",
+      "path": "ROKEY bootcamp/교육(커리큘럼) 및 학사 관리.md"
     }
   ],
   "omittedPaths": []

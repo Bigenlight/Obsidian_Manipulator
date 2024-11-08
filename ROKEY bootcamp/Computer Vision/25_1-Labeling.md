@@ -10,6 +10,12 @@ last modification: 2024-09-20
 labeling -> data -> predefined 파일
 들어가서 클래스(라벨명) 삭제 가능. 여기서 수정도 가능.
 
+labelImg 폴더 들가고
+거기 언에서 
+python3 labelImg.py
+을 실행해야 함.
+
+그리고 같은 폴더에 있는 data 속 predefined도 지워주고.
 ### Window - Anaconda3
 아나콘다 프롬프트 열고
 pip install labelImg

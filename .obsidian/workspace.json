@@ -20,6 +20,21 @@
             }
           },
           {
+            "id": "28f6b0214e568726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-11-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-08"
+            }
+          },
+          {
             "id": "ff43fbce3c7b7970",
             "type": "leaf",
             "state": {
@@ -35,67 +50,17 @@
             }
           },
           {
-            "id": "6608f74939192a26",
+            "id": "53ce3634d6bf0f3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "25_1-Labeling"
-            }
-          },
-          {
-            "id": "f850342760839543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "27_1-PyQT, Flask, YoloV8"
-            }
-          },
-          {
-            "id": "d05455e09b4f99d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-11-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-05"
-            }
-          },
-          {
-            "id": "605c7119077e0ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-11-06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-06"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -258,18 +223,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "periodic-notes:Open today": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "605c7119077e0ef7",
+  "active": "28f6b0214e568726",
   "lastOpenFiles": [
-    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-11-07.md",
+    "Daily Notes/2024-11-08.md",
+    "desktop.ini",
     "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
+    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
+    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
+    "ROKEY bootcamp/Robot AI/Robot Ai.md",
+    "ROKEY bootcamp/정보.md",
     "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
     "Daily Notes/2024-11-05.md",
     "Daily Notes/2024-11-06.md",
-    "ROKEY bootcamp/Robot AI/Robot Ai.md",
     "ROKEY bootcamp/Robot AI/6_SLAM.md",
     "ROKEY bootcamp/Robot AI/4_로봇환경AI - PID.md",
     "ROKEY bootcamp/Robot AI/3_로봇환경 AI - Search.md",
@@ -286,7 +255,6 @@
     "ROKEY bootcamp/Project/2_지능2_YOLO,FLASK.md",
     "ROKEY bootcamp/Project/1_지능2_OT.md",
     "ROKEY bootcamp/Project",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "ROKEY bootcamp/팀원.md",
     "ROKEY bootcamp/1_지능2.md",
     "Daily Notes/Untitled.md",
@@ -294,9 +262,6 @@
     "ROKEY bootcamp/두산 로보틱스 ROS 교육.md",
     "ROKEY bootcamp/Computer Vision/ROS2설치.md",
     "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security, -args.md",
-    "ROKEY bootcamp/Computer Vision/ROS2 평가 준비.md",
-    "ROKEY bootcamp/Robot Ai.md",
-    "ROKEY bootcamp/4_로봇환경AI - PID.md",
     "ROKEY bootcamp/attachments/Pasted image 20241104174653.png",
     "ROKEY bootcamp/attachments/Pasted image 20241104174503.png",
     "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf",
@@ -305,7 +270,6 @@
     "ROKEY bootcamp/attachments/로봇_환경_AI_기초_실습_SLAM.pdf",
     "개인공부/attachments/2410.24185v1.pdf",
     "ROKEY bootcamp/attachments/PID_2.pdf",
-    "ROKEY bootcamp/attachments/로봇_환경_AI_기초_실습_PID.pdf",
     "개인공부/attachments/Pasted image 20241031114409.png",
     "ROKEY bootcamp/attachments/Pasted image 20241030151022.png",
     "ROKEY bootcamp/attachments/Pasted image 20241030150948.png",
