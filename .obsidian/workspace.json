@@ -1,80 +1,42 @@
 {
   "main": {
-    "id": "ff573c58c7aad1e7",
+    "id": "d27580476e255212",
     "type": "split",
     "children": [
       {
-        "id": "687f96712ac37e65",
+        "id": "d6ecc7b9466b2a04",
         "type": "tabs",
         "children": [
           {
-            "id": "ae9d6a375be46d85",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "28f6b0214e568726",
+            "id": "4d34aa7a368258a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-11-08.md",
+                "file": "Daily Notes/2024-11-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-08"
-            }
-          },
-          {
-            "id": "ff43fbce3c7b7970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROKEY bootcamp/정보.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "정보"
-            }
-          },
-          {
-            "id": "53ce3634d6bf0f3b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-11-09"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4666e794d233eeb3",
+    "id": "7dd5b06ed257203f",
     "type": "split",
     "children": [
       {
-        "id": "af1da1e5cd561046",
+        "id": "64a56667a277efe4",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2cc4ff7a48e224",
+            "id": "b27ca847e67b17be",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,12 +48,12 @@
             }
           },
           {
-            "id": "0e6bfb86926124a8",
+            "id": "b7da61f8b705b76e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "라벨링",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +65,7 @@
             }
           },
           {
-            "id": "a51ea60b4bfa17e9",
+            "id": "690686dcc9522f06",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -113,7 +75,7 @@
             }
           },
           {
-            "id": "ac55846b0100b82a",
+            "id": "b91ea8d076935f6e",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -130,30 +92,20 @@
     "width": 300
   },
   "right": {
-    "id": "35c8909a1d4466c6",
+    "id": "67cd52deed59f9ab",
     "type": "split",
     "children": [
       {
-        "id": "132b87ec6dcab11e",
+        "id": "32a4905199591ec4",
         "type": "tabs",
         "children": [
           {
-            "id": "108d477eb4fbdf25",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "ef90358f5f16d5e4",
+            "id": "9379ab9813cc3b06",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-17.md",
+                "file": "Daily Notes/2024-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,25 +115,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-17"
+              "title": "Backlinks for 2024-11-09"
             }
           },
           {
-            "id": "d103507bf2ff4443",
+            "id": "1449d5fd2c2fb2c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-17.md",
+                "file": "Daily Notes/2024-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-17"
+              "title": "Outgoing links from 2024-11-09"
             }
           },
           {
-            "id": "560a59e74fe8f0a7",
+            "id": "d8bdfc9ff22eac92",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,15 +146,25 @@
             }
           },
           {
-            "id": "7ef288344a070817",
+            "id": "f0c63d1e8271f58d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-17.md"
+                "file": "Daily Notes/2024-11-09.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-17"
+              "title": "Outline of 2024-11-09"
+            }
+          },
+          {
+            "id": "82ccb59fdaf3f826",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -214,65 +176,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "vscode-editor:Create Code File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "vscode-editor:Create Code File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "28f6b0214e568726",
+  "active": "4d34aa7a368258a6",
   "lastOpenFiles": [
-    "Daily Notes/2024-11-07.md",
-    "Daily Notes/2024-11-08.md",
-    "desktop.ini",
-    "ROKEY bootcamp/Computer Vision/25_1-Labeling.md",
-    "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
-    "ROKEY bootcamp/Robot AI/Robot Ai.md",
-    "ROKEY bootcamp/정보.md",
-    "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md",
-    "Daily Notes/2024-11-05.md",
-    "Daily Notes/2024-11-06.md",
-    "ROKEY bootcamp/Robot AI/6_SLAM.md",
-    "ROKEY bootcamp/Robot AI/4_로봇환경AI - PID.md",
-    "ROKEY bootcamp/Robot AI/3_로봇환경 AI - Search.md",
-    "ROKEY bootcamp/Robot AI/2_ 로봇 환경 AI - 칼만.md",
-    "ROKEY bootcamp/Robot AI/1_로봇 환경 AI - 로컬라이제이션.md",
-    "ROKEY bootcamp/Robot AI",
-    "ROKEY bootcamp/Project/팀원.md",
-    "ROKEY bootcamp/Project/로봇 프로젝트.md",
-    "ROKEY bootcamp/Project/attachments/Pasted image 20241105232911.png",
-    "ROKEY bootcamp/Project/attachments/Pasted image 20241105232856.png",
-    "ROKEY bootcamp/Project/attachments/Pasted image 20241105232834.png",
-    "ROKEY bootcamp/Project/attachments/Day1.pdf",
-    "ROKEY bootcamp/Project/attachments",
-    "ROKEY bootcamp/Project/2_지능2_YOLO,FLASK.md",
-    "ROKEY bootcamp/Project/1_지능2_OT.md",
-    "ROKEY bootcamp/Project",
-    "ROKEY bootcamp/팀원.md",
-    "ROKEY bootcamp/1_지능2.md",
-    "Daily Notes/Untitled.md",
-    "ROKEY bootcamp/로봇 프로젝트.md",
-    "ROKEY bootcamp/두산 로보틱스 ROS 교육.md",
-    "ROKEY bootcamp/Computer Vision/ROS2설치.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security, -args.md",
-    "ROKEY bootcamp/attachments/Pasted image 20241104174653.png",
-    "ROKEY bootcamp/attachments/Pasted image 20241104174503.png",
-    "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf",
-    "ROKEY bootcamp/attachments/Pasted image 20241104171933.png",
-    "ROKEY bootcamp/attachments/로봇_환경_AI_기초_실습_SLAM_ex.pdf",
-    "ROKEY bootcamp/attachments/로봇_환경_AI_기초_실습_SLAM.pdf",
-    "개인공부/attachments/2410.24185v1.pdf",
-    "ROKEY bootcamp/attachments/PID_2.pdf",
-    "개인공부/attachments/Pasted image 20241031114409.png",
-    "ROKEY bootcamp/attachments/Pasted image 20241030151022.png",
-    "ROKEY bootcamp/attachments/Pasted image 20241030150948.png",
-    "ROKEY bootcamp/attachments/Pasted image 20241030150905.png"
+    "Excalidraw/Drawing 2024-11-08 14.16.53.excalidraw.md",
+    "Daily Notes/2024-11-09.md"
   ]
 }
