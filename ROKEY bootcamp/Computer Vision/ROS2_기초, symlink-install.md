@@ -3,6 +3,8 @@
 last modification: 2024-10-04
 
 # ROS2 팁
+### VScode
+에서 그냥 python3로 실행하면 실행 되긴 함 ㅇㅇ. 굳이 빌드 안해도 일단 실행 됨. 실험하기 좋을 듯.
 ### Symlink-install
 colcon build --symlink-install
 ![[Drawing 2024-10-18 16.35.29.excalidraw]]
