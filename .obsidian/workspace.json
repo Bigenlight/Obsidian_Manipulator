@@ -13,32 +13,119 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/기출.md",
+                "file": "Daily Notes/2024-11-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기출"
+              "title": "2024-11-12"
             }
           },
           {
-            "id": "e22e9043be336f7d",
+            "id": "aaa2c985cb75395e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-11-11.md",
+                "file": "ROKEY bootcamp/정보.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-11"
+              "title": "정보"
+            }
+          },
+          {
+            "id": "81e0ff6492506800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "두산 로보틱스 ROKEY bootcamp"
+            }
+          },
+          {
+            "id": "52d624735fba2edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Project/로봇 프로젝트.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "로봇 프로젝트"
+            }
+          },
+          {
+            "id": "5898f6e4e5faa180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROKEY bootcamp/Project/주행1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "주행1"
+            }
+          },
+          {
+            "id": "5f8e41832ddf83b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용)"
+            }
+          },
+          {
+            "id": "abd6b720b61c561a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-11-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-12"
+            }
+          },
+          {
+            "id": "60649030c7498a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-11-15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-15"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -69,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인공지능기초",
+                "query": "DDS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,11 +188,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.5110321044922
   },
   "right": {
     "id": "67cd52deed59f9ab",
@@ -200,15 +287,32 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e22e9043be336f7d",
+  "active": "60649030c7498a2e",
   "lastOpenFiles": [
-    "개인공부/기출.md",
+    "Daily Notes/2024-11-14.md",
+    "Daily Notes/2024-11-15.md",
+    "Daily Notes/2024-11-13.md",
+    "Excalidraw/Drawing 2024-11-12 14.48.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-12 14.26.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-12 14.48.57.excalidraw.png",
+    "ROKEY bootcamp/Project/attachments/Pasted image 20241112113449.png",
+    "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security, -args.md",
+    "ROKEY bootcamp/Computer Vision/ROS2_DDS, QOS.md",
+    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
+    "ROKEY bootcamp/Project/주행1.md",
+    "ROKEY bootcamp/Project/attachments/로키_-_프로젝트_교안_식당_서비스_개발_.pdf",
+    "ROKEY bootcamp/Project/attachments/강의_1기_실습_주행3_Day1.pdf",
+    "ROKEY bootcamp/Project/로봇 프로젝트.md",
+    "ROKEY bootcamp/Project/2_지능2_YOLO,FLASK.md",
+    "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
+    "ROKEY bootcamp/정보.md",
+    "Daily Notes/2024-11-12.md",
+    "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf",
     "Daily Notes/2024-11-11.md",
+    "개인공부/기출.md",
     "Daily Notes/2024-11-10.md",
     "Daily Notes/2024-11-09.md",
     "Excalidraw/Drawing 2024-11-08 14.16.53.excalidraw.md"
