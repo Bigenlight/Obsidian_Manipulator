@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-18",
+      "path": "Daily Notes/2024-11-18.md"
+    },
+    {
+      "basename": "Drawing 2024-11-12 14.26.08.excalidraw",
+      "path": "Excalidraw/Drawing 2024-11-12 14.26.08.excalidraw.md"
+    },
+    {
+      "basename": "주행1",
+      "path": "ROKEY bootcamp/Project/주행1.md"
+    },
+    {
+      "basename": "로봇 프로젝트",
+      "path": "ROKEY bootcamp/Project/로봇 프로젝트.md"
+    },
+    {
+      "basename": "Drawing 2024-11-12 14.48.57.excalidraw",
+      "path": "Excalidraw/Drawing 2024-11-12 14.48.57.excalidraw.md"
+    },
+    {
+      "basename": "매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용)",
+      "path": "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf"
+    },
+    {
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "2024-11-12",
+      "path": "Daily Notes/2024-11-12.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "2024-11-16",
+      "path": "Daily Notes/2024-11-16.md"
+    },
+    {
       "basename": "2024-11-15",
       "path": "Daily Notes/2024-11-15.md"
     },
@@ -11,22 +51,6 @@
     {
       "basename": "2024-11-13",
       "path": "Daily Notes/2024-11-13.md"
-    },
-    {
-      "basename": "매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용)",
-      "path": "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf"
-    },
-    {
-      "basename": "정보",
-      "path": "ROKEY bootcamp/정보.md"
-    },
-    {
-      "basename": "주행1",
-      "path": "ROKEY bootcamp/Project/주행1.md"
-    },
-    {
-      "basename": "2024-11-12",
-      "path": "Daily Notes/2024-11-12.md"
     },
     {
       "basename": "2024-11-10",
@@ -175,30 +199,6 @@
     {
       "basename": "1차 DBMS 개요와 MySQL 소개",
       "path": "ROKEY bootcamp/DevOps/1차 DBMS 개요와 MySQL 소개.md"
-    },
-    {
-      "basename": "2024-10-01",
-      "path": "Daily Notes/2024-10-01.md"
-    },
-    {
-      "basename": "22_1-Object Detection, YoloV12, SSD",
-      "path": "ROKEY bootcamp/Computer Vision/22_1-Object Detection, YoloV12, SSD.md"
-    },
-    {
-      "basename": "인적성 준비",
-      "path": "개인공부/인적성 준비.md"
-    },
-    {
-      "basename": "27_1-PyQT, Flask, YoloV8",
-      "path": "ROKEY bootcamp/Computer Vision/27_1-PyQT, Flask, YoloV8.md"
-    },
-    {
-      "basename": "23_1-객체 탐지, YoloV358",
-      "path": "ROKEY bootcamp/Computer Vision/23_1-객체 탐지, YoloV358.md"
-    },
-    {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
     }
   ],
   "omittedPaths": []
