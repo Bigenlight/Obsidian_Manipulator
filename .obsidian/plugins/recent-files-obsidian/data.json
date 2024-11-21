@@ -9,6 +9,10 @@
       "path": "Daily Notes/2024-11-20.md"
     },
     {
+      "basename": "2024-11-22",
+      "path": "Daily Notes/2024-11-22.md"
+    },
+    {
       "basename": "2024-11-19",
       "path": "Daily Notes/2024-11-19.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-10-04",
       "path": "Daily Notes/2024-10-04.md"
-    },
-    {
-      "basename": "Python 18강-정규표현식,코루틴",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
     }
   ],
   "omittedPaths": []
