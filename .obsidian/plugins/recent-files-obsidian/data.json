@@ -1,48 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-12-11",
-      "path": "Daily Notes/2024-12-11.md"
+      "basename": "2025-03-02",
+      "path": "Daily Notes/2025-03-02.md"
+    },
+    {
+      "basename": "로봇 프로젝트",
+      "path": "ROKEY bootcamp/Project/로봇 프로젝트.md"
+    },
+    {
+      "basename": "협동3",
+      "path": "ROKEY bootcamp/Project/협동3.md"
     },
     {
       "basename": "협동1",
       "path": "ROKEY bootcamp/Project/협동1.md"
     },
     {
-      "basename": "Drawing 2024-11-12 14.48.57.excalidraw",
-      "path": "Excalidraw/Drawing 2024-11-12 14.48.57.excalidraw.md"
+      "basename": "협동2",
+      "path": "ROKEY bootcamp/Project/협동2.md"
     },
     {
-      "basename": "매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용)",
-      "path": "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf"
+      "basename": "두산 로보틱스 ROKEY bootcamp",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
     },
     {
-      "basename": "2024-12-10",
-      "path": "Daily Notes/2024-12-10.md"
+      "basename": "2025-01-11",
+      "path": "Daily Notes/2025-01-11.md"
     },
     {
-      "basename": "2024-11-16",
-      "path": "Daily Notes/2024-11-16.md"
+      "basename": "2025-01-10",
+      "path": "Daily Notes/2025-01-10.md"
     },
     {
-      "basename": "기출",
-      "path": "개인공부/기출.md"
+      "basename": "csv 파일을 그래프로 정리해주는 AI",
+      "path": "개인공부/csv 파일을 그래프로 정리해주는 AI.md"
     },
     {
-      "basename": "인공지능기초와 활용",
-      "path": "개인공부/인공지능기초와 활용.md"
+      "basename": "1차 MySQL 설치 및 실행",
+      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
     },
     {
-      "basename": "개인 공부",
-      "path": "개인공부/개인 공부.md"
+      "basename": "Python 07강-반복문",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 07강-반복문.md"
     },
     {
-      "basename": "2024-11-12",
-      "path": "Daily Notes/2024-11-12.md"
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
     },
     {
-      "basename": "로봇 프로젝트",
-      "path": "ROKEY bootcamp/Project/로봇 프로젝트.md"
+      "basename": "2025-03-01",
+      "path": "Daily Notes/2025-03-01.md"
+    },
+    {
+      "basename": "2025-02-28",
+      "path": "Daily Notes/2025-02-28.md"
+    },
+    {
+      "basename": "2024-12-27",
+      "path": "Daily Notes/2024-12-27.md"
+    },
+    {
+      "basename": "2025-01-09",
+      "path": "Daily Notes/2025-01-09.md"
+    },
+    {
+      "basename": "2025-01-06",
+      "path": "Daily Notes/2025-01-06.md"
+    },
+    {
+      "basename": "취업 특강",
+      "path": "ROKEY bootcamp/취업 특강.md"
     },
     {
       "basename": "주행1",
@@ -53,152 +81,124 @@
       "path": "ROKEY bootcamp/정보.md"
     },
     {
-      "basename": "2024-12-09",
-      "path": "Daily Notes/2024-12-09.md"
+      "basename": "팀원",
+      "path": "ROKEY bootcamp/Project/팀원.md"
     },
     {
-      "basename": "2024-12-08",
-      "path": "Daily Notes/2024-12-08.md"
+      "basename": "두산 로보틱스 ROS 교육",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROS 교육.md"
     },
     {
-      "basename": "2024-12-07",
-      "path": "Daily Notes/2024-12-07.md"
+      "basename": "지능1",
+      "path": "ROKEY bootcamp/Project/지능1.md"
     },
     {
-      "basename": "2024-12-05",
-      "path": "Daily Notes/2024-12-05.md"
+      "basename": "1_지능2",
+      "path": "ROKEY bootcamp/Project/1_지능2.md"
     },
     {
-      "basename": "2024-12-04",
-      "path": "Daily Notes/2024-12-04.md"
+      "basename": "지능2 코드 모음",
+      "path": "ROKEY bootcamp/Project/지능2 코드 모음.md"
     },
     {
-      "basename": "2024-12-03",
-      "path": "Daily Notes/2024-12-03.md"
+      "basename": "yolo_subscriber",
+      "path": "ROKEY bootcamp/Project/attachments/yolo_subscriber.py"
     },
     {
-      "basename": "2024-11-26",
-      "path": "Daily Notes/2024-11-26.md"
+      "basename": "2025-01-02",
+      "path": "Daily Notes/2025-01-02.md"
     },
     {
-      "basename": "2024-12-02",
-      "path": "Daily Notes/2024-12-02.md"
+      "basename": "매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용)",
+      "path": "ROKEY bootcamp/attachments/매뉴얼_ROKEY_Life Guide_20241104_(최종 안내용).pdf"
     },
     {
-      "basename": "2024-11-29",
-      "path": "Daily Notes/2024-11-29.md"
+      "basename": "2024-07-04",
+      "path": "Daily Notes/2024-07-04.md"
     },
     {
-      "basename": "2024-11-27",
-      "path": "Daily Notes/2024-11-27.md"
-    },
-    {
-      "basename": "2024-11-21",
-      "path": "Daily Notes/2024-11-21.md"
-    },
-    {
-      "basename": "2024-11-22",
-      "path": "Daily Notes/2024-11-22.md"
-    },
-    {
-      "basename": "2024-11-20",
-      "path": "Daily Notes/2024-11-20.md"
-    },
-    {
-      "basename": "2024-11-19",
-      "path": "Daily Notes/2024-11-19.md"
-    },
-    {
-      "basename": "2024-11-18",
-      "path": "Daily Notes/2024-11-18.md"
-    },
-    {
-      "basename": "Drawing 2024-11-12 14.26.08.excalidraw",
-      "path": "Excalidraw/Drawing 2024-11-12 14.26.08.excalidraw.md"
-    },
-    {
-      "basename": "두산 로보틱스 ROKEY bootcamp",
-      "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
-    },
-    {
-      "basename": "2024-11-15",
-      "path": "Daily Notes/2024-11-15.md"
-    },
-    {
-      "basename": "2024-11-14",
-      "path": "Daily Notes/2024-11-14.md"
-    },
-    {
-      "basename": "2024-11-13",
-      "path": "Daily Notes/2024-11-13.md"
-    },
-    {
-      "basename": "2024-11-10",
-      "path": "Daily Notes/2024-11-10.md"
-    },
-    {
-      "basename": "2024-11-07",
-      "path": "Daily Notes/2024-11-07.md"
-    },
-    {
-      "basename": "2024-11-08",
-      "path": "Daily Notes/2024-11-08.md"
-    },
-    {
-      "basename": "2024-11-06",
-      "path": "Daily Notes/2024-11-06.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Daily Notes/Untitled.md"
-    },
-    {
-      "basename": "2024-11-05",
-      "path": "Daily Notes/2024-11-05.md"
-    },
-    {
-      "basename": "2024-11-04",
-      "path": "Daily Notes/2024-11-04.md"
-    },
-    {
-      "basename": "2024-10-13",
-      "path": "Daily Notes/2024-10-13.md"
-    },
-    {
-      "basename": "2024-10-12",
-      "path": "Daily Notes/2024-10-12.md"
-    },
-    {
-      "basename": "2024-10-11",
-      "path": "Daily Notes/2024-10-11.md"
+      "basename": "Daily Notes Dataview",
+      "path": "Daily Notes/Daily Notes Dataview.md"
     },
     {
       "basename": "2024-10-10",
       "path": "Daily Notes/2024-10-10.md"
     },
     {
-      "basename": "2024-10-09",
-      "path": "Daily Notes/2024-10-09.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
-      "basename": "ROBOTICS",
-      "path": "ROKEY bootcamp/Computer Vision/ROBOTICS.md"
+      "basename": "2024-07-03",
+      "path": "Daily Notes/2024-07-03.md"
     },
     {
-      "basename": "2024-10-08",
-      "path": "Daily Notes/2024-10-08.md"
+      "basename": "2024-07-01",
+      "path": "Daily Notes/2024-07-01.md"
     },
     {
-      "basename": "2024-10-07",
-      "path": "Daily Notes/2024-10-07.md"
+      "basename": "2024-07-02",
+      "path": "Daily Notes/2024-07-02.md"
     },
     {
-      "basename": "2024-10-06",
-      "path": "Daily Notes/2024-10-06.md"
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
     },
     {
-      "basename": "기초 이론_1",
-      "path": "ROKEY bootcamp/Computer Vision/기초 이론_1.md"
+      "basename": "2_1 Pandas,Matplotlib,딥러닝실습",
+      "path": "ROKEY bootcamp/Computer Vision/2_1 Pandas,Matplotlib,딥러닝실습.md"
+    },
+    {
+      "basename": "DevOps 강의",
+      "path": "ROKEY bootcamp/DevOps/DevOps 강의.md"
+    },
+    {
+      "basename": "C 06장-함수",
+      "path": "ROKEY bootcamp/C class/C 06장-함수.md"
+    },
+    {
+      "basename": "Python 18강-정규표현식,코루틴",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
+    },
+    {
+      "basename": "Python 이론",
+      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
+    },
+    {
+      "basename": "주행2",
+      "path": "ROKEY bootcamp/Project/주행2.md"
+    },
+    {
+      "basename": "ROS2_DDS, QOS",
+      "path": "ROKEY bootcamp/Computer Vision/ROS2_DDS, QOS.md"
+    },
+    {
+      "basename": "9_1-OpenCV",
+      "path": "ROKEY bootcamp/Computer Vision/9_1-OpenCV.md"
+    },
+    {
+      "basename": "2024-08-16",
+      "path": "Daily Notes/2024-08-16.md"
+    },
+    {
+      "basename": "2025-01-01",
+      "path": "Daily Notes/2025-01-01.md"
+    },
+    {
+      "basename": "ROS2 공부",
+      "path": "개인공부/ROS2 공부.md"
+    },
+    {
+      "basename": "개인 공부",
+      "path": "개인공부/개인 공부.md"
+    },
+    {
+      "basename": "2024-12-31",
+      "path": "Daily Notes/2024-12-31.md"
+    },
+    {
+      "basename": "Drawing 2024-12-31 11.38.35.excalidraw",
+      "path": "Excalidraw/Drawing 2024-12-31 11.38.35.excalidraw.md"
     }
   ],
   "omittedPaths": []

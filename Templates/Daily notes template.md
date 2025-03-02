@@ -3,16 +3,14 @@ title:
 date_daily: <% tp.file.title.slice(0,10) %>
 important_date: 
 tags:
-  - 2024년
   - 할일
   - "#daily"
-  - 11월
+  - 2025년
 related notes: "[[Daily Notes Dataview]]"
 ---
 ##### 오늘 노트 및 할 일 
+- [ ] 메일 확인
 - [ ] 명상
-- [ ] 딴짓 예방
-- [ ] 독서
 - [ ] 로봇 뉴스
 <%* 
 let yesterday = "Daily Notes/" + tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD"); 
@@ -29,7 +27,6 @@ if(yfile) {
 		sectionContent = content.substring(startIndex, endIndex).trim(); should_include = sectionContent.length > 0; 
 	}
 } 
-
 tR += should_include ? sectionContent : "- [ ]   "; %>
   
 
@@ -37,7 +34,7 @@ tR += should_include ? sectionContent : "- [ ]   "; %>
 
 
 ###### 내일 노트 및 할 일
-- [ ]  
+- [ ]  없습니다
 
 
 ######  Window 스위치

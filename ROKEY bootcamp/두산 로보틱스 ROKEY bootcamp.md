@@ -10,6 +10,11 @@
 
 [[로봇 프로젝트]]
 
+[[취업 특강]]
+
+[[취업 관련 공지사항 정리(슬랙 폐쇄전 백업)]]
+
+
 ```dataview
 table without id
 	file.link as "제목",

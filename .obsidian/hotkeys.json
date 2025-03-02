@@ -86,5 +86,13 @@
       ],
       "key": ","
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

@@ -5,8 +5,79 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#daily",
+      "color": {
+        "a": 1,
+        "rgb": 10940069
+      }
+    },
+    {
+      "query": "file:두산 로보틱스",
+      "color": {
+        "a": 1,
+        "rgb": 2240748
+      }
+    },
+    {
+      "query": "tag:#컴퓨터비전  ",
+      "color": {
+        "a": 1,
+        "rgb": 4477633
+      }
+    },
+    {
+      "query": "tag:#ROS2  ",
+      "color": {
+        "a": 1,
+        "rgb": 12535109
+      }
+    },
+    {
+      "query": "tag:#rokey실습  ",
+      "color": {
+        "a": 1,
+        "rgb": 9189075
+      }
+    },
+    {
+      "query": "file:Python",
+      "color": {
+        "a": 1,
+        "rgb": 3397405
+      }
+    },
+    {
+      "query": "tag:#C언어  ",
+      "color": {
+        "a": 1,
+        "rgb": 13986924
+      }
+    },
+    {
+      "query": "tag:#DevOps  ",
+      "color": {
+        "a": 1,
+        "rgb": 13060809
+      }
+    },
+    {
+      "query": "tag:#정보  ",
+      "color": {
+        "a": 1,
+        "rgb": 14867516
+      }
+    },
+    {
+      "query": "tag:#개인공부  ",
+      "color": {
+        "a": 1,
+        "rgb": 5038511
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2742282094365158,
-  "close": false
+  "scale": 0.40498746209030184,
+  "close": true
 }
