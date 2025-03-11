@@ -5,136 +5,40 @@
       "path": "Daily Notes/2025-03-11.md"
     },
     {
-      "basename": "2025-03-10",
-      "path": "Daily Notes/2025-03-10.md"
+      "basename": "Python 10강-예외처리",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md"
     },
     {
       "basename": "Python 이론",
       "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
     },
     {
-      "basename": "Python 16강-람다",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md"
-    },
-    {
-      "basename": "2025-03-09",
-      "path": "Daily Notes/2025-03-09.md"
-    },
-    {
-      "basename": "C 01장",
-      "path": "ROKEY bootcamp/C class/C 01장.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
-    },
-    {
-      "basename": "가장 성능 좋은 OCR",
-      "path": "개인공부/가장 성능 좋은 OCR.md"
-    },
-    {
-      "basename": "Python 11강-딕셔너리,집합",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 11강-딕셔너리,집합.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "2025-03-08",
-      "path": "Daily Notes/2025-03-08.md"
-    },
-    {
-      "basename": "2025-03-07",
-      "path": "Daily Notes/2025-03-07.md"
-    },
-    {
-      "basename": "2025-03-06",
-      "path": "Daily Notes/2025-03-06.md"
-    },
-    {
       "basename": "Python 12강-클래스",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md"
     },
     {
-      "basename": "Python 13강-모듈",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 13강-모듈.md"
-    },
-    {
-      "basename": "13회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/13회차 실습.py"
-    },
-    {
-      "basename": "C 이론",
-      "path": "ROKEY bootcamp/C class/C 이론.md"
-    },
-    {
-      "basename": "C 04장-조건문",
-      "path": "ROKEY bootcamp/C class/C 04장-조건문.md"
-    },
-    {
-      "basename": "C 06장-함수",
-      "path": "ROKEY bootcamp/C class/C 06장-함수.md"
-    },
-    {
-      "basename": "C 05장-반복문",
-      "path": "ROKEY bootcamp/C class/C 05장-반복문.md"
-    },
-    {
-      "basename": "C 07장-배열",
-      "path": "ROKEY bootcamp/C class/C 07장-배열.md"
-    },
-    {
-      "basename": "C 09장-포인터2",
-      "path": "ROKEY bootcamp/C class/C 09장-포인터2.md"
-    },
-    {
-      "basename": "Python 14강-시퀀스",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 14강-시퀀스.md"
-    },
-    {
-      "basename": "Python 15강-그래픽스",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md"
-    },
-    {
-      "basename": "Python 15강-그래픽스_실습.py",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스_실습.py.md"
-    },
-    {
-      "basename": "2025-03-05",
-      "path": "Daily Notes/2025-03-05.md"
-    },
-    {
-      "basename": "2025-03-04",
-      "path": "Daily Notes/2025-03-04.md"
-    },
-    {
-      "basename": "2025-03-03",
-      "path": "Daily Notes/2025-03-03.md"
-    },
-    {
-      "basename": "2025-03-02",
-      "path": "Daily Notes/2025-03-02.md"
-    },
-    {
-      "basename": "대학원 정보 모음",
-      "path": "개인공부/대학원 정보 모음.md"
-    },
-    {
-      "basename": "2024-08-27",
-      "path": "Daily Notes/2024-08-27.md"
-    },
-    {
-      "basename": "두산 로보틱스 채용- 카카오톡",
-      "path": "개인공부/두산 로보틱스 채용- 카카오톡.md"
+      "basename": "12회차 실습",
+      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/12회차 실습.md"
     },
     {
       "basename": "Python 18강-정규표현식,코루틴",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
     },
     {
+      "basename": "Python 15강-그래픽스",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md"
+    },
+    {
+      "basename": "2025-03-02",
+      "path": "Daily Notes/2025-03-02.md"
+    },
+    {
       "basename": "Ai,컴퓨터 비전",
       "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
+    },
+    {
+      "basename": "유용한 정보",
+      "path": "개인공부/유용한 정보.md"
     },
     {
       "basename": "ROBOTICS",
@@ -155,6 +59,14 @@
     {
       "basename": "C 02장-자료형,변수,상수,printf()",
       "path": "ROKEY bootcamp/C class/C 02장-자료형,변수,상수,printf().md"
+    },
+    {
+      "basename": "C 이론",
+      "path": "ROKEY bootcamp/C class/C 이론.md"
+    },
+    {
+      "basename": "C 07장-배열",
+      "path": "ROKEY bootcamp/C class/C 07장-배열.md"
     },
     {
       "basename": "개인 공부",
@@ -181,6 +93,10 @@
       "path": "ROKEY bootcamp/Computer Vision/3_3-퍼셉트론.md"
     },
     {
+      "basename": "Python 16강-람다",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 16강-람다.md"
+    },
+    {
       "basename": "로봇 프로젝트",
       "path": "ROKEY bootcamp/Project/로봇 프로젝트.md"
     },
@@ -199,6 +115,90 @@
     {
       "basename": "두산 로보틱스 ROKEY bootcamp",
       "path": "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md"
+    },
+    {
+      "basename": "2025-01-11",
+      "path": "Daily Notes/2025-01-11.md"
+    },
+    {
+      "basename": "2025-01-10",
+      "path": "Daily Notes/2025-01-10.md"
+    },
+    {
+      "basename": "csv 파일을 그래프로 정리해주는 AI",
+      "path": "개인공부/csv 파일을 그래프로 정리해주는 AI.md"
+    },
+    {
+      "basename": "1차 MySQL 설치 및 실행",
+      "path": "ROKEY bootcamp/DevOps/1차 MySQL 설치 및 실행.md"
+    },
+    {
+      "basename": "Python 07강-반복문",
+      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 07강-반복문.md"
+    },
+    {
+      "basename": "Daily notes template",
+      "path": "Templates/Daily notes template.md"
+    },
+    {
+      "basename": "2025-03-01",
+      "path": "Daily Notes/2025-03-01.md"
+    },
+    {
+      "basename": "2025-02-28",
+      "path": "Daily Notes/2025-02-28.md"
+    },
+    {
+      "basename": "2024-12-27",
+      "path": "Daily Notes/2024-12-27.md"
+    },
+    {
+      "basename": "2025-01-09",
+      "path": "Daily Notes/2025-01-09.md"
+    },
+    {
+      "basename": "2025-01-06",
+      "path": "Daily Notes/2025-01-06.md"
+    },
+    {
+      "basename": "취업 특강",
+      "path": "ROKEY bootcamp/취업 특강.md"
+    },
+    {
+      "basename": "주행1",
+      "path": "ROKEY bootcamp/Project/주행1.md"
+    },
+    {
+      "basename": "정보",
+      "path": "ROKEY bootcamp/정보.md"
+    },
+    {
+      "basename": "팀원",
+      "path": "ROKEY bootcamp/Project/팀원.md"
+    },
+    {
+      "basename": "두산 로보틱스 ROS 교육",
+      "path": "ROKEY bootcamp/두산 로보틱스 ROS 교육.md"
+    },
+    {
+      "basename": "지능1",
+      "path": "ROKEY bootcamp/Project/지능1.md"
+    },
+    {
+      "basename": "1_지능2",
+      "path": "ROKEY bootcamp/Project/1_지능2.md"
+    },
+    {
+      "basename": "지능2 코드 모음",
+      "path": "ROKEY bootcamp/Project/지능2 코드 모음.md"
+    },
+    {
+      "basename": "yolo_subscriber",
+      "path": "ROKEY bootcamp/Project/attachments/yolo_subscriber.py"
+    },
+    {
+      "basename": "2025-01-02",
+      "path": "Daily Notes/2025-01-02.md"
     }
   ],
   "omittedPaths": []

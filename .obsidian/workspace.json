@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
+                "file": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python 18강-정규표현식,코루틴"
+              "title": "Python 10강-예외처리"
+            }
+          },
+          {
+            "id": "598ab4d3bc7d488f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025-03-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-11"
             }
           },
           {
@@ -295,8 +319,16 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "b91ea8d076935f6e",
+  "active": "598ab4d3bc7d488f",
   "lastOpenFiles": [
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md",
+    "ROKEY bootcamp/Python 강의/Python 이론.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
+    "Daily Notes/2025-03-11.md",
+    "ROKEY bootcamp/Python 강의/Python_Exercise/python_12_class.py",
+    "ROKEY bootcamp/Python 강의/Python_Exercise/새 텍스트 문서.txt",
+    "ROKEY bootcamp/Python 강의/Python_Exercise/12회차 실습.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
     "Daily Notes/2025-03-10.md",
     "Untitled 1.md",
     "개인공부/가장 성능 좋은 OCR.md",
@@ -313,10 +345,8 @@
     "Daily Notes/2025-03-05.md",
     "Daily Notes/2025-03-04.md",
     "Daily Notes/2025-03-03.md",
-    "Daily Notes/2025-03-11.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md",
     "Daily Notes/2025-03-02.md",
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
     "개인공부/유용한 정보.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
@@ -324,10 +354,6 @@
     "개인공부/코딩 실력보다 훨씬 중요한거.md",
     "개인공부/건강하게 잘 앉는 방법.md",
     "ROKEY bootcamp/C class/C 02장-자료형,변수,상수,printf().md",
-    "ROKEY bootcamp/C class/C 이론.md",
-    "ROKEY bootcamp/C class/C 07장-배열.md",
-    "개인공부/개인 공부.md",
-    "개인공부/오픽 공부.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171925.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171921.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171914.png",
@@ -340,8 +366,6 @@
     "ROKEY bootcamp/Project/attachments/map (1).pgm",
     "ROKEY bootcamp/Project/attachments/map (1).yaml",
     "ROKEY bootcamp/Project/attachments/협동3_presentation.pptx",
-    "ROKEY bootcamp/attachments/[채용 협력 기업 안내] 공지 내용 (1).pdf",
-    "ROKEY bootcamp/attachments/양식_ROKEY_BOOT_CAMP_지원서_양식 (2).hwpx",
-    "ROKEY bootcamp/Project/attachments/_ROKEY-1기__협동-1_5차시_참고자료_231023_고정식_이동식_산업용_로봇_협동작업_OPS_최종.pdf"
+    "ROKEY bootcamp/attachments/[채용 협력 기업 안내] 공지 내용 (1).pdf"
   ]
 }

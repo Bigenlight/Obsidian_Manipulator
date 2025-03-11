@@ -7,6 +7,7 @@ Review:
 ---
 [[Python 이론]]
 [[12회차 실습]]
+[[python_12_class.py]]
 
 ![[Python-12 (1).pdf]]
 # 객체 지향 프로그래밍
@@ -96,3 +97,20 @@ print(c.getShapeStr()) # Circle 출력
 print(c.calcArea()) # 넓이 출력
 ```
 super()로 부모의 shapeStr 변수를 가져옴.
+
+###### super().func 사용예시
+```python
+# 아래와 같은 클래스가 있을 때
+class ex_class :
+    def __init__(self, i = 1):
+        self.n = i
+    def ex_func(self, a, b):
+        return (a + b) * self.n
+# 상속 했을 때
+class child_ex_class(ex_class):
+    def child_ex_func2(self, a, b):
+        base_result = super().ex_func(a, b)  # 부모 함수를 그대로 가져옴
+        return base_result + (a * b) * self.n
+```
+즉 부모의 클래스 결과를 가져오는 용도.
+이건 오버라이딩임 아님. 오버라이딩은 함수 이름 부모와 똑같이 써서 덮어 쓰는 것.
