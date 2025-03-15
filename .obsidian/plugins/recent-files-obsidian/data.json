@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-15",
+      "path": "Daily Notes/2025-03-15.md"
+    },
+    {
+      "basename": "2025-03-14",
+      "path": "Daily Notes/2025-03-14.md"
+    },
+    {
       "basename": "2025-03-11",
       "path": "Daily Notes/2025-03-11.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "지능2 코드 모음",
       "path": "ROKEY bootcamp/Project/지능2 코드 모음.md"
-    },
-    {
-      "basename": "yolo_subscriber",
-      "path": "ROKEY bootcamp/Project/attachments/yolo_subscriber.py"
-    },
-    {
-      "basename": "2025-01-02",
-      "path": "Daily Notes/2025-01-02.md"
     }
   ],
   "omittedPaths": []

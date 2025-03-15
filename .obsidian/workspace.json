@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-03-11.md",
+                "file": "Daily Notes/2025-03-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-11"
+              "title": "2025-03-15"
             }
           },
           {
@@ -321,8 +321,16 @@
   },
   "active": "598ab4d3bc7d488f",
   "lastOpenFiles": [
-    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md",
+    "ROKEY bootcamp/Computer Vision/desktop.ini",
+    "ROKEY bootcamp/Python 강의/attachments/desktop.ini",
+    "desktop.ini",
+    "Daily Notes/2025-03-14.md",
+    "Daily Notes/2025-03-15.md",
+    "개인공부/면접 질문 모음.md",
+    "Daily Notes/2025-03-13.md",
+    "Daily Notes/2025-03-12.md",
     "Daily Notes/2025-03-11.md",
+    "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 10강-예외처리.md",
     "ROKEY bootcamp/Python 강의/Python 이론.md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md",
     "ROKEY bootcamp/Python 강의/Python_Exercise/python_12_class.py",
@@ -348,24 +356,16 @@
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 15강-그래픽스.md",
     "Daily Notes/2025-03-02.md",
     "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md",
-    "개인공부/유용한 정보.md",
-    "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
-    "개인공부/삼성전자DS 로봇 관련 현직자 강의.md",
-    "개인공부/코딩 실력보다 훨씬 중요한거.md",
-    "개인공부/건강하게 잘 앉는 방법.md",
-    "ROKEY bootcamp/C class/C 02장-자료형,변수,상수,printf().md",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171925.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171921.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171914.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171904.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171900.png",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250302171834.png",
-    "desktop.ini",
     "ROKEY bootcamp/Python 강의/파이썬 이론 강의/attachments/Pasted image 20250210181911.png",
     "ROKEY bootcamp/Project/attachments/프로젝트 교안(터틀봇3를 이용한 서비스 및 관제 프로그램 개발)_1115 (1).pdf",
     "ROKEY bootcamp/Project/attachments/map (1).pgm",
     "ROKEY bootcamp/Project/attachments/map (1).yaml",
-    "ROKEY bootcamp/Project/attachments/협동3_presentation.pptx",
-    "ROKEY bootcamp/attachments/[채용 협력 기업 안내] 공지 내용 (1).pdf"
+    "ROKEY bootcamp/Project/attachments/협동3_presentation.pptx"
   ]
 }

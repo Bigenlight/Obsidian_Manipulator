@@ -13,13 +13,3 @@ print(a)
 a = list(range(10))
 a[0:5] = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']
 print(a)
-
-
-import math
-print(math.pi)
-
-import time
-time.sleep(1)
-
-from time import sleep
-sleep(1)
