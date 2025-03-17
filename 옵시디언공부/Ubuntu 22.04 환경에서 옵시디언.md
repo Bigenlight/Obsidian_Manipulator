@@ -1,6 +1,9 @@
 [[Ubuntu 22.04]]
 https://www.notion.so/07-03-dd676d5bb69b4a92b5d0df79aaa476c7
 
+
+###### 이제 옵시디언 설치는 그냥 snap으로 하면 될 듯 하다. 굳이 app 이미지 같은거 안해도 됨!
+
 ## 우분투 옵시디언 환경
 #rclone
 

@@ -33,6 +33,7 @@ Review:
 - SIMD, OpenMP, MPI, CUDA
 - assm, pybind
 - 최종: Chromium 소스코드 보고 공부
+	- [GTA3 Code Review: Weapons, Vehicles, Cops and Gangs - YouTube](https://youtu.be/N3KhMOk_6HE?si=24EGHAD6jVSYWnEn)
 
 고급:
 - disassembly, godbolt
