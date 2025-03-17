@@ -5,12 +5,32 @@
       "path": "Daily Notes/2025-03-17.md"
     },
     {
-      "basename": "R&R - 팀 직무와 직책",
-      "path": "ROKEY bootcamp/R&R - 팀 직무와 직책.md"
+      "basename": "Ubuntu 22.04",
+      "path": "개인공부/Ubuntu 22.04.md"
+    },
+    {
+      "basename": "두산 ROS2 API",
+      "path": "ROKEY bootcamp/두산 ROS2 API.md"
     },
     {
       "basename": "두산 인턴",
       "path": "ROKEY bootcamp/두산 인턴.md"
+    },
+    {
+      "basename": "22.04 부팅 문제",
+      "path": "ROKEY bootcamp/22.04 부팅 문제.md"
+    },
+    {
+      "basename": "우분투 22.04 설치",
+      "path": "개인공부/우분투 22.04 설치.md"
+    },
+    {
+      "basename": "정보와 주의사항",
+      "path": "ROKEY bootcamp/정보와 주의사항.md"
+    },
+    {
+      "basename": "R&R - 팀 직무와 직책",
+      "path": "ROKEY bootcamp/R&R - 팀 직무와 직책.md"
     },
     {
       "basename": "두산 로보틱스 ROKEY bootcamp",
@@ -179,26 +199,6 @@
     {
       "basename": "Python 18강-정규표현식,코루틴",
       "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
-    },
-    {
-      "basename": "Ai,컴퓨터 비전",
-      "path": "ROKEY bootcamp/Computer Vision/Ai,컴퓨터 비전.md"
-    },
-    {
-      "basename": "유용한 정보",
-      "path": "개인공부/유용한 정보.md"
-    },
-    {
-      "basename": "삼성전자DS 로봇 관련 현직자 강의",
-      "path": "개인공부/삼성전자DS 로봇 관련 현직자 강의.md"
-    },
-    {
-      "basename": "코딩 실력보다 훨씬 중요한거",
-      "path": "개인공부/코딩 실력보다 훨씬 중요한거.md"
-    },
-    {
-      "basename": "건강하게 잘 앉는 방법",
-      "path": "개인공부/건강하게 잘 앉는 방법.md"
     }
   ],
   "omittedPaths": []

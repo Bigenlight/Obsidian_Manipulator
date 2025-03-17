@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/R&R - 팀 직무와 직책.md",
+                "file": "ROKEY bootcamp/두산 ROS2 API.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "R&R - 팀 직무와 직책"
+              "title": "두산 ROS2 API"
+            }
+          },
+          {
+            "id": "24d5197c18c61e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인공부/Ubuntu 22.04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ubuntu 22.04"
             }
           }
         ],
@@ -100,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "template",
+                "query": "우분투",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,9 +274,14 @@
   },
   "active": "37ebb2ab48450720",
   "lastOpenFiles": [
-    "ROKEY bootcamp/R&R - 팀 직무와 직책.md",
-    "ROKEY bootcamp/두산 인턴.md",
+    "개인공부/Ubuntu 22.04.md",
     "Daily Notes/2025-03-17.md",
+    "ROKEY bootcamp/두산 ROS2 API.md",
+    "ROKEY bootcamp/두산 인턴.md",
+    "ROKEY bootcamp/22.04 부팅 문제.md",
+    "개인공부/우분투 22.04 설치.md",
+    "ROKEY bootcamp/정보와 주의사항.md",
+    "ROKEY bootcamp/R&R - 팀 직무와 직책.md",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
     "ROKEY bootcamp/Computer Vision/ROS2_tf2.md",
@@ -272,11 +301,6 @@
     "개인공부/C언어 팁.md",
     "Daily Notes/attachments/Pasted image 20250316192643.png",
     "개인공부/개인 공부.md",
-    "Daily Notes/2025-03-15.md",
-    "Excalidraw/Drawing 2024-12-23 13.59.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-23 11.59.53.excalidraw.md",
-    "ROKEY bootcamp/Project/협동1.md",
-    "ROKEY bootcamp/Project/협동2.md",
     "ROKEY bootcamp/attachments/_ROKEY-1기__협동-2_1차시_자료.pdf",
     "ROKEY bootcamp/Computer Vision/desktop.ini",
     "ROKEY bootcamp/Python 강의/attachments/desktop.ini",
