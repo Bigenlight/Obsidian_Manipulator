@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-17",
-      "path": "Daily Notes/2025-03-17.md"
+      "basename": "2025-03-18",
+      "path": "Daily Notes/2025-03-18.md"
     },
     {
       "basename": "Ubuntu 22.04",
       "path": "개인공부/Ubuntu 22.04.md"
     },
     {
-      "basename": "두산 ROS2 API",
-      "path": "ROKEY bootcamp/두산 ROS2 API.md"
+      "basename": "리눅스 환경",
+      "path": "ROKEY bootcamp/리눅스 환경.md"
+    },
+    {
+      "basename": "두산 로보틱스 제어의 현황과 비전, 그리고 할 일",
+      "path": "ROKEY bootcamp/두산 로보틱스 제어의 현황과 비전, 그리고 할 일.md"
     },
     {
       "basename": "두산 인턴",
@@ -21,12 +25,32 @@
       "path": "ROKEY bootcamp/22.04 부팅 문제.md"
     },
     {
-      "basename": "우분투 22.04 설치",
-      "path": "개인공부/우분투 22.04 설치.md"
+      "basename": "두산 ROS2 API 실행",
+      "path": "ROKEY bootcamp/두산 ROS2 API 실행.md"
     },
     {
       "basename": "정보와 주의사항",
       "path": "ROKEY bootcamp/정보와 주의사항.md"
+    },
+    {
+      "basename": "OT",
+      "path": "ROKEY bootcamp/OT.md"
+    },
+    {
+      "basename": "wifi 연결",
+      "path": "ROKEY bootcamp/wifi 연결.md"
+    },
+    {
+      "basename": "내가 할 일",
+      "path": "ROKEY bootcamp/내가 할 일.md"
+    },
+    {
+      "basename": "2025-03-17",
+      "path": "Daily Notes/2025-03-17.md"
+    },
+    {
+      "basename": "우분투 22.04 설치",
+      "path": "개인공부/우분투 22.04 설치.md"
     },
     {
       "basename": "R&R - 팀 직무와 직책",
@@ -175,30 +199,6 @@
     {
       "basename": "2025-03-14",
       "path": "Daily Notes/2025-03-14.md"
-    },
-    {
-      "basename": "2025-03-13",
-      "path": "Daily Notes/2025-03-13.md"
-    },
-    {
-      "basename": "2025-03-11",
-      "path": "Daily Notes/2025-03-11.md"
-    },
-    {
-      "basename": "Python 이론",
-      "path": "ROKEY bootcamp/Python 강의/Python 이론.md"
-    },
-    {
-      "basename": "Python 12강-클래스",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 12강-클래스.md"
-    },
-    {
-      "basename": "12회차 실습",
-      "path": "ROKEY bootcamp/Python 강의/Python_Exercise/12회차 실습.md"
-    },
-    {
-      "basename": "Python 18강-정규표현식,코루틴",
-      "path": "ROKEY bootcamp/Python 강의/파이썬 이론 강의/Python 18강-정규표현식,코루틴.md"
     }
   ],
   "omittedPaths": []

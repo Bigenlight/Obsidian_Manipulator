@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-03-17.md",
+                "file": "Daily Notes/2025-03-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-17"
+              "title": "2025-03-18"
             }
           },
           {
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROKEY bootcamp/두산 ROS2 API.md",
+                "file": "개인공부/Ubuntu 22.04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "두산 ROS2 API"
+              "title": "Ubuntu 22.04"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "우분투",
+                "query": "genesis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -275,12 +275,18 @@
   "active": "37ebb2ab48450720",
   "lastOpenFiles": [
     "개인공부/Ubuntu 22.04.md",
-    "Daily Notes/2025-03-17.md",
-    "ROKEY bootcamp/두산 ROS2 API.md",
+    "ROKEY bootcamp/리눅스 환경.md",
+    "ROKEY bootcamp/두산 로보틱스 제어의 현황과 비전, 그리고 할 일.md",
+    "Daily Notes/2025-03-18.md",
     "ROKEY bootcamp/두산 인턴.md",
     "ROKEY bootcamp/22.04 부팅 문제.md",
-    "개인공부/우분투 22.04 설치.md",
+    "ROKEY bootcamp/두산 ROS2 API 실행.md",
     "ROKEY bootcamp/정보와 주의사항.md",
+    "ROKEY bootcamp/OT.md",
+    "ROKEY bootcamp/wifi 연결.md",
+    "ROKEY bootcamp/내가 할 일.md",
+    "Daily Notes/2025-03-17.md",
+    "개인공부/우분투 22.04 설치.md",
     "ROKEY bootcamp/R&R - 팀 직무와 직책.md",
     "ROKEY bootcamp/두산 로보틱스 ROKEY bootcamp.md",
     "ROKEY bootcamp/Computer Vision/ROBOTICS.md",
@@ -294,13 +300,7 @@
     "ROKEY bootcamp/Computer Vision/ROS2_CLI, Ros Bag, Security, -args.md",
     "ROKEY bootcamp/Computer Vision/ROS2_RCLPY, Jupyter, Turtlesim, ROS bag.md",
     "ROKEY bootcamp/Computer Vision/ROS2_인터페이스 제작, Calculator 종합 예제.md",
-    "ROKEY bootcamp/Computer Vision/기초 이론_1.md",
-    "ROKEY bootcamp/Computer Vision/ROS2설치.md",
-    "ROKEY bootcamp/Computer Vision/ROS2_기초, symlink-install.md",
-    "ROKEY bootcamp/Project/로봇 프로젝트.md",
-    "개인공부/C언어 팁.md",
     "Daily Notes/attachments/Pasted image 20250316192643.png",
-    "개인공부/개인 공부.md",
     "ROKEY bootcamp/attachments/_ROKEY-1기__협동-2_1차시_자료.pdf",
     "ROKEY bootcamp/Computer Vision/desktop.ini",
     "ROKEY bootcamp/Python 강의/attachments/desktop.ini",
